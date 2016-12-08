@@ -1,0 +1,292 @@
+Good morning and welcome to DST Systems First Quarter Earnings Conference Call.
+[Operator Instructions] In the course of this conference call today forward-looking statements may be made regarding DST and its businesses.
+Such statements are based on the company's views as of today and actual results could differ materially from the forward-looking statements.
+There are a number of factors that could affect the company's future results including those risk factors set forth in DST's latest annual and quarterly reports filed with the SEC.
+All such factors should be considered in evaluating any forward-looking statements that may be made.
+Now I would like to turn the call over to our host Mr.
+Steve Hooley President and Chief Executive Officer of DST.
+Please go ahead.
+Great.
+Thank you Jackie.
+Well good morning and thank you for joining DST Systems first quarter of 2013 earnings call.
+I'm joined today by our Chief Financial Officer Ken Hager.
+I plan to overview some business highlights for the quarter and Ken will follow up with a review of the quarter's financial results.
+DST reported consolidated net income of $93.2 million or $2.04 per diluted share for the first quarter of 2013.
+This compares to $55.3 million or $1.22 per diluted share for the first quarter of 2012.
+Taking into account certain non-GAAP adjustments outlined in our earnings release today consolidated net income was $45 million or $0.99 per diluted share for the first quarter of 2013.
+This compares to $47.5 million or $1.05 per diluted share for the first quarter of 2012.
+As we stated in the release our first quarter 2013 diluted EPS results were negatively impacted by $6.6 million of unrealized losses in foreign currency exchange rates related to intercompany loans and $2.4 million of lower dividend income.
+And combined these reduced 2013 diluted EPS by $0.13.
+So I'm really pleased with our solid operating results for the first quarter.
+And I'm encouraged by strong revenue generation both organic and through client conversions.
+This growth was predominantly in our Customer Communications segment and from the Argus brokerage retirement and ALPS business units within our Financial Services segment.
+We experienced growth in health care volumes which contributed to higher revenues.
+Pharmacy claims paid increased 10% as compared to the first quarter of 2012 and we implemented 2 new full-service medical claim processing clients with 100 000 new members in the quarter.
+In addition to strong organic growth our brokerage unit converted $5.7 million new subaccounts which was slightly higher than previously reported and was driven by the conversion of a large client that was announced last quarter.
+In our retirement business we successfully converted 1.1 million participants from previously announced new clients.
+And in addition we received a $6 million payment from a partial termination of a retirement business client.
+We treated this payment as a non-GAAP adjustment to our first quarter results.
+And basically what happened here is we have a client that was converting to our platform and during the conversion process our client sold their retirement business and the acquirer has decided not to move a block of participants.
+And again this resulted in the payment to DST.
+The company continues to expect between 5 million and 6 million registered accounts to convert to subaccounts during 2013 and we expect 25% of these accounts to convert to DST's subaccounting platform.
+Our total mutual fund shareowner accounts increased $6.9 million to $95 million during the first quarter which reflected slightly positive organic growth coupled with the conversions that I've just mentioned.
+Our Financial Services revenues and operating margins were adversely affected by the decline in mutual fund processing revenues and the timing of software license revenues as well as conversion and business expansion costs across the segment.
+And we continue to expect little to no organic growth in our registered account business during 2013.
+However we do believe there'll be organic account growth and it will take place in the broker-dealer sector which is consistent with our continued focus and investment in our brokerage solutions business.
+The strong performance of our North American Customer Communications business resulted in an 11.5% increase in operating revenues year-over-year.
+Our Customer Communications North American business also benefited from a significant year-over-year increase in operating margin which was 13.6% for the quarter compared to 8.4% in the first quarter of 2012 due to higher operating revenues from new clients.
+Historically volumes in this business are typically higher during the first quarter for the Customer Communications segment and this is really due to the delivery of year-end statements and tax forms for our mutual fund clients.
+In our U.K.
+Customer Communications business we continue to focus on repositioning this business and on managing our operating cost.
+These efforts delivered a modest improvement in income due to lower cost from facility consolidations and lower headcount from workforce reductions that we talked about and announced last quarter.
+Turning to the balance sheet.
+We continued our efforts to prudently monetize noncore assets.
+During the quarter we monetized approximately $100 million of investments generating approximately $75 million in after-tax proceeds a piece of which came from the sale of 500 000 shares of State Street Corporation.
+Also during the quarter we were pleased to pay our first quarterly cash dividend of $0.30 per share.
+And in addition the company spent $52.5 million to repurchase approximately 758 000 shares of DST common stock.
+At the end of the first quarter we had approximately $200 million remaining under DST's current share repurchase authorization plan.
+And our balance sheet is positioned to provide us great flexibility in our decision making while supporting our growth initiatives and allowing us to capitalize on opportunities that may arrive from time to time.
+We continue to believe dividends and share repurchases are an effective way to return capital to shareholders while providing flexibility in our use of cash.
+And with that I want to go ahead and turn the call over to Ken Hager our Chief Financial Officer to review the financial results for the quarter.
+Thanks Steve.
+As Steve mentioned on a GAAP basis we reported consolidated net income of $93.2 million or $2.04 per diluted share for the first quarter 2013 compared to $55.3 million or $1.22 per diluted share for the first quarter 2012.
+The increase is principally the result of realized gains from asset monetization activities.
+On an adjusted non-GAAP basis we reported $0.99 of diluted earnings per share for the quarter as compared to $1.05 for the first quarter 2012.
+The remainder of our comments will address non-GAAP results.
+Year-over-year consolidated operating revenues increased $13.3 million or 2.8% to $489.2 million.
+Financial Services operating revenues increased $3.2 million or 1% despite some headwinds primarily related to a decrease in U.S.-registered mutual fund shareowner account service as well as lower software license sales at AWD as a large license sale was recorded in the first quarter 2012.
+Operating revenues in our Customer Communications segment increased $9.8 million or 5.9% from higher North America volumes.
+Consolidated operating income increased $6.5 million or 10% to $71.1 million compared to the first quarter 2012.
+Financial Services income from operation decreased $4.2 million or 7.6% to $51 million compared to the first quarter of 2012.
+Customer Communications delivered an increase in consolidated operating income during the quarter of $10.6 million to a total of $19.2 million.
+The increase was primarily due to higher North American revenues and the positive impact of our ongoing initiatives to lower cost at our U.K.
+operations.
+Overall equity and earnings of unconsolidated affiliates increased $300 000 over the first quarter 2012 primarily from improved performance at DST's real estate and other affiliates.
+BFDS experienced a year-over-year decrease primarily from lower revenues associated with reduced levels of account service.
+However both IFDS U.K.
+and Canada have seen increased revenues from organic growth efforts and new client conversions.
+IFDS Canada benefited from a new client that converted 1.1 million accounts in the fourth quarter of 2012.
+As previously announced IFDS U.K.
+is in the process of converting new shareowner processing clients with approximately 200 000 accounts by June 30 2013.
+Revenue growth in Canada and the U.K.
+during the quarter was partially offset by the cost of new client conversions in both businesses and new business development as well as the impact of foreign currency exchange rate movements.
+Our income tax rate for the quarter was 33.8% compared to 32.5% in the first quarter 2012.
+We now estimate that our income tax rate for the full year 2013 will be 36.1%.
+However our rate will vary on a quarter-to-quarter basis depending on the mix of domestic and international income.
+Notwithstanding the 758 000 share repurchase in the first quarter of 2013 average diluted shares outstanding increased 400 000 shares from the first quarter 2012 but decreased by 500 000 shares sequentially.
+The year-over-year increase is primarily due to shares issued under equity compensation plans and higher dilutive effects of equity compensation awards and convertible debentures partially offset by share repurchases made in the first quarter of 2013.
+With that Steve and I are now available to take your questions.
+So operator we turn it back over to you.
+[Operator Instructions] Your first question comes from the line of Peter Heckmann with Avondale.
+LLC Research Division</strong> I had a kind of question for Ken as it regards the retirement customer that canceled due to the merger.
+About how many participants were involved there? I missed that.
+Well we didn't quote the number of participants that were involved.
+We had a situation where the client had committed to convert all of its business to us.
+But then as a result of it being acquired the acquirer decided not to convert a block of participants to us.
+And so therefore the payment that we received was in consideration for that.
+LLC Research Division</strong> Okay.
+So were the -- was the number of participants that were canceled had that been included in that number that we're using as kind of a contracted backlog last year? I think something like 2.5 million participants? Yes.
+Yes that represented a portion of it.
+So Pete the way this conversion that we were doing was multiple plans.
+And there was 1 plan that hadn't converted.
+And again the acquirer just decided they were not going to move that block over.
+And so again consideration for that business that was committed that's not going to move and that's what the payment was.
+LLC Research Division</strong> I see.
+I see.
+Okay that's helpful.
+And then you saw some improvement in the U.K.
+certainly on margin levels.
+How much of that was influenced by seasonally higher volumes in the first quarter? And do you think that the operating profits are sustainable for the year in the U.K.? So Pete it was the improvement was virtually all cost.
+If you recall last quarter we talked about -- we reduced our headcount by roughly 22% and our real estate footprint by roughly 24%.
+And what we're seeing in the first quarter is the impact of that.
+So revenue actually year-over-year for the quarter was down slightly in the U.K.
+So is it sustainable for the rest of the year? I'd like to tell you we had real good visibility for the fact that I feel like we've got a solid footing there but we still got some work to do in that business.
+Now again obviously the expense containment is sustainable.
+And not unlike the U.S.
+business we've got a high kind of fixed cost component there and so it will be very much driven by revenues.
+And part of the challenge in the U.K.
+Customer Communications business is that their revenue does tend to be lumpier not a very technical term than the U.S.
+business.
+LLC Research Division</strong> Okay okay.
+That's helpful.
+And then the theory -- I don't remember the company calling out kind of FX losses and intercompany loans as a big item.
+Certainly this was one of the bigger ones that I would have expected.
+What was the theory in not including that? Or adding that back into non-GAAP EPS? Well Pete this is Ken.
+I guess our theory on that is that we viewed it as something that was -- didn't meet the criteria of being unusual or non-recurring to the extent that we thought it was.
+We did try to highlight it in the release but we just didn't think it was -- it made it -- that the criteria that was typically used for non-GAAP items.
+Your next question comes from the line of George Mihalos with Crédit Suisse.
+Research Division</strong> Was wondering if you could provide for us the number of tax-advantaged accounts that you ended the quarter with? And maybe comment if you're seeing any more of a push or any progress on the part of any of the brokers to try and push tax-advantaged accounts into the subaccounting realm? Sure George.
+So let me take the second part first.
+As we mentioned last quarter we have seen some movement in the -- of 529 accounts to be subaccounted.
+And we also discussed at the time that we've got a broker-dealer that's approached us about IRA accounts and looking at potential to subaccount IRA accounts.
+To date we've not had any IRA accounts that have moved.
+But again clearly the broker-dealers are looking at it.
+And there's still the component of a trustee and the involvement of a trustee.
+And we believe and believe that the marketplace believes that that will require consent of the IRA holders.
+So I think not really much of an update versus what I gave you last quarter.
+And again we did see some 529 accounts get subaccounted.
+And it's a portion of the 5 million to 6 million in total that we're talking about this year.
+A portion a percentage of it is 529 accounts.
+Ken.
+George the tax-advantaged accounts at the end of March were 41.4 million which was unchanged from year-end.
+Research Division</strong> Okay great.
+That's very helpful.
+And just to follow up on the 5 million to 6 million that you guys -- the registered accounts you guys are still looking to convert over the course of the year.
+Is there any update as to the timing of that? I think on the last call you indicated that only -- there were only about 1 million or so firm commitments that you were aware of? Yes George and the way these -- the way this works you know this right is we still think the estimate is between 5 million and 6 million for the full year some of them that today we believe are going to happen will get pushed out.
+We'll have other accounts that get pulled in.
+Right now we've got committed roughly 2.4 million I believe of the 5 million to 6 million.
+That's again a broker-dealer or a customer has come to us and said "Listen we're going to subaccount these accounts " and they've given us a date.
+Your next question comes from the line of Dave Koning with Robert Baird Research Division</strong> First of all I just I guess following up on Pete's question about why the $6.6 million FX adjustment I think you'd added back.
+Is that mainly because every quarter it moves around a little bit maybe a little like a deferred comp adjustment? And so whether it's $1 million or $2 million or all of a sudden $6 million it's hard to any quarter decide to take it out? I think that's fair Dave.
+I mean we have FX adjustments that occur the -- and they've moved back and forth.
+They've never quite been this large and part of that was the way we financed or refinanced certain of the loans that our international U.K.
+customer management operation had through an intercompany loan which resulted in this quarter having that FX loss.
+When you look at it quarter-over-quarter sometimes they're up a little bit sometimes they're down a little bit.
+It is below operating income item it is unrealized.
+But they do vary based on -- they will vary based on changes in exchange rates.
+Research Division</strong> Yes okay okay.
+And I guess secondly registered accounts.
+Each of the last 5 years in Q1 came down 2 million to 3 million sequentially.
+So it's been a pretty stable Q1 sequential decline and I think a lot of that happened during the years when the accounts were shifting to subaccounting.
+This Q1 for the first time in a long time it was only down 0.7 million sequentially.
+Is most of that just a function of less subaccounting shift? Or is it also a function of just the improving mutual fund market or maybe stock market or maybe a combination of both? Well I actually think the majority of it is -- the actual number of accounts out there that can be subaccounted is coming down.
+And so I think it's just the natural trend.
+If you kind of look at in 2011 we had 14 million accounts in total.
+In 2012 we had 9.2 million.
+And this year we're talking about 5 million to 6 million.
+And so I think you're just seeing the natural decline in the total number of accounts that are eligible to be subaccounted.
+Research Division</strong> Yes okay.
+And then affiliate income it's averaged about $5 million to $6 million a quarter over the last 9 quarters or so now.
+It used to be a little bit higher than that.
+And I know you've been investing in new accounts that have been coming on.
+When shall we see kind of the catalyst that kind of jumps this? And how much could this be per quarter on a normalized base in the future once some of the investments go away the new accounts come on? Well I think we're seeing a little bit of it in Canada where we saw in our -- in LP where we saw a nice pick up due to the conversions that took place in the fourth quarter.
+On an operating -- on a pure operating basis we think that we're comfortable that this year should be stronger than last year.
+We still have some pretty significant investment that we're making in the U.K.
+marketplace on some very large customers and in the life and pension space.
+So we feel like we are seeing the pickup but the investment's still taking place.
+And again we expect the core operations to perform better than -- for the full year than fourth quarter.
+That said in the fourth quarter we did have some revenue recognition that came through.
+We had some reserves that we released.
+And then we've got to factor in the loss of -- we had income from the property that we sold up in Canada.
+And again had the same kind of FX impact running through the joint ventures that we did in the core business.
+Research Division</strong> Okay.
+And maybe another way to ask it too because that was a good explanation.
+There's some moving parts there.
+IFDS used to be $15 million to $20 million every year for you guys.
+It was very routine how much income.
+And you've been considerably lower than that in the last several quarters now despite a lot more accounts than you ever had in the past.
+So is it just fair now that you have a lot more accounts that at some point you can get back to at least where you used to be? I'm not going to put a time line on that Robert (sic) [David].
+We've -- again we have brought on a lot of accounts and we've incurred the expense to do that.
+And as I said we still got some investment that's taking place particularly in the U.K.
+I mean that market's changed pretty considerably.
+And if you think about the supermarkets in that market it's kind of the equivalent of subaccounting here in North America.
+And so we're working hard to expand that business to get into more of the life and pensions and some other services that they can provide.
+So they've got a bit of the same phenomena that we've hit here in North America.
+And again we're investing heavily because we think there's opportunity.
+Your next question comes from the line of Greg Smith with Sterne Agee.
+Research Division</strong> Let's start on the Financial Services.
+I mean the revenue was very strong but the margin was under some pressure on an adjusted basis down year-over-year.
+We've been were looking for sort of some of the investments to abate and we start to see more of the flow through.
+I guess the question is sort of is there any way to quantify kind of the investment spending going on and the timing around that? And what the margin could look like for the full year if possible? Greg as we talked about last quarter what's interesting and what the transition that takes place here as you go from pure investment to build out capability to -- some of that turns into cost to convert customers as you win new business.
+And then it transitions into specific delivery or development for components that customers are asking for.
+So the investment piece tends to morph into a bit of ongoing costs.
+And I'd like to tell you it just goes away but that's just not the fact.
+What we did see is really good strength in brokerage ALPS retirement health care all businesses that we've been investing in.
+And from a revenue perspective enough to overcome some of the headwinds in Financial Services and the low license sales that Ken referenced.
+On a full year basis we're not going to put a margin percentage out there on a full year basis.
+I would tell you that my sense is that we should see some improvement in the margin over the year.
+And we certainly continue to manage the expenses tightly to try and generate that.
+Research Division</strong> When you say improvement over the year that's from the 1Q level? Correct.
+Research Division</strong> Yes okay.
+Okay and then of the stuff that you...
+And just to be clear that's in the Financial Services segment.
+Research Division</strong> Yes yes.
+Got it.
+The stuff you monetized we obviously you gave us the State Street amount and we know how much it was on the distributions from private equity.
+But what was the other stuff the other marketable securities? What exactly was that? Greg those are just other positions that we've held.
+We've had a category of other available-for-sale securities and they were just holdings inside there.
+Research Division</strong> Okay okay.
+And then on just the Customer Communications broadly I mean I know we've got the seasonality in 1Q.
+You've made some adjustments but do you feel like you've kind of turned the corner now and things are far less precarious from a profitability standpoint going forward? I think in North America that team's done a really solid job and they had a very good quarter.
+There is some seasonality to it but I feel pretty confident in North America that if our revenues continue to be firm then we should produce reasonable profit margins there.
+The question will be can we get to double digit? And again I'm just going to say that's very much revenue driven.
+If our revenue continues to hold up then that's possible.
+If revenue doesn't then again given kind of the fixed expense in that business it's very hard to take expense out quickly.
+In the U.K.
+marketplace I don't feel like we turned the corner all right? We're making progress.
+We're very focused on the cost of that business and restructuring that business to get it into a more solid position.
+But there is a lot of work to do there.
+And again we've got a very good management team leading that.
+But I don't feel as strongly about the U.K.
+business as I do about the North American business.
+Research Division</strong> Okay fair enough.
+And then let me just -- last question go back to the potential subaccounting of IRAs.
+You've got 1 broker-dealer sort of talking to you about it.
+How do you see this playing out? It seems like you're still thinking that this may not happen.
+But if it were is this a test case for other broker-dealers then? Just how should we really be thinking about this over the next couple of years? Yes it's a great question Greg.
+And I would not tell you that we're sitting here planning that it's not going to happen okay? Again we think there's some more complexity relative to particularly the component of the trustee involved in these relationships.
+And will other broker-dealers look at it? I think they absolutely will.
+Again nobody's come to us and contacted us and said they're looking to do it.
+These accounts again continue to be -- they're relatively low-dollar-value accounts.
+But that doesn't mean that it won't happen.
+And so I don't want to give you the impression that we've -- that we're not focused on it or that we've kind of made a decision that it's just not going to happen.
+We certainly feel like it could.
+And again we've got somebody talking to us about it.
+We haven't seen the first accounts move yet but they could.
+Research Division</strong> And then I'm sorry just the last one I promise.
+Is the revenue characteristic of those accounts versus the nontax-advantaged that have moved to subaccounting did you say those are lower revenue typically for DST? Or is it comparable? No I'm -- what I said was they tend to be lower dollar volume accounts.
+So they're smaller actual account sizes.
+But the revenue component to DST is roughly the same.
+Your final question comes from the line of Mark Best with Evercore Partners.
+Research Division</strong> This is Mark Best on the line on behalf for David Togut.
+I have 2 questions one of which is what are your top 3 priorities for deploying the cash as you monetize noncore assets? The first -- well I'd say the 3 focuses are around reinvesting in the business continuing to manage our debt levels at a comfortable level for the company and returning capital to shareholders through both share repurchase and dividends.
+Research Division</strong> Okay.
+Can you quantify the revenue contribution from ALPS during the quarter? ALPS revenue was roughly $27 million in the quarter.
+Research Division</strong> Okay.
+And then just going back to your comments about software license sales.
+I wasn't clear whether you were saying they were down year-over-year because there were some potential deals that were pushed out into the remainder of 2013? Or because they're lumpy and therefore 1Q 2012 was strong? Well so yes it's really the latter.
+1Q 2012 was strong.
+They do tend to be --we'll go back to that lumpy term.
+And one of the things Mark that we feel pretty strongly about is we do not go out and adjust our pricing at quarter-end to try and make a license sale.
+We kind of take the license sales as they come.
+They come predominantly in our AWD business in our Health Solutions business in our Global Solutions business.
+And we don't manage it quarter-to-quarter.
+And so again we expect it to pick up for the rest of the year but we did have a soft first quarter.
+Research Division</strong> Okay.
+And then what were the key drivers behind growth in pharmacy claims and then DST brokerage? Could you give me the outlook for both of those for the next 12 months of the unit.
+Sure.
+So in the brokerage area we had roughly a little over 5% organic growth.
+And so again we do expect to see growth of accounts but it will come predominantly through our brokerage subaccounting solution.
+And then we talk about a large conversion that took place about midway in the quarter that had slightly more accounts.
+So we had initially -- or had reported last quarter.
+And then so that's the brokerage.
+The other question I'm sorry? Pharmacy claims.
+Oh on the pharmacy claims.
+Yes pharmacy claims again was a combination of organic growth and really that was it.
+The 2 new customers we added were in the Health Solutions business.
+So we just had good organic growth.
+So our customers are doing a good job out attracting business and that flows through to us.
+Research Division</strong> All right.
+And then I promise that this is my last question as well.
+But for the first time I noticed 500 000 conversions from non-DST-registered platforms to DST subaccounts.
+Is this the start of a trend? Or can you give me some color of what actually drove that? What that represents is that our existing brokerage subaccounting clients will convert registered accounts from non-DST TA platforms.
+And so we consider that different than a conversion of a new brokerage subaccounting client.
+So this represents the same phenomenon that we see on our registered accounts side but we see it from -- but in this case the client -- our subaccounting client is taking it from a non-DST TA platform.
+Research Division</strong> And then that is separate from transfers from DST registered accounts? Right because it's coming from somebody who's using a non-DST TA platform.
+You do have a question from the line of Greg Smith with Sterne Agee.
+Research Division</strong> Hey I'm back.
+Just is there a way to give us how much of the Financial Services revenue is associated with tax-advantaged registered accounts? No we don't break that out Greg.
+Research Division</strong> Okay.
+And are there similar with your non-tax-advantaged registered accounts are there different levels of networking among the tax-advantaged accounts? No no.
+They run pretty much the same way the non-tax-advantaged do.
+That was our final question and I'll turn the floor back over to Mr.
+Hooley for any closing remarks.
+Well great.
+Thank you for joining us today.
+We are moving ahead on our plans to drive growth and deliver value to our shareholders.
+We continue to focus on ensuring that we're in the right businesses and those are businesses that will drive consistent performance growth and profitability.
+And we believe we're on the right path to achieve our objectives.
+So we appreciate your time today and we look forward to talking with you next quarter.
+Thank you.
+This concludes today's conference call.
+You may now disconnect.

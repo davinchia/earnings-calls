@@ -1,0 +1,456 @@
+Welcome to DuPont Fabros Technology's Second Quarter 2013 Earnings Conference Call.
+Today's call is being recorded.
+At this time I'd like to turn the conference over to Chris Warnke Investor Relations Manager for the company.
+Mr.
+Warnke you may begin your conference.
+Thank you.
+Good morning everyone and thank you for joining us today for DuPont Fabros Technology's Second Quarter 2013 Results Conference Call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; and Mark Wetzel the company's Chief Financial Officer and Treasurer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income are contained in the company's earnings release issued this morning.
+The release is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+[Operator Instructions] I will now turn the call over to Hossein.
+Thank you Chris and good afternoon everyone.
+I'm glad you could join us today as we review DFT's second quarter results.
+I would like to talk about leasing our plans for growth and DFT's beneficial approach to CapEx.
+As you've noticed in our earnings release we have achieved the high end of our second quarter FFO guidance.
+Mark will discuss this and other financial results later in the call.
+At the quarter's end our overall portfolio was 91% leased.
+As discussed on our last call we leased 1.73 megawatts in May which fully leases CH1.
+This lease was with an Internet tenant who currently occupies data center space in 3 of our 4 markets.
+They have continually grown and renewed their leases with us over the course of our 8-year partnership.
+In Ashburn we reviewed one lease with a -- we renewed one lease with a systems integrator for 1.14 megawatts.
+This lease was scheduled to expire on September 30 2013 and now has been extended to 2018.
+As previously discussed we believe our portfolio mark-to-market is about 5% to 8% over market rates.
+Cash and GAAP rent for this renewal will decrease 8% compared to its current market rent.
+It's helpful to note that the average remaining lease term of our portfolio is 6.9 years.
+Less than 4% of annualized base rent is up for renewal in the second quarter of 2014.
+Our current availability is limited primarily to New Jersey and VA3.
+Let's talk about New Jersey.
+We are 39% leased on holding.
+While we do not like the slow pace of customers' decision-making in this market we do like the trends we're seeing more towards a broader range of tenants and increase in the number of RFPs that we're responding to.
+This is a terrific data center and has a proven design incorporating the utmost efficiency and robustness to accommodate most outsourcing.
+We are totally committed to this market.
+Remember there is no debt on this property and we have not included any additional leasing at NJ1 in our 2013 guidance.
+Our sales team is very motivated to unlock the facility's potential.
+For VA3 we have completed the lobby and security improvements to this building in May.
+It has attracted positive response from our current and prospective tenants.
+We remain confident that we'll be able to lease out the remaining 6.38 megawatts.
+In Santa Clara we only have 2.28 megawatts of space left.
+The market is strong for our product and there is considerable interest in our remaining space.
+We're also touring tenants in the second half for Santa Clara.
+Look for us to start an incremental development of Phase 2 as pre-leases are signed.
+Prudent development of additional supply in our markets will fuel our growth.
+In May we commenced development of the first phase of 11.9 megawatts at ACC7.
+We expect to deliver the first phase in the second quarter of 2014.
+When all the phases are complete ACC7 will total 41.6 megawatts of available critical load.
+We spent several years fine-tuning and improving the design of our version 3.0 data center.
+This architecture and design will allow customers significant flexibility on our computer room density and minimize their unusable critical load.
+Once the building is stabilized we expect it to achieve a PUE of 1.2 or less the lowest in our portfolio.
+We are confident this facility will attract new and existing customers who want to grow within our Ashburn campus.
+Unlike other locations we do not have additional land in Chicago for development.
+In order to capture the clear demand in this market we have identified several attractive sites for CH2.
+Now let's turn to a topic of major interest in our industry CapEx.
+I'd like to walk you through our lease structure and how CapEx and other items are recovered from our tenants.
+Since we're a ground-up developer we have not acquired any properties with existing leases.
+Every lease that we have signed is with a lease that we have written.
+All our leases are triple-net.
+This allows us to recover all our operating expenses.
+Should these expenses go up we'll be reimbursed by our tenants.
+Our triple-net lease structure protects us from unexpected increases in real estate taxes insurance utility cost and other expenses.
+We take considerable steps to ensure that all our data centers are consistently maintained and operated efficiently to the benefit of the tenants' mission-critical requirements.
+For example we have executed maintenance contracts with several equipment vendors and service providers for our diesel generators UPS and chilled water systems.
+Most of these contracts act like extended warranties and provide for component replacements and overhaul at no additional cost.
+Under these contracts the rotary UPS systems in most of our data centers are overhauled every 5 years.
+This program is similar to a jet engine maintenance contract where the system is completely rebuilt.
+The annual fee structures of these maintenance contracts reduce our periodic CapEx for wear and tear.
+These expenses are passed through and reimbursed by our tenants in the leased space.
+In the first half of 2013 maintenance on all our properties was 42% of our overall operating cost.
+Although we do not incur significant CapEx related to our facilities our leases are structured to recover most CapEx incurred.
+We recover these from our tenants on a straight-line basis over the useful life of the assets including a reasonable interest rate.
+Here are a few examples.
+New laws and regulations enacted after the facility is placed into service such as changes in environmental regulations.
+We're able to recover CapEx incurred in order to comply with the new law.
+An example would be if we needed to incorporate more stringent engine exhaust systems or diesel generators.
+We're also able to recover enhancements that will decrease our tenants' operating costs.
+Recently we replaced the fans in our track unit with variable speed drive in several of our data centers.
+In doing so improved the operational efficiencies and lowered the tenant's cooling cost.
+CapEx related to ordinary wear and tear is also recoverable.
+An example would be a replacement of static batteries.
+This recently occurred in our VA4 facility.
+We replaced the batteries for the building and we're able to pass this replacement cost through to our tenants over the useful life of the batteries which is 12 years.
+The strength of our lease structure allows us to recover the cost of maintenance contracts and most CapEx anyway.
+It is useful to note that the average age of our data centers is just 5 years.
+This results in minimal CapEx.
+An example in 2012 we placed $4.8 million of capital projects into service.
+Approximately 90% is recoverable over the useful life of the assets.
+To date we spent $4.4 million of our projected $6 million CapEx budget.
+This includes the enhancement to our VA3 lobby.
+This is an item which we did not pass through to our tenants.
+The 2013 recovery is projected to be 80%.
+That's because we have excluded the VA3 lobby from recoveries.
+So why do the tenants buy into our CapEx recovery program? It's simple.
+It's in their best interest.
+Our customers do not want us to be financially incentivized to cut corners on maintenance.
+They want us to consistently maintain and renew our assets.
+This assures them maximum efficiency and uninterrupted service.
+With that I'll turn over the call to Mark.
+Thank you Hossein.
+Good afternoon everyone.
+I want to cover 4 main topics today: our second quarter 2013 results a capital markets update a guidance update and lastly our dividend.
+For the second quarter of 2013 the company's FFO was $0.47 per share compared to $0.37 per share in the year-ago quarter an increase of 27%.
+This increase was due primarily to higher operating income from lease commencements.
+AFFO was $0.42 per share for the second quarter compared to $0.30 per share quarter-over-quarter an increase of 40%.
+Our AFFO continues to increase as the ramp from previous lease signings burn off.
+Quarterly revenues were $91.6 million our highest ever.
+This is an increase of $8.9 million or 11% quarter-over-quarter.
+Since 2009 we have continually increased our revenues each quarter and are poised to continue on that path.
+As to our capital markets update we amended our unsecured line of credit increasing it from $225 million to $400 million.
+Our borrowing rate remains at LIBOR plus 1.85%.
+We are also -- we also included a new accordion feature to increase the line to $600 million if certain conditions are met.
+While the key terms of the amendment remain unchanged we were able to add 4 new lenders to the syndication and certain existing lenders increased their commitment.
+The new additional capacity enables us to fund 2 development projects without requiring additional sources of capital.
+As you recall we have an option to pay off our unsecured bonds after December 15 2013 for a 4.25% premium.
+We also have the ability to pay off the bonds prior to that date at a higher premium.
+We are closely monitoring the capital markets and what is happening with current interest rates.
+Our decision and timing to pay off these bonds will be based on our goals of minimizing the takeout premium and receiving a low interest rate on the new bonds.
+Based on quotes received yesterday we believe a coupon rate of 5 1.4% to 5 1/2% remains viable for 8-year money [ph].
+As noted on the 2013 guidance page of the earnings release this morning we would incur a onetime charge of $0.37 per share charged to FFO to take the bonds out on December 15 of this year.
+To date we have drawn $80 million on the $400 million line leaving $320 million of additional capacity.
+I now would like to discuss our third quarter and full year guidance.
+Our third quarter 2013 FFO guidance range is $0.47 to $0.49 per share.
+The full year FFO guidance range remains unchanged at $1.82 to $1.92 per share.
+The bottom end of the guidance range assumes no additional leasing.
+We have executed one lease for 4.33 megawatts commencing in Q3 and one in Q4 for 1.1 megawatts.
+The interest capitalization for the development of ACC7 will increase each quarter as our spend increases.
+We project $1.5 million for the remainder of 2013 $2.3 million in Q1 '14 and $2.6 million in Q2 of '14.
+As we previously released we increased our quarterly dividend 25% from $0.20 per share to $0.25 per share which was paid on July 15.
+This represents a current AFFO payout ratio of only 60%.
+Since 2009 we have consistently increased our dividend as our financial position has improved.
+Our current income stream enables us to maintain our current dividend and we are confident that when we -- when new leases are executed and commenced we will continue to increase our dividend.
+Our balance sheet continues to be strong and provides us with a foundation to grow the company.
+With that let me turn it back over to Hossein.
+Thanks Mark.
+Let me offer a few final comments and then we'll go to the questions.
+On many occasions you've heard us use the phrase "leasing is lumpy." Well it is.
+Customers' calendars rarely line up with public companies' earnings calls.
+The important thing to note is regardless of timing of deals we're very enthusiastic about our leasing prospects.
+We believe in the fundamentals of the data center market.
+The Internet continues to grow and we're poised to capture our share of its growth.
+We will continue to develop highly efficient wholesale data center solutions to meet current and future customers' demand.
+It is our core business and how we intend to increase shareholder value.
+My last comment today is to the DFT team.
+Thank you for all your hard work.
+Your commitment is greatly appreciated.
+With that let's go to questions.
+[Operator Instructions] Our first question is from Jordan Sadler with KeyBanc Capital Markets.
+Research Division</strong> I wanted to just circle up in your last comment there Hossein on lumpy leasing.
+I mean it's obviously -- there are quarters where you've had a very very significant amount of leasing and other quarters where it's been light.
+So I'm just trying to dig into that to get a little bit of a better sense.
+On a year-to-date basis it's obviously been a little bit light relative to your quarterly average pace of I don't know 6 or 7 megawatts per quarter since your IPO of leasing.
+And I know it certainly hasn't been a straight line but that's about the average and you've done only maybe 4 megawatts year-to-date.
+Could you maybe -- what gives you the confidence that there's more behind it? Are you seeing a lot of traffic no real changes? I'm just kind of curious.
+Some of the competitors or peers that have reported have seen -- seem to have seen a little bit of slowing in particular lengthening of the leasing cycle particularly on the enterprise side.
+And so I'm just curious about your thoughts on demand.
+Sure.
+I mean my enthusiasm is based on facts and fact says that our tours have increased.
+We have -- we're responding to more RFPs.
+We're seeing more traffic.
+I can't go into the details of our Letters of Intent but we're very excited about our prospects going forward.
+If you look at our history leasing like you said is lumpy.
+Last year we did 41-and-change megawatts at least.
+Now primarily 23 megawatts of that was in one quarter.
+So it is certainly lumpy and some lumps will be small some lumps will be large.
+I mean there are different aspects to what we do and I'm very excited about that is that parts of our business of being a real estate developer is buying a site.
+Part of our -- the other part of it is designing and building optimizing the design constructing the design in the most efficient manner and then leasing and managing it.
+So leasing is only one aspect of that comes through but we've been extremely busy with everything else.
+Research Division</strong> Do you -- so you don't have nearly the availability you had a year ago but do you have confidence that this year's demand could be as significant as last year's? Well I mean I can't -- we don't have the availability just like you said.
+We have very good prospects but we certainly feel like we could have had more leasing had we had products in our 2 best markets which were Ashburn and Chicago.
+We're out of space there which is the great news.
+Now we have to build more and we're working on that.
+So yes I think -- I can't give you exact numbers on what we'll do for the year but I can tell you I'm just as optimistic this year as I was the same time last year.
+What we'll do will also depend on how much product we have.
+Research Division</strong> And is the traffic you're seeing -- how would you split that between new versus existing customers? Well in New Jersey it's certainly new customers.
+In Virginia it is I would say 50% 70% existing customers.
+In Santa Clara it's existing customers in some of our other markets.
+And Chicago is a mix of both.
+Research Division</strong> Okay.
+Last question.
+Can you maybe just give us a little bit of insight into the upcoming roll for 2014? I think you have 6 leases representing about 6 megawatts or so of power maturing next year.
+Any insight into what will happen there and maybe where that exposure is market-wise? Jordan this is Mark.
+Those are all in the second half of 2014 not the second quarter.
+In terms of location it's primarily in the Ashburn market the ACC4 building the 5 building and one little lease at the VA3 building.
+So it's all in the Virginia market and it's all second half loaded.
+And there's 6 leases 4 tenants and it's early to call that at this point.
+[indiscernible] Typically it depends on who the tenant is and I don't have it off hand.
+We have said in our prepared remarks that we feel on the retail tenants we are -- not retail meaning retail for us which is typical wholesale.
+It's about 5% to 8% off and this current renewal we just did is exactly at that rate.
+Our next question is from Emmanuel Korchman with Citi.
+Maybe to follow up on Jordan's question Hossein if you would maybe share -- in terms of all of those RFPs and LOIs and stuff that you have out there what kind of drives the lumpiness? Is it that people are looking at several buildings and only going to pick one? Is it that they have sort of a shadow requirement and they're just out there sort of exploring what's available? Is it stuff that we will see come and it just hasn't? Sort of can you give us a little more color as to the themes that are happening with the leases? I mean I think the biggest issue with the lumpiness is that we only typically do a handful of deals every -- on the good quarters and the slower quarters.
+So we only have 30-something tenants in our entire portfolio.
+So when we do a deal that's very large and it's big.
+So when you're only dealing with a subset of 6 or 7 tenants that you're working on at any one time depending on which quarter it'll come in will drive the lumpiness.
+So you think that the stuff you're working on will lead to real leasing at some point over the next x [ph] quarters? Yes.
+Great.
+And then maybe a couple of questions for Mark.
+What's the bond refinancing? I know in the past you had mentioned potentially doing something ahead of the December 15 either a swapping or otherwise fixing the rate.
+Is that still in the plans? And if not what's going to make you sort of commit to a rate rather than just being at the will of the debt market? Well I think we look at it all the time.
+We look at it daily weekly.
+As you know it's been a crazy 60 days.
+We did not do anything at this point.
+We're sitting tight.
+We're looking at all options and the good thing is we don't have to do anything.
+I mean the 12/15 is a date that we can pull the trigger.
+We still think we can pick up north of 300 basis points and we're still excited about that.
+But the idea of pulling the trigger now or next month or in September that make-whole provision is real cash leaving the company permanently and I take that seriously and so does Hossein.
+So I think we're still in the review cycle with a variety of banks helping us.
+Great.
+And then one maybe detailed question.
+Your straight-line revenue seems to have changed significantly between 1Q and 2Q.
+What's happening there? I think it's a -- there's only a couple of leases that started.
+There's a lot of rent commencements that kicked in.
+So there's only a couple left that have not commenced.
+As I said one's in Q3 one's in Q4.
+Our next question comes from Gabe Hilmoe with UBS.
+Research Division</strong> Hossein you mentioned and you've spoken about this before about looking at a couple land parcels in Chicago.
+I guess given the fact that that market's been a little tighter for you relative to maybe Santa Clara or Virginia how should we think about timing there and ultimately what's kind of the aggregate opportunity in Chicago as you see it today? I think Chicago that's only [ph] one of our best markets.
+We are 100% leased and the core of our business is real estate development.
+So like I said we are looking at several sites.
+We like what we see.
+Lucky for us we have several options.
+It does make sense for us to develop close to our current campus because it makes it easier for our tenants personnel to travel back and forth between one place and the other because we do expect probably half of the tenants to be the same in the CH2 and CH1.
+So without going into further details that I wouldn't be able to go into we have several sites and we are working on getting one of them.
+And as soon as we do we'll be developing it right away.
+Research Division</strong> I think Ross had a quick one too.
+Research Division</strong> Two questions.
+First is on the stock buyback.
+I know you purchased stock in the first quarter when stock fell under $23.
+You didn't do so in the second quarter.
+What held you back from purchasing the stock when it fell at the end of June and are you inclined to do the same now that the stocks...
+When Bernanke announced the whole market fell but at that time it was our period that we were locked out in that 45-day period.
+Our standard window closes 10 or 15 days prior to quarter end Ross.
+Research Division</strong> Okay.
+Second question Mark I don't know if this one's for you or not.
+The OP unit count fell ever so slightly this quarter.
+I think it was 41 000 OPUs and it looks like there was commensurate increase in the share count.
+And that sort of followed a big change in the OP unit count in the first quarter and then a small one in the fourth quarter of last year.
+Can you help us get our arms around who's converting units into shares? And why aren't we seeing Form 4s on that? Well because most of them are not -- they're part of the original investor group that were out there from the IPO.
+There's at least 20 -- 15 20 25 different investors who invested in the company from the IPO.
+They make their decisions on their own not necessarily with us.
+Research Division</strong> Got it.
+So this isn't Hossein or Lammot selling shares.
+These are others who were -- who held -- you're saying held units at the formation of the company.
+That's correct.
+Our next question comes from Tayo Okusanya with Jefferies.
+Research Division</strong> This is David Shamis here for Tayo.
+I just wanted to clarify.
+I'm not sure if you mentioned this earlier.
+The spike in the improvements to real estate CapEx is that all pretty much due to the VA3 lobby upgrade? As well as the batteries that we replaced out at VA4.
+So those are the 2 big CapEx projects we had for the year.
+So the $6 million that we budgeted for the year is still the right number.
+So Q2 we just finished those 2 big projects.
+Don't forget the batteries as I mentioned in my prepared remarks is recovered plus a reasonable interest rate.
+We really shine on the CapEx issue.
+DFT really shines because our leases have 0 leakage.
+We even recover what some others may deem as CapEx.
+For us it's recoverable.
+Research Division</strong> Understood.
+And are you seeing any material increase in traffic at VA3 just from that upgrade being completed? Yes we do.
+Our next question is from Young Ku with Wells Fargo.
+LLC Research Division</strong> My first question is in regard to guidance.
+You guys kept it unchanged.
+The low end it's pretty much all set.
+But in terms of the upside generally speaking how long of a lead time is there between a lease sign and a commencement? For existing tenants that take additional space it's fairly quick.
+The real lease is pretty much done.
+It's an update.
+New tenants do take time.
+And so it's just a function of existing tenants versus new in that process.
+LLC Research Division</strong> And in terms of the activity that you guys have just talked about how would you split that between existing versus new tenants? I know you broke it out kind of separately by markets but kind of overall.
+Yes I think Hossein tried to explain that a little earlier.
+I believe each market has its own differences.
+At Ashburn we have obviously a lot more tenants so the traffic there tends to be a lot of existing.
+If you look at our overall portfolio I would say back of the envelope kind of calculation approximately 60% [ph] of our leases come from existing tenants growing with us.
+LLC Research Division</strong> Okay.
+And just one last question regarding VA3.
+Hossein I know you talked about that space being a good space for a reseller and you talked about activity there.
+But are you seeing that the tenants that are potentially looking are gearing more towards kind of newer products maybe waiting for ACC7 to come online? Well ACC7 is in the second quarter of 2014 so it's quite is a ways off and we see some immediate demand that needs to also go in.
+And it's not quite the same product.
+VA3 is a terrific project.
+Don't forget it sits on Sunset Hills Road.
+There is more fiber next to VA3 on Sunset Hills Road than probably anywhere else in the country.
+So from the respect of connectivity it's an optimum location.
+LLC Research Division</strong> Are there meaningful rent differences between a product like VA3 and a product like ACC7? They're different.
+No I would say VA3 does have a little bit higher operating expense.
+So the full service rent is slightly lower.
+But yet again some tenants that cannot use the density we have at the ACC campus can really use a lower-density product like VA3.
+So for those tenants it's more valuable.
+Our next question is from John Stewart with Green Street Advisors.
+Inc.
+Research Division</strong> Mark just for argument's sake what would the prepayment penalty be if you were to prepay the bonds before December 15? It will be the full 8.5%.
+Inc.
+Research Division</strong> Okay.
+And Hossein you've obviously had good success in the past with your development projects particularly in Northern Virginia.
+But could you please speak to the supply picture in that market? Sure.
+I mean they're really us and 2 or 3 other players there that are active.
+I think our product differentiates us nicely from the other players.
+But having said that there is really room for all of us.
+I'm always surprised at someone who comes in that is -- before Facebook became Facebook 5 years ago had you told me that their load is going to be in the hundreds of megawatts I would have said "No way." Now it certainly is.
+So the Internet always surprises us at how fast a certain type of business model can grow and I've been surprised a number of times in a very positive way.
+So on the supply and demand on the supply side I think it's got to a point where many of the private players cannot compete at the same cost of funds as we can.
+Depth is still tough to get especially on the wholesale large type of data centers.
+So I'm very optimistic about the market especially since at this time we're also able to build in smaller increments like we used to like we did not do in the past.
+In the past we're building 18 megawatt-type increments.
+That's been reduced to 11.5 megawatts on -- in Virginia we could have built smaller increments but obviously we feel that the demand is there and that's why we're putting out 11.5 megawatts.
+Inc.
+Research Division</strong> That's helpful.
+Could I ask you to speak take a longer-term perspective and really describe the evolution of the industry? And the Facebook analogy is a good one.
+But I guess specifically in terms of -- you mentioned CapEx and then the rents at expiration.
+So would you mind giving us just your perspective on where we've come from over the last 5 years? And when we think about leasing velocity or activity it seems that perhaps the dynamic has changed.
+And then when you look forward say over the next 10 years obviously the rents that will expire are above market and then we've got to think about the useful life at the end of that time.
+Okay.
+Let's take that question and I think it was few different questions.
+So I'll try and answer the way I understood them.
+On the longer term I think the Internet all of us agree is continuing to grow.
+Let's take that as a given.
+This is a 10-chapter book.
+I would say we're in Chapter 3.
+We still have a long way to go for demand to come through.
+More and more businesses more and more handhelds are getting on the Internet.
+We have not even begun to digitize health care the way it's supposed to be.
+We -- that part of the business I see growing very very rapidly on the demand side.
+On the supply side of the business our rents are locked in for 6.9 years.
+Do I really know with clarity where market rents are going to be in 7 years' time? I really don't.
+so -- but having said that typically we see 2% to 3% rent types of increases.
+Our current portfolio I feel is 5% to 13% [ph] over market but I don't know how tight the market is going to be in 7 or 8 years.
+Maybe you could repeat another part of your...
+Inc.
+Research Division</strong> The CapEx and the useful life.
+Oh yes on the CapEx issue and the useful life issue this is an issue where I'd like to challenge Green Street to come to one of our buildings and look at the different components and really annualize what is the useful life of the different components of it.
+Our UPS which is our only moving part in that building is replaced at the cost paid by the annual maintenance cost every 4 or 5 years.
+Everything within the building is maintained to such a degree that as soon as it's about to fail or even if there's an indication of failure that item is replaced and passed on to our tenants' operating costs.
+And we can do that and maintain little operating cost because the buildings are so large.
+So it's almost like a 747 that once everything is replaced that piece of aluminum can last 40 years.
+It's a similar type of analogy.
+And these data centers what we supply is power cooling and physical security.
+On physical security well it is what it is.
+It's labor and cameras.
+On the power cost we already have 5% -- our loss factor on the UPS is only 5%.
+So there is really very little loss there already so there's no really technology improvements that can change that dramatically.
+At best it's going to go down a couple of percent.
+And our cooling loads are important and we're achieving the lower PUEs but even with the lower PUEs the benefit to the tenant's overall rent is only about 4%.
+So the useful life of these assets is extremely long as long as servers need power.
+Inc.
+Research Division</strong> We'd be happy to take you up on the offer to come out and take a tour.
+Yes.
+Please contact Chris and I'll take you through it.
+Inc.
+Research Division</strong> Yes will do.
+Just lastly I mean my question was really I guess focused on the economic useful life as opposed to necessarily the physical useful life.
+Well economically like I said servers will need power.
+So as long as the servers -- what we supply when you have 1 kilowatt of energy going into a server it comes out as 1 kilowatt of heat.
+And our buildings are engineered to cool what is supplied into the servers.
+So the economic useful life as long as you believe that these buildings can supply uninterrupted power to the servers is as long as we can supply uninterrupted power.
+And we can supply uninterrupted power to all the buildings potentially for 30 to 40 years as long as the buildings are maintained correctly because any item that's about to go wrong is replaced before it goes wrong and passed through to the tenants.
+So your question more really means in our case is will servers continue to need power.
+And my answer would be yes they do because in fact what the trend we've seen is the racks that used to 10 years ago use 3 kilowatts of power have gone to 6 to 9 and now they're 12 to 15 kilowatts per rack.
+[Operator Instructions] And our next question is from Jonathan Pong with Robert W.
+Baird.
+Research Division</strong> I just wanted to touch base on -- you talked about the leasing activity and some future developments and buying a land in Chicago et cetera.
+But it seems like you've got a little bit more disciplined development strategy than we've seen in the last couple of years which I think is great.
+Can you talk about maybe some more firm guidelines around pre-leasing and where you'd like to be in terms of getting those projects announced and out of the ground as opposed to coming out with specs we've seen historically? Well I think we've always been disciplined except where our engineering was such that to build the building we want to own as a landlord we have to build 18 megawatts.
+Long term that was the most efficient building that I wanted to own 10 years from now is the building that has 18 megawatts on each phase.
+In the last 12 to 18 months we figured out how to build that building in smaller increments engineering-wise.
+So we've changed and now we'll be developing buildings on smaller increments but can operate holistically as a larger building once complete.
+That's really what's changed.
+We've always wanted to build slightly smaller type of increments except these large buildings when complete the operating cost it is so efficient.
+The small building just cannot compete on that.
+So that's where we were driving our development.
+Our pre-leasing yes the amount we build will depend on how much pre-leasing we have.
+So as an example Virginia is a little bit of an exception because we've always leased so well in there.
+As an example theoretically if we had 4 or 5 megawatts of leasing in Santa Clara we would build 9.1 megawatts.
+Research Division</strong> Okay.
+That's fair.
+And then I guess in the last several quarters you've talked maybe about acquisitions or looking for other options for growth that you continue to kind of go down that path.
+Do you remain open to that or are you encouraged by the new design that you can kind of refocus your energies back within the portfolio and the existing assets? I think we always look at risk-adjusted returns and part of what makes us unique is that our product we think is -- we believe that it's superior in that one of the issues is this CapEx issue.
+They're really -- one the product is superior.
+The second is the CapEx issue.
+On the CapEx issue we have -- the reason we haven't been able to -- one of the reasons we haven't been able to buy anything is that the portfolios we've looked at the leases have leakage in them in that if some of the leases we looked at the real estate taxes went up the landlord would eat it.
+In one case if environmental regulations changed in the country and the costs went up the landlord would eat it.
+In other cases if there needed to be replacement of batteries the landlord would eat it.
+In our case it is very very clean with 0 leakage.
+So when we look at portfolios to acquire typically they do not have the cleanliness of our leases.
+So then we have to adjust the price accordingly.
+Secondly we believe the redundancy we have in these portfolios in the portfolio of our assets is extremely good.
+We haven't been able to see that quality assets.
+Thirdly the scale of our building enable us to keep operating expenses low for -- as long as the building is fully leased as they remain very very low because we're dividing the operating expenses into 36 megawatts.
+Even the largest Internet type of companies cannot match that in 1 year on their own.
+So when we look at these things we have to adjust the price of the portfolios we're looking at and we haven't been able to make the price work.
+But it would be not -- it wouldn't be prudent not to look so we'll continue to look.
+Our next question is from Bill Crow with Raymond James &amp; Associates.
+Inc.
+Research Division</strong> Just a couple of quickies here.
+Hossein have the market rents stopped going down? I mean the way -- it's tough for me to say exactly what it is.
+Right now we're seeing deals like we said around 5% to 8% below our base average rent in our market and we're continuing to do deals in those rents.
+So for us the answer would be yes.
+The super wholesale deals that we're doing are going up 2% to 3% per year.
+So the answer from a very small segment of the market that we deal with the answer would be yes.
+But the market is much bigger than the small segment I'm dealing with.
+Inc.
+Research Division</strong> No I appreciate that.
+The second question is do you have a feel for the total amount of megawatts leased in the New Jersey market and comparable space such as yours or Digital's or whoever? Do you know what the activity volume was in the second quarter? I don't have that at the tip of my hand but also it's difficult sometimes to know because of a couple of reasons to quantify because of a couple of reasons.
+One is some of the space leased is going to resellers such as Savvis.
+I don't really see that type of space as comparable to what we or some of our competitors have because it's a little bit formatted in a different way as to what others deem as turnkey type of space.
+Some of the others is also -- what we're seeing is tenants may come and look at our space and then go out to build their own which is absorption where -- but it won't be documented anywhere in the market.
+Inc.
+Research Division</strong> Sure.
+That's fair.
+I wonder -- and you're talking about the lease structures in portfolios that you may look at or single assets you may look at acquiring and talk about the cleanliness of the leases.
+Do you think your lease structure and the triple-net nature is putting you in a competitive disadvantage? Well it's good for you.
+Does that make it more difficult to lease up to get your market share? Well I think it really hasn't.
+If you look at last year we performed 41.5 megawatts of leases.
+Last year we had record leasing and managed to keep 100% of our leases to the core of what we believe.
+Now the way like I've said in my prepared remarks the way I and our sales team and our operating team sell this to tenants is that look do you really want us to be incentivized to penny-pinch on operating costs? Do you want us to replace any item before it goes wrong? Do you want us to make sure that everything is kept in tip-top condition? It's almost asking someone "Hey do you want to go into an operating room in a hospital that is penny-pinching or do you want to go into an operating room that's kept in tip-top condition?" Inc.
+Research Division</strong> No I get that.
+I mean we laugh about it but airplanes and data centers have to be as good in their 10th year as they...
+Exactly absolutely.
+And you exactly got it right Bill and that's how we sell it.
+And we've been successful at selling it.
+Look at our history.
+Our next question is from Jon Petersen with MLV &amp; Co.
+Research Division</strong> Just on the Santa Clara market it's fairly well known that Facebook's out there trying to sublease some of their lease space in the market as they move to some of their own data center space.
+I know you guys -- at least to my understanding Facebook isn't a tenant in the Santa Clara market but from a competitive perspective are you aware of what pricing they're asking relative to what you're asking at SC1? No I don't.
+And also you have to also bear in mind a couple of small things.
+Our operating cost is the lowest one of the lowest in the market because the buildings are the largest buildings in the industry.
+So tenants don't just look at base rent.
+They also look at the overall full service rent.
+So although our base rent may be higher our operating cost is lower and tenants do really look at the overall operating cost of the building.
+Also some of the existing tenants we have they know that the network gear is already within DFT that the maintenance people not to double up on staff is already at DFT.
+So a lot of times when you look at the overall picture it is not just the base rent.
+When you look at the overall cost it's still more economical to be at DFT.
+And John we'll confirm that they are not a tenant on the West Coast with us.
+Research Division</strong> Right.
+And I understand that.
+I understand the cost benefits that you guys provide.
+I mean Facebook as a subleaser -- subleasers no matter what property type tend to be more aggressive in terms of pricing just to kind of get rid of space they don't need.
+So I guess I'm just wondering if you guys are concerned about maybe them beating you out on pricing because traditionally you guys almost always win on pricing versus all your competitors.
+Well there's available supply and our sales team is aware of it and...
+I'll call it a shadow supply because also it depends on the terms of the lease but data centers are tough to sublease.
+So there's also another layer of complexity which comes in that in that it will be easier if that tenant got out of the lease paid the fee and then the landlord took the new space because the complexities of mission-critical space it doesn't lend itself that well to sublease.
+Research Division</strong> Yes that's fair.
+And this is one of the first things I think I heard of sublease in the space.
+And then just one modeling question.
+Tenant recoveries sequentially seemed to jump by $3 million or so.
+I was just wondering is there anything onetime in there or is the $29 million the new run rate? I think it's just a function of the seasonality of things and the direct electric jump sometimes in the summer.
+So I don't think -- I mean ACC6 is getting ramped up from the opening and so direct electric's probably the biggest piece of that.
+Which is good news which means tenants are...
+Pulling power.
+Are pulling more and more power.
+There are no further questions.
+I will now give the call back over to Hossein Fateh.
+Please go ahead sir.
+Thank you for joining us today.
+The conference is now concluded.
+Thank you for attending today's presentation.
+You may now disconnect your lines.

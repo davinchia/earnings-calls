@@ -1,0 +1,564 @@
+Welcome to DuPont Fabros Technology's Fourth Quarter 2011 Earnings Conference Call.
+Today's call is being recorded.
+At this time I'd like to turn the conference over to Chris Warnke Investor Relations Manager for the company.
+Mr.
+Warnke you may begin your conference.
+Thank you.
+Good morning everyone and thank you for joining us today for DuPont Fabros Technology's fourth quarter 2011 results conference call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; and Mark Wetzel the company's Chief Financial Officer and Treasurer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income are contained in the company's earnings release issued last night which is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+To manage the call in a timely manner questions will be limited to 2 per caller.
+If you have additional questions please feel free to return to the queue.
+I will now turn the call over to Hossein.
+Thank you Chris and good morning everyone.
+Thank you for joining us on our fourth quarter 2011 earnings call.
+As noted in last night's press release we again delivered solid quarterly and full year financial results for 2011 which Mark will discuss later in the call.
+2011 was our fourth year as a public company.
+We are proud of our accomplishments none of which could have been achieved without the hard work of our excellent team of employees.
+I thank each one of you for your valued contributions.
+Leasing is our primary focus so I would like to begin with an update.
+We placed into service 86-megawatts of critical load within the last 15 months.
+We have leased just over half of it.
+We are confident that we'll be successful in leasing the other half.
+For the full year 2011 we signed 14 new leases totaling 25 megawatts of available critical load with a contract value of over $425 million.
+This compares to 23 megawatts in 2010 and 37 megawatts in 2009.
+During the fourth quarter we signed 3 leases totaling 3 megawatts of available critical load.
+Two leases were in New Jersey which were previously discussed on the last call.
+The third lease is a new lease in Chicago with a new health care tenant.
+So far in the first quarter we signed 1 lease in Santa Clara for 2.28 megawatts.
+This lease commenced in the first quarter.
+This building is now 25% leased.
+On a macro level we remain comfortable with the fundamentals and industry trends for future data center space.
+The amount of data stored and processed worldwide continues to double every few years.
+We are well-positioned to capitalize on this trend.
+The challenge in the short term is executing new leases.
+Traffic remains good.
+However sometimes decision-making for larger blocks of space we offer is unpredictable and can take longer to execute.
+As I have stated many times leasing wholesale space is a lumpy business.
+We remain confident that we will lease the vacant space in our buildings.
+Nevertheless we have pushed out the lease commencement start date by a couple of quarters.
+This means that the majority of the 2012 leases not executed as of today will commence in the second half of the year.
+This covers the vacant space in Santa Clara Ashburn and New Jersey.
+The timing delay affects our original expectations and your expectations for the 2012 guidance which Mark will walk you through.
+This does not affect the margins or NAV we expect to create once the buildings are leased.
+Returns on our invested capital remain in the 10% to 15% range.
+One important point to remember is that we do not require raising new capital.
+Now that all new construction have finished our challenge is to lease the remaining buildings we opened in the last 15 months.
+The timing and pricing of the new leases will impact our NOI FFO and taxable income significantly over the next 2 years.
+I will now give you an update by market.
+Chicago Phase II opened last week.
+This phase is 79% leased and remains a top market for us.
+Phase II has 1 new tenant compared to Phase I.
+This reconfirms our strategy of building in 2 phases.
+In new markets we experience the greatest leasing risk in the first phase.
+Once Phase I is leased our risk is reduced significantly because our Phase I tenants will typically grow with us.
+There is no secured debt on this facility and we continue to expect a 12% unlevered return once fully leased.
+Leasing at CH1 has done better than expected.
+New Jersey has competition but we represent the majority of the available built-out inventory.
+Financial institutions have been and continue to be a large percentage of the demand in this market.
+They however have been thoughtful in making decisions based on overall economic environment.
+There is no secured debt on this property and we remain at 34% leased at NJ1 as of today.
+Leasing in this market has been slower than expected.
+On January 12 the NYSE placed in service the Safety Access Center at NJ1.
+This access center offers full safety network services and support and offer tenants more direct connections to the financial market and market information.
+We believe this will attract new financial tenants to the building.
+Northern Virginia remains a solid market for us.
+This is where we have the greatest concentration of tenants and critical load.
+As our tenant requirements increase we like our chances to capture this embedded growth.
+Power remains cheap and fibers abundant.
+Although leasing has been slower than expected we are still experiencing good traffic.
+In the long term we are not concerned about this market.
+We remain at 8% leased at ACC6 as of today.
+Santa Clara opened on October 1.
+This is an excellent well-positioned asset.
+We have competition in the valley but we have the majority of the available space in this market.
+Demand within this market can surface quickly.
+An application or a business can suddenly take off creating unexpected demand.
+It is hard to predict this type of event but we are well-positioned to capture the opportunities.
+There is no secured debt on this property and we continue to expect unlevered returns of 10% to 12%.
+As of today SC1 is 25% leased.
+The leasing pace in this market has been what we expected.
+In a few markets we are seeing an emergence of a super wholesale category of tenants.
+These are tenants which have requirements of 8 megawatts or more who would normally build their own.
+If we agree to a return of around 10% they would likely lease with us instead of building their own.
+Our biggest competition has always been tenants doing it themselves.
+In this range of returns we're seeing even the very large tenants interested in outsourcing.
+We continue to explore all of these opportunities.
+In summary we believe that there is and will be sufficient demand in all 4 markets to absorb our available inventory.
+When market vacancy is discussed it may be viewed there is considerably supply.
+However it's important to note in Northern Virginia New Jersey and Santa Clara we are the majority of the market vacancy.
+We have a proven leasing track record and remain confident in our ability to lease.
+The positive signs for our industry remain in place.
+Less than 20% of enterprises outsource their data center requirements.
+We believe there is a potential for considerable growth as companies realize the benefits of outsourcing.
+Additionally we believe that cloud computing gaming data retention and processing will continue to grow significantly year-over-year.
+This growth will also increase the need for data center space.
+Leasing our available inventory is everyone's primary goal for 2012.
+We are focused on the long-term value creation of the company.
+Now I will turn the call over to Mark who will take you through our financial results.
+Thank you Hossein.
+Good morning everyone and thank you for joining us.
+I want to cover 5 main topics today: a fourth quarter and full 2011 results a capital markets update a walk through our 2012 guidance a summary of the 2012 expected sources and uses of cash and a 2012 dividends update.
+For the fourth quarter of 2011 the company's FFO was $0.37 per share compared to $0.33 per share in the fourth quarter of 2010 an increase of 12%.
+For the year FFO was $1.61 per share compared to $1.33 per share for the prior year an increase of 21%.
+The overall increase for both reporting periods is due to new leases commencing.
+AFFO was $0.32 per share for the fourth quarter compared to $0.25 per share quarter-over-quarter an increase of 28%.
+For the year for the year ended AFFO was $1.23 per share compared to $0.92 per share for the prior year an increase of 34%.
+These overall increases for both reporting periods are primarily the result of increased cash rents collected from tenants.
+Quarterly revenues were $74.4 million our highest ever.
+This increase was $8.4 million or 13% quarter-over-quarter.
+For the year ended revenues were $287.4 million compared to $242.5 million for 2010 an increase of 19%.
+As to a capital markets update in January of 2012 we sold 2.6 million shares of perpetual preferred stock raising approximately $63 million.
+The proceeds from this raise were used to pay off $35 million that was outstanding on our line with the remaining amount for dry powder.
+Cash on hand today stands at $50 million and our unsecured $100 million line remains available.
+As of today the interest rate on 80% of our debt is now fixed.
+Based on our 2011 results we are very confident in our ability to continue to meet the financial covenants of our loan agreements.
+We do not have any bullet debt maturities until December of 2014.
+Our balance sheet is in great shape and we plan to keep our leverage low.
+I now would like to discuss our 2012 guidance.
+Our 2012 FFO guidance range is $1.31 to $1.51 per share.
+Let me walk you through this reduction as compared to our 2011 actual results of $1.61 per share.
+Interest expense preferred dividends and non-recurring G&amp;A will have a negative impact on FFO of $0.40 per share year-over-year.
+As we stated on our third quarter call we do not expect to commence any new developments in 2012.
+We continue to believe this is prudent.
+The effect is a year-over-year negative impact to the interest we expense on the P&amp;L as compared to what we capitalized to our developments and balance sheet.
+For 2011 we capitalized $28.4 million.
+In 2012 we expect to capitalize only $1.4 million.
+We do however have savings of $2 million cash on lower interest rates year-over-year.
+This net difference represents a $0.31 per share negative FFO impact.
+To be clear this difference is expensed to the P&amp;L and does not affect any covenant ratios fixed charge ratios or our ability to pay.
+We fully expect to pay all interest payments on time as scheduled.
+As to preferred dividends we accrued $21 million in 2011 and expect to accrue $27 million in 2012.
+This includes the $65 million of additional Series B just raised which we discussed on the third quarter call.
+This difference represents a $0.07 per share negative FFO impact.
+We fully expect to pay all preferred dividends on time as scheduled.
+2012 G&amp;A is up $0.05 per share year-over-year.
+This increase includes $2 million of compensation related to the development personnel.
+We will expense this rather than capitalize it during the year as no development starts are planned.
+2011 G&amp;A includes zero cost for the development team.
+This difference represents a $0.02 per share negative FFO impact.
+We currently believe that the commencement of new leases for space in our non-stabilized facilities is more likely to begin after the first quarter of 2012 and through early 2013.
+This timing directly impacts the timing of recognizing additional revenue and net income from new lease commencements at these facilities.
+As Hossein mentioned the lease-up of the available space is critical.
+As of today we see the pace of executed leases that can be signed and commenced in 2012 to be slower than what we'd previously thought.
+The decision process simply is something we cannot control which is why we have tempered our 2012 lease commencement starting dates.
+On occasion demand does come out of nowhere.
+Having available inventory will enable us to sign and commence a lease quickly which in the long run we believe is a competitive advantage.
+The operating costs of opened buildings not leased represents a negative impact to our 2012 earnings as we have not -- as we are not reimbursed for the operating costs on the vacant inventory and do not receive a management fee.
+Year-over-year excluding base rent we expect this negative impact to be $10 million or a reduction of $0.12 per share of FFO in 2012.
+During lease-up this implies lower overall margins.
+Once leased the margins return to our historical norms under the triple net lease structure.
+As a reminder on an individual building basis once a building reaches 25% to 30% leased it breaks even when we include the base rent and all expenses.
+Our 2012 guidance expectations include the following.
+Base rent for new leases already executed with commencements in 2012 net of Yahoo!'s termination on April 30th total approximately $18 million or $0.22 per share.
+Base rent on new leases we expect to sign and commence in 2012 total approximately $11 million or $0.13 per share.
+Both of these assumptions place our revenues at the midpoint of our guidance range.
+These projected new lease commencements are primarily spread over the second half of 2012.
+This places our non-stabilized portfolio at about 70% stabilized up from 39% today as of the end of 2012.
+In summary our 2012 FFO midpoint is $1.41 per share.
+We project revenues of $325 million up 13% year-over-year.
+We project operating income excluding depreciation or EBITDA of $200 million up 9% year-over-year.
+Given the current environment we think it's appropriate to look at the business as it is now.
+Once we are able to lease the current non-stabilized portfolio we expect approximately $60 million of incremental annualized NOI from new leases not yet executed or commenced without a new capital raise.
+We have conservatively budgeted approximately $11 million of new lease commencements of this NOI in the 2012 guidance with the remainder in 2013.
+This equates to approximately $0.60 of 2013 FFO based on the current share count.
+Cash flow remains a priority so let me quickly walk you through our expected sources and uses for the calendar year 2012.
+Our 2012 sources total approximately $137 million.
+We started the year with $14 million in cash the net proceeds from the January preferred raise was $63 million and we expect free cash flow from operations after dividends to be $60 million.
+Our 2012 uses total approximately $64 million.
+The cash spend to complete the existing developments is $35 million the $20 million line of credit outstanding at year-end is paid off $4 million of recurring portfolio level CapEx and $5 million on the principal loan amortization paydown.
+Page 15 of our release details out other assumptions related to our 2012 guidance.
+The 2012 guidance also assumes no development starts no debt or equity raises unless leasing exceeds our expectations.
+As to a dividend update we expect to continue to pay a $0.12 per share cash quarterly common dividend.
+We will reevaluate any change as the year progresses.
+An increase is contingent on new lease commencements.
+Our policy remains consistent to pay at least 100% taxable income.
+Any future changes to our common dividend will be approved by our Board of Directors.
+We believe our current balance sheet and financial condition gives us a solid foundation.
+With that let me turn it back over to Hossein.
+Thanks Mark.
+Before we open it up for questions let me offer 2 final comments.
+First leasing is the key to increasing shareholder value and we're confident in our ability to do it.
+Secondly Jonathan Heiliger joined the company's Board of Directors in November.
+Previously he served as Vice President of Technical Operations for Facebook.
+His addition provides the board with the perspective of a designer and a user of innovative data center solutions.
+We are happy to have him with us.
+With that I will open up the call for questions.
+[Operator Instructions] Our first question will come from Kreg Milliman [ph] of KeyBanc Capital Markets.
+Research Division</strong> It's Jordan Sadler here with Kreg.
+First question is I'm curious about your comments regarding the super wholesale tenants you're seeing in the market.
+And it sounded as if you talked about lower potential returns on certain projects as a result of maybe potential leases with these types of tenants.
+Can you maybe just give us a little bit more color around the number of tenants like this in the market the markets they're showing up in? And then sort of the genesis for the lower returns versus your historical underwriting.
+It's only again 8 to 15-megawatt type tenants that we're talking about.
+And that size tenants there are only like less than a handful that we're talking to primarily in 2 markets.
+And we're not prepared to discuss which markets because there are only a few of them.
+There are only a handful of tenants that can take that much space.
+Now the comment was just to give not necessarily that we'll have lower returns no.
+But what the comment was meant to give you more color on a positive tone of what we're seeing is where before a year ago it was look you get to 10 megawatts after you get to 10 megawatts you can do your own.
+Here we're saying that look if you get to 10 megawatts you could now do your own or in a lot of ways some tenants are realizing outsourcing makes more sense because they are able to go into a bigger building than an 8-megawatt building a 36-megawatt has significantly lower operating expenses and have the savings there and also with that savings they're able to really -- it'll be similar to owning their own which in this current economic environment we're seeing deals that otherwise would be built-to-suits that maybe some of our other competitors are even talking about saying look but we'll also consider an outsourced data center that's 36 megawatts what if we take 10 megawatts of it? We have not executed any of those but we're seeing those deals in the market.
+But typically if the entire data center was at those type of rates that those very large tenants were looking for it would be approximately a 10% return.
+But we're never going to have the entire data center with 1 36 megawatt tenant.
+It just doesn't exist.
+Research Division</strong> Okay but you're saying essentially those leases are being underwritten at 10% returns? Yes approximately.
+I mean the same as doing a built-to-suit right? Built-to-suits that are out in the market are essentially around those rates.
+But what they get in going into a very large building is that they'll have the operating expense savings as well.
+Research Division</strong> Should we also expect that the lease term would be similar to a built-to-suit type transaction in terms of the overall term? Yes that's correct.
+I would agree with that.
+It will be longer than what we typically see.
+Research Division</strong> 10-plus years? Much more than that yes.
+Research Division</strong> Okay.
+Last question is I mean is this -- it seems the guidance obviously is catching everyone by surprise.
+And I understand some of the drivers here one of which which you've obviously gone through the capitalized interest which we all really should've had in our numbers.
+But separately the leasing.
+Is this super wholesale strategy a piece of that lowered guidance? And how much of guidance is you setting the bar so that there's no possible way you could miss this? No this super wholesale strategy is absolutely not in the guidance.
+That was just a comment on what we're seeing out in the market.
+I think with specific to guidance for this year compared to what maybe consensus was that we -- we obviously look at where leasing is each and every quarter.
+Sitting here today what we think will sign this quarter and potentially in the next quarter is still up in the air.
+And it's really a function of just putting it out there this is where we're at and that low-end is obviously no leasing the midpoint the high-end is we'll be upside if we lease.
+Yes on the low-end basically we're being so conservative we could even not show up.
+Research Division</strong> Yes it seems that way.
+Okay no that's helpful.
+Were you saying though if you were -- let's say you were to sign one of these super wholesale type tenants there could be some downside relative to the $60 million of incremental NOI upside Mark? Yes I think the $60 million was in that midpoint if you recall from some investor presentations last quarter with I think Santa Clara was $11 million.
+Chicago was pretty well leased so that one $12 million is good.
+Ashburn and New Jersey were in that $10 million $11 million or $12 million range.
+So maybe a point or 2 shaved off of that $60 million but not materially different.
+Our next question will come from Sri Nagarajan of Cantor Fitzgerald.
+Research Division</strong> A question just to follow up on what Jordan was asking there in terms of perhaps rent impacts as you lease the space.
+I know that for guidance you've pushed out the leasing but obviously and you're talking about super tenant sizes as well in terms of tracking that as a demand.
+I was wondering how much of a tenant or rent sacrifice are you assuming in your guidance number one? And would you have -- are you turning down tenants because of lower rents that are being asked in the market? The answer is we will not lose any tenants.
+We believe our rents are very competitive.
+If anything we're told our rents are too low in some of our markets.
+So -- and the guidance we're giving is assuming the returns that we stated that we feel comfortable in getting which in Santa Clara has been 10% to 12%.
+In New Jersey we're still at 34% leased we're still comfortable with a 12% return.
+And Ashburn has been 12% to 15%.
+And in Chicago that is we're almost fully leased we're feeling comfortable at 12%.
+Research Division</strong> Okay fair enough on the development yields there.
+Second question I mean just curious as to your remarks Hossein on you're saying that the big tenant leasing is taking time to sign out here.
+Obviously from a peer perspective I believe other peers may not be seeing the same type of things that you're seeing because of the big tenant decision-making that's probably slow here.
+My question has to do with product strategies.
+Are you planning to change that or in any way trying to alter the leasing situation here? Well I have no comments regarding our competitors.
+We feel very comfortable with our market.
+We feel very comfortable with our product.
+Our customers tell us that we have the best product in every market.
+So that's where we are.
+Our next question will come from Jonathan Atkin of RBC Capital Markets.
+LLC Research Division</strong> I have a couple of questions.
+I was wondering the leases that you signed in Santa Clara and elsewhere were those existing customers upsizing their relationship or were those new logos that you signed? And then with respect to built-to-suits is there any opportunity that you would consider that would maybe take you into a new market that you don't currently operate in? With respect the Santa Clara all of our tenants we have very very strict NDAs in place.
+So we cannot comment in any shape or form in relation to who we signed and where.
+So I'm sorry about that.
+It just would be a violation of our NDA.
+With relation to built-to-suits yes we have looked at them.
+And we continue to look at built-to-suits.
+Again typically what we're seeing is the 10% range in the built-to-suits and the leases being 15 to 20 years long.
+And we're looking at those type of built-to-suits.
+LLC Research Division</strong> And then on the power side I'm interested in any commentary you would have on what portion of the critical load that the customer actually takes and has the customers' ability to kind of gauge their actual usage has that changed over the last several quarters? No.
+I think we're seeing different industries use different type of critical loads.
+We encourage our customers as opposed to some data center operators to use as much of the load that we make available and we consult with them regularly in how they can use up the space more efficiently.
+So we haven't seen any change in the path.
+But it really depends by industry.
+Financial tenants are on the lower side the West companies are much -- are really on the higher side.
+LLC Research Division</strong> And then finally just the leasing decision cycles kind of being elongated.
+So how much of that is due to internal budgeting on the part of the customer versus any kind of competitive part of that? Like I said I don't want to say delayed because delayed means it's an industry trend.
+I just think it's lumpy.
+Sometimes you get it within the quarter sometimes you don't.
+And our businesses is in the business of we have less than 30 tenants and we only sign a handful of deals every quarter.
+So the subset is that -- the sample subset we're taking from is so small that I can't really give you a general market generalization.
+LLC Research Division</strong> But those are driven by the customers' own internal considerations it's not competitive supply? It's mainly the former or the competitive factors here as well that are playing into your outlook? I think at Santa Clara we were very clear we see some competition and there was a market distortion.
+In other markets no it's been a internal decisions of shall we do it shall we not what shall we do and considering all their options.
+Our next question will come from Brendan Maiorana of Wells Fargo.
+LLC Research Division</strong> so I guess Mark it sounded like you were saying that your lease-up properties expected to get to 70% I think per your guidance by the end of the year up from 39%.
+If I do the math on that I think it works out to be about 20 or 21 megawatts of leasing over the year.
+It doesn't sound like you really have anything that you expect to do in the first half of the year outside of maybe the lease that was signed in Santa Clara.
+And you've been running the last 3 quarters at around 4 megawatts of leasing.
+So is that -- as we think about 2013 how comfortable are you that you can get to that 70% level given that leasing over the past 3 or 4 quarters has been pretty sluggish? The first -- you're right Q4 and Q1 to date have been low in terms of megawatts signed as compared to the last probably 8 quarters.
+There's a lot of deals that are on the table.
+There's traffic.
+So it's just a function of -- there's some in Q2 that we expect to close and then it's weighted in Q3 and Q4.
+But you're right that 20-plus megawatts is our goal.
+We've accomplished that the last 3 years.
+I think you say in reference 37 1 year 23 25 the other 2 years.
+So we're in that ballpark.
+And also Brendan when you look at it in Santa Clara and in New Jersey we're really dealing with Phase Is.
+The Phase I of a building it typically takes longer than the Phase IIs because we have those embedded organic growth on the Phase IIs.
+And we are just in a time in our lifetime that we have gone out to these 4 other markets and we're dealing with Phase I in 2 new markets.
+And that typically because we're dealing every customer is a new customer is more challenging than the Phase IIs.
+LLC Research Division</strong> Yes understood.
+Okay.
+And then Hossein maybe you can clear up kind of your comments with respect to returns and some of the commentary that's kind of been coming out of the market where I think you guys have been willing to be more aggressive on rate.
+It sounds like you're suggesting that your return expectations notwithstanding the super wholesale customers are in line with what you've communicated previously.
+But there's been I think discussion that you guys would look to do deals at lower rates in New Jersey and maybe a couple of other markets and that you're willing to drive broker commissions a little bit higher too.
+So how do you kind of match up those comments with your earlier comments that your return expectations are still unchanged? Well I think let me put Santa Clara aside because we adjusted our return expectations in Santa Clara.
+So when you put that market aside so we look at our other markets there are -- in New Jersey in Virginia we're very comfortable with our return expectations.
+In Chicago we're almost there right at 79% leased.
+So we're very comfortable with that return expectations.
+And so it's really only New Jersey that you're talking about.
+And in New Jersey we're about 1/3 leased.
+On 1/3 leased the demand we're seeing yes we've quoted some rents lower because we really want that particular tenant.
+We've closed at some rents that are higher.
+At where we are today at the 1/3 leased we are comfortable with that 12% unlevered return.
+Now how -- if we really want the particular tenant yes we'll fight for it.
+If -- some other tenants we may want to stick to our rents.
+So I think there is a lot of broker talk and especially in Jersey.
+Now obviously one of our biggest competitors raised their brokerage commissions and I wrote them an e-mail and said okay fine we're matching it.
+And we would match that all the time.
+We're not going to lose deals based on a commission.
+And so that's how that came about.
+LLC Research Division</strong> Yes understood.
+And how much kind of for sensitivity how much do increased commissions like does that impact your returns? Not significantly at all.
+Our next question will come from Michael Bilerman of Citi.
+Research Division</strong> Hossein I wanted to talk a little bit as to how you think about returns.
+You've talked a lot about the stabilized sort of returns and maybe a little bit lighter on Santa Clara but that you're holding firm on the other markets.
+But how do you think sort of from an IRR perspective? And I say that just because you obviously build big.
+You obviously have the cap interest for when you're building but there's a certain amount of idle capital as you lease up these buildings and it takes 18 to 24 months to get them leased.
+You have the operating expenses that are obviously flowing through the P&amp;L and higher costs time all these things that sort of impact over a long term sort of the return of a project not necessarily your stabilized yield.
+But if you were to think from day one where you buy the land and you put your shovel in the ground and the all-in cost.
+You're not capitalizing interest but you certainly have spent all that money it's idle.
+How do you sort of think about IRR? Well I think the way I'm quoting a return is the GAAP rent over the total development cost.
+That's the 12%.
+Research Division</strong> But that development cost doesn't include the idle -- I mean you're not capitalizing any more debt to the projects but arguably you've spent all this money and you're not earning a return so.
+.
+.
+Just to take the definition we're using and you should use the same definition on your model so we're apple-to-apples is once the project is fully built and stop capitalizing that's the amount that's the denominator.
+And the numerator is all the GAAP rents.
+Research Division</strong> No and I understand.
+My question goes more so I mean do you not think about it from the perspective of if you were to build a -- let's say a 10-year discounted cash flow analysis obviously the early years of a project you are obviously carrying a lot more of the capital with no rent.
+And if we were to think about it from an IRR that IRR would inherently be less.
+So when you talk about that your returns haven't changed the fact that the leasing is a little bit slower the fact that you're holding more capital in the project with no return that would affect your sort of IRR on the project.
+Oh yes I agree.
+The longer the math works -- I mean all of us went to business school right? The longer it takes to lease the lower the IRR.
+You can't argue with that.
+Research Division</strong> Right and has that -- I mean as you think about the business model and where you're going does that -- I guess do these projects change your thinking about how you build and how you want to approach it? Well I think we do -- we're not stubborn.
+We do believe that long term as a landlord these are the buildings that I certainly want to own.
+Because once you lease up a 36-megawatt building our operating costs are a fraction of a 10-megawatt building.
+And the buildings are extremely high quality.
+Long term if you're going to own these assets this is what you want to own.
+Now you're right what we are looking at in some of the Phase IIs is as we look at the Phase IIs I'm glad you asked this question we had looked at breaking up the Phase IIs into 9-megawatt and 4.55-megawatt increment builds.
+And we are now comfortable even with the isoparallel design of breaking down the build of the second half to those increments.
+Research Division</strong> So it allows you to phase it in a little bit better.
+Exactly.
+Research Division</strong> Mark just a question on the -- sort of the NOI and the phasing through the year.
+And I think obviously you talked about this negative FFO two-fer effectively; right? Where you're not getting any rent and you're having to take all of the operating expenses of the building which you talked about being a $0.12 or about a $10 million hit for the entire year.
+I assume that abates during the year.
+So I'm wondering if you look at where you are today you are 33% leased and 39% -- 39% leased but 33% commenced in the 4 effective development projects.
+Assuming your stabilized yields and applying it to that you would get to about $30 million of annualized NOI but I assume you have a lot of operating expenses that will reduce that.
+So your effective yield is not sort of call it 4% it's something much lower today.
+And as you move to the fourth quarter you start to lease up to 70% you get to that sort of $60 million of NOI based on your yields.
+But I'm just not sure sort of where you are in the first quarter in terms of NOI contribution from the 4 developments versus what you're expecting in the fourth quarter of the year to make sure that we have the ramp going the right way.
+Yes I mean it's obviously a challenge because the ramp does affect it.
+And as you think of Santa Clara we're sitting at 25% and we walk through the year how that leasing will go it's sort of back end-loaded.
+But the OpEx team the operating team is paying attention to their spend in the first couple of quarters here.
+And as we go we obviously have tenants in the building so we're obviously taking care of the building.
+But I think the spend -- on spend side you think of it somewhat even over the course of the year because the building's open and running we're paying the taxes we're paying insurance.
+But at the maintenance level some of the buildings still have burn-off with regards to warranty work on some of the equipment.
+So it does ramp up as the year progresses.
+Research Division</strong> But you don't have the NOI contribution from developments each quarter so that -- how it matches up to your guidance? So that...
+Yes I don't have that at my fingertips in terms of what that -- in terms of disclosing that by development.
+It is back-end loaded.
+There's more of a negative hit obviously in the beginning and then as it leases then it obviously goes away.
+And our next question will come from Bill Crow of Raymond James.
+Inc.
+Research Division</strong> Hossein how long do you anticipate keeping the development team in place if conditions kind of muddle along as they are? That's a good question.
+Our development team is -- the majority of it is outsourced.
+So we're very comfortable with them.
+There are -- this year we don't anticipate -- unless we get a very large free lease we do not anticipate starting -- actually I can just tell you we will not start a new development unless there's a huge prelease.
+Having said that our small team that we have in place we will keep because they are now working on our next-generation design for the future years.
+And it takes -- to finalize and to really get these things to the perfection that we'd like to build them on a normal schedule it takes like 9 months to get to our next-generation design.
+Inc.
+Research Division</strong> How different do you think that -- I know I'm asking you to look into the future but the next generation design will be from the current design? Are you going to build smaller or how will you change the design do you think? The design will change in the electrical infrastructure and mechanical infrastructure.
+From a size perspective it will not change.
+We'll be -- we're working on having it built more in smaller phases but still do an isoparallel ring bus.
+It's from an efficiency standpoint we believe will drive material efficiencies in operating costs and in construction costs.
+Inc.
+Research Division</strong> Okay.
+And finally for me I know we've beaten the yields to death here but we've seen yields on development go from 12% to 15% to 10% to 12% let's call it right now.
+And at $1 000 a foot back development it's high risk.
+At what point -- if you'd go sub-10% if that's the way the market turns does that change the model? If you and Lammot were building privately what sort of yields would you require before you put that risk out there? I think you make a very good point but also our cost of capital has changed significantly.
+Where we ended up raising our bonds they were at 8.5% if you remember.
+Now they're trading in the low 6s.
+So we didn't have access to perpetual preferred.
+Now we have access to perpetual preferred.
+We just raised our last round at 7 5/8%.
+Compared to normal real estate we have -- before the private company Lammot and I were using very high octane Lehman money.
+So I would say our overall returns have remained pretty much consistent with what we've been doing because our cost of capital has come down significantly.
+So we still see a big amount of a gap between our returns and our cost of capital.
+Inc.
+Research Division</strong> But your unlevered returns have come down.
+And I guess if you went sub-10% on an unlevered basis how would that impact your appetite for future development? Well I think we'd look at everything and if that did happen -- but again I think the difference is not just the return.
+The difference is between our cost of capital and return.
+That delta is what makes the difference.
+So say for example if our return came to sub-10% but our cost of capital was at 5% that's still a very good deal.
+Our next question will come from Ross Nussbaum of UBS.
+Research Division</strong> A couple of questions.
+First can you give me a ballpark of what the actual operating expenses are on your lease-up projects? Should we be assuming somewhere between $4 million and call it $6 million a property on an annual basis? I think for New Jersey and Santa Clara it's roughly around $7 million $7.5 million those 18.2-megawatt phases.
+Obviously for ACC6 it's a smaller build it's probably in the $4 million $4.5 million range.
+Research Division</strong> That's helpful.
+With respect to the lease-up one of your other competitors recently had a slide which basically commented that the Northern Virginia market is currently experiencing an oversupply situation.
+And basic economics usually suggest that when supply exceeds demand it can put pressure on pricing.
+Do you have any expectation that rents overall in the Northern Virginia market are going to be coming down over the next 12 or 18 months? We haven't seen it and I think our other competitor we all know who it is we are the supply.
+We're the ones with 12-megawatts of space available right there in their backyard.
+So I think if the supply was everywhere in the market it's a little bit different in that we are 80% of the supply.
+Research Division</strong> Last question just a clarification.
+When you talk about the GAAP yields if we were to translate those over into cash yields just given the rent bump that are inherent in your leases would you say that your cash stabilized yields are give or take initial cash stabilized yields let's call it are they under 200 bps lower? No I don't have the number in my head but typically last time I looked at it the difference between -- the GAAP number and the cash number there are 2 factors in there.
+One is the ramp which takes given 6 months to 18 months to fill up that's part of -- that's about 75% 80% of the difference.
+The balance is the escalator.
+So once the -- do you see what I'm saying? That's how it breaks down between GAAP and.
+.
+.
+Research Division</strong> A follow-up on that if I can.
+Do you have any situations where you've got tenants with signed leases where they've commenced their lease but you thought they were going to be ramping up the rent payment over 6 months and now they're telling you we don't need that much power we don't need that much space let's ramp it over 12 to 18 months and you modify that lease? No because in every case is a hard commitment.
+And in fact Mark said it in his prepared remarks that we have signed leases in 2012 with commitments that if those leases started at the beginning of 2012 rather than the end of 2012 we would have an additional $0.11 of FFO.
+Our next question will come from Omotayo Okusanya of Jefferies.
+Inc.
+Research Division</strong> Just following up with Ross's question and Hossein your comment about the signed leases in '12 where the commencement is later in '12.
+Is that the Rackspace situation at CH1 you're talking about? We cannot comment specifically on tenants.
+Inc.
+Research Division</strong> In your last quarter you did talk about the phase-in of the Rackspace lease.
+The 79% leased in Chicago 57% of that has already started Tayo.
+And that remaining 21% is commencing in equal installments over 3 different quarters.
+They're kind of hard dates Q3 Q4 and Q1 of '13.
+Inc.
+Research Division</strong> And it's that phase-in that's creating that $11 million difference that you talked about? Yes it's $0.11 that's correct not $11 million.
+Inc.
+Research Division</strong> Okay $0.11.
+Now the other question I have is when I look at your other assets on Page 9 where you have the leased amount and the commenced amounts are pretty much the same.
+And even some other leases like SC1 you signed it this quarter it's commencing this quarter.
+I'm just curious why you expect to see more of this kind of phased-in approach when some of the more recent leases you signed you've kind of signed them and you've kind of commenced almost in the same quarter? We typically have ramped in all of our buildings in our lifetime and I think will continue to happen.
+It happens.
+Inc.
+Research Division</strong> Yes but I think you're talking about much longer ramps now versus historically what we've seen in the past.
+No I don't think so.
+I think it's just a function of when we sign the leases.
+If we sign leases this quarter and next and the tenant has immediate demand we're going to start them.
+But I think it's just the focus of what the tenant wants how fast do they want in.
+The ramp is maybe a function of the cash what they pay us in terms of base rent.
+But typically on the reimbursement of tenant cost it typically starts day one.
+Inc.
+Research Division</strong> And then last year you guys kind of gave us what your targeted occupancy was for ACC6 New Jersey 1 and Santa Clara.
+Are you going to be giving us that kind of number again for 2012? And where you kind of expect to be at the end of the year? Well I gave a blended rate of around 70% for the non-stabilized portfolio.
+Obviously we gave out 25% for California.
+We hit that.
+50% in Jersey obviously we're light on that and 30% in Ashburn.
+So pushing out things a couple of quarters blended 70% I'd like to leave it at that.
+Inc.
+Research Division</strong> Okay.
+And that 70% number you're talking about is that just leases that have been signed or is that actually 70% all of that would've commenced? That would be everything that commences by 12/31.
+Inc.
+Research Division</strong> Commences by 12/31 okay.
+'12.
+Our next question will come from Jonathan Schildkraut of Evercore Partners.
+Research Division</strong> A lot of questions have been asked and answered here but maybe if we can do 2 strategic questions.
+The first is in terms of looking at benchmarks and kind of thinking about what your business might do longer term because I think obviously at some point you're going to return to developing new properties what should we look for that would give us a sense that you might return to that activity when we look at your numbers? I think we need to be significantly leased up on this current portfolio.
+What we're hearing from many of our investors is and when looking at where we're trading is we're not getting any credit or very little credit for our development portfolio.
+So we would want to be more leased up or significantly leased up in our development portfolio and be paid for that before we start a new development.
+Research Division</strong> All right great.
+You mentioned the super wholesale strategy.
+I think you acknowledge it that could take you potentially to new markets.
+Of course this would have to come with a significant prelease.
+And you also have talked about looking at some new data center designs.
+Would you guys be willing to consider something like the open compute designs by Facebook incorporating outside air handlers in that because you've been very consistent with the way that you've deployed your assets.
+Well I think it's a very good question.
+On the new markets and doing those types of deals where we stated the returns are 10% obviously that 10% incorporates a long-term prelease execution.
+And when you have a long-term lease say 20 years you're not that concerned about the design of a building if the entire building is occupied by one tenant.
+Because what does it matter? They're taking the risk.
+If the building is significantly multi-tenanted and -- at that time we would need to compromise on some of the designs because we want to make sure that other tenants will also like some of the features in there.
+We still have many tenants that want to follow the ASHRAE guidelines more so than running their computers at 90 degrees.
+So then we need to then build a design that the majority of the market wants not just the Facebooks of the world.
+Research Division</strong> Great.
+Just one last question.
+One of the things that we're hearing about from a demand perspective is a desire to get call it hybrid architecture inside the data center.
+We've seen Amazon deliver fast pipes to a number of different facilities Amazon Web services to kind of match up their public cloud with maybe some private deployments.
+You guys would seem to be fairly well-positioned to go after this opportunity having one of your larger tenants Rackspace run a public cloud.
+Is that something that you're currently exploring? We explore all of these opportunities with networks all the time.
+Yes we explore any and all those opportunities with network.
+Our next question will come from Robert Stevenson of Macquarie.
+Just 2 quick here.
+Mark the $11 million of incremental revenue that you're expecting to commence in 2012 that puts you at the midpoint of the guidance range? Yes roughly.
+And does that correspond with the 20 megawatts of leasing? Does that also put you at the midpoint of the guidance range? Yes it does.
+But the commencement dates are obviously second-half loaded.
+So that's why the pickup.
+It's not an annualized run rate for this 20 megawatts.
+No no.
+I just want to be able to do the math on that as to what that sort of implies going forward as we roll into fourth quarter and 2013.
+And then the other quick question is on your lease expiration schedule there's a footnotes 4 that talks about I believe the Yahoo! lease the 5.7 megawatts that they've notified you about vacating.
+There's also a thing there about the other lease that's expiring this year that has an option to terminate for I guess it's a little over 1.1 megawatts.
+Have they given you any termination notice as of yet? No they have not.
+And that's kind of a rolling 6 months lease with that particular tenant.
+That was a very unusual tenant that had a tied -- we almost never do this -- that's tied to a government contract.
+And they matched their option to the government contract that that system integrator had.
+So as long as they continue getting their government contract I guess they'll continue.
+So they get an option twice a year to renew? It's ongoing.
+Yes it's an ongoing.
+So it kind of rolls every day.
+So they could give you notice now or never? Exactly.
+And we're happy to say we have not received a notice now.
+Our next question will come from Dave Rodgers of RBC Capital Markets.
+LLC Research Division</strong> Just one question for me.
+You talked about with the super wholesale tenants is that you'd be willing to accept returns maybe down as low as 10% which would be comparable to built-to-suits.
+Generally where I think we've seen some of these super wholesale tenants end up are in cheaper power markets.
+So I think while the 10% certainly makes sense for you do you know what type of premium they might be willing to pay to stay in the markets that you're in currently to be involved with DFT again based upon power incentives in some of these other markets where [indiscernible].
+I think I've also mentioned that base this would be typically if we did a super wholesale deal it could be a prelease.
+If it's a prelease it could be in one of the most attractive markets we're talking about the power markets we're talking about specifically perhaps the Pacific Northwest or some of those very cheap power markets.
+Having said that I do think Virginia is in the cheaper range of markets as far as power and it has other things it offers like very good networks and decent cost of construction and employees.
+So it's not unforeseen to do something in that market as well.
+LLC Research Division</strong> What type of premium do you think tenants would be willing to pay to stay there versus say the Carolinas or the Pacific Northwest? Well the Carolinas is not that much cheaper or the Pacific Northwest.
+I mean the -- some of the places that we've toured in Oregon the prices are comparable in power to Virginia's expense.
+So we've seen some numbers around $0.045 to where it is in some Carolinas or in the Pacific Northwest or the $0.06 were in Virginia.
+So that $0.015 may answer your question of if it's worthwhile or not but it's not a huge difference in power cost.
+That's how I answer your question.
+Our next question will be from Romeo Reyes of Jefferies.
+Inc.
+Research Division</strong> Two very quick ones.
+Just to clarify on the additional 3 watts that you added in Q4 and the 2.28 that you added in Q1 that adds an incremental $11 million of revenue on an annualized basis? Is that correct Mark? I don't think that $11 million was tied to those leases executed.
+That $11 million was base rent on new leases we expect to sign and commence in '12.
+Inc.
+Research Division</strong> Okay so I guess you did not have the 3.01 for the full fourth quarter I would assume or did you? I think those were signed during the quarter.
+So it might not have been -- you can't take Q4 and annualize if that's what you're trying to do.
+Inc.
+Research Division</strong> If we were to add the 3.01 for the 3 months and then add the 2.28 for the 3 months I guess right now even without that you'd be at around $300 million of revenue run rate.
+If we were to kind of normalize assuming that whatever you call it 5.29 megawatts were in the numbers in Q4 how much of a lift would you have in revenues? Maybe -- I'll walk through that after the call with you Romeo.
+I'm not sure I follow exactly what you're chasing.
+Inc.
+Research Division</strong> Okay.
+Then the second question is regarding RP capacity and free cash flow.
+As your CapEx comes down this year it seems like you're going to have some RP capacity.
+Would you contemplate buying back stock? That's always on the table.
+We'd have to discuss that with the board at this point.
+But I think that's always an option for a lot of companies.
+Our next question will come from Chris Lucas of Robert W.
+Baird.
+Research Division</strong> Just a quick question Mark on getting to the high-end of guidance.
+Is that simply a lease commencement exercise? Simple as that Chris.
+Research Division</strong> And then in terms of the Yahoo! lease I know you mentioned it briefly as you were going through your remarks what is your expected impact this year as it relates to that lease? Well it's roughly half of that building.
+That building costs us about $4 million a year to run but maybe closer to $5 million from an OpEx perspective.
+The lease-up expectations are spread over the course of the rest of '12 and '13.
+So there's obviously a couple of pennies reduction with regards to the OpEx of that building until we lease it up.
+Research Division</strong> Do you have access to that space right now or is that still being occupied? It's still being occupied.
+Research Division</strong> And then real quick last question for me.
+You've cleaned up the balance on the line.
+When do you start the renegotiation process for your credit facility? That's soon.
+Our next question will come from Lucas Hartwich of Green Street Advisors.
+Hossein I was just wondering how competitive do you feel DuPont's typical data center is when it comes to attracting traditional corporate tenants or co-location operators? Would you consider a DuPont facility is it too over-improved too robust for those types of tenants? I think it depends on the type of corporate data center.
+We do believe that we are the highest quality as far as asset quality.
+Do I think that for some tenants they don't need all the robustness that we have? Yes I agree with you.
+For some tenants they don't need all of the robustness we have.
+But we're in the business of being the landlord for many years to come.
+We want a building that is of the highest quality will have more endurance against time and changes.
+And I think it's the right assets for the long-term to own.
+Our next question will be a follow-up from Michael Bilerman from Citi.
+It's Manny here with Michael.
+The 70% number that you said that you'd be getting to I believe that was both for leased up and also commenced.
+So I was just wondering are you assuming that any new leases that you sign will have time to commence by 12/31? I'm sorry.
+Repeat that Manny? So you said that by the end of the year you expect to be in the new developments 70% leased correct? On average on nonstabilized group that's correct.
+Where do you expect to be commenced within that same group of assets? That's -- I guess -- I don't know if I misspoke but it is 70% commenced for that group of assets.
+So the lease and the commenced will be at the same rate? Yes.
+Just to keep it simple at this point leased and commenced will be the same.
+Again but back-half loaded so there's not a lot of run rate for the year.
+So the pickup is really in '13.
+And gentlemen I'm showing no further questions in the queue.
+Thank you for joining us today.
+We look forward to providing future leasing updates and showing continued growth in 2012 and 2013.
+This concludes today's conference call.
+At this time you may disconnect.

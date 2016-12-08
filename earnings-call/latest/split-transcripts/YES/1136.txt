@@ -1,0 +1,278 @@
+Good morning and welcome to the DST Systems Third Quarter Earnings Conference Call.
+[Operator Instructions] I would now like to turn the conference over to our host Mr.
+Steve Hooley President and Chief Executive Officer of DST.
+Please go ahead sir.
+Thank you very much.
+Good morning.
+Thank you for joining DST Systems third quarter 2012 earnings call.
+I'm joined today by our Chief Financial Officer Ken Hager and I plan to overview some business highlights for the quarter and Ken will follow with a review of the quarter's financial results.
+And before beginning I'd like to remind everyone that in the course of our conference call today we will make forward-looking statements regarding DST and its businesses.
+Such statements are based on our views as of today and actual results could differ materially from forecasted results.
+There could be a number of factors affecting future results including those risk factors set forth in our latest annual and quarterly reports we filed with the SEC.
+All such factors should be considered in evaluating any forward-looking statements that we may make.
+As a reminder all of our comments on financial results refer to our non-GAAP results.
+Reconciliation to the most comparable GAAP measures have been provided in the third quarter earnings release.
+So before getting into the results for the quarter I thought I'd take a moment and outline a few key areas of focus during my first few weeks as CEO.
+And as I've said before I believe DST has significant prospects for growth.
+We're well positioned in the markets we service today and I'm focused on ensuring that we're in the right businesses and that these businesses will deliver consistent performance growth and profitability.
+Further while we continue to take a disciplined approach to our investments and growth we remain committed to maintaining a solid balance sheet that provides us with financial flexibility to execute on opportunities to grow the company.
+Yet at the same time we will continue to prudently manage our nonoperating assets to support the balance sheet and enhance shareholder value.
+And within each of our operating businesses we're focused on execution including a high-performance culture for our associates to deliver results.
+During the recent weeks I've had the opportunity to speak with many of our customers across all of our businesses.
+And our clients leveraged DST to grow their businesses and depend upon our commitment to maintaining industry-leading technology solutions.
+We're intensely focused on customer satisfaction and the role that we play in our customers' success.
+We'll continue to focus on each of these key areas going forward.
+So let's move onto the results.
+We had a solid quarter from an operating perspective with increased revenues and income from operations in both Financial Services and Output Solutions segments.
+In addition we had a number of new significant client wins across multiple operating businesses during the quarter.
+And while we're pleased with the results our business continues to be impacted by some key headwinds namely low investor confidence relatively high unemployment and low interest rates.
+Our U.S.
+Mutual Fund Recordkeeping business saw modest organic declines following 2 quarters of what I term as modest organic gains.
+The organic declines occurred in our tax-advantaged account base and were predominantly the result of individuals closing their retirement accounts at our customers.
+For the year we expect the organic growth rate to range between negative 1% and positive 1% in this sector.
+The accounts converting from our registered account platform to subaccounting platforms continues to occur in line with our estimates.
+We continue to anticipate a total loss of 9 million to 10 million accounts during 2012.
+On a positive note roughly 30% of those accounts are expected to convert to the DST subaccounting platform.
+During our second quarter call we discussed projecting 2013 subaccounting estimates.
+Currently we expect between 5 million and 6 million registered accounts to transfer to subaccounts in 2013.
+And similar to this year we project approximately 30 of those will convert onto the DST subaccounting platform.
+As you know our projections represent a combination of our own internal modeling combined with input from clients where that's available.
+Our subaccounting business experienced a decline in accounts due to a previously announced conversion by a client who was acquired by a DST competitor and converted to their in-house system.
+I am pleased to report that during the quarter we signed a significant new client contract that will bring 3.9 million subaccounts to our platform from a competitor's platform.
+And we expect that conversion to be largely completed by the end of second quarter 2013.
+ALPS continues to perform in line with our expectations.
+Year-to-date their revenue growth has been 11%.
+During the quarter ALPS was a partner in a closed-end fund launch that raised approximately $900 million.
+In addition to the upfront payment that goes to cover deal costs and commissions ALPS will also receive an ongoing revenue stream for the servicing of these funds.
+And I point this out only because I think it's a one good example of the breadth of products and services that ALPS provides to the markets.
+The retirement sector continues to be a key area of focus which should provide growth given the trends of an aging population and self-directed retirement planning.
+We continue to invest in our retirement record-keeping platform both to support committed conversions of 1.3 million participants and to add additional functionality to meet market demands.
+Our Healthcare business posted solid revenue growth predominantly through organic increases in claims process.
+While overall unemployment levels continue to challenge our commercial business the baby boomer phenomenon in the U.S.
+should result in increased Medicare Part D claims.
+Our North American Output business saw an increase in revenue as well as lower operating costs and lower depreciation expense.
+Output signed new clients during the quarter which will transition in the first quarter of 2013 representing approximately 9.4 million packages annually.
+We continue to work on a cost structure for our North American operations to drive higher profit margins from that business.
+Our Output U.K.
+operation improved over the third quarter of 2011.
+We continued with facility consolidation and expense rationalization with a goal of achieving profitability in that business during 2013.
+Our joint ventures had a reduced level of income from the third quarter of 2011.
+IFDS Canada is in the process of converting a previously announced new client with 1.2 million accounts which represents a 10% increase in accounts serviced.
+As you all know our conversion costs are incurred in advance of revenue but the conversion should be complete by the end of this year and we should see a pickup from that business unit 2013.
+IFDS U.K.
+continues to invest in client conversions as well as the implementation of a pension solution for the U.K.
+marketplace.
+IFDS U.K.
+converted 1 million new accounts during the quarter.
+We continue working on converting an additional 200 000 accounts and new life and pension clients with 100 000 policies.
+These conversions should be completed by the middle of 2013.
+And finally we've been active in restructuring our balance sheet.
+During the quarter we monetized $128 million of assets resulting in $112 million of after-tax proceeds.
+Included in this monetization was the remainder of our holdings in Computershare and cash from these transactions was used to reduce debt to $1.1 billion as of September 30.
+We have not repurchased any shares during the quarter and continue to have a 2 million share authorization outstanding.
+We continue to review our nonoperating assets in the context of the overall strategy for the business and on an opportunistic basis for monetization or repositioning.
+At this point I'd like to go ahead and turn the call over to Ken Hager our CFO to review the financial results for the quarter.
+Thanks Steve.
+GAAP earnings per share for the quarter were $1.87.
+We identified a number of non-GAAP adjustments to our third quarter results which were set forth in our press release.
+The 2 largest of these were $0.69 of net after-tax gains on sales of investments and $0.31 of income tax benefit for a resolution of research and development income tax refund claims.
+On an adjusted non-GAAP basis diluted earnings per share for the quarter were $0.96 as compared to $0.90 for the third quarter 2011.
+DST earnings for the quarter increased $2.5 million or 6% to $44.1 million.
+Consolidated operating revenues increased $30.9 million or 7.1% to $464 million and consolidated operating income increased $4.7 million or 7.5% to $67.4 million principally from the addition of ALPS and improvements in Output Solutions.
+Excluding the effects of deferred compensation consolidated operating income increased $14.6 million during the quarter to $71.8 million.
+Financial Services operating revenues increased $27.6 million or 10% to $304.6 million.
+ALPS represented $25.3 million of the increase.
+An 11.1% increase in pharmacy claims processed and higher average subaccounts serviced more than offset lower mutual fund revenues which resulted from the decline in registered accounts serviced.
+$9.2 million of expense for investments in the brokerage retirement markets was recognized during the quarter.
+That was a $700 000 increase over the third quarter of 2011 investments in brokerage retirement and insurance.
+Consistent with our prior estimates we anticipate $0.12 of expense will be recognized in the fourth quarter of 2012 for investments in the retirement and brokerage markets.
+Higher revenues and contributions from ALPS contributed to a $4.3 million increase in operating income excluding $9.9 million of increased deferred compensation costs.
+Output Solutions operating revenues increased $1.5 million over third quarter 2011 from new client volumes in North America.
+Operating income increased $8.7 million over 2011.
+Lower personnel and depreciation costs contributed to the increase.
+Equity in BFDS earnings declined by $600 000 from the 2011 quarter from the effects of subaccounting conversion activity.
+Average cash balances for the period also decreased by approximately $130 million from last year.
+Average interest rates earned on those balances increased by 6 basis points but are still not sufficient to cover banking and transaction fees.
+As Steve mentioned both IFDS U.K.
+and Canada have significant new client conversion and new product development activity which are negatively impacting their earnings.
+On a combined basis DST's equity and earnings of the IFDS business units declined from 2011 by $4.2 million.
+In other income unrealized depreciation recognized on securities held offset the increase in deferred compensation expense previously mentioned.
+Other income also includes foreign currency gains but lower dividend income from previous asset sales.
+Our 38.3% income tax rate for the quarter was in line with prior estimates.
+We currently estimate that our income tax rate for the remainder of 2012 will be approximately 38%.
+Turning to the balance sheet and focusing on movements during the quarter consolidated cash increased $9.3 million and consolidated debt declined $112 million as we use proceeds from asset monetizations and cash flow from operations to reduce debt.
+Average diluted shares outstanding increased  300 000 shares from the second quarter of 2012 from shares issued under equity compensation plans and a higher average stock price.
+Average diluted shares outstanding decreased 400 000 shares from the third quarter of 2011 from share repurchases made in the fourth quarter of 2011.
+I'm now going to turn the call back over to Steve.
+Great.
+Thanks Ken.
+So as you've heard today we're delivering results in the face of substantial headwinds.
+We're taking action where possible to mitigate the impact of the macroeconomic environment we find ourselves in and the continued challenges facing our businesses.
+We're taking deep dives into each of the businesses to identify additional opportunities for growth while prudently managing our cost with a goal of improved performance.
+We appreciate your interest in DST and I look forward to sharing with you more detail on our progress during our next quarterly call.
+At this point I'll go ahead and turn the call over for questions.
+[Operator Instructions] And your first question comes from James Kissane of Credit Suisse.
+Research Division</strong> You had some nice subaccounting wins in the second quarter or the third quarter.
+Maybe can you discuss the pipeline? Is DST now in a position to start recouping some market share especially in the subaccounting arena? Yes sure Jim.
+I think we did have a good win with a great customer.
+We have a broad-based relationship with them across DST.
+And I think the real reason for that win was the technology platform that we built along with the fact that they now have their direct mutual fund account base on the same platform as their subaccounts will be.
+So we think that that's very positive for the marketplace.
+And as you know we don't get into the pipeline really Jim but I would tell you that I think the feedback around the technology platform and that ability to have both their registered and subaccounts on the same platform and the ability for us to do some reporting for the broker/dealers off of that is incredibly valuable.
+Research Division</strong> Okay great.
+And Steve maybe a little more color on the loss of the $400 000 tax-advantaged account because I think this is on top of $400 000 in the second quarter.
+Are we hitting an inflection point where now the trend is going to be negative for tax-advantaged accounts given baby boomers starting to retire? It's a good question Jim that I don't have the answer to.
+And we obviously dug into this one.
+What was interesting was the majority of these accounts were literally low balanced IRA-type accounts that were closed during the quarter.
+And so the supposition from our side -- again we don't know exactly what's going on in them but the supposition from our side is that you literally have individuals who've decided to tap into those accounts withdraw the balance pay the penalty and use the funds for whatever they might use them for.
+So I actually think -- our hope is that we see things going the other direction.
+When employment picks up we hope to see a growth in retirement accounts both in the IRA space and in the 401(k) space.
+And right now certainly our 401(k) business has faced some pretty significant headwinds relative to the level of unemployment.
+But again impossible for us to tell exactly Jim but this was literally when we dug into it low-balance accounts that individuals came in and closed.
+Research Division</strong> Okay good.
+And can you Ken give us some sense of your expectations for business development and startup expenses in 2013? It looks like you had I think a $0.12 run rate in the fourth quarter -- $0.12 per quarter run rate in the fourth quarter of this year.
+Maybe a sense for '13? Right now Jim we anticipate that the level of expense will be similar to that although probably trending downward as accounts get converted onto the 401(k) platform.
+I think part of that will be dependent upon what new business we win.
+Because if we do win additional new business then we'll continue to make these investments in conversion costs to bring new clients on.
+Research Division</strong> Okay great.
+And Steve I think you started off the call saying you're spending time making sure that you're in the right businesses.
+Maybe can you give us some of your big picture thoughts in terms of your philosophy? Maybe how it could compare with Tom's in terms of how to manage DST's portfolio and maybe how to monetize it some sense on timing? Yes.
+Jim we kind of look at the company as a set of operating businesses and then a set of nonoperating assets right? And I think consistent with the way Tom ran the company we're going to continue to look at nonoperating assets in the broader context of the overall balance sheet and capital plan for the company.
+And obviously included in that is our overall debt levels debt leverage ratios we clearly have a desire to return capital to shareholders and we're always focused on how we're going to grow the company.
+So I think from a nonoperating-asset side we've got a very consistent view.
+And again I think you saw on the quarter the monetizations.
+We felt like that was -- it was a good time to monetize some of those assets.
+We're working to take our debt levels -- over the last 2 years we've made a number of acquisitions and we're working to bring our debt levels back down to a leverage ratio that are kind of pre-acquisition.
+As it relates to the operating businesses Jim as I said we're kind of doing a deep dive on all of those businesses.
+I would tell you everything's on the table and the watchwords are where are we going to get growth and we obviously want to be in businesses that produce reasonable levels of profitability.
+And where we're not producing reasonable levels of profitability we're working with the management teams to get there.
+Your next question comes from David Togut of Evercore Partners.
+Research Division</strong> Question for you on margins.
+Output Solutions margins moved up nicely in the quarter.
+This is a business that's faced a lot of challenges over the last 10 years.
+I think the original target a while back was to take this to a 10% EBIT margin.
+What do you see going forward for this business? Can you get to 10% next year? Or is this a business that you expect to experience a lot of quarterly volatility in profit? It's a great question David.
+I would tell you I'm not prepared to tell you that I think we can get this to double-digit earnings next year.
+One of the challenges with the Output business is there's obviously a very high fixed cost component as well as high capital cost to be in that business.
+And we've committed to be in it in a way that we deliver what we think are kind of industry-leading technology solutions.
+So part of the challenge there is if you have any revenue fluctuation you can drop below that 10% earnings margin pretty easily and it's not so easy to adjust cost in that business.
+We're working with the management team there.
+And when we can get revenue in an area that I feel like it's solid enough that even if we have a bit of a decline quarter-to-quarter and we have our costs aligned such that we can remain above those double-digit earnings then I'll make that commitment.
+We're clearly pleased with what happened in the third quarter.
+We think it's a good trend.
+I'm just not prepared to tell you right now that I think we can get to 10% next year.
+I would tell you that is the goal okay? And so we're going to work hard with the team there to get there.
+But again the fixed cost component of this business is a challenge when revenue moves up and down.
+Research Division</strong> You cited in the quarter Steve I think a reduction in personnel and a reduction in depreciation expense.
+Are you done with significant cost structure changes in that business? Or is there a lot more to come? I'm not sure a lot more is a word that I'd use.
+But I would tell you David that as I mentioned we're kind of looking at everything.
+And obviously we're looking at the cost side of all of our businesses as we always have.
+And so I think you'll continue to see us adjust cost structures where we've got businesses that aren't producing the financial results that we think they can.
+Research Division</strong> Just a follow-up moving on to retirement services.
+This is a business that I know Tom McDonnell has been highlighting as an important area for growth.
+And I think in the last few calls there have been some comments on the pipeline in the retirement services business.
+Can you bring us up to speed on what you see in terms of the new business pipeline? Do you have large prospects out there? And then give us a sense of how you think your solution stacks up relative to SunGard in this business.
+Well as I mentioned to Jim we don't really get into the pipeline.
+We obviously -- well when we've -- part of what we've been talking about is the conversions that we have.
+So this would be committed business where we've got conversions that we're bringing account holders onto our platform or shareowners onto our platform.
+So we're making progress there.
+As I said we've got another 1.3 million participants to go ahead and transition onto the platform.
+I think the big trend that we're seeing and part of the reason -- we're bullish on this business for a couple of reasons.
+The first is there's obviously the trend of the aging population the fact that there's 10 000 baby boomers a day are retiring or reaching retirement age and the fact that self planning for self retirement is one of the key tenets that we think is going to continue to go forward here in the U.S.
+Our solution fundamentally we have an ASP model as well as a full service model.
+And so one of the things that we think our customers are challenged with or our prospects are challenged with is where they've got a technology solution and a software solution in-house in many instances we go in and visit with people and they have big development shops in-house maintaining that software.
+And not unlike our mutual fund solution in the retirement space we've got a single set of code that we maintain so regulatory changes come around.
+We change it once and we change it across the whole client base.
+As our customers look at how to variable-ize their costs they're looking more and more at outsourcing the technology.
+And so that's been the main driver of the businesses that we've won.
+And really it's around how do we help our customers lower their internal costs so they can be more successful.
+And I think that's probably the key differentiator with our solution.
+Research Division</strong> Just a final question for me Steve.
+Nice progress in monetizing the portfolio particularly with Computershare.
+The big stake left there obviously is State Street.
+Are there any possible solutions you're exploring with State Street to monetize that stake? We're obviously not going to touch on any discussions that may be going on.
+What I would tell you is we have no -- the State Street stock is unencumbered.
+We can sell that should we desire to.
+And I guess I'll just go back to we continue to look at all of our nonoperating assets in the broader context of the balance sheet and capital plan for the company so.
+[Operator Instructions] And your next question comes from Dave Koning of Baird.
+Research Division</strong> I guess my first question is just -- we've had some questions from investors just about the worry that the tax-advantaged accounts would start to move to subaccounting.
+Are any of the 5 million to 6 million that you expect next year in terms of deconversions from the tax-advantaged group? Or is it all the non-tax-advantaged group? David I'm looking at Ken here.
+First of all I would tell you I don't think we've broken that out in the past and I don't have good visibility into it.
+We've not seen -- we've talked about in the past in the 529 space a single plan with a single broker/dealer converting.
+We do believe that 1 or 2 other broker/dealers may subaccount some 529 accounts from that same plan.
+And that's because that's where the vast majority of the accounts reside there.
+Beyond that we get back into the situation where we've got a dispersion of accounts and really not a lot of big buckets of 529 accounts.
+So that's kind of the 529 story.
+The IRAs we've not seen any movement to subaccount IRA accounts to date.
+And so there's nothing in our projections for that next year.
+Research Division</strong> Okay good.
+And then on the Financial Services margin side it sounds like I guess first of all investments are starting to be biased down a little bit.
+So that's probably a little benefit to Financial Services margin.
+And then also deferred comp if that's just neutral from here on assuming the market is flat I guess that's just neutral.
+That's going to be a little benefit to margins next year too.
+So just those 2 in isolation give you a small lift.
+Is there anything else that should move margins higher? I mean is the core business generating good incremental margins right now? Or I guess what else should we look at for margins in Financial Services? Yes I think Ken touched on an important component here.
+We've been investing in both our Brokerage Solutions and Retirement Solutions businesses.
+And the end result of that has been new business wins.
+And so as you know when we win new business we incur the conversion costs there.
+The margins in the business I'd say are -- remained relatively stable.
+There's obviously as I said some headwinds as we lose accounts taking out -- it's difficult to adjust a fixed expense.
+So I would suspect that we're going to see hopefully some margin expansion in the Financial Services segment next year.
+But I don't think it will be dramatic.
+Research Division</strong> Yes okay.
+And then did I hear you right? Did you say Output U.K.
+for the full year next year should be in profit mode or just should reach profitability at some point during 2013? Should reach profitability at some point during the year next year.
+That one has been -- there's a lot of hard work going on over there.
+As you all know closing and consolidating facilities is difficult in any environment.
+There's some specific challenges around it in the U.K.
+And that work remains as well as a pretty serious look at the overall cost structure of that business and what we can do to adjust it.
+Research Division</strong> Okay.
+And then just a couple other things just to make sure I heard you right.
+ALPS did you say up 11% revenue year-to-date? Yes sir.
+Research Division</strong> Okay.
+And then the mutual fund business I don't know if you've made comments like this in the past but it sounded like you said between down 1% and up 1% year-over-year in revenues in 2012.
+No I'm sorry that was in accounts.
+And that was -- I should've been clearer there.
+That was kind of one of the things one of the key components we've looked at is what's the organic growth rate of the businesses right? And we think about it in terms of accounts.
+And so for mutual funds we expect the account growth organically to be negative 1% to plus 1%.
+It's interesting.
+We've got some data from the St.
+Louis Fed that would tell us that we think there's about $14 trillion on the sidelines right now of $3 trillion in money funds $3 trillion in T-bills and about $8 trillion in bank deposits.
+And so when I talk about the headwind of lack of investor confidence that's really impacting that mutual fund business and the fact that we just -- we're not seeing a lot of organic growth in it.
+So we're not seeing a lot of new accounts being opened through our existing customers.
+Our final question comes the line of Peter Heckmann of Avondale Partners.
+LLC Research Division</strong> I wanted to talk a little bit more about some of the non-core investments and how -- the process that you go about evaluating.
+How you would compare keeping or retaining those investments versus liquidating them paying the tax and potentially redeploying that into share repurchases or M&amp;A? Are you going to be evaluating each investment based on a forecasted return basis and then comparing that to share repurchases? And kind of how do you contemplate then some of the unrealized -- the gains and some of the tax burden that may be incurred? Well Pete it's a good question.
+And as you've just laid out there are a number of variables right? So it's not a single threaded let's look at this investment and its return characteristics versus this option to deploy the capital.
+And so I would tell you we're working hard and working with the board on an overall capital plan for the company.
+And I think when we have more clarity that we're willing to share around that we'll certainly do it.
+But at this point I would just tell you everything is on the table and we're looking at it.
+LLC Research Division</strong> Okay.
+And are there any limitations in your mind as to share repurchases? You have not been as active there over the last year or so.
+Any limitations or considerations whether it be a large owners or potentially the convert that we should be thinking about? Pete we've got a 2 million share authorization from the board that's outstanding.
+And as I mentioned earlier we have taken the proceeds from the recent monetizations and used them to reduce our debt.
+And we did let our debt creep up a bit over the last couple years as we were out and kind of actively acquiring businesses.
+And so our focus has been on getting that those debt leverage ratios back into what I'd call more of a normalized environment for ourselves.
+So beyond that there's no real concerns beyond that relative to share repurchase.
+LLC Research Division</strong> And given that small block of Series C converts out there would you anticipate calling them in at the next call date? Pete it's Ken.
+As you pointed out we have a call right on in August of 2013.
+And we'll evaluate it at that time in terms of its cost of holding that dilution associated with it versus the cost of extinguishing it.
+We did put that call window in to give us that flexibility.
+LLC Research Division</strong> Okay.
+And then maybe one more question on mutual fund industry.
+I think we've lost something like $20 million money market mutual fund accounts over the last decade including more than half of that since the financial crisis.
+Do you anticipate when unlimited FDIC coverage for banking accounts lapses that we may see some of those funds return to the mutual fund industry in 2013? Boy Pete we hope so but your guess would be as good as ours.
+We have seen a decline in money market funds.
+We still think money market funds are a very valuable tool for not only institutional investors but for retail investors.
+And we've got a -- we service many large customers that have big money market businesses.
+And so we certainly hope to see them return but again I'd hate to venture a guess as to what's going to happen.
+Thank you.
+That concludes our question-and-answer period.
+I'd now like to turn the call back over to Mr.
+Hooley for any closing remarks.
+Great.
+Well again we certainly appreciate your interest in DST and we look forward to speaking with you for the fourth quarter conference call.
+Thanks very much.
+Thank you.
+This does conclude today's DST Systems third quarter earnings conference call.
+You may now disconnect.

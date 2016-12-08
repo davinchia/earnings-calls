@@ -1,0 +1,438 @@
+Ladies and gentlemen thank you for standing by and welcome to the first quarter 2013 earnings conference call.
+[Operator Instructions] As a reminder this conference is being recorded Thursday April 25 2013.
+I would now like to turn the conference over to Ms.
+Valerie Finberg Vice President Investor Relations.
+Please go ahead.
+Thank you Kim.
+Good morning everyone and thank you for joining us for the Level 3 Communications First Quarter 2013 Earnings Call.
+With us on the call today are Jeff Storey President and Chief Executive Officer; Sunit Patel Executive Vice President and Chief Financial Officer; and Buddy Miller Vice Chairman.
+To accompany today's call you can find the presentation slides press release and supplemental schedules in the Investor Relations section of the Level 3 website at www.level3.com.
+During our discussions of revenue results today we will be comparing this quarter's results to prior periods.
+Unless otherwise noted all revenue comparisons to prior periods are provided on a constant currency basis.
+I also want to mention that on our fourth quarter 2012 earnings call we noted that we were making some adjustments to our revenue reporting disclosure beginning with this quarter.
+The revenue results will be -- we'll discuss today are based on this new disclosure.
+For a prior period comparison please see the supplemental schedules on our website.
+I need to cover our Safe Harbor statement which can be found on Page 2 of our 1Q '13 earnings presentation which says that information on this call and in the presentation contain financial estimates and other forward-looking statements that are subject to risks and uncertainties.
+Actual results may vary significantly from those statements.
+A discussion of factors that may affect future results is contained in Level 3's filings with the Securities and Exchange Commission.
+Finally please note that on today's call and in the earnings presentation we will be referring to certain non-GAAP financial measures.
+Reconciliations between the non-GAAP financial measures and the most comparable GAAP financial measures are available in the press release and the presentation which are posted on our website.
+I will now turn the call over to Jeff.
+Thank you Valerie.
+Good morning everyone and thanks for joining us for the call.
+First of all let me say how excited I am to be the CEO of Level 3.
+It is truly a great company and I believe we have great opportunities in front of us.
+Before we get started I'd like to take a moment to thank Jim Crowe for his leadership as the CEO for the last 15 years.
+On behalf of the entire company we're grateful for his vision his passion his drive not only for Level 3 but how his leadership helped shape the communications industry that we know today.
+On a personal note I'd like to thank Jim and I'm honored by the opportunity to build on his vision and to lead our company into our next phase of growth.
+For the call today we'll follow the usual process.
+Sunit will provide remarks on our financial results for the quarter after which I'll provide commentary on our operations and talk a little bit about the CEO transition.
+Then we'll open it up to questions.
+With that I'll turn the call over to Sunit.
+Thank you Jeff and good morning everyone.
+I'd like to start with some of the highlights for the quarter which can be found on Slide 3 of our presentation.
+Adjusted EBITDA grew 18% compared to the first quarter of 2012.
+Sequentially excluding the $27 million net benefit we recognized in the fourth quarter adjusted EBITDA grew about 2% and was $6 million better than the outlook we provided in the fourth quarter 2012.
+Our gross margin was back above 60% this quarter for the first time since the Global Crossing acquisition closed.
+CNS revenue grew year-over-year and declined sequentially as expected.
+We expect to see good sequential CNS revenue growth beginning in the second quarter and expect that growth to continue for the rest of the year.
+Free cash flow was negative as expected but improved $51 million compared to the year ago quarter.
+Turning to revenue on Slide 4.
+Core Network Services revenue grew to $1.372 billion or 2% year-over-year in the first quarter of 2013.
+Sequentially CNS revenue declined 1.3% primarily as a result of the reversal in strong fourth quarter seasonal revenue the decline in U.K.
+government revenue during the quarter and a disconnect in North America that I'll cover in a moment.
+Enterprise CNS revenue grew 5.1% year-over-year and was flat sequentially.
+Excluding U.K.
+government revenue enterprise CNS revenues grew 6.8% year-over-year and grew 0.7% sequentially.
+We saw year-over-year growth in enterprise revenue in all 3 regions.
+We continue to expect enterprise CNS revenue to be the key growth driver for the rest of the year.
+Also CNS revenues declined 2.5% year-over-year and 3.8% sequentially.
+The decline was primarily the result of an anticipated disconnect from a large carrier customer in North America.
+When we signed this contract a couple of years ago we expected it to terminate in the first quarter of this year.
+On a regional basis North America CNS revenue grew 2.7% year-over-year and declined 1.2% sequentially.
+We saw a sequential growth of 1.5% in the enterprise channel which was offset by a 5.2% decline in the wholesale channel primarily due to the large carrier customer contract migration I just mentioned.
+The growth we saw in the enterprise channel was despite a decline in federal government revenue this quarter.
+The decline in federal government revenue was partially a result of the conclusion of some professional services contracts in the fourth quarter of 2012 and we did see some contract award delays as a result of the sequestration.
+We saw a strong sequential and year-over-year growth from our mid-market content and indirect channels in the region offset by federal and a slight decline in -- sequential decline in USF surcharges.
+In EMEA CNS revenue declined 3% -- 3.8% year-over-year and 1.4% sequentially primarily as a result of declines in U.K.
+government revenue.
+As we indicated on our fourth quarter earnings call we expect the remainder of the 2 U.K.
+government contracts to roll off in the first half of this year.
+U.K.
+government CNS revenue has declined 21.8% on a year-over-year basis and 8.8% sequentially.
+Excluding U.K.
+government revenue EMEA CNS revenues grew 0.9% year-over-year and 0.3% sequentially.
+EMEA wholesale revenues declined 7.7% year-over-year but grew 2.5% on a sequential basis.
+The EMEA enterprise business continues to gain momentum and enterprise CNS revenues grew 10.4% year-over-year.
+We believe it's the enterprise phase where we have the largest opportunity and where we'll see the majority of our growth in EMEA.
+Latin America CNS revenue grew 7.9% year-over-year but declined 1.9% sequentially which is a typical seasonal pattern for this region.
+Sequentially we saw monthly recurring revenue and usage revenue increase offset by certain onetime items such as professional services revenue that did not recur in the first quarter of 2013.
+Looking year-over-year we saw revenue growth in each country within the region.
+Turning to results by product group we continue to see strong growth in products geared towards our enterprise customers.
+Year-over-year we saw the strongest growth in IP VPN and data services network revenues.
+We also saw strong year-over-year growth in managed security and CDN services.
+Our CDN services grew 25% year-over-year on as-reported basis and about 2.2% sequentially and continues to represent about 2% of our CNS revenue.
+We saw a decline in year-over-year revenues in CNS voice services IP and Vyvx.
+On a sequential basis we also saw a strong growth in IP VPN data networking revenue CDN services and managed security.
+Wholesale Voice Services and other revenues declined to $205 million in the first quarter of 2013 compared to $236 million in the first quarter of 2012 and $223 million in the fourth quarter of 2012.
+As we've said in the past we manage our Wholesale Voice Services revenue for margin contribution and starting at the end of 2012 we moved away from some very low-margin international voice revenue.
+Although revenue declined sequentially the gross margin dollar contribution from the wholesale voice business was relatively flat this quarter and had little effect on EBITDA.
+On the bottom of Slide 4 for the first quarter 2013 we saw our CNS revenue churn increase this quarter to 1.6% from 1.2% in the fourth quarter.
+If you exclude the U.K.
+government contracts and the carrier customer disconnect I mentioned earlier churn would have been 1.3% this quarter in line with recent results and our average churn rate in 2012.
+We expect churn to return to average levels for the rest of the year.
+Turning to Slide 5 gross margin was 60.1% for the first quarter of 2013 up from 58.6% in the first quarter of 2012 and 59.4% in the fourth quarter of 2012.
+The expansion in our gross margin was a result of continued synergies from optimization initiatives and elimination of some very low-margin international voice revenue.
+As a result of these initiatives while total revenue declined 37% -- $37 million sequentially gross margin only declined $11 million compared to the fourth quarter of 2012.
+On a year-over-year basis total revenue declined $9 million and gross margin increased $19 million compared to the first quarter of 2012 which demonstrates the progress we are making in taking network expenses out of the business.
+SG&amp;A.
+Excluding noncash compensation expense SG&amp;A expenses declined to $562 million for the first quarter of 2013 compared to $602 million in the first quarter of 2012 and $579 million in the fourth quarter of 2012 excluding the $27 million net benefit from special items we recognized in the fourth quarter.
+The reduction in expenses is primarily a result of headcount synergies based on the actions we took in the fourth quarter of 2012 as well as other cost reduction.
+On Slide 6 adjusted EBITDA was $386 million in the first quarter of 2013 up 18% from $327 million in the first quarter of 2012 and up 2% from $380 million in the fourth quarter of 2012.
+This was $6 million higher than the outlook we provided in the fourth quarter of 2012.
+I also wanted to mention that during the first quarter we achieved an additional $30 million in run rate annualized EBITDA-synergies for a total of approximately $220 million of annualized synergy since the Global Crossing acquisition.
+As we indicated when we announced the acquisition we expected to achieve $200 million in run rate synergies by the end of the first quarter of 2013 and we exceeded that target.
+For the $80 million in remaining synergies we expect we'll achieve a large portion in 2013 and the rest in 2014.
+For the first quarter 2013 adjusted EBITDA margin was 24.5% compared to 20.6% for the first quarter of 2012 and 23.5% in the fourth quarter of 2012 excluding the net benefit from special items.
+We expect the expansion in EBITDA margins to continue.
+At the bottom of Slide 6 capital expenditures were $169 million in the first quarter of 2013 about 11% of total revenue.
+Turning to Slide 7.
+Free cash flow was negative $162 million for the first quarter of 2013 an improvement of $51 million compared to negative $213 million in the first quarter of 2012.
+In comparison to the fourth quarter of 2012 we typically see a high use of cash in the first quarter driven by working capital uses due to annual bonus payments prepayments of software license and maintenance contracts and payroll tax payments.
+Additionally as discussed previously our payables decreased by $45 million.
+Also as is typical in the first quarter our receivables increased by $29 million.
+We also had approximately $67 million in higher sequential cash interest expense this quarter due to the timing of higher interest payments in the first and third quarters of each year.
+In the second quarter of 2013 we expect cash interest expense to decline by approximately $45 million compared to the first quarter of 2013.
+As you can see on the bottom of Slide 7 free cash flow for the last 4 quarters went from negative $165 million for the quarter ending December 31 2012 to negative $114 million for the quarter ending March 2013.
+Turning to Slide 8.
+As we had indicated on the fourth quarter call we repaid the remaining $172 million of 15% convertible senior notes in full at maturity.
+Net debt to adjusted last 12 months EBITDA ratio remained at 5.3x as of the end of the quarter.
+We expect to continue to make progress this year towards achieving our target range of 3x to 5x.
+We'll continue to be opportunistic in managing our debt maturities and feel good about our improving credit profile maturity schedule and liquidity position.
+As of March 31 2013 we had cash on hand of $610 million.
+Turning to our business outlook on Slide 9.
+We feel good about growth in the business.
+We are confident about sequentially CNS growth for the rest of the year.
+We expect churn to improve in the second quarter of 2013 and remain consistent with our experience in the second half of last year.
+Additionally we started off the year with strong sales with 10% year-over-year growth in signed CNS sales orders.
+New sales opportunities in our funnel also looks strong.
+On the cost side as I mentioned earlier we expect to continue to realize additional cost synergies throughout the remainder of the year.
+Putting it all together we are confident in the guidance we provided on the fourth quarter 2012 earnings call and we are reiterating that guidance today.
+For the remainder of 2013 we generally expect sequential CNS revenue growth to be stronger compared to 2012.
+We continue to expect low double-digit adjusted EBITDA percentage growth for the full year 2013 compared to the full year 2012.
+We continue to expect capital expenditures to be about 12% of total revenue for the full year.
+We expect to be free cash flow positive for the full year 2013 excluding the payments made on our interest rate swap agreements.
+So in summary we're focused on profitable revenue growth and driving adjusted EBITDA and free cash flow growth.
+With that I'll turn the call back over to Jeff.
+Thanks Sunit.
+I'd like to start off with a summary of our results for the quarter.
+While we saw good growth in adjusted EBITDA of 18% year-over-year we're not pleased with our revenue performance.
+On the revenue side in addition to the seasonal pressures Sunit mentioned we also saw a couple of large customer contracts disconnect.
+These disconnects are not a reflection of the current service performance and in fact the majority of these contracts were lost several years ago that finally disconnected this quarter.
+These include certain of our U.K.
+government contracts and the carrier contracts Sunit mentioned.
+As we look forward our leading indicators for revenue growth for the rest of the year are strong.
+We had a good start to the year in terms of CNS sales which were up 10% year-over-year.
+This CNS sales growth came from all 3 regions with the strongest growth in North America.
+We also see strong results in service delivery.
+Our service delivery teams have done a good job keeping up with installations over the past 1.5 years since the closing of the Global Crossing acquisition.
+I'd like to reiterate Sunit's comments about our focus on cost management initiatives.
+In 2012 we focused on maintaining the customer experience while realizing the synergies from the Global Crossing acquisition.
+In 2013 we are focused on profitable revenue growth and ensuring we have an operating model and a cost structure that are optimized for the customers we serve.
+While we continue investing in sales headcount we believe we have the opportunity to be more efficient and effective in the way we operate and will focus on streamlining our business and our processes.
+These efforts are not just for the sake of cost cutting but are really revenue growth initiatives aimed at improving efficiency and putting us in a better position to win in the market.
+As an example we believe our intervals that is the time it takes us to turn up the customer's new service is the key differentiator in the market.
+As we improve the efficiency of our service delivery team through process improvement and additional automation we are able to continue improving our intervals increase the team's productivity grow revenue without increasing operational cost and most importantly serve our customers more effectively and further improve the customer experience.
+We recently completed our semiannual global customer loyalty survey.
+The headlines from the survey are that overall customer satisfaction improved in each of our 3 regions and that we doubled the percentage of customers willing to refer Level 3 to others.
+A customer willing to be a reference says it all and we're very pleased with the results of the survey.
+Today nearly 65% of our revenue comes from enterprise customers.
+They buy from us because we have an extensive global footprint because we have a product set that meets their needs and because we provide secure and reliable services.
+We continue to add buildings and markets to our network extending our reach and our on-net capabilities but we do so with lower capital intensity than many of our competitors in part because of our extensive infrastructure that's already in place.
+Historically we've seen capital expenditures at about 12% of total revenue and we think this continues to be the right level for us.
+On past calls we've talked about continuing to grow our sales force and improve the productivity from our existing sales team.
+These are still very important aspects of leveraging our network assets and driving growth.
+Looking at sales headcount we did not make the progress we would have liked in the first quarter.
+Attrition within our sales team was much better year-over-year but still higher than we expected in the first quarter and as a result our sales team was essentially flat during the quarter.
+Turning to pricing environment in the first quarter we saw little change since we updated you on the fourth quarter call.
+Pricing for metro enterprise and data center services remains generally favorable.
+We continue to see more aggressive pricing for high-speed IT and point-to-point wavelength services for ultra-long-haul routes and to some extent for CDN services.
+With respect to the CEO transition I'd like to share my thoughts on the opportunity we see going forward.
+Some of you have heard me say why I came to Level 3 but I thought I would share it again.
+I came to Level 3 because I believe in the company was in the best position to challenge the incumbents and to build that next generation of communications carrier that our customers are looking for that our customers want.
+I came to Level 3 because I believe we have the network and the people to really compete on a global scale.
+Four years ago when I came there were doubts as to whether we could transition from a carrier's carrier model to an enterprise carrier service provider.
+There's no question today whether we can be effective in serving and growing our enterprise business.
+We've proven that over the last 4 years.
+We've had several years of organic growth with enterprise customers in particular enterprise data services are and have been the company's growth engine for the past several quarters.
+In the meantime we acquired Global Crossing and expanded our enterprise products and our international capabilities.
+In doing so we also demonstrated that we can manage large-scale global integrations delivering the expected synergies while maintaining the customer experience.
+Today I believe in our vision.
+Our vision to be the trusted connection to the network world.
+I believe in our team and our ability to continue to execute for our customers and deliver the best service in the industry.
+And finally I believe in our ability to leverage all of these things to drive profitable revenue growth delivering margin expansion EBITDA growth and free cash flow growth.
+Today we are not planning any major changes to our strategy but we'll focus aggressively on execution efficiencies and operational excellence.
+Our success over the next few years will depend on our ability to execute.
+We will certainly review our strategy over the next 90 days to refresh and update our thinking but the core strategy to leverage the billions of dollars in network infrastructure we own and deliver bandwidth-intensive services to enterprise and wholesale customers will remain intact.
+Many of you have asked what my plans are around filling the COO role.
+At this time I do not intend to fill the COO position.
+I strongly believe that our day-to-day execution around improving our processes and efficiencies is one of the most important things we can do to achieve our strategy and that staying close to the core of our business is the best way for us to improve execution.
+In summary I'm excited about our opportunities.
+I believe the strategy we've developed over the past several years is the right one and that our focus on execution across the business is the key to our success.
+With that we will open it up to questions.
+Operator would you please explain the process? [Operator Instructions] Our first question comes from the line of Scott Goldman with Goldman Sachs.
+Research Division</strong> Two that I have this morning.
+One I guess just want to revisit the EBITDA guidance you have out there.
+You put up I think 18% year-over-year growth in the first quarter obviously pacing better than initially expected on the synergy front.
+You have the benefits of the restructuring that you did in the fourth quarter.
+So help us think about why low double-digit growth is sort of the right pace particularly given those things that I mentioned as well as the fact that you expect CNS growth to be stronger in '13 relative to '12 and your starting point? And then second just hoping we could revisit the free cash flow question from last quarter.
+Obviously you guys reiterated guidance on that front.
+Sunit hoping maybe we could pinpoint a little bit -- I think we feel comfortable with the EBITDA the CapEx the interest side of things but give us -- is there any parameters you can put around what we should expect on the working capital side of things and what the factors are that influence whether you fully take in the interest rate swaps or just do the half for this year? Sure I'll take both of those.
+On the EBITDA guidance yes we had a strong first quarter or first quarter year-over-year growth.
+Keep in mind that we're just at the beginning of the journey in terms of the synergies over the course of last year.
+We got a lot of benefit from synergies and also in the first quarter.
+But I think going forward we're now at the tail end of the synergies so we won't get as much benefit from cost reductions as we did over the last 4 or 5 quarters.
+That really is the biggest difference.
+I think the margin contribution from CNS revenue growth will be a bigger contributor this year since we generally expect stronger sequential growth this year compared to last year.
+So I think that as you look at the EBITDA growth year-over-year every quarter it won't look as strong just because as I said we had a lot of synergy reduction last year.
+On the free cash flow I think that you saw the improvement year-over-year in free cash flow.
+Looking forward most of the free cash flow improvement is just driven by higher EBITDA that we've seen over last year and the working capital front as I indicated last quarter.
+Payables continue to be a use of cash this year.
+You saw that in the first quarter.
+I think we have a little more to grow on the payable side.
+Receivables generally should be a source of cash for the remainder of the year.
+The other thing that we mentioned last quarter is that we have some litigation payments that could happen this year as we -- some of those get saddled so we'll have more to talk about that later in the year.
+And then as a reminder the interest rate swap obligation that we had was about $56 million in that range last year.
+We make equal payments every quarter.
+We have about $45 million or so left on that obligation.
+Those payments will happen quarterly over the course of this year and the first quarter of next year.
+So I think still early and as you pointed out I mean I think the EBITDA guidance that we provided and the interest expense guidance and the CapEx guidance are fairly stable.
+So most of the action of the volatility is on the working capital side which can obviously fluctuate by tens of millions depending on how the year goes plus the litigation variance I mentioned to you.
+So I think we'll be able to be a little sharper later in the year but I think at this stage it's still early and we continue to be comfortable with the guidance we provided last quarter.
+Research Division</strong> And just a very quick follow-up.
+I appreciate all the detail.
+As you look at the working capital and you think okay last year was about an $80 million use of cash on that front.
+Is there any clarity you can provide? I mean is it possible that we could see a higher use of cash this year as you clean up the payables and face that litigation? Or is that $80 million sort of a good benchmark to use in recognizing there will be fluctuations that could move in either direction? I think it's a reasonable benchmark.
+I think -- but obviously as I said you say $80 million and plus or minus tens of millions.
+But it's good as any.
+Our next question comes from the line of Simon Flannery with Morgan Stanley.
+Research Division</strong> Sort of a quick follow-up on the guidance question.
+Is -- how much or if any of the Q2 comp charges included in your EBITDA guidance? And then for Jeff thanks for the discussion of your priorities.
+Now that Global Crossing is largely integrated still some synergies flowing through how do you think about considering other M&amp;A? Your balance sheet's obviously in a much stronger position.
+There's a lot of fast synergies as we've seen.
+Are there other markets are there other product sets that you're thinking about here in terms of gaining more scale or do you think it's much largely going to be focusing on the assets you have right now? Sunit? I'll take the first question and then turn it over to Jeff.
+So Simon I think I mean you saw we exceeded our outlook by about $6 million in the first quarter.
+The charge for Jim's employment agreement from an adjusted EBITDA perspective is $6 million in the second quarter.
+Obviously the larger component is on the noncash comp because of investing acceleration.
+So we are not changing our outlook.
+I think we're staying with the outlook that we provided so no changes as a result of that.
+Okay.
+With respect to the M&amp;A Simon we are largely integrated with Global Crossing.
+We still have a lot of work to do to provide the level of experience that we want for our customers and believe that we can provide to the market.
+With the acquisitions we completed so far we have something around $40 billion in PP&amp;E worldwide.
+We think we have responsibility to our shareholders to maximize the value in those assets and as we talked about earlier focus on profitable growth by taking advantage of what we already have.
+That said there are reasons why you want to do acquisitions for new products and new geographies that you mentioned.
+And we'll consider those but they have to be in line with our acquisition criteria.
+And specifically that means accretive on a free cash flow per share basis and deleveraging to the balance sheet.
+We'll be opportunistic but M&amp;A has a high hurdle and we need to evaluate against that criteria.
+Our next question comes from the line of Ana Goshko with Bank of America Merrill Lynch.
+Research Division</strong> Jeff I wanted to ask you for some additional insight on how you believe macroeconomic concerns or is just related to sequestration are impacting spending patterns by your customers? We heard some other carriers talk about delayed spending by enterprises.
+And in particular I know a couple of years ago when we were in the depths of recession and kind of a credit crisis you had talked about or the company had talked about customers really running their networks very hot or hotter with a lot less available capacity.
+And would be interested in any insights into where you think your customers are in that front as well.
+Sure sure.
+With respect to sequestration we are seeing some delays in the U.S.
+government from different contract awards that they might have.
+Nothing really substantial or material but we do expect that that will slow things down with the U.S.
+government.
+In the general macroeconomic environment and we've said this for a while our ability to grow -- we have relatively low market share.
+Our ability to grow is based on our ability to execute position our products in front of our customers talk to them communicate the value of them and not overly dependent on the macroeconomic environment.
+When we get much higher percentage of market share then maybe that'll become more of a concern.
+It is a concern occasionally on the wholesale side and that really gets to your second question which is around running networks hotter.
+That's not a phenomenon we see in enterprise.
+That is a phenomenon we see in wholesale and frankly we've seen it since 2009.
+And I wouldn't say that carriers have ever gotten back to the point where they're not running their networks hot.
+So the growth that they see in underlying demand generally translates to growth that we see in the wholesale business.
+And so the network hot phenomenon is not as big of a deal as it was in 2008 and 2009.
+Yes.
+And one other thing just to give you some more specific color Anna we've seen our sales orders are up 10% year-over-year.
+When we look at that between enterprise and wholesale our wholesale orders year-over-year were up 8% our enterprise orders were up 11% within that 10%.
+There was a mix.
+But more importantly almost 74% of our orders in the first quarter was from the enterprise sector side.
+That's why you see it.
+I mean we continue to feel enterprise is going to be the key growth driver for us.
+And as Jeff pointed out it's all about execution and taking market share versus the overall economy.
+Our next question is from the line of Colby Synesael with Cowen and Company.
+LLC Research Division</strong> Great.
+Two questions if I may the first one on the CNS sales being up 10% year-over-year.
+I was hoping you could actually give us some context in terms of how that compares to previous quarters and kind of make the plea that maybe you'd give us that number on a go-forward basis just so we could actually make some comparisons as we move forward.
+Typically companies give that number every year and there and it's not nearly as helpful if you did that more consistently.
+So wondering if you could give us some background on how it's been trending.
+And then the second question.
+Actually Jeff I'm just curious now that you're the CEO if you could actually try to describe to us your style as CEO what you think you're going to bring to Level 3 both as it relates to operations and how you are going to be approaching investors maybe contrasting that perhaps to what you had under the previous regime with Jim.
+And maybe even kind of touching back at your stint as CEO when you were at WilTel.
+Okay Sunit you want to...
+Yes I'll take the question on sales.
+So I mean generally like most of these things we do have some seasonality in the sales.
+Typically the first quarter you'll start off a little slow in January and then February and March tend to be stronger.
+We talked about that last year which is why we look to the year-over-year comparison.
+Typically in the fourth quarter you have good sales but you do lose a couple of weeks in December.
+So I think generally the right comparison is the year-over-year comparison.
+I think we wanted to provide -- just to say that the tone of the business was strong we'll take your request into consideration.
+But as I look at the fourth quarter sales and first quarter sales not much different fairly comparable I would say.
+So not that different and it's tough to gauge too much between whether sequential comparison or sales orders.
+The real key that drives revenue growth is what you install as Jeff talked about what the churn rate is and then obviously any change in usage are really the key drivers.
+Rate changes are not much of a driver on the margin.
+It's meaning pricing changes are small compared to those 2.
+LLC Research Division</strong> Sunit I hear all your points.
+I just think that if you're trying to make it out that the 10% is a positive number which I think you are it's certainly helpful for us to compare that to something rather than just take management's word for it.
+Not that we're not but it's a lot helpful when we could actually look back over time.
+Yes fair enough.
+We'll take that into consideration.
+And Colby thanks for your second question although talking about myself is my least favorite topic.
+Maybe that's one difference between me and some other CEOs.
+But if -- I'm an operations guy at my core.
+Operations does not mean the physical operating of the network but it means growing our business and selling our services to our customers and interfacing with our customers and providing a great customer experience to them.
+You've heard us talk about those things for the last 4 years since I've been here.
+We will continue to talk about those things.
+If you look at my time as the CEO of WilTel ultimately we sold the company to Level 3.
+But our focus from the day that I became the CEO was generating free cash flow.
+And we believe that if we got on a path where we were continually growing free cash flow quarter-over-quarter that whether we chose to sell the company or we chose to maintain and operate the company that both those things that was a -- the primary driver for returning to our shareholders is driving that free cash flow growth.
+So you'll see us continue to focus on that.
+In my interactions with investors obviously we want to maintain the relationships with you guys and make sure that we're talking about our business and communicating accurately about where we are both good and bad.
+I think in general and this is not a comparison to Jim but just in general compared to other CEOs I like to talk less and deliver more.
+So we will continue to talk to you but ultimately what I want to do all our talking is our performance that we will deliver sustainable return repeatable free cash flow growth over the long term and we'll continue to grow our top line revenue that driving bottom line performance.
+Our next question comes from the line of Donna Jaegers with D.A.
+Davidson.
+Research Division</strong> Sunit can you give us a little more color on the loss of the U.S.
+wholesale contract? I'd -- maybe my memory's gone but I'd never remember you guys really mentioning that much before.
+And then a longer-term question.
+Fiber to the Tower you guys had to sort of pass on it in the U.S.
+because of cash issues.
+But Latin America's now just starting to look at converting to LTE.
+Will you be more aggressive in trying to get in front of the Fiber to the Tower in Latin America? Sunit will you take the first? Yes I'll take the first one.
+I think the wholesale contract again as I said in my remarks back a couple of years ago we had a contract with the state government that transitioned to a carrier customer.
+And so we knew that the 2 years we had were transition in nature and at the end of the 2 years that would go away which is exactly what happened.
+So I think that's -- too make it more detailed though won't help you but that's essentially what happened.
+It's a 2-year situation.
+We knew about it.
+We were happy when it happened because as opposed to losing that contract back 2 years ago the wholesale carrier that got it which was the incumbent in the region couldn't really get off of the network.
+So we got 2 more years life out of it which we're happy about.
+I mean he was going away.
+On the Fiber to the Tower I'll turn it over to Jeff but it wasn't the cash constrained as much as it was the fact that we have much better higher-return opportunities to enterprise buildings than we had to towers.
+And obviously some of that is changing as the towers move from T1s to fast ethernet-type connections.
+But I'll let Jeff talk about what we think about that regionally Latin America and all.
+Sure.
+Sunit's right it's not -- wasn't a capital constraint issue it's a resource allocation issue.
+It's where do we think we can allocate our capital and our resources to get the best return for our shareholders.
+Hector Alonso is the Regional President of Our Latin America business and Hector's actually here in Greenfield this week and we spent the last couple days talking about Latin America and EMEA and North America and our business strategies for each of those markets.
+We will continue to look at tower opportunities in all of the regions but in particular places like Latin America where we're a little more ahead of the curve.
+But we'll put them in the context of our other investments that we want to do and the way that we really drive revenue growth.
+And for us in Latin America it's enterprise business.
+Our enterprise customers we think we have a great opportunity.
+We have good data center business there and a lot of opportunity to grow with enterprise business.
+So we will put that in the mix as we go through our strategy reevaluation and refresh.
+And opportunistically if we go buy a tower we're definitely going to try and light it but we'll also look at the bigger deals that we can do in a country or in the region.
+Our next question comes from the line of Brett Feldman with Deutsche Bank.
+Research Division</strong> You spent a long time building this company to get to a place where you have an asset that you like and you have a balance sheet that's much more manageable.
+And you're through a lot of effort here now that you're reaching the tail end of the Global Crossing integration.
+So I'm wondering if you have a bigger opportunity to start focusing far more internally on becoming a better company.
+And the example that I'm thinking of is I see pretty good gross margins and yet I see a reasonably low EBITDA margins.
+And so there is some evidence that perhaps your cost structure is more bloated than it needs to be maybe just as a result of having spent the better part of a decade doing a lot of M&amp;A.
+What's your view on the opportunity here to take costs down and maybe make that more of a focus of the company? Brett I think your question's a really good one.
+And if you -- in my comments about 2013 we are focused on driving profitable revenue growth and really gaining efficiencies and effectiveness in our operations.
+And so our focus is exactly what you said on being a better company on performing better on being more efficient.
+And we believe that not only does it help you on the EBITDA side and the free cash flow side but we believe it helps you on the revenue growth side.
+If we can become more efficient and continue to improve the service level that we offer customers and the price point at which -- the cost point at which we have to provide that service then we can grow faster.
+And so we're going to do exactly what you described focus on becoming a better company more efficient more effective and believe not only does it help the bottom line but it also helps us grow the top line.
+Research Division</strong> Have you done any benchmarking on this? I mean I know maybe the question is a bit premature because you've just come out of a pretty high-effort integration with Global Crossing.
+But it just does seem that you ought to be able to achieve much greater cost efficiencies over time.
+I just wanted to know how far you are into even thinking about that.
+Let me take that.
+I think we have spent a lot of time on it.
+One of the things that happens when you roll up a lot of companies is you -- just 1 or 2 examples you get a lot of real estate calls for technical facilities that you have long-term leases on.
+So for example we had and over the next few years we will continue increasing our emphasis and intensity as some of these leases come up with explorations to get out of more and more facilities and reduce our rent expense.
+So you -- compared to other companies that might not have done that with their M&amp;A our rental expenses are higher real facilities expenses are higher and when we see that has an opportunity.
+Similarly part of having more facilities means we're a high-power expense.
+So one of the things we're focused on is improving the PUE factors which is a measure of our efficiency in a data center and reducing the footprint which guides big reductions in our expenses.
+And then it's all the other operational things that Jeff was talking about in terms of improving processes putting us on common systems platforms and just driving overall effectiveness.
+So we look at revenue per employee-type measures which we think we are pretty good on but we still see opportunities for improvement Our next question comes from the line of Tim Horan with Oppenheimer.
+Research Division</strong> I think just 2 questions.
+Sunit just a follow-up on those expense items you mentioned really seem to be more on the operating cost side than on the SG&amp;A side.
+Your SG&amp;A is about 1 000 basis points above what a typical kind of services company looks like...
+Tim those costs I just mentioned run through the SG&amp;A line.
+The only thing that goes off to our cost of sales line is essentially what we baked to third-party network providers or network expenses sorry.
+Research Division</strong> Okay.
+So it sounds like your accounting's a little bit different than some of your peers.
+It sounded like you had a little bit more on the SG&amp;A side than maybe a typical services company.
+Yes and it's always been that way by the way.
+We've never changed it.
+Research Division</strong> Right.
+Okay great.
+And then on the -- just 2 questions on the revenue side.
+Are there any wholesale contracts or contracts like you have with the government in the U.K.? I mean I know this is hard to predict but over the next couple of years do you think you can lose or be kind of largely behind that process? At then on the enterprise side can you just talk about what products you're having a lot of success with right now on the sales front? I'll take the first question.
+I think on the wholesale side no.
+The only comment I would make is obviously there's as always a little bit of a lag period because when you see the disconnect and then the next quarter you see the full effect of that depending on the timing or when the disconnect happened in the quarter.
+But overall and back towards Jeff pointed out the -- our wholesale customers all looking to run the networks a little harder and squeeze things out.
+And we've said the enterprise is the key growth driver for us.
+So tough to point to any specific large contracts other than -- it's one of the things that Jeff has forced out of us to make sure that over the course of this year and next year anything that we think is a big-risk item we are focusing very early on on managing that risk.
+And then your question on the enterprise I will let Jeff cover for you.
+Sure.
+In general the products that we're being successful with are enterprise data services enterprise data networking whether it's VPNs virtual private networks tying locations together or providing the underlying infrastructure for enterprise customers' cloud applications and in cloud networking initiatives data centers in Latin America and Europe.
+It's really the primary driver of growth right now for us and enterprise is the globalization and the data-centric nature of our enterprise customers.
+And so it's data center services and the big networking services that we see most of the growth.
+Our next question comes from the line of Frank Louthan with Raymond James.
+Inc.
+Research Division</strong> All right.
+Jeff you mentioned coming in and seeing the opportunity on the enterprise side and I think that's a good strategy.
+But you now you have an opportunity to look at things with a little bit more of a clean slate.
+Would you consider maybe changing your exposure to the -- your wholesale business? Because when I look at the business it's still a substantial amount of wholesale business.
+And to the comments earlier about the margin differential we see other carriers that have a lot less wholesale exposure and they have better margins.
+You see wholesale under pressure from the hour box this quarter and continue to be under pressure.
+And it seems to me that this is not the most attractive part of the business.
+And clearly that was the original vision of the business and you moved away from that.
+What are your thoughts there about getting out or more aggressively getting out of some of that business or changing it or are the margins better there and not so good in the enterprise side? We don't really get a breakout there.
+So how was the -- what's your sort of operating philosophy going to be around that going forward? Sure.
+First of all we are going to review our strategy over the next couple of months and we'll talk more about it going forward.
+But in -- by and large we think our strategy is right and wholesale is an important element of it.
+Although we have been intentionally shifting from wholesale to enterprise and we will continue that shift.
+We'll continue to grow enterprise and continue to focus on that growth.
+The reason wholesale is so important is it gives us a very large portion of the scale and scope and justifies the network build that we've been -- that we need to really effectively serve enterprise customers.
+And so wholesale is a key component of our strategy making sure we have scale making sure that we have the scope and the reach of the network and making sure though that to your point that we do it profitably.
+We want profitable growth on enterprise and wholesale side.
+Not just one but we will continue to focus on leveraging our wholesale assets and our wholesale customers to be more successful in the enterprise business.
+Yes.
+A couple of other points on the margin.
+So at number one I think our margins profitability is pretty consistent across wholesale and the EBITDA level wholesale and enterprise.
+The other big thing to realize that our wholesale voice business is a larger proportion of revenue base than what you see now the carrier.
+So as that wholesale voice business which has much lower gross margins shifts down over the next years that alone will bring us more in line with what you see with other providers.
+So keep in mind that's the other thing we have on the mix.
+But if you put the wholesale voice services aside for a second our profitability across both wholesale and enterprise is pretty comparable.
+What we like about the enterprise business is more spread out more diffused and lower churn and we see better growth opportunities there for -- in terms of taking market share.
+And Frank one other point it makes money for us today.
+Even if it's not growing generates free cash flow it's in place it makes money for us today and we'll continue to loop that business and make sure that we're running it properly so that realizes it does give us scale.
+Our last question comes from the line of Arun Seshadri with Crédit Suisse.
+Research Division</strong> A couple of quick ones.
+The first one I just wanted to understand your performance versus your own internal expectations on the adjusted EBITDA line was the outperformance largely result of cost synergies? And then secondly on CNS sounds like most of the contracts the U.K.
+government as well as the carrier contract were expected.
+Was the magnitude of that impact a surprise to you? And then secondly maybe a question for Jeff overall I just wanted to understand small cell opportunity over the long run perspective of what that could mean for Level 3 with a lot of the players obviously bringing different assets to the table.
+Just would love to hear your perspective on that.
+Arun I'll take the first couple of ones.
+So I think EBITDA outperformance in the first quarter better than our outlook was driven by us doing well on the cost side.
+And then your question on CNS revenue growth as we say it we do expect a decline.
+Was the decline great or less than we thought? I would say Jeff said it best that we are not pleased with the revenue performance.
+Having said that I mean when we look at the forward-looking indicators we feel pretty good about revenue growth for the rest of the year.
+But it was about in line I would say roughly with what we thought.
+But that doesn't mean we were pleased with the performance.
+Arun on your second question to make sure I understand it you're asking about small cell sites as wireless as to smaller and smaller cell sites? Research Division</strong> Yes that's right.
+Okay.
+Small -- it depends on where they're located right? We have an extensive network infrastructure and if it's us building fiber to some remote small cell site it's not going to happen.
+If it's in a building we already serve and they want a fast-E circuit into that absolutely.
+And so we will continue to work with those carriers.
+All the wireless carriers are major customers of ours.
+We have good relationships with them.
+We'll continue to work with them to make sure that we're helping their network evolution but it's consistent with our own network evolution and the direction we want to take our products and services.
+Thank you all very much and operator that ends the call.
+Thank you.
+Ladies and gentlemen that does conclude the conference call for today.
+We thank you for your participation and ask that you please disconnect your lines.
+Have a good day everyone.

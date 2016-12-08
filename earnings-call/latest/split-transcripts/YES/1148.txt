@@ -1,0 +1,223 @@
+Good morning and welcome to the DST Systems’ Third Quarter 2015 Earnings Conference Call.
+At this time all lines have been placed on a listen-only mode to prevent any background noise.
+After the speakers’ remarks there will be a question-and-answer session [Operator Instructions] In the course of this conference call today forward-looking statements may be made regarding DST and its businesses.
+Such statements are based on the Company’s views as of today and actual results could differ materially from the forward-looking statements.
+There are a number of factors that could affect the Company’s future results including those risk factors set forth in DST’s latest annual and quarterly reports filed with the SEC.
+All such factors should be considered in evaluating any forward-looking statements that may be made.
+Now I would like to turn the conference over to our host Mr.
+Steve Hooley Chairman President and Chief Executive Officer of DST.
+Please go ahead.
+Great thank you Laurie.
+Well good morning and thank you for joining DST Systems’ third quarter 2015 earnings call.
+With me today is our Chief Financial Officer Gregg Givens.
+I’m going to start by going through some of the highlights for the quarter and then we’ll turn the call over to Greg for additional detail on our financial results.
+In the third quarter of 2015 consolidated net income was $75.1 million or $2.08 per diluted share.
+On a non-GAAP basis consolidated net income was $53.9 million or $1.49 per diluted share compared to $61.2 million or $1.54 per diluted share in the third quarter of 2014.
+Excluding the ongoing impact of the sale of Global Solutions in the fourth quarter of 2014 and negative foreign currency movements revenue growth was 4.7% for the quarter.
+The third quarter results reflected continued impact of revenue growth from new clients and recently completed acquisitions offset by the partial de-conversion of the healthcare client we have previously disclosed.
+In addition as we’ve discussed in prior quarters we are continuing to make significant investments across a number of areas to expand our service offerings.
+The investments protect the integrity and security of the data in our systems maintain regulatory compliance and update our infrastructure plateaued during Q2 of 2015 and should remain near current levels.
+As we view this as we view our responsibility to our clients and shareholders in this area as a top priority.
+These investments have impacted operating margins however we are confident in the long-term outlook for our businesses and the opportunities available to help mitigate the impact of these investments by leveraging the value across all of our business segments.
+Overall our goal is to continue to improve margins in each of our segments while realizing operational efficiencies to drive continued profitability.
+We believe in our strategy and the ability of our team to execute it.
+As we work to generate future growth through these direct investments in our business we are also continuing to grow through acquisitions.
+This quarter we completed the acquisition of Red Rocks Capital LLC in July and in August we closed on Wealth Management Systems.
+We’re in the process of integrating both businesses and continue to identify ways to opportunistically add complementary businesses products and new strengths across our company.
+Moving to our segment results in our Financial Services segment operating revenues decreased by $9.3 million or 3.3% compared to the third quarter of 2014.
+As I mentioned the operating revenue decline is primarily due to the sale of Global Solutions in fourth quarter of 2014.
+Excluding Global Solutions and negative foreign currency impacts during 2015 consolidated operating revenues for Financial Services increased $16 million or 6.1% in the third quarter primarily driven from organic and new client growth within retirement and brokerage solutions and increased development revenues at Bluedoor.
+Our ALPS business continues to be negatively impacted by the declining energy and commodity markets.
+However we remain committed to our strategy at ALPS and expect to continue to make investments in this area as evidenced by our recent acquisition of Red Rocks.
+Total mutual fund share in our accounts at September 30 2015 were $96.8 million a decrease of one million accounts as compared to September 30 2015.
+Conversions of registered accounts to sub-accounts are currently estimated to be approximately 2.5 million to 3.5 million accounts in 2015 which is below the Company’s previous guidance of four million to five million accounts.
+As we have discussed the blocks of accounts remaining on our system are relatively small.
+We do not expect to provide sub-accounting guidance after the fourth quarter of 2015 as the impacts of de-conversions are not expected to be significant.
+In our Healthcare Services segment during the third quarter we reported $94 million of operating revenues which decreased slightly from third quarter 2014 primarily due to lower pharmacy claims processing revenues resulting from the previously announced de-conversion of Cygnus Medicare Part D business on January 1 2015.
+The balance of Cygnus business was scheduled to de-convert during 2015 and 2016.
+We’re very pleased to announce that Cigna which is one of our largest healthcare clients has extended their relationship with us for the administrative management of their commercial pharmacy claims business under a multiyear agreement.
+We’re excited to renew our relationship with Cigna and to help support their ongoing efforts to drive improved affordability and better health outcomes for their customers.
+We believe this decision by one of our largest healthcare clients validates the strategy we have pursued in the investments we have made over the past three years in our healthcare business.
+Customer communications operating revenues for the third quarter of 2015 increased $3.2 million to $153.3 million compared to third quarter 2014.
+Excluding unfavorable foreign currency movements operating revenues increased $8.7 million primarily due to the conversion of previously announced new clients.
+We also continue to be pleased with the margin expansion in our North American Customer Communications business.
+Our equity and unconsolidated affiliates increased primarily from higher IFDS earnings.
+The increase in IFDS earnings is largely from higher revenues recognized related to the ongoing conversion activities organic growth at existing customers and new client processing revenue.
+Partially offsetting the increase revenues are higher operating costs as IFDS expands its infrastructure to prepare for the additional new clients and associated service offerings as well as negative foreign currency impacts in both UK and Canada.
+And finally we view the market dynamics during the quarter as an opportunity to repurchase a significant amount of DST’s stock.
+During the third quarter of 2015 DST spent a $175 million to repurchase approximately 1.6 million shares of DST common stock.
+We’re confident in the direction of our business and the strategy underway to continue creating long-term value.
+As of September 30 2015 the company had $225 million remaining under the existing share repurchase plan.
+We continue to evaluate our capital plan on an ongoing basis with the goal of proactively managing our resource needs to determine the most effective and productive use of our assets.
+As part of this plan we’ve had a consistent and successful track record of monetizing the company’s non-operating assets which has generated over a $1 billion in proceeds over the last three years.
+The levels of monetization will decline in 2016 as the majority of our liquid assets had been monetized.
+At the same time we continue to make significant investments in organic initiatives and accusative growth to drive value and we will continue to be opportunistic with regard to continued share repurchases.
+With that I would like to turn the call over to Gregg Givens for a detail discussion of our third quarter financial results.
+Well thanks Steve.
+On a GAAP basis this quarter we reported consolidated net income of $75.1 million or $2.08 per diluted share.
+This compares to $100 million of net income or $2.51 per diluted share for the third quarter of 2014.
+The year-over-year decline was primarily due to lower realized gains on the sale of securities as a result of fewer sales of investments during 2015.
+On an adjusted basis our non-GAAP earnings per share were $1.49 a decrease $0.05 or 3.2% from third quarter of 2014.
+The remainder of my comments will focus on our adjusted non-GAAP results.
+Consolidated operating revenues for the quarter decreased 1.5% or $7.9 million year-over-year to $502.6 million.
+Primarily due to the sale of our Global Solutions business which as you know was sold during the fourth quarter of 2014.
+Excluding Global Solutions’ $19.4 million of third quarter 2014 operating revenues and $11.4 million of negative foreign currency impacts consolidated operating revenues increased by $22.9 million or 4.7% in the third quarter 2015 as compared to 2014.
+Consolidated operating income decreased 12.4% or $10.7 million to $75.7 million.
+$4.6 million of this decline is a result of the sale of Global Solutions.
+Operating income this quarter was also negatively impacted by a decrease in certain higher margin revenue item such as the decrease in mutual fund accounts processed and the partial de-conversion of health customer at the beginning of this year.
+Additionally costs have continued increase for security regulatory compliance and various other infrastructure enhancements.
+Consolidated operating margins were 15.1% in the quarter as compared to 16.9% in the third quarter of 2014.
+Within the Financial Services segment operating revenues decreased by $9.3 million or 3.3%.
+This was primarily driven by the sale of Global Solutions which contributed $19.4 million of operating revenues in third quarter of 2014.
+Excluding Global Solutions’ 2014 results and the 2015 negative foreign currency impacts operating revenues increased $16 million or 6.1% in the third quarter of 2015 as compared to the third quarter of 2014.
+This growth was primarily from organic and new client growth within brokerage retirement solutions and increased professional services revenues at Bluedoor.
+Also we had an increase in revenues from the three businesses we acquired during 2015 as they contributed $3.4 million of incremental operating revenues during the quarter.
+The operating revenue increases continue to be partially offset by declines in mutual fund registered [shareholder] (ph) account processing due to lower registered accounts.
+Financial Services’ income from operations decreased $10.8 million or 18.1% from the prior year quarter to $49 million.
+There are four primary drivers causing the decrease in operating income.
+First is the sale of Global Solutions; second is the higher cost associated with new business initiatives and investments in new service offerings including the expansion of our Bluedoor Wealth Management platform into the UK market.
+Third is the increased technology surety and regulatory compliance costs incurred to enhance our network infrastructures.
+And the fourth and final items is a total of $2 million cost increases due to the amortization of acquired intangibles and the expenses for the performance based contingent consideration resulting from our 2015 acquisitions.
+Financial Services operating margin was 17.9% in the quarter which is a decrease from the 21.2% operating margin in the third quarter of last year but an improvement from the 15.7% reported in second quarter of 2015.
+Our Healthcare Services segment operating revenues were $94 million a decrease of $1.5 million or 1.6% from third quarter of 2014.
+The decrease is primarily due to lower pharmacy claims processing revenues resulting from the de-conversion of Cygnus Medicare Part D business at the beginning of this year.
+The decrease in operating revenues was effectively offset by organic growth at existing clients.
+During the third quarter healthcare services income from operations decreased by $2.4 million to $13.2 million.
+The decrease is primarily a function of a mix in revenues.
+On one hand we have lower pharmacy claims processing revenues which tend to carry a higher margin and on the other hand we have higher medical claims BPO revenue which tend to have lower operating margin.
+The combination of these two factors had the effect of reducing operating income for the quarter.
+Operating margin for the third quarter of 2015 was 14% as compared to 16.3% in the third quarter of 2014.
+In our Customer Communication segment operating revenues increased year-over-year by $3.2 million to a $153.3 million.
+The primary driver is form the incremental volumes that have been converting on to the platform since the fourth quarter of 2014 for the previously announced new clients.
+These increases were partially offset by $5.5 million in unfavorable foreign currency exchange rate movements in our Canadian and UK operations.
+Overall customer communications operating income were $13.2 million - of $2.7 million from the same quarter last year.
+Higher operating revenues coupled with the cost savings achieved from the 2014 closure of certain facilities in North America drove the increase in operating income.
+Customer Communications segment operating margin for the third quarter of 2015 was 8.6% as compared to 7% in 2014 driven by improved margins in North America and partially offset by decline in UK margins.
+DST’s equity and earnings of our unconsolidated affiliates increased by $1.6 million to $11.8 million this increase was driven primarily from higher IFDS earnings.
+IFDS increased by $1.4 million to $8.6 million in the third quarter primarily from higher revenues recognized related to the ongoing conversion activities of previously announced new wealth management clients in the UK.
+Partially offsetting the increase was higher operating cost as IFDS expands its infrastructure in both the UK and Canada.
+We continue to expect earnings volatility throughout the implementation of the conversion process as these multiyear projects continue to evolve.
+Beginning in the third quarter of 2014 IFDS began capitalizing a significant portion of the software development cost which will begin to be amortized as the assets are put into production over the next couple of years.
+Partially offsetting the higher IFDS operating results were negative foreign currency impacts in both the UK and Canada.
+Our income tax rate for the third quarter was 33.5% compared to 33.7% in the third quarter of 2014.
+We currently expect our full-year estimated income tax rate excluding the effect of discreet period items to be approximately 35%.
+During the quarter we received $22 million pre-tax cash proceeds from the monetization of investment assets.
+$19.3 million of this was from private equity investment distributions with a remainder coming from the sale of marketable securities and the sale of real estate assets.
+During the third quarter we purposely slowed our monetization activities in anticipation of two sale leaseback transactions.
+Subsequent to quarter end we completed a sale leaseback transaction for our three U.S.
+customer communications production facilities and entered into an agreement for the sale leaseback of our Canadian facility.
+Proceeds from the transactions will approximate $129 million.
+Net proceeds after applicable cash taxes and transaction cost are expected to be approximately $107 million.
+After taking into account the new lease expense which will be offset by the amortization of the deferred gain resulting from the transactions and the future reduction depreciation expense the transactions are expected to be $0.02 dilutive to EPS on an annual basis.
+The sale leaseback transactions provided a unique opportunity to reallocate capital as part of the Company’s overall capital plan.
+Turning to our share count during the quarter the company spent $175 million to repurchase approximately 1.6 million shares of DST common stock.
+Average diluted shares outstanding for the quarter were 36.2 million a decrease of 9% from the third quarter of 2014.
+As of September 30 DST had $225 million remaining under our existing share repurchase plan.
+With close to third quarter of $152.6 million of cash and $765.2 million of debt our debt balances has increased $267 million during the quarter primarily from the $175 million of share repurchases and the $110 million of funding for the acquisitions of Red Rocks Capital and Wealth Management.
+I’ll now turn the call back to Steve for concluding remarks.
+Great.
+Thanks Gregg.
+DST is continuing to take steps to perform and create value over the long-term and we’re pleased with our performance to-date.
+We’re confident that we have the right strategy in place and the right team executing to deliver on our objectives.
+I would now like to go ahead and open the call for questions.
+[Operator Instructions] Your first question comes from the line of David Ridley-Lane of Bank of America/Merrill Lynch.
+Sure good morning.
+A question on the assets under management figure of period ended.
+Does that include the Red Rocks AUM and then it means you have it what was the rough capital movement excluding price action in the quarter? So David I’ll take the AUM question and ask Gregg to handle a second one.
+So that does include the Red Rocks assets under management.
+However what I tell you is recall we mentioned Red Rocks had about $2 billion of assets under management but about 500 million of it were assets are managing on behalf operating ALPS prior to the transaction.
+So the net move there is about $1.5 billion to the positive.
+The other thing I would tell you is you’ve seen a decline in that number sequentially here and again as we've talked about ALPS is pretty heavily exposed to the energy and commodity markets and we continue to see downdraft there.
+The good news is that sales teams are actually doing a very good job.
+So another metric that we look at is actually units and so while AUM is declining we’re actually seeing an increase in units.
+And so as Gregg Givens would like to say we feel like we’re pretty spring loaded when those markets turnaround and I don’t know when that will be but we’re excited about the asset management business at ALPS and plan to continue investing in it.
+Gregg did you have a response on the second part? So David we had $15.2 billion of assets under management at the close of June 30 and net market movements and flow movements decrease that AUM by directionally $2.2 billion and then we picked up an additional $1.1 billion net from the acquisition of Red Rocks so that took us back up to $14.1 billion at September 30.
+Got it.
+And then how is the early receptivity been for the new brokerage solutions the clearing [indiscernible] offering and was that kind of the largest driver of growth in the financial services segment this quarter? So first if all the receptivity we’ve had a couple of what I consider to be kind of mid-size opportunities that we’ve executed on.
+We’re still building out the full solution there.
+At this point David it has not been a driver of the revenue growth within the financial services.
+The real driver there has been kind of a core sub-accounting platform as well as the retirement businesses has seen some nice growth.
+We talk about the fact that ALPS has been under pressure but we’re still seeing net growth out of ALPS it's just not at the same level that it’s been for the last few years.
+So look we’re still kind of early days early innings if you will on that clearing business.
+Got it.
+And one last one you mentioned you're still on the outlook for acquisitions.
+Do you feel like you have to pause that to get to the two completed or sort of integrated and on track or are you ready for now right now? Thanks.
+Look on the integrations kind of the nice thing here is that they were done in two separate business units.
+One in our retirement business and again the Wealth Management Services business that we brought in as a business that we know and a business that we interacted prior of the acquisition and so we’re excited to have John Geli and his team onboard.
+And again feel like there is a fair amount that we can do with our clients in that retirement space.
+The other acquisition was done in ALPS and again we’ve got a completely separate management team with a different group working on the integration there and I don’t feel as though we've put undue pressure on anyone of the organizations within the company and so we feel like we’re well positioned.
+Thank you very much.
+You bet thank you.
+Your next question comes from the line of Peter Heckmann of Avondale.
+Good morning gentlemen.
+Good Morning.
+Good Morning.
+Steve a Couple of questions in the healthcare segment.
+You saw a real nice sequential uptick in covered lives is that just organic or were there any new customer adds or just organic growth within your current customers? Yes it's organic growth Pete and again I think it’s actually the quality of the client base that we have.
+Right our customers are doing an excellent job with their customers and we’re a beneficiary of that.
+So it's purely organic.
+Got it okay.
+And then a follow-up congratulations on the renewal of Cigna.
+Can you talk about the distinction of is there a different type of insured in the 40% versus the 60% you are keeping versus commercial government insured or anything that would explain how they bifurcated that? And then as well I think you answered the question but just to make sure is there still the possibility that you could get some of those volumes back that already de-converted on Jan 1? Sure so first of all let me just tell you I think that our team in the healthcare side is doing an excellent job and we’ve been on a strategy for three or so years and we’ve been making investments from our perspective the decision earlier this year by Humana and now this decision by Cigna we believe validate the strategy we’ve been pursuing and the investments that we've made.
+So the bifurcation if you recall go back to January 1 Cigna moved their Medicare Part D business off of our platform and what we held at that point was the commercial business and we’ve been updating you that the commercial business was schedule to move between 2015 and 2016.
+We’ve been updating you that we hadn’t seen any movements for those quarters we had been obviously in discussions with Cigna that culminated just this week with the signing of the contract.
+So we’re going to keep the commercial business that was about 60% of what was scheduled to de-convert.
+So thinking about a little bit differently Pete we expected to lose another 15 million or so lives during 2015 and 2016 which we would have to overcome - I’m sorry not lives but 15% of our overall claims which we would have had to overcome.
+We’re now going to keep that 15% of the claims and so as I think about 2016 what I hope and expect is that we’re going to have a base that we can grow off of.
+So we’ll keep the commercial claims and we are planning to do a fabulous job for Cigna we’re appreciative of their commitment and their faith in us.
+And they are obviously publically involved in another transaction and as we’ve said consistently whenever there is disruption in the market we think there is an opportunity for us and we think that the model that we’re pursuing is proving to be accepted by the marketplace.
+I appreciate it.
+I’ll get back in the queue.
+Your next question comes from the line of David Togut of Evercore ISI.
+Hi this is Anthony Cyganovich on for David Togut.
+I was hoping you could talk about what drove your financial services’ EBIT margins to 18% which was kind of above your mid-teens expectation and kind of what you expect for the margins 4Q 2015 and 2016 in financial services? Yes sure Anthony.
+We don’t talk about forward margin projections but I would tell you the EBIT margin look we had some nice revenue growth if you normalize out the Global Solutions the sale of that business as well as the impact of foreign exchange.
+I would just also tell you we’ve done a nice job on cost containment and really operating efficiencies.
+And so we’ve got very good operators in that part of our business as we do in all of our businesses and they have done a nice job this quarter in really trying to expand their operating margins which falls right through the EBITDA line.
+So it's nothing more than some revenue expansion with an intense focus on operating efficiency and operating leverage.
+Okay thanks.
+Could you kind of quantify the earnings impact from IFDS for the remaining on boarding of client contracts in the UK? Yes again we don’t give forward guidance on that.
+What I would tell you is I think the important point on IFDS is you’ve seen a significant uptick this year in the income from IFDS that’s flowing through our financials.
+As Gregg mentioned we do not expect this level of income during 2016 right.
+We’ve been recognizing revenue based income delivery of the platform and we’ve been capitalizing the software developments.
+So we’re going to start to see that depreciation flow through as the system has put into production and so next year we expect to see some downdraft in the IFDS financials.
+Okay thanks.
+I noticed your long-term debt and your balance sheet increase this quarter will you continue to add debt to finance larger share repurchases? So Anthony we don’t really comment on in terms of what are our expectations are in terms of capital going forward.
+We are very capital conscious in terms of our allocation we do the analysis I think we have a good track record in terms of executing on our share repurchases and managing our debt levels.
+The increase in this quarter came principally from the fact that we did have $175 million of share repurchases and also the $110 million of funding that we had for the Red Rocks acquisition and the Wealth Management acquisition.
+Okay great.
+Just one last question could you quantify kind of the revenue in earnings benefits from retaining the rest of the clients’ revenue that was expected to de-convert? Yes.
+The reason we talk about kind of operating metrics Anthony is we do not disclose anything relative to revenue on any specific clients or any specific client contracts.
+Okay that’s fair.
+Thanks a lot guys.
+Great.
+Your next question comes from the line of Dave Koning of Baird.
+Hey guys its Adam Dahms on for Dave Koning.
+How is it going? Good thanks Adam.
+First question I guess on Cigna it seems like the 40% the de-converted January 1 nothing else has come off in the 60% stand so that creates a pretty clean anniversary at the end of 2015 and we should get back to normal underlying growth in 2016 is that right? Yes I think that’s the right way to think about it.
+And then a couple of quarters ago I think the commentary was sort of 10% plus underlying growth in healthcare it seems like maybe that’s sort of high single-digit.
+Is that a fair way to think about what you guys are seeing in the underlying growth there right now? Yes that is I would say that really hasn’t changed.
+That’s a good number.
+Okay.
+And then in terms of I guess the pace of asset sales or I guess maybe just better to talk about it from a buyback perspective you guys have been doing 100 million a quarter buying back stock that went down this quarter.
+Was there any reason you chose to use debt over selling off assets that are still on the balance sheet? So Adam we purposely slowed our monetizations in the third quarter in anticipation of closing this two sale leaseback transactions which drifted into October and what we’re going to have directionally $107 million of net cash proceeds will come up sale leaseback transactions.
+I guess I would also add though Adam that we do view the capital of the company as a fungible pool.
+So we clearly had capacity to go up on our debt lines.
+As I mentioned in my commentary people should expect that our monetization is going to slow dramatically next year because quite honestly we’re getting to the end of our kind of available for sale securities.
+And so again I think Gregg and his team do an excellent job of managing the capital pool in total and we’ll continue to pull leverage there as we see what’s in the best interest of the Company and our shareholders.
+Yes that totally make sense.
+And then I guess just one last one on share count.
+If I just look at the sequential decline it was not too dissimilar to what we saw in Q2 even though you guys bought back a lot more shares I guess that makes me think it was waited towards the end of the quarter.
+I guess the short question is do you have the end of quarter share count? I do it's 34.9 million shares outstanding at September 30 2015.
+Perfect.
+Thanks a lot guys and congrats again on the Cigna renewal.
+Thank you.
+Thank you.
+I’ll now turn the call to Mr.
+Steve Hooley for any additional or closing remarks.
+Great.
+Well thank you very much again we’re very pleased with the quarter and appreciate everyone listening in.
+We look forward to updating you at the end of the year.
+Thank you.
+That does conclude the DST Systems’ third quarter 2015 earnings conference call.
+You may now disconnect.

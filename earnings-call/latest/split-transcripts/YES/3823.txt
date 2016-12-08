@@ -1,0 +1,372 @@
+Ladies and gentlemen thank you for standing by.
+Welcome to the Thomson Reuters First Quarter 2012 Earnings Conference Call.
+[Operator Instructions] As a reminder this conference is being recorded.
+I would now like to turn the conference over to our host Frank Golden Senior Vice President of Investor Relations.
+Please go ahead sir.
+Good morning and thank you for joining us as we report first quarter 2012 results.
+We'll begin today with our CEO Jim Smith; followed by Stephane Bello our CFO.
+Following Jim and Stephane's presentations we will open the call for questions.
+Please limit yourselves to one question each so we can get to as many as possible.
+Throughout today's presentation keep in mind that when we compare performance period-on-period we look at revenue growth rates before currency as we believe this provides the best basis to measure the underlying performance of the business.
+In addition today's results are presented on an ongoing basis and exclude disposals announced to date including our Healthcare business.
+Before we begin let me point out that on our website today you will find a small change to the Financial &amp; Risk restated financials we provided to you on April 1.
+Neither the total company annual revenues nor total company quarterly figures have changed nor have the Q1 growth rates for any of the business units changed.
+The changes relate solely to the allocation of revenues among the 4 Financial &amp; Risk business units based on the new structure we announced on January 1 of this year.
+Today's presentation contains forward-looking statements.
+Actual results may differ materially due to a number of risks and uncertainties discussed in reports and filings that we provide to regulatory agencies.
+You can access these documents on our website or by contacting our Investor Relations department.
+It is my pleasure to now introduce the CEO of Thomson Reuters Jim Smith.
+Thank you Frank and thanks to those of you on the call for joining us.
+Today we will review the first quarter results and update you on the progress we're making toward the priorities I outlined during our year-end earnings call in February.
+I'll then turn it over to Stephane who will provide you with further details on the results for the quarter.
+I would characterize the first quarter's results as on-track and consistent with our full year expectations.
+In short so far so good.
+Total revenues were up 4% as the Legal Tax &amp; Accounting and IP &amp; Science units all did a bit better than expected.
+Overall Financial &amp; Risk grew modestly in what continues to be a very choppy environment particularly in Europe.
+EBITDA increased 15% with healthy margin improvement.
+Operating profit rose 2%.
+Adjusted earnings per share in the quarter were $0.44 compared to $0.37 in Q1 2011 a 19% increase.
+Last week we announced an agreement to sell our Healthcare business for $1.25 billion in cash.
+We expect to realize net after-tax proceeds of about $1 billion.
+The sale is not subject to financing conditions and we expect the deal to close late Q2 or early Q3.
+We expect to use the proceeds for tactical acquisitions organic investment and for share buybacks on an opportunistic basis.
+Lastly but importantly we are reaffirming our full year 2012 outlook.
+Now let me return to our results by business segment.
+This slide reflects the new organization structure I outlined last quarter.
+Financial &amp; Risk revenues rose 1% and now include the Governance Risk &amp; Compliance business.
+Good growth in marketplaces and GRC were offset by weakness in the trading and investor segments.
+Revenues by geography saw Europe Middle East and Africa rise 2%; the Americas were up 1%; and Asia was flat due to softness in Japan.
+Overall Financial &amp; Risk net sales performance in Q1 was slightly better than Q4 but it was still negative.
+A modest improvement in the Americas was largely offset by a difficult environment in Europe.
+As we've previously stated we do not expect net sales to turn positive until the end of the year and therefore it's important to look at the momentum and run rate trend as we exit 2012.
+We are targeting a gradual improvement in net sales over the course of the year driven by service improvements new product rollouts including Eikon.
+Tax &amp; Accounting had a terrific quarter with revenues up 31% 9% organic.
+Growth was strong across the business.
+IP &amp; Science revenues grew 4%.
+Legal had a good start to the year across the board with revenues up 3% 2% organic in what appears to be a slightly better legal market environment.
+We are particularly encouraged by the sales performance in our Legal and Tax &amp; Accounting units which were slightly ahead of our expectations.
+We also have a good story to tell about our fast-developing global growth businesses which represent about $800 million in revenue and grew 18% in the first quarter 7% organic.
+Those numbers are included within each of the 4 business segments.
+In summary our businesses performed largely as expected during the first quarter.
+Tax &amp; Accounting and IP &amp; Science continued to perform well and we're particularly encouraged by the sequential improvement in organic revenue growth in our Legal segment which was 2% in Q1 versus 1% in Q4 2011.
+Each of these businesses has a clear and compelling growth strategy against which we are executing and our progress should continue to be reflected by good growth and profitability this year.
+Financial &amp; Risk is now executing against a more focused strategy as we work to deliver better products and improve the customer experience.
+We've begun the task of simplifying our product offerings and we've launched several new products including Datastream Pro a new offering for investment managers which consolidates 12 Legacy desktop products and incorporates best-in-class macroeconomic content of Datastream; the Accelus Compliance Manager in GRC; a new Elektron hosting center in São Paulo Brazil; and specific versions of Eikon that are tailored to the commodities and energy sector and to the wealth management market in Asia and EMEA.
+At the end of March we had over 60 000 Eikon desktops up 30% from December.
+In addition to those already mentioned we continue to add Eikon desktops particularly in segments which best fit for purpose such as commodities and energy foreign exchange and fixed income and we're making solid progress in building out tools and features that will make Eikon even better in the future.
+On the customer experience side in Financial &amp; Risk there's a lot of work being done to improve our service.
+We've undertaken a number of tactical initiatives to improve responsiveness especially to the top 1 000 accounts.
+And in select areas like Investment Management we're increasing our level of expert support.
+We are making steady progress and I will have more to share with you on this throughout the balance of the year.
+Now despite this progress F&amp;R is still dealing with a tepid global economic recovery and uncertainty in Europe.
+RDEs are growing but that growth has slowed while the U.S.
+has been showing modest improvement.
+Against that external environment it's important for us to stay focused on the things in our control and that we continue to improve our ability to execute.
+Let me conclude by saying that since I last reported to you on February 9 there has been no change in the big picture.
+My key priorities remain unchanged and we're making good progress against them.
+Our new management team is gelling well we have the right combination of ambition urgency and pragmatism to get the job done.
+The vast majority of our businesses are performing well.
+Our work in Financial &amp; Risk is far from done but we are making headway.
+As I said a few minutes ago we are on track.
+Now let me turn it over to Stephane.
+Thank you Jim.
+Before reviewing the first quarter results I want to discuss our new organization structure and highlight 2 particular changes.
+First we reorganized the business around our customers rather than products.
+Now when we go to market in Financial &amp; Risk we're going out to serve traders and investors not to sell desktops or feeds.
+Similarly our US Law Firm segment includes both our core legal research platform WestlawNext as well as software and services offerings such as Elite in large law firms or FindLaw for small and solo law firms.
+This new market approach is better aligned with what our customers expect from us: a more integrated approach to deliver all the capabilities and assets we have.
+The second change I would like to remind you of is that we moved our Governance Risk &amp; Compliance unit which was part of Legal to Financial &amp; Risk.
+The intersection of regulation and finance is one of our fastest-growing opportunities.
+Our strong market position in financial services combined with our deep regulatory content are unique franchise strengths that we can leverage to expand our position in these growing markets.
+There is also an opportunity to integrate our Risk &amp; Compliance capabilities into our financial services products and we expect that this will further improve growth across the Financial &amp; Risk business.
+Looking at the organization through this lens you can see that all of our market segments grew last year but for investors with the strongest growth coming from our Tax &amp; Accounting IP &amp; Science and Legal businesses.
+And as Jim mentioned earlier we are now focused on improving the growth profile of our Financial &amp; Risk business.
+With that let me turn to some of the details of our first quarter results.
+Throughout today's presentation I will speak to revenue growth before currency.
+Reported revenues are also highlighted on each slide.
+In aggregate our first quarter revenues were up 4% with acquisitions contributing 3%.
+Adjusted EBITDA was up 15% and the related margin expanded to 260 basis points reflecting the elimination of integration expenses and the flow-through from higher revenues.
+As you may recall our first quarter results last year included $40 million of reorganization costs which impacted primarily the Legacy Markets division.
+This year we incurred approximately $30 million of reorganization costs representing the tail end of the actions we announced in connection with our Q4 results.
+As Jim and I stated on our year-end call we are no longer carving out those severance costs separately from our results but we want to provide you with the visibility on these expenses when we incur them.
+So the year-over-year EBITDA performance is relatively comparable as the reorganization costs were roughly similar in each period.
+The major difference is the conclusion of the integration program at the end of last year.
+Underlying operating profit rose 2% and the underlying operating profit margin decreased 30 basis points to 17.1% reflecting higher depreciation and amortization expense from new product launches.
+Finally foreign exchange had no impact on either revenues or operating margin in the quarter.
+Now turning to the first quarter results for our Legal segment.
+Conditions in the U.S.
+legal market improved modestly in the first quarter.
+Overall demand for legal services was up slightly after being down in the fourth quarter.
+In particular demand for litigation services which is the largest segment in the market was up from the fourth quarter.
+Legal's revenue were up 3% 2% on an organic basis.
+And as Jim indicated earlier this represents a modest sequential increase from Q4 2011 when the organic growth rate was 1%.
+If you break down the first quarter growth rate by revenue type subscription revenues were up 4% transactions revenues were up 7% while U.S.
+print revenues were down 3%.
+Now looking at the performance of our 3 subsegments in the Legal business.
+U.S.
+Law Firm Solutions is the largest subsegment representing about 55% of the total and revenues for U.S.
+Law Firm Solutions grew 2% in the quarter.
+This was driven by a 12% increase in Business of Law while research-related revenues were flat versus the prior year period.
+In Corporate Government &amp; Academic which is about 25% of the Legal business revenues grew 4% all organic driven primarily by the performance of our Legal process outsourcing business.
+And finally revenues in our Global Legal segment which is 20% of the total were up 7% of which 4% was organic.
+This was once again driven by strong growth in Latin America.
+And as a reminder our Global Legal segment includes both our more mature businesses outside of the U.S.
+such as the U.K.
+Canada Australia and New Zealand as well as businesses in fast-growing geographies such as Latin America and Asia.
+Now turning to the profitability performance in our Legal business EBITDA increased 5% and the corresponding margin was up 60 basis point helped by a favorable year-over-year comparison.
+Operating profit increased 5% and the margin rose 50 basis points.
+Tax &amp; Accounting had another terrific quarter.
+Revenues were 31% out of which 9% was organic.
+This was driven by acquisitions and strong performance across the business in particular software sales to professional accounting firms and revenues derived from our ONESOURCE platform.
+This strong organic revenue growth performance reflects a healthy U.S.
+accounting market as hiring is picking up at accounting firms as well as good adoption of some of our new products.
+In particular we are very pleased with the success of the ONESOURCE corporate tax platform which was built over the last few years both organically and through acquisitions.
+It's a great example of how we have developed a truly unique and integrated solution to better serve our customers in this case corporate tax departments by successfully integrating a number of small to mid-sized acquisitions.
+This approach temporarily depressed operating margins but it is now generating significant profit and value.
+And in fact in the quarter EBITDA grew 50% the seventh consecutive quarter of double-digit EBITDA growth and operating profit increased 58% with the related margin up 380 basis points to 21.9%.
+Now please remember that Tax &amp; Accounting is a seasonal business with a significant proportion of its operating profit traditionally generated in the fourth quarter.
+Also I'd like to point out that we believe that the first quarter is likely to be the high watermark for organic revenue growth as well as margin improvement this year.
+We do expect growth in the next 3 quarters to remain strong but probably not as strong as this quarter.
+Now over in IP &amp; Science revenues grew 4% of which 3% was organic.
+Growth was driven by a 7% increase in IP Solutions and a 4% increase in Scientific &amp; Scholarly Research.
+Life Sciences revenues declined 1% due entirely to the timing of renewals and a difficult comparison from Q1 2011.
+Again let me remind you that quarterly revenue growth for IP &amp; Science can be uneven due to the impact of large sales in the Scientific &amp; Scholarly Research business namely Web of Knowledge and Web of Science.
+EBITDA increased 9% with the margin expanding 160 basis points to 34.4% and operating profit was up 6% with the margin expanding 40 basis points to 26.3%.
+Financial &amp; Risk revenues were up 1% with 2% contribution from acquisitions so organic revenue growth was down 1% this quarter.
+Recurring revenues which represent about 76% of F&amp;R's revenues grew 1% due to acquisitions and the benefit of a price increase.
+Excluding acquisitions recurring revenues were down 1% reflecting the negative net sales performance of the last several quarters.
+Transaction revenues which represent 11% of the total were up 4% due to higher fixed income volumes at Tradeweb.
+Recovery revenues also 11% of the total grew 2% as a result of a price increase on third-party exchange fees.
+And finally Outright revenues which is 2% of the total and are essentially onetime software sales grew 9% driven by GRC.
+EBITDA declined by 1% and the margin was down 50 basis points.
+Excluding currency EBITDA actually increased 1% and the margin wasn't changed from the prior year.
+Operating profit declined 8% and the margin declined 140 basis points to 16.7% due to higher depreciation and amortization from the new product investments.
+Excluding currency operating profit declined 4% and the margin declined 100 basis points.
+Now I'll briefly review the results for the individual segments within Financial &amp; Risk.
+Trading revenues declined 2%.
+Growth in Commodities &amp; Energy and foreign exchange was offset by desktop cancellations in Exchange Traded Instruments and Fixed Income.
+Investors revenue declined 3%.
+Within that business unit Enterprise Content revenues increased 16% while Wealth Management revenues declined 3% and Investment Management revenues declined 10%.
+Now while this represented a decline in Investment Management revenues from the fourth quarter it is important to note that we saw a sequential improvement in net sales in the Investment Management segment from Q4 to Q1 thanks to a marked improvement in the Americas.
+However market conditions in Europe remain challenging.
+Revenues in Corporates were at 1% and Investment Banking revenues were flat.
+Turning to marketplaces their revenues increased 10% driven by acquisitions and by Tradeweb which grew 11% organically.
+And finally GRC revenues increased 16% organically.
+There has been a strong interest in our new Accelus Compliance Manager product which we just launched during the quarter.
+Let me now turn back to our consolidated results.
+Our first quarter adjusted EPS was $0.44 per share which represented an increase of $0.07 versus the year ago period.
+This $0.07 increase was attributable primarily to lower integration expenses which accounted for about $0.06 of the increase and to higher underlying EBITDA which accounted for about $0.04.
+These increases were partially offset by higher depreciation and amortization of $0.03.
+Finally interest and taxes had no impact in aggregate on the year-over-year increase in EPS as the increase in interest expense was offset by a slightly lower tax rate in the quarter.
+Lower interest expense in Q1 was higher than in the prior period due to an accrual of interest related to tax liabilities.
+So for the full year we remain comfortable with our guidance of $400 million to $425 million for interest expense as the higher accrual we took in Q1 should be offset by higher interest income we expect to receive on the proceeds from the Healthcare disposal.
+Turning to free cash flow the first quarter is usually our weakest quarter from a cash generation perspective and this year was no exception.
+It is not at all reflective of what we expect for the full year performance.
+Nevertheless we are encouraged by the $54 million improvement in reported free cash flow and more importantly free cash flow from ongoing businesses which excludes cash flow from businesses which have either been sold or put up for sale over the last 12 months was at $100 million better than a year ago.
+Half of the improvement is from low integration spending with the balance coming from an improvement in EBITDA.
+As I discussed last quarter we have placed an increased focus on free cash flow across the organization.
+And to emphasize this we have made a slight but important modification to the performance metrics we use in our annual bonus plan for managers.
+45% of the bonus payout is now based on cash OI rather than operating profit.
+And we define cash OI simply as current year EBITDA minus current year CapEx.
+We believe that this change will drive an even greater focus on our capital allocation process going forward.
+The other 2 components of our management intensive plan remain unchanged.
+45% is based on revenue growth with the remaining 10% based on total free cash flow improvement.
+Let me now briefly discuss our capital position because I think it is important to reinforce our commitment to a strong balance sheet and disciplined investment process.
+Overall we ended up the first quarter with $6.8 billion in net debt and a net debt to EBITDA ratio of 1.8.
+Having a strong balance sheet and a solid capital structure is of paramount importance to us.
+It gives us the flexibility to execute our business strategy and the ability to generate a consistent and attractive return of capital to our shareholders.
+As Jim indicated earlier last week we signed a definitive agreement to sell our Healthcare business to Veritas for a total purchase price of $1.25 billion.
+We expect this transaction to close by the end of the second quarter or early in the third quarter and to generate about $1 billion in after-tax proceeds bringing the total net proceeds from disposals completed this year to $1.8 billion.
+Now we will not let this cash burn a hole in our pocket.
+However we do see a number of very attractive opportunities to reinvest a majority of these proceeds across the key growth areas we have in our portfolio.
+These opportunities would primarily be in the form of small to mid-sized acquisitions which we will consider over the next 12 to 18 months and which would help us support our goal to improve the organic revenue growth trajectory across our business.
+This is essentially what we did across the Legacy Professional division between 2009 and 2011.
+Over this period of time we spent over $2 billion in capital across the various Professional businesses.
+In aggregate this capital redeployment strategy delivered solid results as demonstrated by the fact that the Professional businesses grew both revenues and EBITDA by 9% in 2011 while maintaining pretax ROIC in the mid-teens.
+So in summary we will seek to redeploy the proceeds of our recent disposals in the highest areas of growth across our business and we will continue to focus on driving long-term value creation for our shareholders within the parameters of a strong capital structure.
+As always we will also consider returning cash to shareholders by way of share buybacks.
+And let me remind you that we have repurchased just under 12 million shares under our existing NCIB program and that therefore you should expect us to seek board approval to renew this program in May as we do every year.
+This brings us to our 2012 outlook which we reaffirmed today.
+For the full year we continue to expect revenues to grow low-single digits.
+We also expect our EBITDA margin to range between 27% and 28% and our underlying operating profit margin to range between 18% and 19%.
+Let me point out that we expect a more pronounced improvement in margins in the fourth quarter due to easier comparisons resulting from the elimination of reorganization costs and integration expenses which we incurred in the fourth quarter last year.
+Our reported free cash flow is expected to be up 5% to 10% while free cash flow from ongoing businesses is expected to increase between 15% and 20%.
+As Jim has said we have just embarked on a multi-quarter journey to transform this business and after one quarter we are on track.
+We understand the challenges ahead but we remain confident that we can meet them.
+And now let me now turn it back over to Frank.
+Thanks very much Stephane and Jim.
+And now we would like to open it up for questions.
+So if we could have the first question please.
+[Operator Instructions] Our first question comes from the line of Suzi Stein with Morgan Stanley.
+Research Division</strong> Can you just talk about the tone of conversations on contract renewals in your market data business? And are you having to negotiate more on price during this time? And I guess can you just distinguish between the tone on the buy side and the sell side? Yes I would say that this is totally what you would expect in an industry that's going across – been going through the kind of change that it's going through.
+So I think everybody's concerned about cost reduction.
+Everybody's concerned about kind of total cost of ownership.
+Everybody's concerned about the depths of relationships that they have with various vendors.
+I don't find it so much to be the kind of brutal price competition that you might expect as I find it more particularly on the largest customers to be more about how you can talk about the breadth of the partnership all right and what we can do in a holistic fashion.
+So it's certainly -- every single contract is certainly a difficult negotiation these days but particularly on the sell side.
+But in some ways it kind of depends upon where you sit.
+The negotiations in Europe are a little bit different than the negotiations in the U.S.
+are a little bit different than the negotiations in Asia because the prospects look a lot different.
+The negotiations on the sell side are a bit different from the negotiations on the buy side where a lot of this disruption is creating opportunity.
+So you're correct in assuming that each of the negotiations is difficult but if I have a comfort in it it's been the amount of time we spent with customers over the first 4 months of this year and how pleasantly surprised I have been about the depth of the relationship that we have with those customers and how we've been able to engage in a broad discussion with them not just a product versus product and product price feature set for feature set but rather how we could provide solutions across the range of their needs.
+Remember we're in a particularly unique position where we're rather agnostic as to whether or not they place the value on desktops or feeds or other types of solutions because we have a broad array of solutions to sell.
+And that's been the type of engagements we've been engaging in particularly with our largest customers.
+The next question is from Drew McReynolds from RBC Capital Markets.
+LLC Research Division</strong> Maybe Jim if you can just talk a little bit more about just the firming up of organic growth within Legal.
+Specifically could you address pricing whether that has improved or whether you expect it to improve going forward? And just a follow-up here as you look at WestlawNext and the 65% penetration is there any change in either kind of organic revenue growth or margin dynamic as you kind of migrate the remaining 35% of that base? No it's -- look it's been -- obviously Legal is a pleasant surprise to see the strength.
+As we said it's a bit ahead of our expectations.
+It was driven primarily on the back of our software solution sales and those were surprisingly strong in the quarter.
+But also within the quarter actually our Legal research services were surprisingly strong in the quarter.
+I wouldn't want to jump in and conclude any trends from one quarter's performance right? And this was a relatively light quarter as is the next one for contract renewals or large contract renewals.
+I would say that we've had some success with efforts recently to add more transparency into our pricing and to explain exactly why we charge what we charge to our largest customers and to prove the volume of our premium price position.
+So I don't -- we haven't noticed any change in the dynamic.
+We just had a surprisingly productive first quarter.
+I hope that whole -- we hope it's a trend.
+We have a question from the line of Vince Valentini with TD Securities.
+I'm wondering about your acquisition strategy in trying to find the growth factors in the Financial &amp; Risk segment.
+Would you say that you're still at sort of the discovery stage of that? Or have you sort of formed a pretty good idea of where you want to go and you've got a bunch of targets identified so that by the time you get the Healthcare proceeds you'll be ready to deploy that money right away? Or are these things perhaps going to take longer to gestate? Well it's really difficult Vince to predict the exact timing on acquisitions because we don't control that.
+It would be safe to say that in each area in our Financial &amp; Risk business we are pursuing the growth vector right? And we are -- we've come up with a strategy and said "Here's what we need to do to grow how we're to grow what do we need to build what do we need to buy how would we know we could win in that sector." And within that strategy within each sector we would have a list of potential acquisition targets identified and we would be working that list right? The timing will be completely and utterly dependent upon when you have a seller who's willing to buy and on how the discussions progress and how promising indeed upon further investigation the synergies will actually be between a target and what we would acquire.
+So we're still working that path.
+That said we do have an attractive list particularly in the areas that are our higher growth areas that we're working all the time.
+But that's just what we do.
+As far as timing goes one can never predict.
+Sometimes these things come to fruition very quickly and sometimes they take much longer but we're actively working the pipeline as we do and have done on -- certainly on the Professional side for a long time.
+That's just kind of the playbook we've run before and we're running it again.
+I would just add to that Vince that the pipeline is not obviously just on the finance side it's still pretty robust on the x Professional businesses too.
+That's a very good point Stephane.
+And it's -- as we look across and we see a number of opportunities within the growth vectors that we've already identified.
+And I think just to add some color to that what you can expect is that if we deploy proceeds from this sale to an acquisition they will be in places that won't surprise you.
+They will be in identified growth vectors right? Or they will be in the strongest areas of our Financial &amp; Risk business.
+We have a question from the line of Tim Casey with BMO.
+As you look through the year can you talk to us a little bit about how you expect the quarters to fall out? I mean you've had an encouraging start to the year and I think you're set up for an easier comp for the fourth quarter.
+But what are your expectations as we go through the year and maybe a little more color on your comment about net sales improving through the year as well? I'll leave that one to Stephane.
+Sure Tim.
+Well obviously we provide our guidance for the full year and such.
+We don't really go into too much detail with regard to the quarterly growth rates and margins.
+But let me just remind you of a few items which will impact the quarterly saving of our performance.
+If you look at revenue growth first we have said that we expect to grow low-single digit for the full year and the first quarter was obviously higher than that at 4% primarily due to the impact of the acquisitions that we did last year.
+Now obviously the impact of last year's acquisition on the overall revenue growth rate will diminish over the course of the year which you need to factor in as you look at our performance over the remaining quarters.
+From a margin perspective if you look back at last year you will know that the margins both at the EBITDA and the OI level were actually much higher in the second and third quarter than was the case in the first and fourth quarter.
+And this was due entirely to timing factors.
+For instance we incurred some large severance costs in Q1 and even larger costs in Q4 while there were some positive timing impact in the 2 middle quarters if you want Q2 and Q3.
+And this year I'd say we would expect a more steady improvement in margins when we look at things sequentially over the course of the year with as Jim's pointed out the largest improvement likely to take place in the fourth quarter.
+Now in terms of the net sales trajectory and I assume that you refer primarily to the F&amp;R business here as Jim mentioned we have seen a sequential improvement in net sales for F&amp;R from Q4 to Q1.
+They were still negative which is absolutely what we expected.
+And as we've mentioned we do expect them to only turn positive towards the end of the year which is going to be really the outcome of the upgrades we are making to Eikon over the course of the year and also to new product introductions as we go through the year.
+Obviously the exact trend of the necessary improvement would also depend on the evolution of the environment in which we play and we'll watch that very closely.
+As Jim said during the first quarter we did see an improvement in the Americas but that was essentially masked by a very very tough environment in Europe so we'll continue to monitor that very closely but that's essentially the trend we're expecting.
+Hopefully that answers your question Jim.
+We have a question from the line of William Bird with Lazard.
+Research Division</strong> Has the cost transparency project identified any new cost save opportunities? And just as a follow-on can you talk about just how we should think about the buybacks through the next couple of quarters? Stephane I think that's in your wheelhouse.
+Yes let me speak a little bit about this cost transparency project we talked about in the fourth quarter.
+Let me first say that we're making solid progress.
+You remember in the prior earnings call I mentioned that we only had 25% of F&amp;R's expense base which was directly under the control of the businesses and 75% of the expense base which was managed centrally.
+And as I mentioned at the time our ultimate goal is to really reverse this ratio and to end up with about 80% of the expense base either directly under the control of the businesses or managed centrally but with a very clear line of sight back to the businesses on how they can manage and reduce these expenses.
+Now at the end of the first quarter we had about 40% of the expense base that was directly under the control of the businesses with another 20% in what we refer internally as the controllable expense bucket.
+And what we mean by that is essentially that the businesses do not manage these expenses directly but that they have the leverage to influence them.
+And to give you one example of what would fall into that bucket I would refer to real estate which is obviously an activity that we manage centrally but the cost is allocated back to the businesses based on the actual amount of space they use and the business can control that by managing their headcount or managing the amount of space that they give to everyone on their lease [ph].
+So at the end of the first quarter we essentially moved from 25% of the expenses base being directly controlled by the businesses to close to 60% being either directly or indirectly controlled.
+And I would say we really got to the low-hanging fruits first so the remaining 20% or so will take us another few months to sort out but we're starting to drive for more accountability by having this greater transparency.
+You're going to see the result of that greater accountability really happen over the next few quarters because we just -- I mean managers of the business are really just starting to get their hands around their cost basis and so they're really going through areas of opportunities to identify saving opportunities.
+Your other question really to the buyback program and as I mentioned we will continue to look at buying back shares opportunistically over the course of the year.
+We bought back a fair bit of shares under the existing NCIB program.
+We bought 12 million of the 15 million authorization that we have.
+And so as we do as a normal course of business we will essentially ask authorization from our board to renew that program most likely at the upcoming May meeting.
+We have a question from the line of Phillip Huang with UBS.
+Research Division</strong> I wanted to ask maybe the other side to Vince's question earlier.
+As you private playbook that you've used for the former Professional division to the F&amp;R unit do you see any challenges if at all in using the same strategy for the Financial &amp; Risk unit? Like for example do you see the unit as being perhaps a little bit more integrated and interdependent between each of the businesses which should make it a little bit more difficult in exiting or selling certain businesses in order to turn the entire unit back to growth? And I guess to the extent that you can answer what are some of the areas that you think may be less core to the company's overall strategy in the long term? Yes.
+Well it's way too soon to talk about what units wouldn't be core to the company's strategy.
+And I think you're right in identifying that those businesses are more tightly integrated than some of our other businesses have been.
+However it's just way too soon to make a call as to what the differences would be.
+I don't think there's a material difference to coming up with a growth plan that starts by identifying a set of customers looking at those customer needs figuring out what tools and services that they need how they need to connect with their customers and what they need to be successful and then figuring out what we've got and what we need to add.
+I think that's frankly a tried and true strategy that we've deployed time and again across multiple business units.
+And I think that to the extent we find interdependencies that are really really strong we can build on those and they should make us stronger.
+To the extent that a business isn't benefiting from being part of us and that business unit is lagging I think that we've always been able to find ways to redeploy capital in one form or another whether that's a divestment or whether that's some form of partnership or whether that's some form of change in the profile of what we invest.
+We have lots of different kinds of businesses within our portfolio.
+We have those that we go aggressively for growth and invest behind pretty voraciously and we have others that we manage for cash flow and profitability for a period of time.
+So we're just pretty judicious in the allocation process.
+And while it might be a bit different because there are more shared fundamental data and that sort of stuff between the various units to the extent we can really tie them together on common platforms they'll be core going forward.
+And to the extent we find that they do indeed sit along on their own and the growth opportunities are what they are in other growth vectors that we have we still look to divest if we came to the conclusion that we couldn't win in a particular space.
+And the strategy for us has all been about identifying a customer set identifying those markets identifying what we need to win and then going hard at those places where we know we can win and getting out of places where we can't.
+The next question is from Adam Shine with National Bank.
+Inc.
+Research Division</strong> Jim a question on Eikon I think you were very clear on the last call back in February that look there was going to be a reformulation maybe of the strategy with respect to Eikon.
+We saw I guess a modest 1 000 increase in the desktop sequentially.
+So I guess the question to you is are you sort of pushing back from the sales effort on Eikon? Or I guess the flip side of that has there continued to be a degree of resistance in the market such that we should be focusing really on greater traction on Eikon maybe later in the year let alone early next year not necessarily focus on the next couple of quarters? Yes I think -- look remember we have an 8-quarter plan for Eikon for growing it out in various sectors.
+And in fact you shouldn't take that.
+The truth of the matter is we're getting more and more positive reception to Eikon in the market with each passing week almost.
+And the features and functionalities have been improved significantly over the past several months.
+We're getting good reviews and feedback on the places where it's fit for purpose.
+And remember what we've done is to say "Let's take a sector-specific focus to Eikon.
+Let's roll it out first." So we haven't pulled back from Eikon.
+What we've done is focused the sales effort behind those places where we know we're likely to have the greatest chances of success.
+And those are going very very well.
+And we're also focusing on the stuff that's underneath the covers on the platform aspects of Eikon.
+As opposed to Eikon being the be-all end-all product for us in our Financial &amp; Risk business as we said we've re-devoted capital resources and sales resources behind other new product launches to keep -- to get revenue going again and keep revenue flowing while we're getting Eikon fit for purpose across the sectors where we think it is most attractive.
+That said the platform effort for Eikon as a platform to support our desktop products is making very very solid headway and I think we're all encouraged about where we'll be on that later in the year.
+That said it is an 8-quarter implementation plan on Eikon.
+There are some sectors of the business that we will not get to until next year on that plan.
+I'd love to say we can get to them sooner but we're certainly not going to promise something that we can't deliver and we're sticking to our plan we're working our plan.
+And the platform aspects of Eikon have never looked better.
+We have a question from the line of Paul Sullivan with Barclays.
+Research Division</strong> Just a follow-up on the financial business.
+Do you think that the first quarter will mark the bottom in trading and investors from an organic perspective? Or does the phasing of net sales mean in those 2 areas we're likely to see it sort of get a little bit worse before it starts to get better? I mean just following on from that the 140 bps of margin contraction year-on-year in financial do you think that's as bad as it gets? Paul it's Stephane.
+On your question regarding the growth trend in investor and traders in the first quarter I would remind you that essentially we had very negative net sales in the second half of last year.
+And essentially the full impact of these negative net sales has not yet flowed through.
+You’re going to see it essentially for the ensuing 12 months.
+So I would be essentially expecting that you're still going to see weakness in the growth rate of these segments and we're going to see improvement once we get to a better let's say picture which we've started to see in Q1 as we just mentioned.
+And in terms of the margin like progression for F&amp;R I think you're going to see probably fairly steady margins over the course of the year for F&amp;R.
+Your next question is from Doug Arthur with Evercore.
+Research Division</strong> Yes.
+I'm just wondering if you can drill a little deeper into the trading unit growth or lack of growth the decrease of 2% in the quarter.
+I mean Commodities &amp; Energy foreign exchange were strong.
+You had cancellations in ETFs and Fixed Incomes.
+And can you sort of flesh out how that might look in the next couple of quarters? No I don't think we want to go into that level of details frankly.
+This is getting very very granular.
+Research Division</strong> Well the desktop cancellations and the ETFs is that a trend that's accelerating or do you think that's going to level out? I think what you're going to see is essentially probably an improvement in the areas where we are – where Eikon is fit for purpose as Jim said so areas like foreign exchange or Commodities &amp; Energy are already showing improvement.
+Fixed Income is probably the next area that's fit for purpose.
+So I think that the progression of net sales in across all of the F&amp;R business is really going to follow the progression of how we -- of how Eikon becomes ready and fit for purpose in each of these segments.
+Yes.
+If I might make -- might just add that -- and I'm just going to add a qualitative comment to this not a quantitative one because I agree completely with Stephane that just to make quarter-by-quarter predictions on the trending of that level of guidance is something that we just don't want to get into.
+I will say qualitatively that I look at the sales pipeline and I look at the sales closed and the sales reports every single day in a graphic chart form and at the beginning of the year there was a heck of a lot more red and a couple of little green poking into the greens with the red being bad and the greens being good.
+And today we're as Stephane pointed starting to see more and more of the categories kind of tick over to the green right? And at some point that's also part of the playbook which says focus behind the places where you can be strong and where you can win drive those and hopefully some of the big reds start to slow down and that's when we'll hit the tipping point.
+But we are seeing improvement but it's moving category by category where we -- not surprisingly where we have a winning hand in terms of content and features.
+Our next question is from Matthew Walker with Nomura.
+Research Division</strong> Just 2 questions please.
+First is on -- have you seen any impact at all of the foray from Bloomberg into the legal market? And are they starting to play in the same space or you're just not seeing them at all? And the second question is really actually on the data feed market.
+Could you just maybe tell us what's going on in the data feed market and whether you think you are -- what kind of growth rates you're seeing in that market and whether you think you're gaining share or losing share against other providers? Well let me start -- do we see Bloomberg in the legal market? Sure we see Bloomberg in the legal market.
+Their presence is certainly increasing.
+The marketing is increasing.
+They're out there more.
+I think they issued a press release in the first quarter their first major contract.
+They signed a deal at DLA Piper so they're in DLA Piper now.
+And interestingly that did not displace any Westlaw use and they did not affect our contract in any way.
+So we are seeing a higher profile of Bloomberg.
+To date it's not a major factor in changing the competitive dynamic.
+For us you can look at -- I think there are enough third-party reports out there and surveys of law librarians and users as to where that might be attractive or who's most threatened by that.
+We're not seeing a material impact right now.
+That said we take them very very seriously.
+The acquisition of DLA certainly strengthened the regulatory content and we are taking the appropriate responsive steps to that to make sure that we remain far and away the premium provider of that kind of content.
+And so it's another wrinkle to the competitive dynamic but not one that's having a major impact at this time.
+We're mindful of its potential to do so in the future and are reacting appropriately.
+I think it's healthy to be paranoid about all competitors.
+And on the second question was that onto the data feed business we're continuing to see strong growth in the data feed business and not seeing any material changes in the competitive dynamics there.
+I wouldn't want to get into detailed speculation about market share but that's been a strong business for us in the past and it continued to be a strong business for us in the first quarter.
+That question comes from the line of Sami Kassab with Exane.
+Research Division</strong> It's Sami at Exane BNP Paribas.
+How do you -- I think you mentioned that the new sales in Legal were also a bit ahead of your expectations.
+So should we therefore assume that Legal organic revenue growth is more likely to accelerate rather than decelerate in the remaining quarters? And maybe in the same vein of thinking do you see print revenues within the Legal division improving? Or do you expect the decline to accelerate from the minus 3% in Q1? Stephane? Yes I'll take that question.
+As you mentioned we were encouraged by the new sales performance in the Legal business in the first quarter and also encouraged to see the organic revenue growth improve slightly sequentially.
+As you've said however a quarter doesn't make a trend so we want to remain quite prudent in projecting what's going to happen going forward and it takes time to start turning around the organic growth revenue rate of a business.
+We are cautiously optimistic that Q4 last year may have been the trough but we really want to see another quarter or 2 before making that claim very frankly.
+And in terms of print revenues in the Legal business the print revenues -- U.S.
+print were down about 3% in the first quarter and we would expect this kind of decline in the print business going forward under normal market conditions.
+The attrition level tends to increase at the trough of the downturn in the legal market and then to return to a more normal level which I would call low-single digit decreases otherwise and that's really what we're seeing right now.
+That will conclude our call and I'd like to thank you all for joining us this morning.
+Ladies and gentlemen this conference will be available for replay after 10:30 a.m.
+today running through May 8 2012 at midnight.
+You may access the AT&amp;T Executive playback service at any time by dialing (800) 475-6701 and entering the access code of 243743.
+International participants may dial 1 (320) 365-3844.
+That does conclude our conference for today.
+Thank you for your participation and for using AT&amp;T Executive TeleConference Services.
+You may now disconnect.

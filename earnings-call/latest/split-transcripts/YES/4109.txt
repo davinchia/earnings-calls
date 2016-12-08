@@ -1,0 +1,477 @@
+Greetings and welcome to the Varian Medical Systems Inc.
+Fourth Quarter Earnings Results Conference Call.
+At this time all participants are in a listen-only mode.
+A brief question-and-answer session will follow the formal presentation.
+[Operator Instructions] As a reminder this conference is being recorded.
+It is now my pleasure to introduce your host Mr.
+Spencer Sias Vice President of Investor Relations and Corporate Communications for Varian Medical Systems.
+Thank you sir you may begin.
+Thank you.
+Good afternoon and welcome to Varian Medical Systems' conference call for the fourth quarter of fiscal year 2015.
+With me are Dow Wilson President and CEO; Elisha Finney CFO and Clarence Verhoef our Corporate Controller.
+Dow and Elisha will summarize our results and we will take your questions following the presentation.
+To simplify our discussion unless otherwise stated all references to the quarter or year are fiscal quarters and fiscal years.
+Quarterly comparisons are for the fourth quarter of fiscal 2015 versus the fourth quarter of fiscal 2014 references to financial results for orders are to gross orders unless otherwise indicated.
+Beginning this quarter the company is recording non-GAAP results in order to provide quarter-over-quarter comparisons of operational performance excluding unusual items.
+Our reconciliations to the most comparable GAAP measure is included in our earnings release which can be accessed on our website.
+Please be advised in this presentation and discussion contains forward-looking statements.
+Our use of words and phrases such as outlook believe expect anticipate could should will promising and similar expressions are intended to identify those statements which represent our current judgment on future performance or other future matters.
+While we believe them to be reasonable based on information currently available to us these statements are subject to risks and uncertainties that could cause actual results to differ materially.
+Some of the important risks relating to our business are described in our fourth quarter earnings release and in our filings with the SEC.
+We assume no obligation to update or revise the forward-looking statements in this presentation and discussion because of new information future events or otherwise.
+Before turning it over to Dow let me advise you that given our investor meeting at ASTRO last week as well as the information we'll be providing on this call we're cancelling our year-end meeting that was scheduled to take place in New York next week.
+And now here is Dow.
+Good afternoon and welcome.
+As you will have seen from the pre-release that we issued ahead of our investor meeting at ASTRO last week the fourth quarter was marked by some earnings challenges as well as orders successes in two of our three businesses.
+In summary we are reporting non-GAAP net earnings of $1.04 per diluted share up from $1.03 in the year ago quarter revenues of $818 million up 1% in dollars and 6% in constant currency oncology gross order growth of 5% in constant currency orders totaling more than $135 million for three proton therapy systems and significant declines in orders and revenues for our Imaging Components business.
+Focusing on operational highlights in our oncology business gross orders totaled $919 million for the quarter equal in dollars and up 5% in constant currency versus the strong year ago quarter.
+Orders for the fiscal year totaled $2.7 billion equal with the prior year but up 6% in constant currency in line with our long-term mid single-digit growth expectations for this business.
+Orders in the Americas for the quarter declined by 5% in dollars in constant currency versus the year ago period when we booked the large part of the Brazil tender.
+For the year orders in the Americas were up 1% in dollars in constant currency.
+In North America orders grew by 4% in the quarter and 3% for the year.
+In EMEA orders grew 13% in dollars and a robust 25% in constant currency during the quarter.
+For the year orders in EMEA were even with the year ago period in dollars and up 12% in constant currency.
+Gross orders in APAC were down by 3% in dollars but up 6% in constant currency for the quarter.
+Annual APAC orders were even with the prior year in dollars and up 9% in constant currency.
+We gained share against the competition in all three regions of the world for the year.
+Our team in EMEA set a record by booking orders for over 100 accelerators with strength across the region.
+In the U.K.
+the National Health Service selected Varian to supply up to 20 TrueBeam systems.
+In Poland we booked orders to supply 11 public radiotherapy centers with TrueBeam systems and software replacing the older Siemens systems.
+In India we booked the first tranche of a five-year 18 accelerator order including an EDGE radiosurgery system.
+We will book the remaining tranches when their delivery dates come within our two-year booking window.
+In APAC a customer in Japan placed an order for three TrueBeam systems together with our new RapidPlan and InSightive Analytics software products.
+In North America our oncology team had several nice wins from customers including Memorial Sloan Kettering Alliance Oncology and Cleveland Clinic.
+Competitive takeouts added to our orders for the quarter and for the year.
+In North America alone we estimate that we generated over $150 million in orders during the year to replace hardware and software products from our competitors.
+Over 40 sites switched from other suppliers to our Eclipse treatment planning software during the year.
+As you know we have just returned from ASTRO in San Antonio.
+It was a great show for us with terrific customer response to our exhibit.
+Our booth was the busiest of the show and we had over 800 attendees at our users meeting.
+During the show we provided a glimpse of the next big breakthrough high definition radiotherapy and radiosurgery.
+This is a new 4 Pi technique that will compress more dose into the tumor while protecting much more of the surrounding healthy tissue.
+Clinicians working with TrueBeam's unique developer mode are using simultaneous motions of the treatment gantry and patient couch to get a huge increase in the number of beam angles available for targeting the tumor.
+High definition radiotherapy is under trial at UCLA and is not yet ready for broad commercialization.
+So we expect that high definition treatments coupled with our multi-modality imaging capabilities at the treatment console will make a much bigger gain in the fight against cancer than is possible with an expensive hybrid device combining MR imaging and limited treatment delivery.
+And we also generated a lot of excitement in our booth at ASTRO.
+Varian's industry leading RapidPlan software which has already been ordered at over 300 sites was the hit of the show.
+As we pointed out at our investor meeting there numerous independent clinical studies show impressive time savings and quality that is equal to or better than plans generated manually.
+At the University of Michigan RapidPlan has enabled complex spine SBRT plans to be generated in 15 to 20 minutes instead of the usual 60 to 90 minutes.
+At the Royal Surry Hospital in the U.K.
+the use of RapidPlan reduced treatment planning time by a factor of five and resulted in plans that were deemed equivalent or better 90% of the time.
+With RapidPlan a dosimetrist can help five times as many patients as could be done with conventional planning products.
+This is a product that could help new centers in emerging markets get up to speed with high quality planning very quickly.
+There are nearly 4 000 cancers centers worldwide using our Eclipse treatment planning software and each of these is a potential candidate for RapidPlan.
+So we expect it to help drive significant growth in software sales.
+We've developed RapidPlan disease site models for a number of cancers including prostate head and neck and lung and there are more to come.
+To strengthen our treatment planning offerings we acquired HyperDrive software technology during the quarter to improve the quality of prescriptions and accelerate the planning process.
+Our new VitalBeam product received FDA 510(k) and CE Mark approvals during the quarter.
+We've received several VitalBeam orders and early signs are this affordable extension of the TrueBeam platform will be a winner particularly in emerging markets.
+TrueBeam now comprises more than 70% of our global accelerator orders and 90% of our accelerator orders in the U.S.
+Before I leave Oncology Systems I want to draw your attention to a groundbreaking study issued by the Lancet Oncology Commission highlighting the global need for more radiotherapy equipment.
+According to this report by 2035 there will be 25 million new cases of cancer diagnosed annually and we will need to supply the world with more than 20 000 new machines to equip new centers as well as replace aging infrastructure.
+The need is greatest in low and middle income countries.
+The report is recommending that by 2020 80% of these countries should establish national cancer plans and make radiotherapy part of their universal health coverage.
+Over the next 10 years the commission recommends investing $46 billion in these countries to expand radiotherapy capacity.
+This will require education and training of thousands of doctors physicists and therapists.
+Varian has established a market development team that is partnering with governments financiers clinicians [audio gap] and patient advocacy groups to support this effort.
+Let me now turn to proton therapy which drew a lot of customer attention at ASTRO.
+We have real momentum in this business.
+In the fourth quarter we booked more than $135 million in orders for three multi-room systems including two in the U.K.
+and one in New York.
+This brought the number of proton orders booked in the year to six systems totaling more than $300 million.
+At this point we have 11 projects in backlog and we are currently working on more than six installations.
+Treatments are expected to commence at the University of Maryland early next year which will bring the total number of centers treating patients with Varian proton technology to four.
+The key to making the proton therapy business profitable are continued success in the market reducing product costs and scaling up the service business.
+We feel like we have momentum in these areas.
+Let me now turn to imaging components where orders shrank by 30% to $165 million for the quarter resulting in a full year orders decline of 16% for this business.
+This was another challenging quarter in an exceedingly tough year particularly in our security and inspection business.
+Orders for panels were down for the quarter and for the year driven primarily by price.
+Unit volumes for these products were up slightly from the prior year.
+Our imaging components' competitors are largely European and Japanese and they got about a 20% reduction in their cost structure due to foreign exchange movements.
+They're using this to grab market share.
+Customers are looking for lower priced alternatives including insourcing.
+In fact one customer has elected to insource and the impacts of this loss in fiscal year 2016 will be about $50 million of revenue.
+The security and inspection products business was also down sharply with annual orders off versus the previous year by about $60 million representing a decline of more than 55%.
+The security business remains profitable and we're looking at a lot of options for getting the business back on track.
+To address the ongoing challenges for the overall business we have initiated numerous corrective actions to make our product lines and operations more cost competitive.
+These include a restructuring to right size the business accelerating product developments including our new low cost flat panel and stepping up marketing efforts particularly in Asia.
+We are opening a facility near Shanghai to support a rapidly expanding X-ray equipment manufacturing industry in China.
+On a positive note we feel very good about two new acquisitions we have made to complement our Imaging Components business MeVis and Claymount.
+In fiscal year 2016 we're looking for about $50 million of revenues from these products and they are both off to a good start.
+Now I'll turn it over to Elisha.
+Thanks Dow and hello everyone.
+Before I walk you through the P&amp;L let me touch on the backlogs.
+The company ended the fiscal year with a $3.5 billion backlog up 10% from the year ago period.
+Backlog adjustments during the year totaled 215 million with approximately 50 million of that related to currency exchange rates.
+Just to clarify my P&amp;L walk is on a non-GAAP basis.
+The GAAP versus non-GAAP reconciliation can be found in our press release.
+In summary fiscal year GAAP operating earnings were approximately 27 million lower than non-GAAP earnings due to restructuring amortization of intangible assets acquisition related costs and certain litigation costs.
+Also for comparison purposes we have provided in the press release a GAAP versus non-GAAP reconciliation for 2014 and 2015 by quarter.
+Before I walk you through the numbers let me just say that exchange rates wreaked havoc on our 2015 results.
+We estimate that on a constant currency basis our reported results would've improved as follows.
+Orders would've been up by about 175 million.
+Revenues would've been up by about 140 million and on the earnings front our operating margin would've been about one point higher.
+Let me point out that this FX impact was felt primarily in Oncology Systems.
+On top of this as Dow explained currency driven price erosion had a huge impact on our imaging components business and that effect is incremental to the numbers that I just gave you.
+Now turning to the P&amp;L third quarter revenues for the total company increased 1% in dollars and increased 6% in constant currency.
+Total company revenues in the Americas were down 1% in dollars and flat in constant currency.
+EMEA revenues were up 5% in dollars but up 18% in constant currency.
+And APAC revenues were down 2% in dollars and up 5% in constant currency.
+For the year total company revenues were up 2% in dollars and up 6% in constant currency.
+Oncology Systems posted a 2% increase in revenues during the quarter up 9% in constant currency.
+And for the year oncology revenues were flat with the year ago period in dollars and up 6% in constant currency.
+Imaging components posted a fourth quarter revenue decline of 8% with a 5% increase in X-ray tubes flat revenues in panel products and a 57% decline in our securities and inspection products.
+For the year imaging components revenues were down 7% from the year ago period with tubes down 1% flat panels down 4% and security products down 37%.
+Revenues for the other category increase from the year ago quarter as we continue production and installation of several proton projects that are in our backlog.
+Total company gross margin fell by nearly three points to 38.9% for the quarter and by more than a point to 41.4% for the year.
+Currency exchange rates price erosion in imaging components and a higher mix of lower margin proton revenue led to these declines.
+Oncology Systems gross margin decreased more than two points in the quarter and nearly one point for the year due almost entirely to currency exchange rates.
+Given the ongoing strength of the dollar we believe Oncology's growth margin will remain at about 43% for 2016.
+The imaging components gross margin for the quarter fell by nearly five percentage points to 38.9% due largely to pricing and mix.
+For the year imaging components' gross margin decreased by more than a point to 41% also due to pricing and mix.
+Given the pricing pressures we are experiencing the 2016 gross margins for this business is likely to remain in the high 30s.
+Fourth quarter SG&amp;A expenses were about 15% of revenues down almost a point as a percentage of revenues from the year ago quarter.
+For the year SG&amp;A expenses were about even with the year ago period at 15% of revenue.
+Fourth quarter R&amp;D expenses were 69 million or 8% of revenues up about one point as a percentage of revenue with the year ago quarter.
+And for the year R&amp;D expenses were about even as a percentage of revenue at 8%.
+Moving down to income statement fourth quarter operating earnings totaled 135 million or 17% of revenues.
+For the year operating earnings totaled 576 million or 18.6% of revenues.
+On a constant currency basis the operating margin was approximately one point higher.
+Depreciation and amortization totaled 19 million for the quarter and 69 million for the year.
+The effective tax rate was 25% for the quarter and 26% for the year.
+Both down significantly from the prior period due to geographic mix of products the use of German tax loss carryforwards and the unusually high 2014 rate.
+Fully diluted shares outstanding decreased from the year ago quarter to 99 million shares due largely to our ongoing share repurchase program.
+The diluted non-GAAP EPS was $1.04 for the fourth quarter and $4.29 for the fiscal year.
+The strong U.S.
+dollar negatively impacted our non-GAAP EPS by approximately $0.15 in the fourth quarter and approximately $0.40 for the fiscal year.
+Turning to the balance sheet we ended the quarter with cash and cash equivalents of 845 million debt at 496 million and stockholders' equity of 1.7 billion.
+DSO at 90 [ph] was up five days from the year ago quarter.
+Cash flow from operations was 153 million for the quarter and 470 million for the fiscal year.
+The primary uses of cash during the quarter were 128 million towards the repurchase of 1.5 million shares of stock.
+At the end of the quarter we had 1.4 million shares remaining under the existing repurchase authorization that extends from calendar year 2015.
+Now I'll turn it back to Dow for the outlook.
+Thanks Elisha.
+We believe that for our fiscal year 2016 total company non-GAAP earnings will be in the range of $4.45 to $4.55 per diluted share and revenues were increased by about 4% to 5% on a reported basis versus fiscal year 2015.
+For the first quarter of fiscal 2016 we expect revenues to be roughly even with the year ago quarter and dollars.
+With ongoing challenges experienced by Imaging Components in the second half of fiscal year 2015 as well as the effect of year-over-year changes in currency exchange rates we expect non-GAAP earnings for the first quarter of fiscal year 2016 to be in the range of $0.88 to $0.92 per diluted share.
+In summary we believe that Oncology Systems is on the right track with continued steady profitable growth and that we have real momentum in our Particle Therapy business.
+We are focusing now on getting Imaging Components back on track.
+We are now ready for your questions.
+Thank you ladies and gentlemen.
+[Operator Instructions] Our first question comes from the line of Vijay Kumar with Evercore ISI.
+Please go ahead with your question.
+Hey guys.
+Thank you for taking my question.
+Dow maybe first one I think you had some interesting commentary on the overall market in terms of the spectacular market share gains you guys have been seeing right? I guess my question is ex the market share gains what is the underlying radiotherapy market growing within North America right? So I am just trying to get a sense in how long should we think about these sustained market share gains sort of going forward? Yes.
+I think on the quarter what we saw in the Americas the Americas was up – I am sorry the Americas in total was down 5% North America was up 4% Latin America was down very significantly as you'll recall in the fourth quarter of 2014 we booked a large portion of the Brazil order.
+So when you kind of peel the onion on it we were very comfortable with where we saw the U.S.
+market at in the fourth quarter and all year that was kind of – we did gain from shares or maybe half of the increment is share gain and half is market growth and also markets probably in 3%-ish range and we were coming in at 5%-6% constant currency adjusted range.
+I think as you saw at ASTRO we are very comfortable with our product portfolio and the position we have across the product line.
+I think it's strong as our product line has ever been.
+And we are very encouraged by the reception we had at ASTRO.
+So going into ASTRO I have already said – and maybe we can maintain share after a pretty good share gain but coming out of ASTRO we're more bullish than ever.
+So until we get a 100% we are going to keep going after some more share gain.
+That was helpful.
+And maybe one on EPS guidance Elisha so I know that the guidance excludes $0.50 of potential contribution from Emory right? So I know last year when you gave the guidance you had a similar issue with Maryland right? And I think at that point installation was complete.
+It was just a question of financing being in place.
+Can you walk us through what are the sensitivities around the Emory recognition for this? Is this in a similar place or you've installed that it's just a question of getting the financing in place? Thank you.
+Yes.
+Let me make a comment and Elisha can then add some color on the accounting.
+We have not shipped Emory yet.
+So that's very different than our position at Maryland.
+The building is nearly ready for installation and the banks are working on financing.
+Now Elisha can talk to the guidance impact.
+Sure.
+And the reason it won't be quite as material as Maryland because with Maryland we were much further along because we had actually shipped and begun the installation.
+So under the percentage of completion we anticipate depending on when this financing if and when it gets completed but it could be as much as $0.15.
+The other impact in the guidance this year versus last year is also we are continuing to have some FX impact in our first half and that's really concentrated in Q1 because the FX rates really didn't change that much until we got into our second quarter last year.
+So we are facing a Q1 headwind on FX.
+That should start to stabilize as we get further into the fiscal year and we anticipate about $0.15 on the full fiscal year '16.
+Thank you guys.
+Thank you.
+Our next question comes from the line of David Roman with Goldman Sachs.
+Please go ahead with your question.
+Thank you.
+Good afternoon everybody.
+Hi David.
+How are you doing? Hey Elisha.
+I know you gave a lot of detail with respect to the individual business operating lines on the call but maybe Elisha you can help us maybe about the bridge from the first quarter earnings guidance through the balance of the year particularly in light of the commentary that I think one of the explanations for the fourth quarter shortfall was a slippage of recognition revenue from Q4 into fiscal '16 and maybe just help us bridge the Q1 to the full year.
+Sure.
+So the full year remains as we talked about last week it is a 445 to 455.
+For Q1 if I take that $0.90 at the [audio gap] of that $0.10 push out of Q4 and when you add that back you'll see kind of that mid single-digit if you were to do all of that math mid single-digit EPS growth on an apples-to-apples basis.
+And I went back and look historically Q1 has always been right around 20% to 22% of our total year.
+That's exactly what this Q1 is.
+I think last year was bit of an anomaly where our Q1 given an unrealistic gross margin we had in oncology it was a good thing that quarter but it ended up being closer to 25% of our total fiscal year.
+So it gives me confidence that we are kind of in that historical range at about 20% of our year.
+Okay.
+And then maybe just coming back to the Imaging Component and Dow you talked about reinvesting to try to get the business back on track.
+At what point do you start thinking about other strategic alternatives for that franchise particularly given some of the pressure that you've described sound more sort of structural in nature rather than cyclical? Yes.
+Clearly we are going to watch where the price goes this year.
+Historically it's been a terrific business for us with very good growth and companywide best operating profit and cash generation has also been very good.
+So we still love the flat panel and tube part of the business.
+The security part of the business is very profitable.
+The profitability of that business hasn't changed but it's very cyclical and we get some big turns there.
+We like the fact that we're the leader in digital imaging technology.
+And so we've got both a strong product portfolio as well as scale in the business.
+And there are synergies with our oncology business.
+The oncology is the second largest customer of that business.
+About 10%-12% of the product cost of our oncology business comes from our components business; over 1500 tubes and panels a year.
+So there is some vertical integration that we look at.
+I think what's happened is this business experienced the FX change in a different way than the rest of the world experiencing it.
+Since more than 75% of the business is outside of the U.S.
+and largely Japan and Europe and since it's almost entirely denominated in dollars there was no FX constant currency adjustment to make into the business.
+And so the way that was felt was in pricing as I said in the script.
+So clearly that's what we are going to be watching where this business goes.
+But we had one customer insource as I said on the call and we've been through the rest of our pipeline.
+We have got contracts with everybody else.
+We feel like the rest of the business is secure.
+We are working very hard on some new products that will drive some feature and benefit.
+They have a full chance to hit the price as well as give us some cost reduction.
+And you've seen some acquisitions from us in this space this year.
+Those acquisitions are enhancing the portfolio giving us some scale and they are executing ahead of our internal plans by a little bit.
+They are 150 [ph] million together Claymount and MeVis.
+So it's not huge but we like what they are doing for us.
+And I think the key for us to watch here in 2016 is where does this price go? It's pretty stable in the dynamic sections of the market.
+In the radiographic piece of the market there is a lot of competitors there is need for some consolidation in this market and we are going to watching that over 2016.
+Okay terrific.
+Thank you for all the perspective.
+Thank you.
+Our next question comes from the line of Jason Wittes with Brean Capital.
+Please go ahead with your question.
+Hi.
+Thanks for taking the question.
+Listen clearly the oncology business is trending along very nicely.
+I think a lot of investors are obviously a little bit concerned about what's going on with the visibility on imaging and I appreciate there has already been a few questions on this.
+But if you could just walk us through how you got to your assumptions for this year in terms of how you think this bad market will grow.
+You said there is about $50 million of revenues that are going away this year.
+I know you mentioned currency.
+I imagine there is some acquisition in there but what other issues might drop and what else is baked into the assumptions that you put out there? I mean the pricing assumptions we kind of let's go through we do have this one of our large customers coming out that's worth about $50 million.
+I think Elisha can comment on margin rate.
+We do have the two acquisitions that are positive 50 million of revenue for us and I think at a high level those are the assumptions we're looking at.
+Yes.
+I think one difference this year versus last year Jason is when we had our security business fall off 56% in one year that was unprecedented and frankly a surprise to all of us.
+That business today – I don't think we can go a whole lot lower because half of it today is service.
+So I just don't think you are going to see the steep decline that we experienced last year in SIP.
+If you just look at tubes and panels last year how many orders they were down in the single-digit on a combined basis.
+So I think we could have weathered a good bit of that but when our highest margin product line fell more than 50% that was just something that was hard to get over.
+And maybe we did say the business would be flat a few percent.
+So that's kind of – with the acquisitions in and out that's kind of what we're looking at the high level.
+And the other thing that I mentioned in the script that we probably ought to highlight as well is that we have done a restricting in the business taking out about 10%-ish the headcount in the business.
+Okay.
+And my understanding is that flat panels is clearly where there is a large increase in competition what percentage of the imaging business is flat panel at this point? It's about 50-50 flat panel and tubes.
+Yes… And the last one on security – thank you.
+And the last question on security I know that the price of oil has impacted that business.
+In your understanding how that business might shape up in 2015 or something is not right now? We had forecasted it flat so no improvement.
+It is lumpy.
+So maybe there is a blue bird that happens in the year but we have not forecasted.
+Markets remain – I mean most of this business is in oil-based economies.
+We've seen very little tender action.
+So with the visibility we have is that there will be no improvement in that segment of the business in 2016.
+Coming back to the earlier question this is the place that we will at a high level look at strategic options.
+Very good thank you very much.
+Thank you.
+Our next question comes from the line of Steve Beuchaw with Morgan Stanley.
+Please go ahead with your question.
+Hi.
+Good afternoon and thanks for taking… Hi Steve.
+Hey Dow I would like to follow-up on the commentary you made early about your reflections on ASTRO.
+You talked about the durability of share gain I wonder if you could just spend another minute on it.
+What is that that you think in 2016 has the company still well positioned? Is it more about software or is it more about distribution? What do you think in '16 the key to the share gain storyline? I mean I think our strongest point at ASTRO was our treatment planning product RapidPlan.
+You have to be able to plan the treatment and there is nobody that does that better than we do.
+The efficiency – I think for me the most exciting part about ASTRO was to see these papers coming out documenting what we marketed the year before.
+So we launched this last year.
+We felt very good about it.
+But to see these papers that I mentioned in the script come out documenting both the efficiency improvement as well as the quality improvement have been dynamite and that's a big deal.
+Second as we go into an environment that's uncertain from a reimbursement point of view total cost to ownership is everything and Varian advantage there is – there is nobody close to us with that.
+There will be some niche products out there that probably get some play in some segments but I think people are still going to be looking at value for money and how to stretch their capital dollars.
+I think the strength of our product line from top to bottom on the hardware side is very good.
+And then our software products are as good as ever.
+People really responded well to the insight of analytics and some of the population informatics – population health and informatics tools that we have.
+And then coming back to where I started is I think our treatment planning is dynamite.
+That's how the treatment planning process starts.
+And given the advantages we have on the hardware side to be able to take advantage of it you have to have a great treatment planning product and that's what we do that nobody else is even close to.
+And then maybe dovetailing with that lot of commentary I wonder if you could talk about VitalBeam and how you see VitalBeam playing overall in the portfolio? You kind of little bit further than I originally anticipated in terms of geographic product registrations on VitalBeam where do you see that's sitting in the portfolio over the next year or two? I mean it's a product that we think of is great for emerging markets and is really going to help us expand the market.
+It's an entry point for value markets and a chance to sell up.
+One of the truly important roles in the portfolio is to price protect the high-end of the product line in those markets and it's doing that very well and we really like what we've seen.
+We have seen good price stability on the TrueBeam as VitalBeam is coming into these markets.
+And we're starting to get some pretty good uptick on product.
+Okay.
+Thanks so much.
+Thank you.
+Our next question comes from the line of Tycho Peterson with JPMorgan.
+Please go ahead with your question.
+Hey thanks.
+Dow can you maybe just add a little bit more on the TrueBeam delays? I understand a lot of those have already come through but I guess if we think about some of the larger deals longer term deals you are signing you had one back in 2Q you called out should we expect maybe a little more lumpiness in order shipment? I'll say first of all that none of the delays had to do with a large order.
+These were all one-offs.
+So while – I am not going to deny the consolidation of the market on the revenue side of the business that we haven't seen any impact related to a consolidating market for our revenue.
+This is about site readiness and acceptance testing and getting all the documentations on and kind of punching it through.
+I think as we said we have $25 million in TrueBeam and related software slip out of the quarter and those were all one at a time and each one was very painful.
+Okay.
+Are there lessons learned from your perspective around understanding customers better or… A lot of lessons learned that – so we have looked at both some of the process things we do and we have made some pretty significant changes in our organization since the quarter to make sure that we are strengthening it and enhancing it so that this doesn't happen again.
+Okay.
+And then outside the U.S.
+EMEA big quarter maybe just talk to the sustainability of trends and other things that we should be keeping an eye on in some of the emerging markets that could maybe mix or some quarter-to-quarter volatility? EMEA had a terrific quarter.
+So we really liked what we saw there.
+It was broad based.
+In the script you heard me mention the U.K.
+Poland and India.
+So that was very good.
+I would say that on an ongoing basis there still is very significant opportunity in India and we talked about Africa in the past.
+I would say in 2015 Africa was quiet-ish and so there is a lot of – I would say the pipeline there looks pretty good so maybe we'll see that market come back.
+There's still a lot in Eastern Europe.
+I'd say the funnel looks pretty good in Eastern Europe.
+The core markets of the Middle East were pretty good in 2014 a little quieter in 2015.
+I think the funnel there looks pretty good in 2016.
+China it's still hanging in there.
+I mean it's not – if we were growing close to 20-ish % in – fell 13 14s – last year it was lower than that for sure.
+But we're not seeing a tank by any stretch.
+So it's probably in the five to 10 range.
+Okay.
+And then last one on HDRT it's still years away but can you maybe help us think a little bit about the development costs.
+How should we think about R&amp;D trending over the next couple of years? I know it was up kind of 1% here this quarter but how do we think about this on a go-forward basis? That's one operating expense Tycho.
+I think you should just accept we will be about equal at the percentage of revenues.
+So we did a step-up to I think it was years ago from 7% to 8%.
+You should anticipate it should be roughly 8%.
+If we get a bolus of proton orders or sales in any given quarter it'll be a little lower but all else equal about 8% of revenue.
+Yes I think one of the things that really resonated with our customers at ASTRO was the overarching vision that we had around it.
+There wasn't product as that relates to products and ref wreck and income statement things there's a variety of things that come this year.
+There are some things that'll come in '17 and a few things that'll come even after that.
+For example this idea of any image you take you wanted the treatment console to help drive a hypofractionated treatment.
+We can do a lot of that with our Velocity product today.
+So part of the vision we think we'll get some update by the way with our Velocity product.
+We've seen a very good reception to that product since we acquired it 18 months ago or so.
+And it's made a nice role for itself in the product portfolio and in the family.
+The image quality improvement for cone beam CT we should see in the next year-ish.
+And I think people are very excited about that.
+And then the first phase of the 4 Pi we can actually do no existing hardware.
+So we're not going to have to introduce – and we've heard the stock since 2010 on the strength of the TrueBeam platform and the amazing capabilities and especially the speed of those capabilities.
+These are all things that we designed in from the beginning.
+There is software work to be done but a lot of this can be leveraged on – most of it can be leveraged on the existing hardware platform.
+So that's the other thing is it'll be a software capability that we can take back to our now 1200-ish units TrueBeam installed based.
+Understood thank you.
+And I should say this that none of this stuff is a pipedream.
+A lot of this being already worked in the developer mode by our research customers worldwide.
+Thank you.
+Our next question comes from the line of Anthony Petrone with Jefferies.
+Please go ahead with your question.
+Thanks and good afternoon.
+Maybe a couple on proton and one strategy question for Dow.
+Just on protons maybe you can give us a sense on the backlog for single-room systems and maybe what's reflected in fiscal '16 guidance? Would additional orders for the contact system actually increase to what you're putting out there for guidance? And then as you work out do you generally see and the noise out of ASTRO was that protons eventually could address 20% of the market needs.
+Do you see that happening and if so over what timeframe? I'd say I mean for the first part of the question the answer is zero and zero.
+So we have nothing in our backlog and we have nothing in our guidance because we're not going to put anything in the guidance that's not in our backlog.
+We've learned that lesson as we've discussed already.
+Let me clarify would you have 350 million of proton backlogs just… That's right.
+Sorry thank you.
+There was no single-rooms in our backlog.
+Having said that we have a very active funnel of single-room systems and I'd be surprised if we didn't see one or a few of those land in 2016.
+And as that happens we'll have some ref wreck upside maybe to report.
+But we have not put any of those in the backlog.
+As to what percent of cancer patients are indicated for proton therapy.
+I think since the minute we've been in this business it was part of the first thing that we did is due diligence.
+We thought the number would be somewhere between 10% and 20% of all cancer patients would be indicated for proton therapy.
+So that number is consistent with what our assessment was in our due diligence getting in a few years ago.
+And Anthony let me just clarify one thing.
+Under this percentage of completion method in protons it's a little different in that we get to essentially recognize the revenue kind of linearly over the project.
+So if we were to get a compact order in the year as soon as we specify equipment for a particular customer we buy parts we start putting it together and producing it.
+We start revenue at that point.
+So we don't have to wait until it's built and shipped before we get any revenue.
+That's helpful.
+And maybe just a strategy question in the follow-up is really on the timing of the shift to non-GAAP earnings from GAAP earnings.
+It seems to follow the Claymount acquisition and I think that's valued at around EUR 52 million.
+So it doesn't seem like a lot of intangible creation.
+And so at the same time Dow you mentioned consolidation in imaging and the cash balance is approaching around a billion as of the quarter end.
+So maybe just an update on the M&amp;A strategy is this sort of an indication that the company may be getting more acquisitive as time goes on? We did a few acquisitions last year.
+We like them both a lot.
+One is a pure software play MeVis computer aided diagnosis for both breast and lung cancer.
+We think there's an opportunity given our distribution channel to leverage that product globally.
+And we're seeing some very good development opportunities in the oncology business there with some of the image processing things that they do.
+So that's encouraging.
+Claymount is a little more hardware.
+It's largely a cable and connector business.
+It's very synergistic with our tube business.
+It has the same customer [audio gap] factoring costs in the Philippines.
+I think we – these are capabilities that we can leverage across the company.
+In terms of our broader M&amp;A strategy I think it's the same.
+We're always interested in things that we can do to strengthen our oncology business.
+On the hardware side I don't see a lot there just because there's isn't much that's too close to us.
+But on the software side and the infomatic side maybe there are some things.
+And then we're going to continue to hunt as well the components base.
+We think scale matters there as the industry consolidates.
+It's been a rough year but we've had terrific growth in this business.
+We've now – we believe that we're the largest manufacturer in the world of tubes and panels even given some of the insourcing that the big radiology companies do.
+So we've got a strong strategic hand to play in that business.
+And we like even despite some of the 2015 rocky roads that we've been through we like the cards that we have.
+And think we've got a good strategic hand to play given our scale.
+Thank you.
+Thank you.
+Our next question comes from the line of Jeff Johnson with Robert Baird.
+Please go ahead with your question.
+Thank you good afternoon guys.
+Hi Jeff.
+Hi Dow.
+So let me start I guess with a couple just last final hopefully question on oncology here.
+As we go into a new fiscal year these issues have been vetted in the past but maybe just an update as we look forward to year here.
+One just any update on the manufacturing side of oncology as you push costs out closer to where some of your revenues are recognized.
+I know you're going through the re-org in ICB but are there still opportunities to push manufacturing costs down on the oncology side number one.
+And number two Colleen kind of alluded last week to some of those Brazil orders starting to come out into the P&amp;L or maybe it was Elisha sorry.
+Last week those Brazilian orders starting to come out into the P&amp;L in '16.
+How do we think about the gating at this point of those Brazil orders? Are we going to get a first bolus kind of in '16 and then a similar '17 similar '18 or is it going to build over the next few years? It's going to build Jeff.
+So we've built in one to two handfuls of Brazil shipments in the second half of the year primarily.
+So this is going to be something – it's going to take a number of years for this to all work through the P&amp;L and the margin.
+Yes.
+And then relative to your first question we are looking very hard at our supply chain in oncology.
+I mean the cost in this business our actual labor content is very very small.
+We do final assembly and test which testing is very very important.
+You got to get that right.
+We are pointing radiation at patients.
+We want to make sure that's done in the highest-quality fashion.
+So we always want to make sure that that part of the process is very robust.
+Today I would say the vast majority of it's done here in Palo Alto we have some capability in China and we are building some capability in Brazil.
+So China and Brazil will bring the cost per unit of that down but we are still very significant here in Palo Alto but the real cost opportunities on the supply chain side as we made very good progress on that in 2015 and that continues to be a focus area for us.
+I am very pretty pleased with the variable cost productivity we are getting in oncology.
+We're seeing at least mid single-digit kind of variable cost productivity in oncology.
+All right.
+That's helpful.
+Thank you.
+Then may be two follow-up questions on the proton business; one Elisha maybe can you talk about the gating of proton revenue and earnings recognition this year? Is it going to be pretty consistent on a quarterly basis throughout the year? Obviously as you get into the third quarter you have got to dig 23 – 22 23 bolus of Maryland hurt a little bit but Dow I think I remember at our healthcare conference you talked about the proton earnings contribution this year is probably going to be similar if not higher in '16 over '15.
+So just trying to figure out how that gates out the model? Sure.
+So the earnings contribution will be negative.
+I know it's verbally pretty similar to what we saw in FY'15 and FY'16.
+I am assuming that we are going to have roughly 20 million more proton revenue this year versus last year just given what we are delivering on in the backlog.
+But remember the Maryland deal was pretty profitable because of the way it was a bolus of revenue and because it was a very large center.
+So it should be about even with the year ago period in terms of the impact on the P&amp;L and of course the big wildcard being do we get Emory and do we get any compact that we can book that are currently not in the backlog? All right.
+That's helpful.
+And then last question on proton just with regards to the Emory deal does the UTSW issues that are happening down in Texas and bankruptcy filings down there and some legal hassling or legal wrangling I should say between kind of one of the donors there and then I think it's between him and ATP does that impact Emory at all? And what does that do to the longer term potential of UTSW? Sure.
+So Jeff from my knowledge I mean these are all separate legal entities with separate investors and lenders and equity players and so one is insulated from the other.
+So I do not believe that it's going to have a big impact on Emory.
+I can tell you that we are still engaged with banks helping answer questions so that APT can in fact get their financing put together.
+And longer term for UT Southwest I do know that UT Southwest has indicated they are very interested in still having a proton center.
+And so hopefully this litigation will get worked out and we can go to work for them and get it installed.
+But that's a ways off.
+Yes fair enough.
+Thank you.
+Thank you.
+Our next question comes from the line of Toby Wann with Obsidian Research Group.
+Please go ahead with your question.
+Hey guys.
+Thanks for taking the question.
+Quickly on the oncology side of the business can you maybe shed some light on the services side how that was during the quarter as well as the software side of the business? Yes.
+I mean both were very strong in the quarter.
+Services were hit from a currency point of view but constant currency basis it was right where we expected it would be 9%-10%.
+Software is equally strong largely on the backs of RapidPlan.
+Okay.
+Thanks.
+Thank you.
+Ladies and gentlemen we have no further questions at this time.
+I would like to turn the floor back over to Spencer Sias for closing remarks.
+Thank you.
+Thank you all for participating.
+A replay of this call can be heard on the Varian Investor website www.varian.com/investor.
+It will be archived there for a year.
+To hear a telephone replay please dial 1-877-660-6853 from inside the U.S.
+or 1-201-612-7415 from outside the U.S.
+and enter confirmation code 13619357.
+The telephone replay will be available through 5.00 p.m.
+this Friday October 30th.
+Thank you.

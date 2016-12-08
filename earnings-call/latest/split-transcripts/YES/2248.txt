@@ -1,0 +1,430 @@
+Ladies and gentlemen thank you for standing by and welcome to the Level 3 Third Quarter 2014 Earnings Conference Call.
+During the presentation all participants will be in a listen-only mode.
+Afterwards we will conduct a question-and-answer session.
+(Operator Instructions) As a reminder this conference is being recorded Wednesday November 5 2014.
+I would now like to turn the conference over to the Vice President of Investor Relations Ms.
+Valerie Finberg.
+Please go ahead.
+Thank you Frank.
+Good morning everyone and thank you for joining us for the Level 3 Communications third quarter 2014 earnings call.
+With us on the call today are Jeff Storey President and Chief Executive Officer; and Sunit Patel Executive Vice President and Chief Financial Officer.
+I would like to draw your attention the Investor Relations section of the Level 3 website at investors.level3.com.
+On this site are the presentation materials that accompany this call the earnings press release and supplemental financial information as well as tw telecom’s supplemental information and presentations that historically accompany the tw telecom earnings call.
+Please note that the information provided for tw telecom results are on a standalone basis and are not included in Level 3’s reported results and are all based on tw telecom’s definitions for the metrics provided.
+The growth rates disclosed in our presentation and remarks are on a year-over-year basis unless otherwise noted.
+Revenue comparisons to prior period are provided on a constant currency basis unless otherwise noted.
+I need to call your attention to our Safe Harbor statement that begins on Page 2 of 3Q ‘14 earnings presentation.
+This presentation and remarks contain forward-looking statements that are subject to risks and uncertainties.
+Results may vary significantly from those statements.
+A discussion of factors that may affect future results can be found in Level 3’s filings with the Securities and Exchange Commission.
+We will also be referring to certain non-GAAP financial measures.
+Reconciliation of these non-GAAP measures to the most comparable GAAP measures are available in the earnings presentation as well as our website.
+With that I will turn the call over to Jeff.
+Thank you Valerie.
+Good morning everyone and thank you for joining us.
+As you can see from our third quarter results we continue to maintain our single mindedness on driving profitable growth.
+I would like to start by thanking John Blount and Andrew Crouch for keeping their respective North America teams focused over the past several months in spite of the many distractions of integration planning.
+That focus allowed both companies to maintain momentum and deliver solid quarters.
+As a result tw telecom’s overall revenue and Level 3’s North America Core Network Services revenue both grew 8%.
+When we announced the transaction back in June I was confident that we were choosing the right path for the success of the company over the long-term.
+After several months of detailed planning my excitement about the combined company is as high as ever.
+The combination of tw telecom and Level 3 brings together two great customer focused companies both demonstrating strong growth.
+It brings the entire global footprint and product portfolio of Level 3 to tw telecom customers.
+It brings tw telecom’s rich deep and extensive metro network and product portfolio to Level 3 customers.
+Lastly it brings together two experienced sets of employees focused on driving growth supporting our sales team and providing an excellent customer experience.
+As usual Sunit will provide an overview of the third quarter results.
+Then I will provide additional color on the integration planning we have done to-date and the perspective on our outlook for the rest of the year.
+After that we will open it up for your questions.
+With that I will turn the call over to Sunit.
+Thank you Jeff and good morning everyone.
+I will start off by noting that since the tw telecom transaction closed just a few days ago and after the end of the third quarter my comments today mostly pertain to Level 3.
+I will touch on the highlights of tw telecom’s results a bit later.
+I would like to start with some of the highlights for the quarter which can be found on Slide 3 of our presentation.
+Core Network Services revenue for the third quarter of 2014 increased by 5.8%.
+Enterprise Core Network Services revenue grew 9.1%.
+Adjusted EBITDA was $471 million.
+And year-to-date we have generated $157 million in free cash flow.
+Additionally as of this morning the company is now part of the S&amp;P 500 Index.
+Turning to revenue on Slide 4 CNS revenue grew 5.8% to $1.482 billion.
+Enterprise CNS revenue grew 9.1% primarily driven by continued solid performance from wavelengths and IP and data products.
+Also CNS revenue decreased 0.3% as we have previously indicated we generally expect wholesale CNS to be flat to slightly down year-over-year.
+On a regional basis North America continued to show strong growth as CNS revenues grew 7.7% and enterprise CNS revenue grew 12%.
+In EMEA CNS revenue declined 4.8% and enterprise CNS revenue declined 1.2%.
+The performance this quarter was impacted by a few expected disconnects in both the wholesale and enterprise channels.
+Excluding UK government revenue enterprise CNS revenue grew 3.7%.
+We expect the EMEA region will continue to stabilize over the coming quarters.
+Latin America CNS revenue grew 8.6% and enterprise CNS revenue grew 8.3%.
+The LatAm region has particularly strong growth this quarter in wholesale due to a few large deals that were installed during the quarter.
+As we have noted before wholesale can be lumpy with large installs or large disconnects in any given quarter.
+Across the business we continue to expect wholesale to be flat to slightly down.
+Wholesale Voice Services and Other or WVS revenue declined to $147 million in the third quarter 2014 compared to $172 million in the third quarter of 2013.
+As we have indicated we expect double-digit declines in WVS revenue for the full year 2014 compared to 2013 as we continue to manage the business for margin contribution.
+Turning to revenue results by product group on an as reported basis we saw continued strength in our IP and data services group which grew 10%.
+CDN revenue grew 12%.
+Transport and fiber grew 5.8%.
+Within transport and fiber dark fiber grew 11% and represents 6% of CNS revenue.
+Co-location and data center services grew 2.1% and voice services were flat.
+Regarding pricing we have not seen any changes in the pricing environment across our products or regions.
+We remain disciplined on pricing for IP transit services as we continue to shift our revenue mix there more towards enterprise.
+At the bottom of Slide 4 for the third quarter 2014 CNS revenue churn was approximately 1.4% in line with the churn rate from the year ago quarter.
+Overall churn was negatively impacted by higher churn in EMEA during the quarter.
+On Slide 5 in the third quarter 2014 network access margin previously reported as gross margin expanded to 62.7% compared to 61.2% in the third quarter 2013.
+The improvement in network access margin continues to be driven by higher CNS revenue growth and WVS revenue declines as well as continued network access cost optimization initiatives.
+As I shift the discussion to network-related expenses and SG&amp;A I’d like to point out that non-cash compensation expenses and $30 million of severance charges incurred in the third quarter of 2013 are excluded from the discussion on network-related expenses and SG&amp;A that follows.
+Network-related expenses were $304 million for the third quarter 2014 compared to $305 million for the third quarter of 2013.
+SG&amp;A for the third quarter was $247 million.
+This included $7 million in tw telecom transaction and integrated related expenses as well as a benefit of approximately $10 million for adjustments to our accrued liabilities for tax and legal matters.
+This compares to $252 million for the third quarter 2013.
+On Slide 6 third quarter 2014 adjusted EBITDA was $471 million.
+This compares to adjusted EBITDA on a pro forma basis of $404 million in the third quarter of 2013.
+Adjusted EBITDA margin improved to 28.9% compared to 25.7% on a pro forma basis for the third quarter 2013.
+Turning to Slide 7 capital expenditures were $204 million in the third quarter 2014 compared to $194 million in the third quarter of 2013.
+Year-to-date capital expenditures as a percent of total revenue were 12.5%.
+The company generated – I am on Slide 7 now sorry.
+The company generated free cash flow of $117 million in the quarter.
+Year-to-date we have generated $157 million in free cash flow.
+We continue to expect free cash flow of $250 million to $300 million for the full year 2014.
+As a reminder our free cash flow in the fourth quarter 2013 of $197 million was particularly strong as a result of higher collections at the end of last year.
+I will now skip over to Slide 9 and take a moment to provide information on tw telecom’s results which are presented on a year-over-year basis using historical tw telecom definitions for all metrics.
+tw telecom had a good quarter with total revenue growth of 8% and enterprise revenue growth of 8.4% both on a year-over-year basis driven primarily by data and Internet services.
+And EBITDA was $143 million for the third quarter of 2014 an increase of 2.9% from the same period last year.
+tw telecom continued making progress on their previously announced strategic market expansion initiatives.
+As of September 30 the company had activated all five of its new markets and 15 of its 28 market expansions.
+From a shares outstanding perspective for the combined company we ended the quarter with approximately 238 million shares.
+We issued approximately 97 million shares for the tw telecom transaction bringing the total shares outstanding to 335 million.
+On a fully diluted basis our shares outstanding are approximately 357 million.
+Turning to the business outlook I would like to briefly touch on adjusted EBITDA.
+As you can see on Slide 10 for the full year 2014 from a starting point of $1.565 billion we expect EBITDA growth of 14% to 18%.
+Looking at our year-to-date performance we are running a little ahead and we feel good about the rest of the year.
+Since our outlook is typically focused on the year rather than the forward quarter we did not feel that the magnitude of outperformance is large enough to change our current outlook.
+As such on a standalone basis and excluding the effects of the tw telecom acquisition we are reiterating our previous outlook for the full year 2014.
+All measures are detailed on this slide.
+Looking at guidance for the combined company consistent with our usual practice we will provide the 2015 outlook on our fourth quarter earnings call.
+We are also evaluating both tw telecom and Level 3 disclosures and will provide the details on how we will report results for 2015 on the fourth quarter earnings call.
+At a minimum we plan to continue reporting enterprise and wholesale revenues by region as we have been for the past several years.
+Turning to Slide 11 when we announced the tw telecom acquisitions we noted that we expect a $240 million of annualized synergies with $200 million of adjusted EBITDA savings and $40 million of capital expense savings.
+Over the last few months we have been actively planning for the integration of tw telecom and we remain confident we will achieve those targets.
+Additionally we continue to feel good about achieving 70% of the annualized adjusted EBITDA savings within 18 months of closing.
+In summary we are well positioned but have a lot of hard work and execution ahead of us.
+With that I will turn the call over to Jeff.
+Thank you Sunit.
+Since the numbers speak for themselves I don’t really have much to add to Sunit’s comments.
+I continue to be pleased with our performance each quarter and I am confident that we will achieve our full year 2014 financial outlook.
+I am also pleased that we continue to increase our market share with enterprise customers and are clearly positioned to become the premier global communications provider of choice for enterprises around the world.
+As I mentioned on the last quarter’s call I am largely focused on three areas that are key to the continued growth of Level 3.
+The first successfully integrate Level 3 and tw telecom.
+The second sharpen our focus on EMEA and enable that region to live up to its full potential.
+And third continue to position Level 3 for future growth.
+Today I would like to focus my comments on the first of those three priorities integrating tw telecom and Level 3.
+After months of planning our entire team is excited that the transaction is closed and we can now begin executing the plan.
+What we found is strong alignment between our business models.
+Both companies have focused on solving the ever-changing network challenges enterprise customers face in developing innovative products that meet those evolving challenges.
+Both companies have excellent capabilities and outstanding employees focused on providing a differentiated customer experience.
+And both companies value the strength gained from a simple operating environment and systems that empower employees to do their job effectively and meet the needs of our customers.
+Integrating these two great organizations into a single company will certainly require hard work and will take some time.
+However we have not found any big surprises and the integration planning has gone well.
+Learning from the acquisitions we have done previously we have established detailed timelines with milestones along the way to track our progress.
+We feel confident about our synergy targets and the timeline to obtain them.
+Over time we expect this combination will be transformational from an operational perspective as well.
+By integrating the best of each company’s products systems and processes we will be able to better serve our customers while delivering our services over an enhanced local to global infrastructure.
+From a customer perspective we have been pleased.
+Although we have only had a couple of days where we could share customer specific data we found that less than 5% of the combined companies’ customers overlap.
+Since these customers are primarily wholesale or very large enterprise customers the revenue overlap is greater than 5% but less than we saw with Global Crossing.
+On our second quarter call I mentioned we selected the executive team that will lead the combined company.
+Since then we have defined several additional layers of the organization and have named those leaders as well.
+We are well on our way to defining the full organizational structure for Level 3.
+Our approach has been to make decisions quickly and provide clarity to the organization.
+We will continue this approach as we move forward in the execution phase.
+At this point we are several months ahead of where we were with the Global Crossing acquisition.
+Before we open the call for questions let me say that I am pleased with Level 3’s progress year-to-date.
+And I'm confident that we will meet the standalone Level 3 targets that we set at the beginning of the year excluding the effects of the tw telecom acquisition.
+There is a lot of work ahead of us but we are – we will be highly disciplined and focused on a successful integration.
+With that we will open it up for your questions.
+Operator would you explain the process.
+Thank you.
+(Operator Instructions) Our first question comes from the line of Simon Flannery with Morgan Stanley.
+Please proceed.
+Thank you very much.
+Good morning.
+Thanks for all the color.
+Jeff you talked about one of your priorities being to sharpen the focus on EMEA you also cited some disconnects in EMEA there has been a lot of talk about weakness in the European economy can you just dive a little bit deeper into what’s going there how much of this is sort of things like UK government that you just got to work through versus other things where you have got to make more substantive changes or macro headwinds that you are facing? Thanks.
+Sure.
+Let me break the question into two pieces.
+One about how we are going to sharpen our focus and then I will let Sunit answer – as you know Sunit has been heavily involved in our EMEA business over the last year.
+I will let him answer some of the specifics around current performance.
+One of the things we have done is we moved Andrew Crouch to EMEA.
+Andrew is one of the top executives in our company.
+He has done a great job in North America He has provided focus and expertise and experience in driving our enterprise success that we have seen in North America over the past few years.
+And we have moved him to EMEA to help do the same thing there.
+We have a strategy of how are we – we are going to grow in EMEA through enterprise customers but also with our wholesale business.
+And Andrew is working with that team there to ensure that we implement that strategy quickly and effectively and it’s a pan-European strategy it’s not just a UK only strategy.
+It includes what are we doing in Continental European in Germany in France in Benelux in the Nordics and across the European continent.
+Yes.
+So in terms of specifics and Andrew just took over this last month in EMEA so he is starting his duty there.
+With respect to the quarter we had a couple of customers one customer that we had a disconnect or a negative rebate in revenue had to do with extending our long-haul network arrangement in the UK for several decades.
+So it was actually a positive transaction for us to secure our long-haul network in the UK.
+We view that as a good outcome.
+That change was supposed to happen early and it happened in second quarter but view that as good.
+The second one was the data center customer an enterprise data center customer but one of the West Coast companies moving to its own facility.
+So while the disconnect was negative we certainly had expected it for quite some time.
+It does free up more data center capacity for us in London to sell.
+So I think those were the two big ones.
+On the UK government the UK government revenue actually has been relatively stable the first half of this year.
+We expect a little weakness over the next year.
+But generally as we stand back I think the keys are we have sustained revenue declines on the wholesale side that we see that trend now stabilizing.
+I think this will mark one of the worst quarters from that perspective.
+We have improved our reputation and standing with the UK government quite a few contracts there is inertia there but that part is going well.
+A little bit of weakness there over the next year but that’s about it.
+On the enterprise side as Jeff pointed the key focus there is continuing to energize our enterprise business there.
+And I think with Andrew going there on a full-time basis we certainly think that will yield quite a bit of benefit and we will see that over the next year.
+From a bottom line EBITDA perspective the EBITDA performance of EMEA is held relatively steady in terms of dollars of EBITDA.
+So in spite of the revenue declines we have been taking out enough cost from duplicate facilities and other non-headcount expenses that EBITDA has held relatively steady in spite of the revenue declines.
+Great.
+Thanks for the color.
+Our next question comes from the line of Nick Del Deo with MoffettNathanson.
+Please proceed.
+Hi.
+Thanks for taking my question.
+You explicitly called out dark fibers contribution to revenue and its growth rate for the first time.
+Can you talk a bit about what you are seeing in that market? How does that 11% growth rate compare with the past who is buying dark fiber and what are they doing with it? Is it additive to revenue or is it people moving over from web services? So I will let – I will just answer the specifics on the revenues.
+I will let Jeff talk a little bit about how we see dark fiber in the scheme of all our products but with respect to the question dark fiber has been a growth business for us for quite a number of years.
+It is not necessarily supplanting lit.
+Typically when we enter into any dark fiber arrangements with customers it strengthens our relationship to become more of a strategic supply to them and it has been growing sort of in the high single-digit to low double-digit in terms of range over the last couple of years or so.
+So no it’s a good part of our business.
+We are in the business.
+So we thought just would note that since it was also one of our well-performing products this quarter so that’s why we noted that.
+And then I will turn it over to Jeff.
+If you think – it’s one of the strengths of Level 3 if you think about carrying traffic across the world if you are an Internet-only company then every bit of traffic looks like Internet.
+If you are a content distribution company then every bit of traffic looks like content distributions.
+If you are a dark fiber company then every solution looks like a dark fiber solution.
+Level 3 is all of those.
+And we have the ability to carry traffic in the form and the medium that’s appropriate for that traffic.
+So when our customers come to us whether they come to us with traffic that looks like content distribution type traffic we are able to deliver that efficiently over our CDN network.
+If it’s Internet traffic we are able to deliver that efficiently over our Internet network.
+If it’s transport it it’s dark fiber we are able to solve our customers’ problems with the appropriate level of service and the appropriate type of services.
+We have a variety of products and platforms to deliver customers and we don’t then try and shoehorn every bit of traffic into whatever we happen to have available for sale.
+So it’s really the strength of the Level 3 product portfolio.
+Yes I mean we are a lifecycle provider.
+As customers’ needs change I think we can respond more flexibly and adapt more quickly than someone that just provides a single product.
+Okay thanks for the perspective.
+Sure.
+Our next question comes from the line of Colby Synesael with Cowen &amp; Company.
+Please proceed.
+Great thank you.
+Two questions if I may.
+First off I think one of the bigger concerns investors have as it relates to the tw telecom acquisition is the potential for a slowdown in sales momentum through the actual integration itself.
+And I was wondering if you can give us any color on what your expectations are around that particularly maybe what happened with bookings specifically in the third quarter? Maybe what you are seeing already in the fourth quarter between the two combined organizations? And then the second thing just I know you are talking about a milestone-based approach to the integration.
+Can you give us a little bit of color about what exactly are some of the things that we should be looking forward to that maybe you are planning on updating us on – in the fourth quarter in terms of things that you have since accomplished so that we could have a better idea of what we should be expecting in terms of the sequencing? So whether it’s combining the account coverage or a sales person perspective certain systems that you are looking to integrate maybe over the next 6 months certain things you are doing from the network mapping perspective just looking at a little bit more of a benchmark approach to offices going actually as we move forward? Thanks.
+Sure.
+First of all Colby with respect to the bookings and sales and what do we expect.
+I will tell you that one of the guiding principles of our integration planning our integration discussions all of the internal discussions that we have with employees is that we need to maintain our revenue trajectory that we put both companies on.
+We said that internally in the third quarter after we announced the transaction.
+And as you see from our results both companies did that in the third quarter.
+Sales in the third quarter for Level 3 were steady and predictable.
+Sales for tw telecom were steady and probably exceeded some of the expectations a little bit.
+They are very strong yes.
+They are very strong in the third quarter for tw telecom.
+And so we hope and are working on all of our plans to make sure that our integration work does not harm our ability to drive revenue growth.
+Having said that these are complicated transactions it’s a complicated business.
+We have lots of people involved and lots of systems and capabilities.
+So that’s what our plan is but it’s a very complicated thing to execute on and we are very focused on doing that.
+If you think about some of the integration and what’s the timeline of things to come and what we will be reporting on going forward I will hold some of what we will be reporting on until the fourth quarter and we will update you then on our expectations for reports in 2015.
+Clearly we will continue to talk a little bit about synergies and our ability to accomplish those things.
+From a timeline perspective the thing that we need to do first is make sure that our go-to market plan is in place meaning our sales team and the sales structure is set.
+People know what accounts that they are responsible for.
+People know how they are going to be compensated.
+Sales people know how they are going to be compensated.
+We have the support infrastructure in place to support those sales as they go.
+We have the product definitions and the sales support materials in place to make it possible for our brand the newest Level 3 sales people to sell these Level 3 products across the tw telecom customer base and that we have the same on the other side.
+Okay.
+And then...
+And then Colby we will be talking every quarter about the run-rate synergies achieved and integration costs being cut in the quarter or for some period of time.
+And then just one real housekeeping question the actual transaction cost itself associated with the deal if you go back to Global Crossing a few years ago I think that that was like around $39 million at the quarter that it was close and that was outside of the integration costs I believe.
+Do you have a number for what you would be expecting in building into our models for the fourth quarter specific to the actual closing costs? Well I think the transaction costs for Global Crossing were much higher.
+I think they were on the order of couple of $100 million.
+With respect to tw telecom when we announced the fourth quarter we will get into specifics since as I said the transaction just closed a couple of days ago but we will talk about that when we announce fourth quarter.
+Thank you.
+Our next question comes from the line of James Moorman with DA Davidson.
+Please proceed.
+Yes thanks for taking the questions.
+First in terms of Latin America can you just talk a little bit more about what’s going on there and in particular Brazil there is – if it’s still a headwind or if there is anything improving there? And then second question any – in terms of some of the TWTC’s products such as bandwidth on demand any timetable for kind of rolling that to your products? Thanks a lot.
+Well I will take the first question and Jeff can take the second one.
+On the LatAm situation there are two basic big picture things going on.
+There is the macroeconomic/political environment that we got to be cognizant of and then there is currency volatility.
+Brazil is 40% of our LatAm business and has been well documented.
+The economy there has been slowing down.
+There were some recent issues with the election and how people felt about that with respect to the currency and the markets.
+What I would say is that in spite of all of the macroeconomic headwinds and slowdown our business in LatAm has continued to perform well and we continue to gain market share by a fair margin compared to other peers operating in LatAm.
+And I think that the combination of our long-haul facilities metro facilities and data center facilities in LatAm combined with the global footprint we have has really helped us.
+So I think in spite of some of the macroeconomic headwinds our Latin America continues to do fine and gain market share and that applies for not just Brazil but for some of the other geographies we operate in in Latin America.
+And James within your question there is really two kind of components to the tw telecom products.
+And the first is they have excellent products and you are right whether it’s their bandwidth on demand product or the product constellation associated with cloud networking or their Ethernet capabilities there were some very strong very capable products in their portfolio.
+And so we are glad to have them.
+The second part of the question though was any timeline on when we are planning to move them to our products.
+The benefit and one of the ways that we are thinking about this transaction that the benefit is as of today they are our products.
+We have them available for every one of our customers.
+Certainly the tw telecom former tw telecom sales reps are more informed about those products and better able to sell them but we will develop that same capability across the Level 3 sales force.
+And so as of today we have all of those products in our portfolio.
+We will have to rationalize some of them that are overlapping.
+We have the Cloud Connect Solutions ecosystem that Level 3 has built.
+We have the constellation ecosystem that tw telecom has built.
+And what we want to do is take the combination of those and to deliver to the market the premier ecosystem for connecting to cloud computing capabilities of any carrier on the planet.
+And so we are doing that we are working on that and it’s less about integrating them to our products and really about taking both sets of products and building what we are building for the future and for our customers.
+And so we are doing that today.
+And we will continue to rationalize those products but also enable the sales force to sell the services to both sets of customers.
+Great.
+Thanks a lot.
+Our next question comes from the line of Kevin Smithen with Macquarie Capital.
+Please proceed.
+I want to talk a little bit about the network synergies opportunity I think we assume that most of the synergies you have talked about on the operating side are on the sort of traditional OpEx but clearly I think there is a longer term opportunity to put more of the Time Warner Telecom traffic on net for you can you talk a little about the opportunities there and sort of what’s the strategy for trying to create some network synergies? Sure.
+So I think and this is in our presentation on the – on Slide 11 where of the $200 million of synergies we expect 55% of that to come from network expense or network access cost and 45% from OpEx.
+So that is clearly a big part of the synergy picture that we outlined at the time of the announcement.
+And the way we see those synergies coming out is tw telecom has expenses or long-haul network expenses that they won’t need because we can push that on the Level 3 network.
+And then both companies can leverage each other’s on-net footprint to reduce access costs.
+They are also grooming and trunking costs within a macro that can be optimized further whether it’s to – we both connect – we might both be connecting to similar central offices so we can eliminate duplicate facility entrance cost to some of those places.
+And then also I think where we might be paying network expense costs going to the same facility both us and tw telecom we could justify some bills to some buildings to reduce network expense.
+So it’s a whole spectrum of things that we will be doing that we have been planning on in the last few months that we will be executing on to achieve the synergies.
+So of the $200 million of EBITDA synergies 55% are from reductions in network expense so network access costs.
+And how long does it take to realize you imagine that you either have to wait for the lease – the facilities leases or carrier contracts to finish or you have to pay an early termination fee how should we kind of think about the duration before all these network synergies are finally recognized? A fair question that’s why we said we expect to hit 70% of the $200 million within 18 months of closing there is a tail after that to get the rest of the synergies.
+And to your point we do have to look at the combined buying arrangements we have with various network access suppliers to work that out.
+So there is a tail but 70% of that will generally hit within 18 months of closing.
+So it’s going to happen fairly fast.
+And the contract terms are not generally the gating factor.
+The gating factor is making sure we are doing this in concert with our customers.
+There is an impact when we move them from one to another making sure that we sequence the migration so that we are not continually hitting customers over and over as we migrate off-net capacity to on-net capacity but soon it’s right in the timeframe and it’s something that we are extraordinarily good at.
+We have a lot of experience and a lot of capabilities in this area and therefore confident in our synergy targets that we have talked about.
+Is there any other structural reason why Time Warner Telecom’s gross margins had been lower than yours significantly or is it just you have a lower cost base on long-haul and transport? I think that their definition is a little different.
+They include like people expenses with respect to field operations.
+So they have a larger definition.
+Our definition for network access costs is simply what we pay to third party network access suppliers.
+As we report on a go-forward basis we will adopt the definition that we have.
+So I think that if you were to look at their network access costs the way we define it their gross margins will be higher than what you have seen them report in the past.
+So it’s just a definitional thing.
+Okay great.
+That’s very helpful.
+Thank you.
+Our next question comes from the line of Tim Horan with Oppenheimer.
+Please proceed.
+Thanks guys.
+Just two clarifications and one question.
+Time Warner I guess that they are not on your long distance network or tw they are not on your long-distance currently is that correct.
+And second could you remind us the Global Crossing the percentage of revenue you lost from the customer overlap and maybe some kind of guesstimate on why would be material lower now.
+And then third the cross selling of products can this be material how excited is the sales force about some of the new products and can you maybe talk about like if I am a tw sales person what products does Level 3 really have that I can go back to my customer base now and up-sell them that they are excited about? Thanks.
+Sure.
+So I will take some of those and let Sunit take some as well.
+On the tw telecom are they on our backbone or not? They are they are a customer of ours.
+That doesn’t mean that every bit of their backbone they buy from us but they are a customer of ours and so we or were historically a customer of ours.
+So some portion of that is already on the Level 3 backbone.
+They buy services.
+They bought services from others as well and we will move those to the Level 3 backbone as quickly as possible as part of the question that Kevin was asking about and timing of our off-net expenses.
+I am not going to try and estimate the revenue loss that we saw from combined customers in Global Crossing.
+I will tell you that there is some difference though between tw telecom and Global Crossing if we look backward at Global Crossing one of the biggest areas that we lost revenue was one there was a wholesale customer that bought internet services from us and also bought internet services from Global.
+The reason they did that was to get diversity in the internet backbone.
+We don’t see very many of those customers in the tw telecom customer set.
+And so the number one drivers of diversity requirements that existed with Global Crossing customers isn’t as strong with tw telecom customers as it was with Global.
+And then the absolute dollars of overlap is smaller as well.
+So those are two reasons that we think that the number will be less than – and less impactful than we saw with Global Crossing.
+With the respect to cross-selling of products and are the two sales teams excited? The answer is yes at least from every salesperson that I have spoken with.
+I haven’t spoken with all of them yet but from every salesperson that I have spoken with the answer is yes.
+The tw telecom salespeople are excited about being able to win more effectively in long-haul and certainly in international.
+If there was an international component previously they rarely bid.
+If there was a significant long-haul component previously they rarely won.
+So they think they are very excited about just the network footprint to begin with but also the product overlaps the IP VPN capabilities in the Level 3 product portfolio.
+The same is true going the other direction.
+And by the way Sunit already talked on this but both companies have big metro networks and a lot of on net buildings and so it now positions our combined sales team to sell over a larger footprint.
+And we know the more on net we are the more successful we are in delivering the service to customers the more successful we are in winning the business and the higher profitability that it is for us as a company.
+So if you look at the 30 000 buildings using rough numbers 30 000 buildings on net in the U.S.
+between the historical Level 3 and historical tw telecom we have talked about this on the announcement of the deal that there was less than 10% overlap in those buildings.
+That gives us a great footprint to cross-sell all of our services to new customers in those buildings or existing customers in those buildings.
+And so both sales teams are excited and both sales teams think that they have an opportunity to up-sell to their existing customers.
+Thank you.
+Our next question comes from the line of Michael Rollins with Citi.
+Please proceed.
+Hi.
+Thanks for taking the questions.
+Just two if I could and am not sure if you mentioned this earlier but if you could just give us an indication of how to think about the exchange rate changes on revenue going into the fourth quarter and going into next year if you just look at where current rates are and just keep them at that level? And then just going back to the business just wondering if you could describe a little more in terms of the enterprise revenue growth that you are seeing how much of that is coming from new customers versus existing customers and are you seeing the incumbent providers get more aggressive at trying to keep that business away from you? Thanks.
+Well I will take the exchange rate question.
+So I think on a combined company basis roughly 86% of the revenue mix is U.S.
+dollars and of the remaining roughly about 5% is pound sterling 4% is euros 3% is the Brazilian real and 2% are other currencies.
+And I think that from a cash flow perspective really the only cash flows we have because our regional headquarters for EMEA is in the UK.
+From a cash flow perspective it’s just euros and Brazilian reals but again in the scheme of things with tw telecom the FX exposure declines even some.
+Even without tw telecom 82% of our revenue base was U.S.
+dollar denominated.
+So we have limited exposure.
+Having said that I think that our team in Latin America is very good at managing currency situations in terms of how we charge for our services and how they manage the costs against that.
+So I think that’s a quick summary on the exchange rates.
+We tend to bring our cash flows back into the U.S.
+as quick as we can after they are generated.
+So with respect to the second question Mike the mix of enterprise revenue that comes from existing customers versus new customers is always very heavily skewed to existing customers.
+We have talked about this before but we have a strategy and customers buy from us.
+They will buy a little bit of products and services from us and then we will go in after we have won that business after we have delivered a great experience for them we go in and we get more and more of their business.
+So the vast majority of our sales come from existing customers.
+We are continually adding new logos because that’s how we filled the pipeline for what we are going to sell next quarter and the quarter after that is by bringing those customers online.
+But they oftentimes come in with smaller deals to begin with and then we grow with them as we prove ourselves.
+We will add one of their facilities and then we will add another and then we will get their whole IP VPN solution.
+Sometimes we get all the business at once but generally we have that wedge growth strategy sell something to them and then grow with them over time.
+So a lot of our revenue comes from existing customers.
+Are the incumbents being more aggressive? Level 3 focuses on driving profitable revenue growth and we have been very successful over the last few years of doing that continually with our customers and in particular our enterprise customers but we still have mid single-digit market share.
+And so there is enormous opportunity for us to continue to grow in the market.
+And I don’t mean it’s irrespective of what our competitors do but I have long said that our ability to win in the market is based on our ability to execute.
+If we provide great products over a great platform to an excellent customer experience we will continue to drive the growth that we have seen and that’s what we’re focused on is how do we continually improve our products and our performance and our experience that we provide to customers.
+And that will be – that’s what differentiates us in the market.
+Thank you.
+Our next question comes from the line of Frank Louthan with Raymond James.
+Please proceed.
+Great thank you.
+Can you comment on the capitalization policies between Level 3 and tw telecom? How should we think about the combined company from a capital intensity perspective and sort of how the direction of the combined – that combined capital intensity and EBITDA margins are going to be as you begin to operate together? Sure.
+So I mean Level 3 as you know we have guided this year of 12% to 13% of revenues in our tw telecom year-to-date been about 24% not too far from where they have been at that certainly tw telecom has a lot more buildings every year.
+We add in North America about 500 buildings a year.
+They had about 2 000.
+And I think that when you look at our CapEx on a weighted basis and then also we have synergies we said CapEx synergies of $40 million.
+So we will get the benefit of that.
+On the other hand at least for 2015 we will have some level of integration cost too on the CapEx side.
+But essentially if you look at it on a dollar weighted basis we do expect as Jeff was pointing out that by having a much bigger metro footprint within any metro it should help us lower the distance we have to get to any new customer compared to where we are on a standalone basis.
+So we think we will get more benefit there on the CapEx side over time while at the same time maintaining the level of investment that both companies have in terms of our building adds.
+And our policies are no different other than trying to make sure we are getting the kind of – as Jeff said profitable growth which means we are getting good returns in the CapEx we are putting to work and we are getting the operating leverage that Level 3 has enjoyed.
+So we will focus on that but our goal is to continue at a level of investment that both companies have historically and keep driving enterprise revenue growth profitable revenue growth.
+Was there – but was there anything inherent in their capitalization policies that resulted in a different trade-off between operating expense and capital costs that are different than the way you operate the business that might change the incoming margin profile or help that capital intensity come down just from a capitalization policy perspective? Well typically and it is more to do with the kind of customer demographic that both of us were targeting.
+Typically we get more revenue throughput per building than what tw telecom was saying but as I was saying I think that – so there wasn’t any different in the capitalization policy per se.
+I just think that with the combined company having a much bigger product portfolio to sell a bigger a wider customer base and the fact that between both of us with a larger macro footprint in any given city we should be able to simultaneously get to a customer with a little lower CapEx spend than both companies could have individually just with the bigger network in the city and hopefully drive more revenue with that investment too over time.
+So I don’t think there was anything different deferring in the capitalization policy.
+It was more to do with the type of customers targeted but again over the next few years we should be able to leverage each other’s strengths to improve their returns on investments.
+Okay great.
+Thank you.
+Our final question comes from the line of Scott Goldman with Jefferies.
+Please proceed.
+Hi.
+Good morning guys.
+Couple of questions.
+One maybe we can just talk a little bit about growth as we head into fourth quarter.
+Typically you guys see strengthening sequential growth as you head into the back half of the year obviously you talked about some of the impacts on EMEA and LatAm for 3Q running the call but just wondering from a seasonality perspective how you are thinking about 4Q growth as we enter that quarter? And then secondly just get your thoughts on the recent regulatory balloon that was floated out by the FCC with regards to net neutrality and perhaps imposing more commentary regulation on sort of the backbone or middle mile as opposed to the region side? Thanks.
+Sure.
+I will take the first question.
+Yes I mean you are right we typically do see some seasonal strength in the fourth quarter some of that driven by our Vyvx business with the NFL games.
+And so I don’t think we see this quarter as being any different with respect to the fourth quarter on the Level 3 side.
+And as Jeff pointed out tw telecom had good sales strong sales or bookings in the third quarter so nothing unusual in the fourth quarter compared to what we have seen in prior years.
+With respect to the regulatory environment it’s still little early for us to make specific comments.
+There is going to have to be more details on what people are proposing and we will do that when we get that information.
+But we have always been a strong supporter of an open Internet and we are glad to see that regulatory bodies and policymakers are starting to realize that there are anti-competitive practices that go on that can constrain the Internet and it’s bad for consumers to constrain interconnection points or to try and collect arbitrary fees.
+Those things we think are bad for an open Internet or bad for American consumers and we will continue to work with the policymakers to have our voices known.
+And we will react when the specifics of any proposal come out.
+Sunit if I could just...
+Thank you all.
+Sure.
+Yes I was just wondering if I could just follow up whether in terms of EMEA as we head into the fourth quarter whether some of the disconnects you highlighted earlier.
+Have we seen the worst of that or will some of that sort of flow through into 4Q results as well? No I think we have seen the worst of that.
+Okay thank you.
+Thank you.
+Sure.
+Thank you all for the questions.
+I would like to leave you with a few thoughts.
+Our ability to deliver comprehensive customer solutions and grow our enterprise revenue is central to our strategy and we believe we are on the right path.
+We remain confident that the combination of tw telecom will strengthen our position in the market and enhance our ability to gain market share.
+We are pleased with the progress our integration planning teams have made.
+And across all of our initiatives we remain focused on driving profitable growth and increasing free cash flow per share.
+I look forward to talking to you about our fourth quarter and full year results in February.
+And as always we appreciate your interest in Level 3.
+Operator that concludes the call.
+Ladies and gentlemen that does conclude the conference call for today.
+We thank you for your participation and ask that you please disconnect your lines.
+Have a great day everyone.

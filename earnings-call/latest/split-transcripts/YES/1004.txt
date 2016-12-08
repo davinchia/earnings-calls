@@ -1,0 +1,329 @@
+Welcome to DuPont Fabros Technology's Second Quarter 2012 Earnings Conference Call.
+Today's call is being recorded.
+At this time I would like to turn the conference over to Chris Warnke Investor Relations manager for the company.
+Mr.
+Warnke you may begin your conference.
+Thank you.
+Good morning everyone and thank you for joining us today for DuPont Fabros Technology's Second Quarter 2012 Results Conference Call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; and Mark Wetzel the company's Chief Financial Officer and Treasurer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of Federal Securities Laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income are contained in the company's earnings release which is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+To manage the call in a timely manner questions will be limited to 2 per caller.
+If you have additional questions please feel free to return to the queue.
+I will now turn the call over to Hossein.
+Thank you Chris and good morning everyone.
+Thank you for joining us on our second quarter 2012 earnings call.
+As noted in our press release we again delivered solid financial results and also raised the midpoint of our guidance.
+Mark will discuss these in greater detail later in the call.
+Leasing continues to be our primary focus.
+So I would like to begin with an update.
+Since our first call -- quarter call we signed 1 new lease for 1.14 megawatts in Santa Clara.
+As of today SC1 is 44% leased and in line with our expectations.
+New Jersey remains at 36% leased Chicago Phase II at 79% leased Phase I at ACC6 at 83% leased and Phase II of ACC6 is 67% pre-leased.
+Our non-stabilized properties are 59% leased.
+We believe our year-end goal of being 70% leased on average for all the development properties remain obtainable.
+VA3 a 13-megawatt facility in Western Virginia is now 56% least.
+It has a lower power density per square foot compared to our recently developed facilities.
+This is ideal for cloud to resellers and enterprise tenants who do not require intense environment.
+There is good traffic for this space.
+We expect lease-up to occur over the next 12 months.
+Year-to-date we have leased 24 megawatts of critical load.
+This compares with 25 megawatts in all of 2011 and 23 megawatts in all of 2010.
+Year-to-date we have commenced leases totaling 26.3 megawatts as compared to 13.5 megawatts for the entire year of 2011.
+As I have said many times leasing is always lumpy.
+Our sales team is tracking considerable demand in all our markets which could fill up our inventory.
+However we continue to see enterprise businesses taking longer to make decisions particularly in New Jersey.
+This is consistent to what we have stated over the past year.
+Power pricing in New Jersey has historically been about $0.12 per kilowatt and is now about $0.08 per kilowatt.
+This has resulted in some Internet-focused tenants considering New Jersey for their data center requirement.
+If power pricing continues at this level it will likely increase the interest from a broader range of tenants for New Jersey.
+We remain confident about the fundamentals of the data center space and our ability to lease up our available inventory.
+In April we commenced development of the Phase II of ACC6 in Ashburn Virginia.
+As stated on the last call we expect to fund this development with cash on hand and with the unsecured loan.
+We expect to deliver this property at the end of this year.
+In May the Governor of Virginia signed new legislation eliminating sales tax on servers and computer equipment if certain conditions are met.
+This enables Virginia to compete with other states which have offered similar incentives.
+Leasing continues to be everyone's focus for 2012.
+Although we have done a significant amount of leasing year-to-date we have plenty of work which needs to be done.
+As I have said we are very confident in our ability to lease our vacant space with terms favorable to the company.
+Now I will turn the call over to Mark who will take you through our financial results.
+Thank you Hossein.
+Good morning everyone and thank you for joining us.
+I want to cover 2 main topics today: our second quarter results and the 2012 guidance update.
+For the second quarter of 2012 the company's FFO was $0.37 per share compared to $0.42 per share in the second quarter of 2011.
+The $0.05 per share decrease was primarily due to lower capitalized interest expense and increased preferred dividends.
+Quarterly revenues were $83 million an increase of $12 million or 17% over the second quarter of 2011.
+This represents our highest revenue quarter-to-date ever.
+AFFO was $0.31 per share for the second quarter compared to $0.30 per share quarter-over-quarter an increase of $0.01 per share or 3%.
+Sequentially as compared to Q1 revenues increased 5% from $78 million to $83 million.
+During the second quarter 2 leases commenced totaling 9.8 megawatts.
+Cash on hand stands at approximately $26 million today and all of our unsecured $225 million line remains available.
+As to guidance we have raised the lower end of our 2012 FFO guidance by $0.03 per share.
+This is in addition to the $0.13 per share increase to the low end of the range we announced in our Q1 call.
+Full year FFO guidance is now $1.47 to $1.54 per share as compared to $1.44 to $1.54 per share previously announced.
+As a reminder the bottom end of the new guidance represents no additional leases signed and commenced in 2012.
+To achieve the updated midpoint of our new annual guidance we need to sign and commence new leases which we fully expect to do.
+Our FFO guidance range for the third quarter of 2012 is $0.37 to $0.40 per share.
+This sequential increase over Q2 is primarily additional capitalized interest.
+Executing and commencing leases between now and year end is our focus and this will contribute to healthy growth in 2013 regarding FFO AFFO our common dividend and free cash flow.
+As Hossein previously mentioned we commenced development of Phase II of ACC6 in April.
+Free cash flow should be able to fund the majority of the construction cost through November of this year.
+We project a $20 million borrowing from over $225 million line by year end.
+This draw should occur in early December.
+As of today no additional capital raises are contemplated this year based on our current 2012 guidance provided.
+We believe our balance sheet flexibility places us in a great position to continue to grow the company.
+With that let me turn it back over to Hossein.
+Thanks Mark.
+Our top priority is to lease our available inventory.
+This is everyone's focus.
+The Internet continues to grow which is leading to more and more demand for the data center space.
+With that we are happy to open up the call for questions.
+[Operator Instructions] The first question comes from Brendan Maiorana from Wells Fargo.
+LLC Research Division</strong> Question for you guys just in terms of the leasing outlook it sounds like -- can you give us a sense of where the pipeline is today of prospects that are out there and how that may compare to the past couple of quarters? It sounds like you're pretty optimistic that you're going to get some deals done in the back half of the year.
+Yet in this quarter outside of the deals that were done in the beginning of the quarter that we previously discussed in the last call there's only the 1 deal done for about a megawatt? I mean leasing continues to be lumpy.
+But if you do the math backwards taking the 59% to 70% on our development properties that's about 7 megawatts.
+So we feel pretty good about our pipeline from the Internet-type tenants.
+New Jersey is less of an Internet-type tenant.
+However we do feel very good about it in that there are 2 types of tenant.
+There were historically only enterprise-type tenant looking at Jersey.
+But right now 2 things have happened primarily the lower power cost that I stated in my prepared remarks.
+But also the landing facilities for fiber connectivity have direct connections from Europe to our New Jersey facilities.
+So for a tenant that is Internet-based and wants very good connectivity for Europe with a lower power pricing New Jersey is looking like a very good option.
+And the reason we are cautiously optimistic about that is as opposed to a smaller investment-type bank that may need 0.5 megawatt to 1 megawatt the Internet-type tenant may need 5 or 6 megawatts.
+So we are again we're optimistic about that.
+LLC Research Division</strong> And then Hossein just with respect to your tenants a couple of your big ones I mean Facebook is out there and obviously with the -- is there anything that's with their IPO or anything with the Internet tenants that may be causing them to where a couple of quarters or a year ago the outlook may have been an increasing amount of their own space as they're building their own spaces.
+Has there been any change in mindset of those type of tenants where they may look at third-party leasing as more of a viable opportunity than 6 or 12 months ago? Well I think with the -- what we term as the Super Bowl sale model is that with a lot of our tenants we did see -- we had to announce -- disclose that as Microsoft has extended one of the leases because they're more than a 10% tenant by SEC rules.
+And so we know that they extended the lease with us.
+We did announce that Facebook recently had a deal with us.
+I'm not sure if it's a IPO-type of phenomenon that now they're public.
+But I think certainly with the super wholesale people see the value of taking something potentially off their balance sheet and using their capital for their main core business rather than a specialist technology.
+So I think you have a point there.
+But I'm not sure if it's the IPO being public or not.
+I just think that outsourcing comes in waves and shifts and now perhaps because of the weaker economy it's shifted towards outsourcing.
+The next question comes from Michael Bilerman with Citi.
+This is Manny here with Michael.
+Just thinking about comments that we've heard from your peers over the last couple of days on the lengthening sales cycles especially for the larger enterprise tenant.
+How have you seen them in your portfolio and how do you think that kind of changes the way you think of this year and into '13 going forward? For us I'm surprised you say that because we've been saying for 1 or 2 years now that enterprise-type tenants are taking longer to make decisions.
+If you look at my prepared remarks for the last 2 years we've said that.
+So we continue to see Internet-type tenants grow and we have seen as we've stated in the past few years that enterprise-type tenants are historic -- are now have been taking longer to make decisions.
+And you're not seeing any lengthening of that already delayed cycle? No.
+Because we've said it's delayed and it continues to be delayed on the enterprise-type tenant.
+But we've been saying that for a long time.
+And thinking about your lease target and your commencement target for the development pipeline how should we think of those 2 numbers separately? Are they going to move sort of in tandem or do you think there will be some type of widening or shrinking gap between the 2? I'll let Mark answer that.
+But let me say something before Mark goes on.
+Leasing continues to be lumpy and these are estimates as to how much we're going to see.
+So it's not as if we have an Excel model and are hitting the leases exactly on a straight-line type basis of x megawatts a month.
+So this is our best guesstimate of what we can do by year end and I'll now let Mark.
+Mark? Manny I mean our experience in the various 4 markets we're in is anywhere from 18 to 24 months for a new product in a new market and we've had success in Chicago.
+We still have to prove that in New Jersey and in Santa Clara.
+But when we look at the 4 assets that we're trying to lease up when we sat here at the beginning of the year we thought that we could hit that target with the goal of getting these leases signed and commenced by the end of the year that would make '13 look pretty good.
+So I think that there's certain guys who come along and say I need the space and I'd like to have the keys tomorrow and they sign the lease and move in.
+And there's other guys who are planning into next year who would sign a lease and say "I want to commence the date on December 1 on 1/1/13." And they sometimes stagger that they grab a bunch of space.
+I mean we're focused on both.
+Getting these as executed is priority 1.
+And then the commencement date we obviously like it sooner than later.
+The next question comes from Jordan Sadler with KeyBanc Capital Markets.
+Research Division</strong> I wanted to run through if you could maybe rank your markets where you're seeing at the margin the greatest level of demand relative to supply with the best fundamental dynamics today? Sure.
+I mean for us we see Virginia as our top market.
+Then very close is Chicago.
+Next would be Santa Clara and then New Jersey which is historically has typically been that way always for us and that Chicago for the last year or so Chicago and Virginia have been Item #1 or #2 markets for us.
+Research Division</strong> Okay.
+And that's subsequent to the deals that you signed in the quarter right? I mean obviously you signed quite a bit of leases at the beginning of the quarter but that you've already factored that in.
+And when you say Virginia is your top market you're saying there's still incremental demand well above supply that makes Virginia the best market today prospectively? For us that's the case.
+Chicago and Virginia are the markets that we speak of our best markets before and after the leasing business comes.
+Research Division</strong> Okay.
+And our friends at Digital Realty yesterday were on their call.
+They indicated that demand in the New York New Jersey metro was up from 41 megawatts last quarter to 47 megawatts today and that's up from 31 megawatts in January.
+So they're seeing north of a 50% acceleration in demand since January in the New York New Jersey metro in financial services.
+Are you seeing that same...
+I'm not sure if we track it the same way as they do.
+So I really can't comment on that.
+The only thing I can say is the New York New Jersey market many of those tenants that are tracked are also considering doing their own.
+And so where the demand in Virginia and Chicago is more like where do we go and outsource.
+So I guess the probability of some of those tenants finally deciding to do their own is higher in Jersey.
+And they take longer to make decisions because they're major -- a lot of them could be major Wall Street banks.
+Now having said that we're confident about the New Jersey market.
+I'm optimistic about these Internet-type tenants that are looking out there and we feel we have the best products in -- outside the biggest cities in the U.S.
+Research Division</strong> That's helpful.
+And just as a follow up can you maybe just discuss your view of connectivity and that as a driver of demand? And what if anything you may look to do in the future or are doing currently to try and drive greater connectivity at your facilities? I mean we hired a couple of years ago the head of carrier relations for us and he's been very successful in bringing in different type of fiber carriers into all of our data centers.
+We have interconnections between our carriers in all our data centers.
+For example in New Jersey we have a direct line not only to the New York Stock Exchange but we have now connectivity to a direct line that goes to the landing station straight to Europe.
+So I think the better connectivity the more appealing a data center becomes for a set of the users.
+So connectivity is application-dependent.
+Some tenants may only want 1 or 2 carriers other tenants may want multiple carriers.
+So I think having better connectivity helps for a subset of carriers.
+And to appeal to that subset which is not necessarily the biggest megawatt-type subset like for example we don't have this tenant but a constant delivery-type tenant may not be a huge user in terms of megawatts but they would want -- they may only want 1 or 2 megawatts of demand but they absolutely need a huge amount of connectivity.
+Now a cloud player that is reselling public cloud may only care about 2 or 3 carriers.
+So -- but a cloud player may be a 10-megawatt of demand.
+So incrementally connectivity is important to a subset of tenants and over -- it takes time to bring in various carriers and we're actively working on it and we've had huge success in getting them in it.
+And frankly for a lot of our carriers we charge almost nothing to be in our data centers and we have not really been charging for inter-connectivity between our tenants which gives us more value in our tenants being there and potentially paying higher rent.
+Research Division</strong> You're offering in essence a service for free that others are charging? Well the retail players are charging for it.
+Yes that's correct.
+The next question comes from Rob Stevenson from Macquarie.
+Hossein given your comments about New Jersey power cost today and historical can you hit your other 3 markets and tell us where power costs are today versus historicals? Yes.
+I mean Virginia is a regulated market.
+So it seems it hasn't really moved.
+It's anywhere between $0.06 to $0.065 and it's a regulated market.
+That market has not moved.
+Chicago has dropped significantly mostly because of the demise of the -- of its various industries in the Midwest and has come down from like 3 4 years ago from like $0.07 $0.075 $0.08.
+I mean I've even seen it down to $0.05 a kilowatt.
+Santa Clara is controlled by Silicon Valley Power.
+And that also is not a market that fluctuates a lot.
+And I want to say that it's about $0.09 a kilowatt and has not really moved much.
+Okay.
+And then given the fact that ACC6 I is 83% leased and II is 67% pre-leased I mean how much additional demand do you need to see to kick off development of ACC7? And then how aggressively are you guys pursuing land in Chicago given your comments about the health of that market? I'll start with the ACCs.
+We also have about 5.6 megawatts of VA3 pre-leased so we want to see good penetration into both the Ashburn campus under VA3 data center before hitting off ACC7.
+But having said that if we get a big pre-lease on ACC7 which is also possible we could hit it off.
+Like a 5 to 10 megawatt pre-lease then we could get going on.
+So what we've done historically with the super wholesale we've done 8 10 megawatts with a couple of tenants.
+And you could suddenly see 18 megawatts and then we hit it off.
+So it depends on pre-leasing and the deal flow on ACCs and VA3.
+In Chicago on and off we are looking.
+We have disclosed in the past that one of our tenants has the right to give up 2.6 megawatts in that market.
+So we are not -- it's all our markets especially Chicago we're constantly looking for new sites.
+But the position we're in is that there is a lot of available warehouse space in that market.
+So it's not like some of the other markets that's going to be really tough to find.
+The next question comes from Jonathan Atkin with RBC Capital Markets.
+LLC Research Division</strong> Yes.
+A couple of questions.
+One is can you update us on headcount in the business and I'm wondering if there's any areas where there are sales or operations where there's been any kind of fluctuation one way or the other? As well I wondered if you could update us on your willingness to potentially do a greenfield build in a new market such as Oregon? Okay Jonathan.
+I'll attack the first question.
+We have less than 100 full-time employees.
+That's up a little bit from where we were a year ago.
+We've hired a couple of additional sales folks to help us in a couple of markets.
+But it's 1 or 2 from a headcount perspective.
+Operationally we continue to hire as we open new buildings or new phases.
+So that grows accordingly and probably over 50 employees are operational.
+Other that 90 95 people that we have.
+And as you remember and appreciate the triple-net lease models so the guys who work on site are all part of that triple-net lease model.
+And then I think your second question was greenfield locations new markets.
+I think it's really a function of potentially pre-leasing in hand before we go.
+But maybe Hossein you want to comment? Yes.
+I think we are looking we said for a while.
+We'd look at greenfield sites I think we have mentioned in the past that the Pacific Northwest we have some interest in.
+And eventually we'll do something there and having a pre-lease in hand would certainly help getting that started.
+The next question comes from Jonathan A.
+Schildkraut from Evercore Partners.
+Research Division</strong> This is Robert Gutman in for Jonathan.
+A couple of questions.
+Does the hitting the low end of the guidance you don't need any new commencements.
+Does that include the third quarter scheduled commencement? Yes it does.
+Research Division</strong> Okay.
+And what is your commencement backlog? I think there is 1 in Q4 and 1 in '13.
+So it's really if you look at our 1 operational table in our press release the 2 columns there's a couple of rooms at in Chicago.
+Research Division</strong> Size or how many megawatts? I think it's 2.6 megawatts in size.
+It's roughly -- in New Jersey it's even the ACC6 for 1 lease that hasn't commenced yet that will start in Q3.
+The Santa Clara's it's commenced lease for the same.
+And then the rooms in Chicago was 79% leased 57% as of 6/30.
+But one of the leases has already commenced here in July.
+So there are 64.
+So to get from 64 to 79 is really I think 1 in Q4 1 next year.
+Research Division</strong> Okay.
+And then last thing with the attractive characteristics of the New Jersey facility would you consider going down a similar path like Digital Realty has into smaller fit footprint Colo? I think what we said about 18 months ago is that we would be going to 250 kilowatts.
+And I'm not sure if we signed 1 deal of that.
+Yes we did sign 1 deal of that some.
+But beyond that I think it's -- we feel like we have a reseller that net2EZ that's in that building and we'd like them to take on those smaller tenants.
+The next question comes from Tayo Okusanya from  Jefferies.
+Inc.
+Research Division</strong> Hossein can you just talk a little bit about what you're seeing in regards to pricing trends in the market at this point? And is there any kind of inflection point in any of your major markets? Well as you know we've discussed in the past that I think we've stated 3 quarters ago that we feel that there were some anomalies in the Santa Clara market and we lowered our expected return on Santa Clara.
+But beyond Santa Clara the other like 1-megawatt deals we're seeing is allowing us to get the return that we stated in our financials except for the super wholesale deals which are 8 megawatts and above.
+On ACC6 even though we've got super wholesale deals in there there are 2 very large super wholesale deals with the smaller tenant within the building kind of I hate to call them moms-and-pops but the smaller footprint-type tenants with a higher rent were still able to hit the 12% on the return on a GAAP basis on ACC6.
+Inc.
+Research Division</strong> Got it.
+Okay.
+With any of the anomalies you're talking about in Santa Clara has any of that kind of slowed down or...
+No.
+I mean what we did say is the private player who caused kind of the market to ripple as you would call it they're essentially not building any more space.
+Like I would think that's what I understand my latest intelligence.
+So I think the market you'd think normalize but we haven't seen that yet.
+Inc.
+Research Division</strong> Okay.
+Got it okay.
+And then again along the lines of a prior question the interest in moving into a new market domestically or internationally how should we think about that and what likely markets  would they be? I think we are again interested in the Pacific Northwest.
+We have been interested in London and Europe for a while.
+We've been looking for a number of years.
+Certainly having a pre-lease in hand would aid going into a new market.
+The other thing where we would look at it is how leased up we are on our development portfolio in aggregate before we go into a new market so we would consider all those factors above.
+The next question comes from Lukas Hartwich from Green Street Advisors.
+Inc.
+Research Division</strong> Just a quick one for me.
+What's the annual operating expense for each of your unstabilized properties? I think they run anywhere from $6 million to $7 million in OpEx.
+But what we've been pretty good at over the last 6 months is to pay attention to what OpEx needs to be spent.
+So I think the operating guys have done a good job in obviously attempting to keep the building and the lights on but to maintain the existing tenants and take care of them but not go crazy with OpEx expenses.
+So I think at the beginning of the year about what the effect was for the unreimbursed OpEx and it continues to drop off as we lease the rooms up.
+I think one way to look at it in a more granular number is OpEx runs depending on the jurisdiction anywhere between $22 and $30 per available kilowatt per month for on average on the data center.
+So you can do the math there based on an 18-megawatt facility that's empty or 18-megawatt facility that's full.
+Typically the rent around 25% leased covers the OpEx.
+[Operator Instructions] We have a follow-up question from Michael Bilerman with Citi.
+Research Division</strong> Hossein you talked in the opening comments just about obviously the volume of leases you signed to date and the amount you've commenced and compared it to the last few years and clearly the amount that you've already completed has been significant.
+And I'm just curious as sort of what's in the funnel today in terms of activity and maybe you can talk a little bit about how much volume is there right now that's closer to the goal line versus more prospecting activity? Just to give a little bit more of a sense on sort of current demand levels that would be helpful.
+Well I can't go into any letters of intent or anything that we have signed or have not signed.
+I think the -- I do want to say leasing remains lumpy.
+It is a best guess as to how much we're going to do by year end.
+It is not a -- they're certainly not in the bag as I would say.
+These are deals that we actively need to work on to get done.
+We think that we have done a significant amount of leasing way more than any year.
+But I feel like we have more work to do so I would not call our pipeline in the bag.
+It's deals that we have to work and get done.
+But we feel confident and optimistic that we'll get to the projections where Mark stated we have 70% of leasing in our development portfolio.
+Research Division</strong> Right.
+And that requires another 7 megawatts of leasing to be done which -- I'm just trying to get a sense of clearly the demand that you may be tracking in Santa Clara and New Jersey in terms of exceeding that target.
+I mean there is.
+We really really don't want to get go down that path.
+There are anomalies that happened like for example you could potentially get a big Internet tenant that wants a big amount of space in New Jersey and we're seeing activity.
+But it's nothing that I would say you should put in your numbers and model.
+We're always surprised by how the Internet grows.
+But the projection we've laid out is where with hard work we feel like we would get there.
+But even our projections I would say are not necessarily in the bag.
+They're not signed deals.
+We have to get them.
+Research Division</strong> I'm glad you still showed up to work this quarter to be able to increase the guidance a little.
+Well that's good.
+yes.
+Research Division</strong> What's been the activity like on VA3 in terms of re-leasing that space and what's your thought process there in terms of ...
+I don't think we've said in the last quarter we're getting plans approved to redo the -- the building's lobby needs help.
+And we've designed a new lobby for that area to make it show better.
+I mean at the moment when we bought the building and it was our first data center that we purchased the lobby that the [indiscernible] originally planned never got built.
+So we're redesigning that and we're spending about $1 million improving giving it a little bit of a facelift.
+But long-term it's a very very valuable building.
+It's lower density there.
+It's lower density.
+And it fits on Sunrise Valley Drive which is probably the most fiber-dense road in the entire country.
+So we're optimistic that long term we'll do very well there.
+It's very well-suited for resellers and I'm confident that we'll lease it up and we have a couple of Internet tenant-type tenants that are looking at it.
+But again we'd -- like you said we have to be at work and get it done.
+It's not in the bag but we feel good about it.
+Research Division</strong> And just lastly Mark you talked about obviously the free cash flow that you're generating by keeping the dividend where it is that's helping you fund the developments and I think you said that you draw about $20 million at the end of the year on the revolver which you don't have anything drawn so that's good capital to have.
+I guess how do you sort of think cap structure-wise your preferreds are obviously trading well relative to the coupon and they're just a little bit north of 7%.
+Do you think about other sort of financings to later this year at all? We think about it every day.
+We are paying attention as well.
+The preferred market is pretty healthy right now and I get lots of phone calls on doing something.
+But I think we're trying to be prudent.
+We want to match it up with what we're thinking of doing in the next 12 to 18 months.
+But permanent capital at 7% is a pretty good number for us.
+So we're kind of steady as she goes until we see some more leasing and then from a structure perspective we think we should absorb some more preferreds.
+We want to keep the leverage low we want to keep the debt maturities pushed out.
+So we have a huge opportunity when you think about 2014 with regards to our bonds.
+They're 8.5% coupon bonds we have a 4-year noncall which is December of '13.
+So you start thinking of what '14 could look like if we replace those $550 million at 8.5% and get it down maybe in the low 6s or at 6.
+It's a big number with a 4.25 takeout.
+So that's absolutely in our radar but we wanted to maintain low leverage with minimal debt maturities.
+The other thing we feel very good about is Mark's hard work in getting the line increased to $225 million where it was $100 million we couldn't build an 18-megawatt data center with that.
+Now at that number even if the markets go away and we have some amount of big pre-leasing our line gives us the ability to put out 18-megawatt data center without any additional -- even if the markets are closed.
+And then replacing that money with the preferred once it's done.
+Research Division</strong> Right.
+Would you have -- if you have to take up the unsecured bonds early is there a big May call on those? I think it's 4.25.
+So we're going to pay 4.25 points.
+Research Division</strong> Right.
+So it may not be worth it to...
+But the 250 basis points on $550 million it's a math exercise but yes we're looking at that.
+But most importantly we won't start a new development that we can't finish without the line in place or the capital in place.
+So we won't if markets freeze than we still can finish what we're focused on.
+As there are no more questions at the present time I would turn the call back over to management for any closing remarks.
+Thank you for joining us today.
+Thank you.
+This concludes today's teleconference.
+You may now disconnect your phone lines.
+Thank you for participating and have a nice day.

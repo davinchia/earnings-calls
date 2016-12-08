@@ -1,0 +1,603 @@
+Good afternoon and welcome to the DuPont Fabros First Quarter 2015 Earnings Conference Call.
+[Operator Instructions] Please note this event is being recorded.
+I would now like to turn the conference over to Chris Warnke Manager of Investor Relations.
+Please go ahead.
+Thank you Kate.
+Good afternoon everyone and thank you for joining us today for DuPont Fabros Technology's First Quarter 2015 Results Conference Call.
+Our speakers today are Chris Eldredge the company's President and Chief Executive Officer; and Jeff Foster the company's Chief Financial Officer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income and operating income as applicable are contained in the company's earnings release issued this morning.
+The release is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+[Operator Instructions] I will now turn the call over to Chris.
+Thanks Chris.
+I appreciate everyone joining the call today.
+I'm excited to share our progress during my first 10 weeks at DFT.
+In a word it's been great.
+I've been able to quickly connect and make an initial assessment of the business and our opportunities.
+The feedback gained from our customers has been very valuable.
+They're talking with us about market preference deal structure and their product needs.
+During these discussions we are gathering important intelligence on how to create an even more productive partnership.
+In the DFT team my positive initial impression has proven right.
+The leadership transition is exceeding my expectations in every way.
+The enthusiasm is evident as we build our sales organization and map out a strategy for success.
+Today I will split my prepared remarks into 2 points: what we're doing to improve near- and mid-term results and the process we're using to plan our future growth.
+First let's talk about the opportunity to improve results.
+We're working diligently to optimize the outcome of Net Data Centers' default.
+As many of you are aware in February Net moved from a default position to bankruptcy protection an important progression towards resolution.
+You'll recall that in 2015 AFFO guidance no base rent OpEx or management fee was included.
+All collections represent positive upside to AFFO.
+As a part of the bankruptcy process Net has paid us all rent due for March April and May totaling $3.8 million.
+While this did not materially increase FFO it did increase AFFO.
+We're in active discussions with Net about the future structure of their leases.
+Our CFO Jeff Foster; and our General Counsel Rick Montfort have been running point on these discussions.
+Their experience with bankruptcy has been a tremendous advantage.
+Jeff will update you on the reserve and the financial impact of this process.
+Our second near-term focus is to lease all of our existing vacant space.
+I'm very pleased with the leasing done in and subsequent to the quarter.
+As you know timing of leases never precisely follows the public company calendar.
+The 2.2 megawatts of space we leased in the first quarter of 2015 was reported to you as a subsequent event on last quarter's call.
+It was a good indication of the demand and the momentum we are seeing.
+Since the close of the first quarter we have leased 4.83 megawatts split between SC1 and CH2.
+This leasing speaks very well for the demand and the appeal of DFT's next-generation space.
+The CH2 lease is our first prelease in Chicago and takes us to 20% preleased for Phase I.
+The SC1 lease makes Phase IIB 100% leased.
+This is our first property outside of Virginia that has opened 100% leased.
+The entire SC1 facility is now fully leased.
+We no longer have any vacant space in the market.
+Overall for leases signed in 2015 we've averaged GAAP base rent of $98 per kilowatt per month.
+That's up from 2014's $95 per kilowatt per month.
+Renewal activity is also strong with 2.28 megawatts executed this quarter.
+These renewals further improved our lease expiration schedule while having a nominal effect on cash rents.
+In fact GAAP rents for these renewals increased an average of 9.1% good results but we need more.
+To achieve that we are revamping our sales infrastructure.
+We are using my background and our interaction with customers to do just that.
+Let me walk you through what's happened.
+First we've aligned our compensation plan with our leasing goals.
+This plan focuses on deal quality and prioritizes NJ1 and ACC2.
+Leasing NJ1 in our sales executive comp structure this year we're all incentivized to fill this space.
+Second we've updated our policies to be more broker-friendly.
+For the first time in DFT history a building has been listed with a broker.
+In my assessment NJ1 was missing significant deal flow.
+This listing puts NJ1 more prominently in the path of RFPs traffic and customer demand in this market.
+Third we're listening very closely to customers and understanding their stress points.
+We see opportunities for flexibility that could result in more deals and better options for customers while preserving our returns.
+Fourth we're rebuilding our sales organization.
+We'll add brokers as needed.
+The goal is to increase deal flow and focus our in-house team on new and existing customers with stronger sales engineering support.
+With that as a backdrop let's talk about current vacancy.
+My goal and frankly the whole team's obsession is with NJ1 and ACC2.
+Today NJ1 is 59% leased on critical load and 70% leased on square feet leaving 7.5 megawatts available to lease.
+Of that amount we believe we can lease between 3 and 4 megawatts before we run out of space.
+The remaining critical load capacity will be shifted to Phase II.
+At ACC2 our sales team is actively pursuing inquiries that have been made about this space.
+Neither space will lease overnight.
+However we're focused energized and cautiously optimistic about our prospects.
+Customer feedback and market intel says that several of our locations would benefit from our mini-wholesale offering provided it comes with more support.
+My background includes extensive experience in this type of offering.
+My assessment is that DFT and our customers will benefit from remote hands.
+Remote hands is value-added.
+It requires no capital outlay provides additional margin and is the perfect complement to mini-wholesale.
+We're initially rolling it out this summer in Ashburn.
+We may add this service to additional markets dependent upon customer demand.
+So what's the opportunity long-term? This is what I'm most excited about.
+I've engaged managers from every part of the company to participate in the development of our new strategy.
+I believe it's crucial to tap into the knowledge base of DFT's great team.
+This collaborative process builds the foundation for real commitment to achieve results.
+So what does the process look like? The market selection process is a good example.
+The team and I are evaluating supply and demand in each market.
+We're talking to local brokers about planned development market players and current deal flow.
+We're talking to more current customers about where their requirements are going.
+We're looking at price points relative to development costs.
+We're checking network connectivity and power cost.
+We're researching tax benefits for customers.
+And lastly we're looking at potential acquisitions.
+Right now we're spending 2 half days a week on our strategy.
+Everyone is extremely excited about it and we look forward to sharing our plan with you in the fall.
+The positive instincts I had during the search process are proving right.
+The deeper I get into the job the more confident I am about the company's prospects and success.
+Now let me turn it over to Jeff to discuss our financials.
+I'll look forward to talking with you more during the Q&amp;A.
+Thank you Chris.
+Good afternoon everyone.
+I want to cover 5 main topics today: our first quarter results an update on Net Data Centers a development and capital markets update our 2015 guidance and last our dividend.
+Our 2015 first quarter -- our first quarter 2015 normalized FFO was $0.61 per share which exceeded the top end of our guidance by $0.01 and exceeded the midpoint by $0.03 per share.
+Our normalized FFO increased $0.02 per share or 3% compared to the first quarter of 2014.
+AFFO for the quarter was $0.65 per share compared to $0.62 per share for the same quarter of 2014 an increase of $0.03 per share or 5%.
+Quarterly revenues were $107.3 million an increase of $5.2 million or 5% from the previous year's quarter.
+Now on to Net Data Centers.
+As discussed on our last earnings call Net paid their OpEx direct electric and management fees for both January and February but not their base rent.
+Since our fourth quarter earnings call Net filed for Chapter 11 bankruptcy protection on February 23.
+Since then we have received full rent payments including base rent for March April and May totaling $3.8 million.
+We applied March's base rent to Net's straight line receivables which now total $8.5 million down from $9.5 million last quarter.
+We have reserved $3.7 million of these receivables leaving $4.8 million unreserved.
+To note NJ1 straight line receivable is fully reserved.
+Of Net's $6.5 million note we have $5.1 million reserved which represents 78% of the outstanding balance.
+As of March 31 this customer's unreserved receivables totaled $6.2 million.
+We applied the April and May base rent payments received from Net to their straight line receivable.
+And as of today total unreserved receivables have been reduced to $4.5 million.
+Net also impacted our same-store revenue growth.
+Normalizing for Net same-store revenue growth would have been 5.2% year-over-year while same-store same capital revenue growth would have been 1.3%.
+Although this situation is not ideal we are working diligently on reaching an optimal outcome for our shareholders and will immediately report any material information regarding this matter.
+Let's now move on to our development updates.
+On May 1 we placed into service Phase IIB of Santa Clara.
+This adds an additional 9.1 megawatts of critical load to our portfolio and completes the build out of SC1 totaling 36.6 megawatts.
+As Chris mentioned this phase was a 100% leased prior to the opening.
+We achieved a 9.2% return on investment for this final phase.
+Excluding the $64 million we previously invested for the land shell underground conduits and redundancy the additional $47 million needed to complete the build will yield a 21.7% return for this newly invested capital.
+The entire building generated a return of 9.2%.
+Now on to our next development CH2.
+At quarter end we have spent approximately $160 million of the projected $200 million budget.
+Of the total projected spend roughly $120 million is for future phases which includes the land building shell underground conduits and infrastructure redundancy.
+Subsequent to the quarter we signed our first prelease for 1.4 megawatts making Phase I 20% preleased.
+We now expect to deliver our 7.1 megawatts in July.
+CH2 Phase II will require very low incremental spend to complete a build-out of additional 5.7 megawatts of critical load.
+ACC7 Phase II is on-time and on-budget to deliver 8.9 megawatts in the fourth quarter of this year.
+This leads me to our capital markets update.
+We purchased $31.9 million of common shares from our board-approved $120 million stock repurchase program at an average price of $31.80 per share.
+As with any capital allocation we will continually seek the best risk-adjusted return to maximize shareholder value.
+To date we've drawn $180 million from our $560 million line to partially fund our 3 developments and the stock buyback.
+Cash flow after dividend payment is also helping to fund these items.
+As a reminder we're expecting $75 million of cash flow to be available to fund developments in 2015.
+We plan to permanently finance our line balance either in the form of an add-on to our existing bond a new bond issuance or an unsecured term loan.
+We are currently planning to complete this in the second quarter versus the third quarter in our original guidance.
+I now would like to discuss our 2015 guidance.
+Our second quarter 2015 normalized FFO guidance range is $0.61 to $0.63 per share.
+The midpoint is an increase of $0.01 per share versus the previous quarter.
+We increased our full year 2015 normalized FFO guidance range by $0.03 per share from $2.27 to $2.47 per share to $2.30 to $2.50 per share.
+The reasons for this increase are outlined in today's earnings release.
+We continue to assume no revenue from Net Data Centers in both the higher and lower ends of the range.
+The remaining 2015 contractual revenue from this customer is $0.12 per share $0.09 per share for base rent and $0.03 per share for OpEx and management fees.
+The low end of the range assumes that ACC2 is not released in 2015.
+Current revenue of this data center is $0.05 per share per quarter.
+Upon lease-up we anticipate that ACC2 will generate $0.04 per share per quarter of FFO.
+And this is included in the high end of the range.
+Our second quarter AFFO guidance range is $0.65 to $0.69 per share.
+The midpoint is an increase of $0.02 per share from the first quarter results.
+The full year guidance range increased $0.06 per share from $2.40 to $2.60 per share to $2.46 and $2.66 per share.
+The increase is a result of increasing normalized FFO guidance by $0.03 per share and an additional $0.03 per share from the March April and May base rent we received from our bankrupt customer which is being applied to the straight line receivable thereby increasing the add-back to AFFO.
+Last but not least let's discuss the dividends.
+On April 15 we paid our quarterly dividend of $0.42 per share.
+The anticipated 2015 annualized dividend remains at $1.68 per share which represents an estimated AFFO payout ratio of 66% at the midpoint of our guidance.
+This is slightly higher than our 60% to 65% target range due to the impact of Net Data Centers.
+With that let me turn it back over to Chris who will provide some final comments.
+Thanks Jeff.
+Four quick thoughts.
+First the leasing demand for our product is off to a great start in 2015.
+Second we are working diligently to fill all of our available space with special attention to NJ1 and ACC2.
+Third I look forward to sharing our strategic plan with you.
+We are excited to define DFT's next chapter of growth.
+And finally I want to thank the DFT team for making the initial transition smooth.
+I'm very lucky to be part of such a great team.
+With that let's go to questions.
+[Operator Instructions] The first question comes from Colby Synesael of Cowen and Company.
+LLC Research Division</strong> I guess as it relates to some of the changes that you guys are now making Chris I was wondering if you could just give us a broader view of why so many changes are happening now as opposed to just kind of keeping it status quo.
+What's really incenting you to do all these different things? And then the second thing as it relates just to the cost of some of the things you're already moving towards is there any reason to think that the margin profile or the FFO profile of the company is going to change materially good or bad as a result of what it is that you're doing? Sure Colby.
+I'll take the first part of the question.
+And the second part I'll send over to Jeff.
+So as far as the changes right we talked about New Jersey.
+And I've had a lot of success in that market.
+And we feel that that market is a place where we can be successful.
+When you look at our NJ1 facility it's a great facility.
+It shows very well.
+We haven't been seeing the necessary deal flow that's in that market.
+And that's one of the reasons why we decided to go out and list the building with a broker.
+In my past life I've had a tremendous success with brokers.
+We also feel in that market that our mini-wholesale product is a great product for that market the 100 kW customer to the 500 kW customer.
+And a lot of those customers are financial services-related pharma-related.
+They ramp up from 100 kW to 1 megawatt.
+So we think with intense focus on that facility we can be very successful.
+The second thing that I talked about is the compensation plan.
+We're trying to tailor our competition plans to dictate the right behavior.
+So for example we've put SPIFs in place for specific locations.
+Our comp plan is now variable based on the profitability profile.
+So the more profitable a deal is the more the salesperson would be rewarded.
+So we're trying to make sure that we change the behavior and we dictate the appropriate behavior from our salespeople to drive the goal that we see needed for the company to be successful.
+Jeff? Yes.
+And Colby I'll answer the margin question here.
+So when you look at the changes that Chris talked about there's really no impact on the way our FFO or margin would be calculated.
+Let's go through a couple of them here.
+First broker commissions or if there's increased commissions to our sales staff those do not impact FFO as they get capitalized and then amortized.
+The amortization is an add-back to get FFOs.
+There is no impact there.
+There could be a small impact to AFFO because we do a subtraction there for commission.
+The sales staff that we're hiring are all in the G&amp;A projection.
+We are going to hire one additional person for the soft rollout of the remote hands again very immaterial would not expect to see a change in our margin percentages for that.
+So overall I wouldn't expect any impacts from what we're doing today.
+The next question comes from Dan Occhionero of Barclays.
+Research Division</strong> Can you guys talk a little bit about cloud growth and the impact on your business? Specifically a few weeks ago I know Amazon reported that AWS was actually more profitable than anyone had initially believed.
+Can you guys just talk a little bit about that? I could definitely talk to you about that.
+I still believe we're in the early stages with cloud.
+And some people have asked me "Chris are you going to build a cloud platform?" Well I view us as an enabler of cloud.
+So as the cloud grows we grow.
+And I think it's an important component of the business growth.
+If you look at the way we communicate it's a lot different than we've done in the past.
+If you remember the days of your computer crashing and having to back up your information well all that stuff is stored in the cloud.
+So we're seeing storage grow by 3x.
+We're seeing compute and other types of cloud products really really grow.
+So for us as an enabler of the cloud it's very positive.
+And we want to continue to be enablers of the cloud.
+As the cloud grows we grow.
+And I think like you mentioned Amazon's numbers I was surprised by some of the numbers myself.
+The profitability of their business was actually pretty good and they're going to continue to grow.
+And Microsoft is a great example of that.
+Their Azure product has had tremendous growth for the last couple of quarters.
+So as the cloud grows we benefit from the cloud as one of the top enablers of the cloud in the space.
+Yes.
+I think Microsoft has stated from their Azure product that their needs for data center capacity is doubling every 6 to 9 months.
+And you'll notice that they are our #1 customer so we are benefiting from that.
+The next question is from Emmanuel Korchman of Citi.
+Research Division</strong> The CH1 prelease was that with a new or an existing customer? Manny that was with an existing customer.
+Research Division</strong> Great.
+And then Jeff if we think about the buyback versus leverage and you going out and fixing data at a 5.5% interest rate how do you sort of weigh the buyback against that? And also how do you think about sort of what pricing you're willing to do buyback or not? Thanks Manny.
+So for the buyback we've done to date that's raised our leverage by 0.1 so pretty immaterial.
+We do have some ability to do more buybacks that could increase the leverage some more.
+But we're really thinking about it in terms of what are our overall capital needs for the company.
+Today we still have the need to fund our remaining developments.
+We have about another $80 million of funding needed there this year some of which will come from internal funding and some of which we will have to do borrowings for.
+So we weigh the buyback against that on a risk-adjusted return basis.
+We're still want to keep our leverage ratio down around 4x debt-to-EBITDA.
+And we look at our development the needs there and we weigh that against the opportunities to do buyback.
+I really don't want to discuss the price ranges we would buy back in.
+We tend to buy back when we believe the stock is cheap and we look at that on our individual stock price and then relative to our peers.
+Research Division</strong> And maybe we'll toss them back to Chris.
+As you've made some of these changes in particular stuff like changing the comp structure bringing in brokers have you gotten any push from the sales organization or anywhere else internally that they don't like the changes being made? Or has everyone sort of bought it and said "Hey we've got a new leader and let's follow his vision"? Honestly it's been very positive.
+And the sales team was important in helping us to design the compensation plan.
+So they fully support it.
+Research Division</strong> And how do they feel about bringing in brokers? It's a positive thing for them because we're compensating them and the brokers.
+So the brokers are an alternate means of distribution for us.
+So we're going to see deals that we've never seen in the past because there's certain enterprise companies that only work with brokers.
+The next question comes from Jonathan Schildkraut of Evercore ISI.
+Research Division</strong> Well listen I have a couple of questions here.
+But first you were just talking about the Chicago prelease.
+It's with an existing customer.
+I apologize if you said this but was that a super wholesale or a wholesale lease? Jonathan this is Jeff.
+That is a wholesale lease.
+Research Division</strong> All right great.
+So all right 2 questions here.
+First if you could spend -- and I know you're going to come out with a larger plan now at some point given the need to continue to dive deep into the processes and operations of the company but if you could give us some sort of perspective on capital allocation.
+You've got Silicon Valley completely sold out now.
+You've got some available space in Virginia.
+And Chicago obviously is 20% preleased.
+How do we think about the decision to put more capital to work maybe in Silicon Valley where I think the asset was targeted about a 9% return versus maybe further investment in a different existing market or alternatively a new market? And then I'll ask one last question after.
+Hey Jonathan it's Chris.
+I'll take the Santa Clara piece first.
+So obviously we've been very successful on the Santa Clara market.
+You know the markets well right now and there's definitely a supply issue in that market.
+So 2 years ago I think there was more supply than demand and we've seen the dynamics change.
+So we have 5 acres of land that we could actually expand our existing facility into which would take it up to if we estimate over about 51 megawatts.
+So my team is in the process of taking a look at that.
+We're hoping the capital per megawatt to build that facility will be lower than it has been in the past.
+But we're optimistic that we think we can drive down the OpEx in that location by bringing on more megawatts and then get a higher price point per kW potentially.
+So we think the return threshold could potentially be better in the Santa Clara market.
+So I'll have more to talk to you about on the next call about that because the team is working on putting some numbers together for me.
+But Santa Clara is definitely on our radar screen.
+You mentioned a question about the strategic plan.
+So we're evaluating potential new markets to expand into all across North America.
+And that's going to be a part of the plan that we're taking a look at.
+I talked about in my prepared comments all the diligence that we're doing to make sure that we make the right decision when we decide to go into some of these markets because we put the plan together before I had joined that included expansion into 2 potential new markets.
+So the team and I are leading the charge on doing that.
+And I hope to have more to report to you on the potential market expansion on the next call.
+Research Division</strong> All right great.
+And then if I can just ask a final question.
+Microsoft as you noted is your largest customer.
+And you guys in your latest deck actually broke out I think the top 10 or top 20 customers which was great detail.
+Thank you for that.
+Microsoft has been rumored to be potentially taking a run at CRM or Salesforce.com which I believe is also a top 10 customer of yours.
+And I'm just wondering if you can give us any perspective regarding potential risks or repricing or anything around that should a deal be consummated.
+There's also a rumor that Oracle is going to take out Salesforce.com too.
+So it's really hard to speculate on that right now.
+I mean I really don't know if it's going to happen.
+But I don't really think there's any inherent risk for us with that potential transaction as we see it.
+The next question is from Jordan Sadler of KeyBanc Capital Markets.
+Research Division</strong> My question is on sort of strategy.
+I know it's early days as you're pulling together the plan you're getting the input of folks.
+I am curious though as the world is unfolding before you in the data center space this spring with Cervalis and Carpathia and Latisys and Equinix for Telecity there's a lot going on obviously.
+I'm curious how -- if you guys are in a position to be thinking about or looking at any of these transactions at this point or if that type of activity has kind of got to be tabled until the plan is revealed.
+And what the timing is now to reveal the plan? Jordan thanks for that question.
+Let's take the M&amp;A piece.
+Obviously there's been a lot of activity specifically over the last 2 weeks in our space.
+If you take you look at my background I've been involved in $15 billion worth of both buy- and sell-side transactions.
+So I have a lot of experience in M&amp;A and integration.
+As I mentioned in my prepared comments acquisitions can be a part of our strategy right? And I'll give you an example.
+We talk about market expansion and there's a couple of ways to get into a new market.
+We can build a data center from the ground-up.
+We can buy a powered base shell and retrofit it ourselves or we can do a transaction that would get us inventory into market a little bit quicker.
+So those are the things that we're definitely going to take a look at.
+And if an opportunity makes sense it's my job to bring that to the board and to get their feedback and their opinion on that.
+So as a part of our plan acquisitions are going to be a component of it.
+And I'll be happy to share that with you in the fall when I share the plan with everyone on this call.
+Research Division</strong> Okay.
+We're thinking third quarter conference call timing? We're thinking late third quarter early fourth quarter.
+Research Division</strong> Okay.
+And then as it relates to the stock repurchases that were done Jeff how are you thinking about capital at this point? Are you -- it seems like there's a little bit of incremental repurchasing post the filing of the 10-K.
+Should we expect that you're still ready willing and able there? Or is that also kind of going to be tabled until the plan is fully meted out? There comes an opportunity when we feel our stock is undervalued we would take another shot at doing repurchases.
+As you saw we did $30 million of our $120 million the first time around.
+So we did leave a little bit of dry powder.
+But again like my prior answer we really are focused on making sure we can fund our development and fund any future acquisitions that might come out of the strategic plan.
+So we have to balance those needs against the buyback.
+And we will do so on a risk-adjusted return basis.
+The next question is from Fred Moran of Burke &amp; Quick.
+Research Division</strong> Of the $0.12 remaining at risk from Net Data Centers how much would you recover if you were able to renegotiate all leases at current market prices assuming some discount to keep them active? Okay thanks Fred.
+It's Jeff.
+So I want to rephrase it a little bit.
+The $0.12 is out of our guidance.
+So we see it more as upside versus being a risk.
+And I think there was some analysis done after our first quarter call that indicated that our leases were probably about 30% above market so we could probably retain 70% of it to get it down to market.
+That's just a rough order of magnitude.
+Research Division</strong> And at this time what do you think the most likely resolution is in terms of will they release across all 4 data centers? Will they do some portion of them? And separately if they don't release any of these what is your recapture AFFO number if you take the customers directly? Okay.
+So on predicting what's the most likely outcome is it's kind of hard to do since Net is in charge of the process.
+I can tell you we kind of see 2 outcomes or a combination of these 2 outcomes: one Net goes back to its landlords and ask for rent reduction; two they sell some assets to someone else to gain some capital inside the business; or a combination of those 2.
+Not sure which one would be most likely at this point.
+And then I think your last question was if Net rejected all of our leases how would that work? What would our recovery look like? So if Net rejected all of our leases for each lease they reject we would have a claim of about 15% of the remaining value of Net.
+So it will get to be such a large claim that it would be very difficult for Net to have enough money to come out of the bankruptcy without giving equity to the creditors.
+So it puts us in a situation of possibly having equity in Net.
+For the customers once they reject the leases those customers need someone to serve them.
+We're probably in the best position to serve them because they're in our data centers.
+But it would be up to the bankruptcy judge to make that determination as to whether we are the ones who serve those customers.
+On the last call based on the information we looked at from Net in January we thought on an annual basis $0.11 of margin could be obtained if we had all the customers under our wing.
+So that's $0.11 out of the $0.16 that Net would have paid us on an annual basis.
+I hope that helps.
+Research Division</strong> Okay.
+And finally any update on the progress releasing the Yahoo! space for September? Yes this is Chris.
+I'll take that question.
+And good question Fred.
+We've had a few inquiries on the space and we're cautiously optimistic.
+The next question comes from Young Ku of Wells Fargo.
+LLC Research Division</strong> Just wanted to go back to Net Data Centers a little bit.
+My understanding when they filed for bankruptcy was that you guys thought they won't be paying rent.
+So what kind of discussions have you had with the company? And have they stayed current with the other creditors? We have discussions with them basically every week on different aspects of the bankruptcy.
+I don't want to get to any details about what we're talking about there.
+But once they filed bankruptcy on February 23 all the money they owed to all their creditors prior to that amount was protected under bankruptcy.
+Each creditor gets a claim to the amount owed.
+And Net has to resolve those claims to get out of bankruptcy.
+On a go-forward basis Net has to pay the debt.
+They're the debtor-in-possession and the bankruptcy court demands them to pay the debt.
+And they have to pay full rent including base rent for March April and May.
+And they would need to do so on a go-forward basis in order to remain in the good graces of the bankruptcy court.
+If they could pay full rent every month they wouldn't have gotten into this problem.
+So there will be a limit on how many these full rent payments they can make before they have issues with their cash.
+LLC Research Division</strong> And have they remained current with the other creditors or no? As far as we know they have.
+We do get a monthly report that Net has to file to the bankruptcy court of all the payments made.
+And the last report we got was for March.
+So we haven't seen April yet.
+But in that report they have paid the other landlords also.
+LLC Research Division</strong> Got you.
+And my next question is for Chris.
+You talked about your kind of expansion plans.
+Would additional land purchases outside of your current land up for development would that be something that's also on the table? Because it's pretty modest as it sort of stands today outside of future development projects so I'm just wondering if you can comment on that.
+Yes this is Jeff.
+Let me take the first part then I'll throw it back over to Chris.
+We do have committed purchases in Ashburn of 2 parcels of land.
+One would be a smaller parcel of land that would probably be for a powered base shell.
+And the other 2 you'd be able to build our bigger data centers on that.
+We're going to call it ACC9 and 10.
+And we expect those purchases to close later this year.
+And I'll throw it over to Chris for his remarks.
+Yes.
+And in some of the markets I mentioned earlier on the call that there's a few options.
+But obviously one of the things that we think we do really well is we build huge high-scale data centers.
+And when we expand into some of these markets we want to make sure that our wholesale product has demand so we would look for land in those markets as well.
+Your next question comes from Tayo Okusanya of Jefferies.
+Research Division</strong> This is Charles standing in for Tayo today.
+Just a couple of quick questions here as most of mine have been asked.
+Just curious on the New Jersey foot traffic whether that's increased this quarter or whatnot.
+This is Chris.
+And that's a great question and I'll take that.
+So one of the things I think that's important to me and the whole team as I mentioned in my prepared remarks is support of all of our goals for 2015.
+So there's a laser-focus on Jersey.
+And that's one of the reasons why we decide to hire a broker the first broker we've hired in the history of the company to help support us in that building.
+We think there's opportunities in that market that currently we're not seeing.
+So your question is on foot traffic.
+The funnel was weak when I took over the company in New Jersey.
+And we're just starting to build up that funnel right now.
+So we're hoping as we go on throughout the year the funnel gets better and better and better.
+But from my past experience and I've had a lot of success in Jersey it's a great market and there's a lot of opportunity for us in that market.
+Research Division</strong> Okay that's helpful.
+And then just one more quick one circling back to the strategic plan and then sort of thinking about what's going on among your peers in terms of M&amp;A.
+I'm just trying to think does that pressure you guys to do something sooner rather than later if that's on the table? And then how do you balance that with potentially expanding into some of the new markets you had suggested that might be a potential option? Charles yes I'll take that one too.
+I mean I think it's a combination of both to be quite honest with you.
+I've been with the company right now for about 10 weeks.
+And there's been a lot of transactions that have happened in the space.
+But I've been focused mainly on leasing the space that we have meeting our top customers meeting our employees and helping build the strategic plan.
+But when we do a transaction we're not going to do a transaction just to do one.
+We want to make sure it's the right transaction and it fits with our strategy and it helps us to even make our current business stronger.
+So we're going to be very selective in the type of transactions that we look at.
+We're not going to be pressured.
+We're going to do what we feel is right.
+Research Division</strong> Okay that's helpful.
+And if can just sneak one last one in here real quick on back to New Jersey.
+When we think about the expansion on that asset would you be looking to do a prelease just given the challenges you've had in that market? Or would you assuming you can get some of the remaining space leased up to where lease capacity meets the appropriate footprint would you -- again would you rather do preleasing or stack? We would love to do preleasing.
+I mean preleasing...
+Yes that's a requirement today Charles.
+To do the second phase obviously you want to fill the first phase and we would need to prelease for that second phase to begin.
+The next question is from Dave Rodgers of Baird.
+Research Division</strong> Hey Chris maybe talk a little bit about the mini-wholesale product you did the first lease in the quarter.
+Was that something in the pipeline when you got here? Was that something you brought along? And maybe just more broadly with regard to mini-wholesale can you talk about using integrators and other services you might need to add to be competitive in order to grow that business? Dave that was actually done before I got here.
+So that was in the pipeline before me.
+But I think there's a real opportunity with mini-wholesale and the way we price and the way we market our product for us.
+We have a high-quality facility.
+And those mini-wholesale customers can potentially become wholesale customers.
+I've seen it in my experience.
+So if you take a 100 kW customer and 12 months from now it's at 1 megawatt.
+So we think we can have a lot of success with that.
+And if you look at the new design in our ACC7 facility it gives us the flexible density to do that.
+So we think we're going to have a lot of success with that product for a market that has been somewhat underserved.
+I know you and I talked about it in the past.
+We're not going to be in the single cabinet business.
+We think the 100 kW and above is the sweet spot for us and we can compete very aggressively in that space.
+Research Division</strong> Great.
+And then just my follow-up question I guess switching topics.
+I know you've been there about 10 weeks or so but Facebook obviously sits out there.
+Have you had a chance to meet with them? And any indications from them on when they would decide what to do or how they're leaning with regard to the future expiration? I think I've met with Facebook about 5 times since I've been here so I've spent a lot of time with them.
+And we're optimistic with Facebook.
+So I mean if you look at their business they're continuing to grow.
+They're continuing to buy companies.
+So if I had a crystal ball I would think that they -- the relationship between us and them is pretty strong and they love our facilities.
+[Operator Instructions] The next question comes from Matthew Heinz of Stifel.
+Nicolaus &amp; Company Incorporated Research Division</strong> Just a question of the sales force ramp.
+I was hoping you could help us understand maybe how far along you are in that process to date.
+I know it's still early days.
+But how should we sort of think about the pace of that as we layer the cost into our numbers going forward? Yes.
+I don't think -- what we're doing is we have a very modest sales force as most of you know.
+We didn't have a salesperson in Chicago.
+Well now we have a salesperson in Chicago.
+We have offers out to hire people in New Jersey.
+So we're not going out and bringing in hundreds of people.
+When we're fully ramped up we're going to have 6 salespeople.
+So I don't think you're going to see us going out and hiring 30 and 40 people because we're making sure that we hire the right people for the job.
+We just don't want a body.
+So we're being very selective in the process and we're seeing a ton of great candidates.
+And we're looking to bring almost these people relatively quickly.
+Jeff do want to add any color on that? Yes Matt.
+Just that all the headcount that Chris was talking about in the sales organization are in the G&amp;A estimate we have on the last page of our guidance.
+Nicolaus &amp; Company Incorporated Research Division</strong> Okay.
+And I guess just in terms of timing I mean do you expect that to be completed by end of the year by second half by the time you kind of roll out the strategic plan? I'd have to say that we're already halfway there at this point at the end of April beginning of May.
+So I would hope that the next call we'd tell you that we're fully set.
+Yes I'm hoping for like next week sooner rather than later.
+Nicolaus &amp; Company Incorporated Research Division</strong> Okay.
+And then just switching gears back to M&amp;A you mentioned acquisitions as a use of -- or a potential use of capital to kind of carry out your strategic objectives.
+I was hoping you could elaborate a bit on what type of assets you might be considering whether it's more of a focus on up-the-stack services or perhaps more of a traditional real estate play that could accelerate the mini-wholesale strategy or move into colo? Yes I think it's more of a real estate play.
+I think we have a good strategy and we have great customers.
+And our customers are asking us to expand into different markets.
+So if there is an asset that we think that's great that can get us into one of the markets that we're taking a deep look at I think it will be beneficial for us.
+[Operator Instructions] The next question comes from Matt Niknam of Goldman Sachs.
+Research Division</strong> Just 2 if I could.
+One on growth as you think about sort of incremental growth from here you've talked about wanting to sell some of the existing inventories you've got in place.
+Are you looking more to sell this into your existing customer base? Are you actively seeking newer logos with some of the sales hires that you're bringing in? And then secondly there's been a lot of talk about M&amp;A.
+Just wondering how necessary do you think an international footprint is for the company longer term given some of the moves we've seen recent moves we've seen from industry peers? Hey Matt a great question.
+I think we're looking to sell to both.
+I mean obviously we're looking to always add new customers right? We have 38 customers right now and a new customer would be great.
+But we also have a great base of existing customers.
+So it will be a combination of both.
+I'll take the second question and I've operated data centers all across the globe.
+And international expansion does help you with certain opportunities when you're dealing with customers looking for multilocations.
+But for us primarily right now the focus is on North America.
+And Matt just to add I think Chris said it earlier.
+But our salespeople are incented to get new logos.
+They have a SPIFs for that this year.
+So they are out pounding the pavement looking for new customers.
+The next question is from Ross Nussbaum of UBS.
+Research Division</strong> I'm not sure if I missed this.
+Can you comment on Zynga and what you think the prospects are for the renewal of their lease later this year? Yes this is Jeff.
+So they have 1 megawatt left with us with ACC5 that comes up on June 30.
+And we have been in conversations with them as to what their plans are.
+And at this point I think it's too early to release any information on that.
+We're still in those negotiations.
+Research Division</strong> Where is that rent relative to market would you say? The rents at ACC5 are generally above current market because that building came on 2009-2010 at the height of market rent -- at the height of the rent curve.
+Research Division</strong> Another question I had I thought I heard you say that you're going to be buying some land later this year to which would be used to potentially build out ACC9 and 10.
+If I heard that correctly I was curious as to why you would do that when you've already got ACC7 what Phase II in lease-up.
+You've got Phases III and IV out there.
+You've got ACC8 already on the books.
+Why would you buy the land for 9 and 10 now? And I assume this land is being bought from Hossein and Lammot.
+Why is it being done now? Yes that's a legitimate question Ross.
+So ACC8 is 10 megawatts.
+So we cannot build our normal building there.
+It'd either be like a build-to-suit or a powered base shell for somebody.
+So after ACC7 is full we do not have any land in Ashburn to build the type of building we like to build.
+So it will take a couple of years to get everything permitted to get the substation built.
+So we need to own that land today in order to get that process going so it's available once ACC7 is fully leased up.
+And you are correct we did disclose in our 10-K that land is from entities that Lammot and Hossain are involved with.
+Research Division</strong> Okay.
+And if I could just sneak one in I understand the commentary around adding brokers to try get New Jersey leased up.
+I guess the question is you guys make it sound like that's sort of the magic sauce to make it work.
+And I'm not going to say it's going to be easy but you just sound pretty optimistic about it.
+If it's so straightforward why didn't the company previously do it? Was there just simply refusal to work with brokers at any cost? Hey Ross that's a great question.
+And I'll take that one.
+Brokers are just a component of it so it's not all brokers.
+It's just the first thing that we've done before.
+So we're also looking at alternate distribution types like working with the systems integrators that I mentioned earlier on the call.
+And just to give you an example of a systems integrator Accenture Infosys Deloitte those are companies that help you sell in the space.
+And from my perspective and having been successful working with brokers and systems integrators it gives you alternate distribution.
+And I think you know that New Jersey is a market that we haven't been successful in.
+We don't have a salesperson in that market right now.
+We're looking to hire somebody in that market so we're exploring all avenues.
+Jersey is important to us and we're focused on it.
+Research Division</strong> And from a cost perspective if you want to go into mini-wholesale how much incremental capital do you think you have to put in above and beyond what you've already got in there sort of converted to mini-wholesale? Yes.
+So it's not really a conversion Ross.
+What we do is we go ahead and build out the overhead busway and electrical top infrastructure and tap boxes where customers will plug their servers into.
+When we do regular wholesale or super wholesale that is not built out for the customer and the customer either builds it themselves or contracts with our taxable REIT subsidiaries to do that.
+In this case it will already be prebuilt and we're estimating $1 million a megawatt or so for that.
+And then if we provide some fencing and cabinets it could go up to $1.5 million a megawatt.
+The next question is from Will Clayton of Macquarie.
+First on M&amp;A just curious about your general -- any commentary you can give us on the valuations of recent assets rumored to be for sale or deals that have already been announced as well as the kind of competitive implications you could see for you guys whether it's purely just an opportunity or if there are any deals out there that you think that could change the landscape through a competitive position.
+And then I have a follow-up after that.
+Okay.
+I'll take the first part of that on the multiples being paid.
+I mean yesterday's announcement about Carpathia was a classic in that I originally heard from the selling bank that it was 13x.
+And then I saw QTS announce it was 10x.
+So it's somewhere between 10x and 13x EBITDA depending on how you do the calculations.
+I think most of the reports I've seen today are honing in around 10 to 11x EBITDA.
+We know last year the transactions that took place were between 11 and 13x EBITDA.
+And I think that's kind of become the range 11 to 13x EBITDA.
+And I'll turn it to Chris.
+Yes.
+And you asked a question from a competitive standpoint of view I'll actually use Cervalis as an example.
+We have a data center in Jersey.
+When you look at the Cervalis asset they have facilities 2 in Connecticut 1 in New Jersey and 1 in Wappingers Falls.
+So we feel we already have a facility in the market and they have a cloud platform as well.
+We're not a cloud player.
+And we're a data center company that does a really good job for our customers.
+And we want to continue to do that.
+So as I mentioned earlier on I mean these transactions may work for some of our competitors but I'm not sure if they work for us.
+And when we do a transaction we want to make sure it's the right asset and it fits us and the integration part of it would be easy.
+As I said before I've done this a lot of times and I've seen transactions that have been really negative for companies and really have a negative impact on their business.
+So we're going to be very selective and very focused during the whole M&amp;A process.
+All right that's helpful.
+And then I guess just on the demand pipeline any commentary you can give us on new customers versus existing customers in any specific verticals or market anything that kind of indicate where you see the growth coming from whether it's the new or existing tenants and maybe where geographically or in what industry? Yes it's a combination of both.
+I mean obviously we saw growth in Santa Clara so the facility is sold out.
+We're looking at land in Virginia.
+So I mean we actually purchased additional land in Virginia.
+So I wouldn't think we would do that if we didn't see demand in that market.
+If you look at the markets where we're seeing really really strong on demand is where the Internet points are: Chicago Santa Clara Virginia.
+Those markets we're seeing a lot of interest from the similar type of customers that we have.
+If you look at New Jersey it's the financial services is the foremost.
+So I mean it's a diverse type of verticals.
+And you also take into consideration that 81 -- 80% to 85% of IT resources are still in-house.
+So I think there's a tremendous market opportunity for us going forward with our facilities and the design that we have in ACC7 with the flexible density.
+It actually helps us go after customers that may not need 200 watts per foot that need 150 watts per foot or whatever it is so the lower density type customers the mini-wholesale product is going to help us with that.
+So we think we'll have the ability to add more new customers and also expand with our existing customer base.
+That's helpful.
+One last one if I can just on the market expansion you're talking about discussions with existing tenants that have asked for capacity in different markets.
+Is there any sort of plan that you have in your mind already about what an expansion facility looks like if it's one of your 30-megawatt facilities versus an initial getting your feet wet in the market with a 10-megawatt facility? How do you think about that? I mean we could build a big facility and build it out in phases too like the right incremental phases 10 megawatts and then another 10 megawatts.
+So we would take a look at it.
+When we look at -- when we're going through our strategic plan for lack of a better word we're looking at all types of designs.
+And that's all out on the table with the -- the markets that we're looking at as I mentioned in my remarks power cost is low.
+There's connectivity.
+We're looking at the supply and demand dynamics.
+We're not going to go into a market that we think is oversupplied.
+So I mean this is science when you look at market expansion and I've done it before.
+And we want to make sure that we make the right choice and we choose the right markets when we do expand.
+And lastly talking to our customers they're great resources for us.
+We have a great customer base.
+And one of the things I've been able to do early on is I've had an opportunity to meet all of our top customers.
+And I asked them the questions like "Where do you see growth in your business? Which markets do you think are best for you?" And they're great resources of information.
+We have great relationships with our customers.
+And it's a lot easier to expand when a customer is telling you to go into a market than just building something cold.
+The next question is from Bill Crow of Raymond James.
+Inc.
+Research Division</strong> First let me just tell you the list that you gave of all the initiatives that you're doing sounded great.
+But it also sounded like a lot of them were kind of obvious.
+And it's kind of a little frustrating that it wasn't being done before.
+But it does sound like you got things going in the right direction so congratulations on that.
+Let me ask you you mentioned some of the things you looked at for the decision to buy back stock.
+And you said one of them is where you're trading relative to the peers.
+And I'm just trying to figure out why that is relative or relevant in your decision-making process as opposed to say your NAV estimate or other uses of your capital et cetera.
+What -- Why would you look at the disparity between the multiples as a trigger for buying back stock? Bill it's Jeff.
+I'm going to answer that.
+So when we saw a decline that precipitated us buying the stock we were the only one that went down at that point.
+It was all related -- well at least partially related to Net Data Centers situation.
+And Net paid us sort of 3.5% of our revenues and our stock went down 15%.
+So we thought we were cheap compared to the market.
+There's also been declines over the past few weeks where everyone's going down because the interest rate uncertainty.
+So that's what I kind of mean when compared to the peers and what's going on in the overall marketplace.
+This concludes our question-and-answer session.
+I would like to turn the conference back over to Chris Eldredge for closing remarks.
+Thank you.
+I just want to thank everyone for joining the call today.
+And we look forward to seeing many of you next month at REITWorld in New York City.
+Thanks again.
+The conference has now concluded.
+Thank you for attending today's presentation.
+You may now disconnect.

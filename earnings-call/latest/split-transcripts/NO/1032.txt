@@ -1,0 +1,664 @@
+Good day ladies and gentlemen and welcome to the Navistar's Fourth Quarter 2013 Earnings Results Conference Call.
+[Operator Instructions] As a reminder this conference call is being recorded.
+I would now like to introduce your host for today's conference Miss Heather Kos Vice President of Investor Relations.
+Ma'am you may begin.
+Good morning everyone and happy holidays.
+Thank you for joining us for Navistar's Fourth Quarter 2013 Conference Call.
+With me today are Troy Clarke our President and Chief Executive Officer; Jack Allen our Executive Vice President and Chief Operating Officer; and Walter Borst our Executive Vice President and Chief Financial Officer.
+Before we begin I'd like to cover a few items.
+A copy of this morning's press release and the presentation slides that we'll be using today have been posted on our Investor Relations website for your reference.
+The non-GAAP financial measures discussed in this call are reconciled to the U.S.
+GAAP equivalent as part of the Appendix in the slide deck.
+Finally today's presentation includes some forward-looking statements about our expectations for future performance.
+Actual results could differ materially from those suggested by our comments made here.
+For additional information concerning factors that could cause actual results to differ materially from those projected in today's presentation please refer to our most recent reports on Forms 10-K and 10-Q and our other SEC filings.
+We would also refer you to the Safe Harbor statement and Other Cautionary Notes disclaimer presented in today's material for more information on the subject.
+With that I'll turn the call over to Troy Clarke for his opening remarks.
+Okay.
+Thanks Heather and good morning everyone.
+This morning Walter Jack and I will review our results for the quarter we'll recap our full year performance we'll provide 2014 cash guidance and perspective on the full year and we'll update the path to our 2015 end of year 8% to 10% EBITDA margin goal.
+Turning to Slide 6 you'll see there our Drive to Deliver roadmap.
+We've launched this turnaround effort in the fourth quarter of 2012.
+At the time we said that we thought it would take us up to 18 months to execute the plan that we have put in place.
+Our fourth quarter financial results reflect some of this progress.
+Once again we hit our cash guidance and continue to lower our structural and operating costs.
+But we also fell short of the EBITDA target.
+This was primarily due to unanticipated pre-existing warranty adjustments for our EPA '10 EGR-only engines and the North American asset impairment charge.
+Walter and Jack will provide more detail on these later in the call.
+However encouraging to us is that when you set aside the pre-existing warranty adjustments and asset impairment operating performance fell within our targeted range and year-over-year we improved EBITDA by $210 million in the quarter.
+Regardless missing our EBITDA range is something you've seen before it's not acceptable.
+It's an area where we recognize the need to improve going forward and we are now in a much better position to make that happen.
+These adjustments mask the fact that Navistar is a much better company today than we were a year ago based on the important progress that we made in 2013.
+At a high level for this year here's a list of major accomplishments.
+We rebuilt the senior leadership team.
+We met or beat all the product launch dates related to our big bore emissions strategy change from EGR to SCR.
+We received EPA certification for our proprietary 13-liter engine with SCR and in the process we repaired our relationship with that agency.
+We expanded our engine portfolio by adding both the Cummins ISX and the ISB to our product offerings both have expanded the market for us and gave us access to a much larger customer base.
+As you know the ISX was in the plan.
+The ISB was added as a midcourse adjustment to stop the erosion of our medium-duty market share.
+We rebuilt and reinforced our quality processes which means we're launching our new SCR products only after appropriate validation which means we're not adding to the issues that drive higher warranty spend and adjustment.
+And it's important to note that early results shows significant quality and fuel economy improvement.
+We made great strides in better understanding the scope of our EPA 2010 EGR-only engine warranty issues from identifying the technical problems and pinpointing those vehicle applications with the most prominent issues to better understanding frequency and failure rates repair costs help us to fix them with the goal of eliminating repeat failures in the future.
+We reduced material costs to help offset the addition of the SCR hardware.
+We executed a number of ROIC actions: we fix close or sell parts of our business that detracted from our renewed focus on the North American truck market.
+And we exceeded our structural cost reduction targets by nearly twice our stated goal.
+And we significantly reduced working capital and effectively managed cash throughout the year.
+Some might question whether we could do this all in just 1 year.
+Well we did and I'm very proud of our team and their accomplishments.
+Yes we entered 2014 with more work to do including the areas of warranty and market share.
+Admittedly pre-existing warranty adjustments have been difficult for us to forecast.
+And shortly you will hear from Walter that he is already implementing actions to strengthen our warranty forecasting capability.
+He will also explain that we are halfway through our maximum warranty exposure of the EGR engines in terms of units under standard and extended warranty.
+These costs will be with us for a little while longer.
+The encouraging news this is a defined population and an elevated level of spend is on the horizon.
+The majority of the units will exit warranty by the end of 2015 which is key to achieving our EBITDA target.
+Our goal is to lower warranty expense to 2% to 2.5% of revenue which is the industry norm.
+And we're confident that the SCR units we're producing today are in that range.
+Incidentally Navistar is close to that range as recently as 2010 at 2.7% of revenue.
+In 2012 it shot up as high as 7% but we believe we are headed back in the right direction this issue will eventually be behind us.
+As for our market share we see promising signs.
+It took us a little longer to get traction with market share at Class 8 products as planned but we finally got it.
+And Jack will show you that we finished the year with Class 8 order and retail share trending in the right direction.
+As for medium-duty we hadn't anticipated the rapid share decline we experienced in 2013 which we now attribute to our July 2012 decision to switch to SCR.
+We demonstrated the agility however of our new organization by pulling forward our plan to introduce an SCR product into the midrange chassis by announcing in September the addition of the Cummins ISB to our portfolio.
+And you'll hear from Jack the market has responded well.
+Our sales are gaining momentum and we are entering 2014 with a significantly better order backlog than we did entering 2013.
+So with that let me turn the call over to Walter and Jack and I'll come back in a little bit to wrap up with some comments on 2014 and 2015 before we go into questions and answers.
+Walter? Thank you Troy and good morning everyone.
+Before we begin I'd like to briefly mention the realignment of our business segments and organizational reporting structures that took place in the fourth quarter.
+The principal change is to combine our North American truck and engine operations into one segment called North America truck and to combine our Blue Diamond parts operations with the balance of the North America parts segment.
+We've also created a global operational segment consisting largely of our MWM engine operations in South America and our traditional export truck and parts businesses.
+These changes allow us to run the business more efficiently in a more integrated manner and provide better transparency of the performance of our operating segments.
+The impact of these changes on our segments is detailed further in the appendix to this presentation.
+Now let's turn to the financial results for the quarter on Slide 11.
+Revenue for the quarter was $2.8 billion down $428 million or 13% from 2012.
+The decrease was reflective of lower sales across all business segments primarily due to weaker industry conditions and lower market share during the company's emission strategy transition.
+Worldwide truck charge-outs and revenues were in line with our overall expectations.
+We continue to make excellent progress in our cost reduction efforts.
+For the quarter SG&amp;A and engineering and product development costs showed a year-over-year reduction of $94 million.
+EBITDA for the quarter was a loss of $227 million an improvement of $210 million over last year.
+Similarly loss from continuing operations before income taxes was better by $200 million versus a year ago due to improvements throughout our businesses.
+North America truck improved by $41 million due primarily to structural cost reductions despite lower charge-outs of 1 000 units versus last year.
+North America parts improved by $44 million.
+Commercial growth offset military sales declines and lower SG&amp;A expenses contributed to overall margin expansion.
+Global operations improved by $67 million on higher margins primarily related to the company's South American engine business as well as benefits realized from prior year structural cost reduction actions.
+Financial services results were up marginally driven by reductions in operating expenses that more than offset lower net income -- lower net interest margin from lower average assets.
+Corporate items improved by $50 million due to our structural cost reduction efforts.
+In addition we recorded a $220 million tax benefit to continuing operations due to a technical tax accounting rule and offsetting tax expense was recorded in other comprehensive income.
+Turning to Slide 12.
+Excluding asset impairment and pre-existing warranty adjustments in the quarter from consolidated EBITDA of negative $227 million adjusted EBITDA from our continuing operations would have been positive in the fourth quarter and in the 0 to $50 million range excluding one-time items that management communicated on its third quarter call.
+As I previously mentioned we changed our reporting segments in the fourth quarter.
+In conjunction with this change we reviewed the recoverability of goodwill from prior acquisitions in the North America truck segment.
+After factoring into the analysis the significant value of intangible assets not on our balance sheet we needed to impair $77 million of goodwill during the quarter.
+Importantly this is a non-cash charge and does not reflect the change in the outlook for our North American business.
+Pre-existing warranty adjustments of $152 million were driven by 2 principal items: first additional accruals for our medium-duty EPA 2010 EGR-only engines; and second a significant incremental accrual for extended warranty costs related to our big bore engines.
+As more of the EPA 2010 EGR-only engines begin to enter the extended warranty period we were able to revise our prior estimates using a third-party actuary hired specifically to review our claims experience.
+Importantly for the second quarter in a row warranty accruals for our big bore engines base warranties were not material in the quarter.
+I'll come back to warranty a little later.
+On Slide 13 please find our full year 2013 results compared to 2012.
+It highlights that a lot has been accomplished in a relatively short period of time.
+Structural costs improved by $330 million which far exceeded our original goal of $175 million.
+Volume adjusted material and manufacturing costs improved by $150 million net of incremental costs related to the addition of SCR on our big bore engines.
+So we've made substantial progress on the cost side of our Drive to Deliver initiative making improvements of approximately $450 million year-over-year.
+This more than offset an 8% decline in Class 8 industry volumes and a 17% decline in Navistar worldwide truck charge-outs.
+Turning to Slide 14.
+We reconciled our actual ending manufacturing cash balance against the guidance provided on the company's last call.
+We ended the quarter with manufacturing cash of approximately $1.52 billion which includes net proceeds of $196 million from the issuance of new convertible notes as well as intercompany loan of $270 million from Navistar Financial Corporation our captive finance subsidiary.
+Excluding these amounts manufacturing cash would have been $1.06 billion in the middle of our guidance range.
+The goodwill impairment and additional pre-existing warranty accruals did not negatively impact cash flow in the quarter and other cash items in the quarter were in line or ahead of expectations.
+Several factors contributes to the strong manufacturing cash balance.
+Most importantly our employees have done a great job throughout the year focusing on improving working capital in particular by reducing inventory.
+Working capital decreased by $300 million year-over-year a 44% improvement over Q4 2012.
+Additionally capital expenditures decreased by $140 million or almost half versus 2012 as a result of higher return thresholds our ROIC initiatives and fewer engine programs.
+Looking at Slide 15.
+Please note our historical manufacturing cash balances.
+This is the most manufacturing cash we've had in any recent period.
+In fact it's the highest cash level we've had in at least the last 30 years.
+Turning to Slide 16 please find our manufacturing cash outlook for the first quarter.
+We expect manufacturing cash at the end of the first quarter to be in the range of $1 billion to $1.1 billion.
+Consolidated EBITDA for the first quarter is expected to be a loss in the range of $50 million to $100 million.
+This excludes any onetime items as well as any pre-existing warranty accruals that may arise in the quarter.
+Quite frankly our actual financial results continue to be hampered by pre-existing warranty accruals related to our EPA 2010 EGR-only engines.
+But these accruals have not tended to impact our ability to meet our manufacturing cash guidance in the quarter as demonstrated again by our Q4 2013 cash performance.
+The change on a sequential basis versus adjusted EBITDA in Q4 2013 reflects the following: seasonality in our North America truck parts and global operations and lower traditional units as we transition to the Cummins ISB engine.
+It also includes certain impacts that are typical in the first quarter.
+In this regard working capital is expected to again increase during the first quarter as we rebuild inventory following a strong finish in October.
+Moreover we'll pay suppliers for previously shipped materials while working fewer days in the quarter due to the holiday shutdown.
+As our share grows with re-conquest of larger customers our used truck inventory balance is expected to grow as well.
+We're also planning for continued required debt service payments ongoing capital investments in our business as well as pension and OPEB funding significantly in excess of expense.
+Similarly warranty cash payments are expected to be greater than expense.
+Turning to Slide 17 we've included some additional fiscal year information for our investors.
+The funded status of our postretirement plans improved by approximately $860 million in fiscal year 2013 due to an improvement in the discount rate of more than 80 basis points and returns that exceeded our expected return on asset projections for both pension and OPEB-related assets.
+2014 postretirement expense is expected to improve by $30 million to $40 million driven mainly by this improvement in funded status.
+Pension cash contributions are expected to be in the $180 million -- is expected to be $180 million in 2014 slightly higher than in 2013.
+We expect capital expenditures to be about $150 million in 2014 consistent with actual spending in 2013.
+Now let's turn our attention back to warranty.
+On Slide 18 you'll see a chart that shows the number of EPA 2010 EGR-only engines in warranty for all types of engines.
+We continue to gain experience and understanding of how this defined population of engines impacts both the base and extended warranty periods.
+As you can see we are now largely through the base warranty period of our population of big bore engines.
+However these engines have now entered the extended warranty period.
+Additionally our medium-duty ISX and light-duty V8 engines often have longer base warranty periods.
+Nevertheless looking at the population as a whole we're halfway through the maximum warranty exposure for these EGR engines and the majority of these units will exit warranty by the end of 2015.
+As such the potential risk of significant additional accruals in future periods should become much smaller for these engines over the next couple of years.
+I want to pause here to briefly comment on the number of pre-existing warranty adjustments Navistar has had to take over the last 2 years and the material weaknesses we identified in our 2013 10-K today related to the completeness and accuracy of underlying data for significant estimates in warranty and other areas of the business.
+The topic of pre-existing warranty adjustments has been a cloud over the financial results of the company and we need to get our arms around it.
+We will get our arms around it.
+It is overshadowing the significant improvements that are taking place in the other parts of the business.
+I wasn't brought into the company to sit idly by to watch this play out.
+Therefore I was pleased to find that the company has supplemented our existing model with an actuarial model from a respected accounting firm that was validating our own base warranty projections.
+Additionally we made the transition in Q4 to use this firm to estimate our big bore extended warranty liability.
+Similarly we will be looking to strengthen our forecasting capabilities and internal controls in other parts of the business.
+Turning to Slide 19.
+A lot has been accomplished in 2013 to position us for a successful 2014.
+We made significant progress aggressively reducing costs which lowers our breakeven point.
+But for pre-existing warranty expense and goodwill impairments we would have had positive EBITDA in the fourth quarter.
+This is the fifth straight quarter that we have met or exceeded our manufacturing cash guidance and the fourth quarter cash balance is the highest cash level we've had in at least the last 30 years.
+In part this was accomplished by a keen focus on reducing the working capital tied up on our business.
+And finally our new segments allow us to run the business more efficiently with greater transparency.
+Finally turning to Slide 20.
+A number of you have queried how we plan to deliver our longer-term EBITDA goal of 8% to 10% margins.
+This breaks down into 4 primary categories.
+Number 1 volume improvements.
+We expect the Class 6 to 8 and bus industry to show a modest increase in both 2014 and 2015.
+Additionally we have assumed our combined market share for the class 6 to 8 and school bus markets recovers to 22% to 24% by the end of 2015.
+Secondly materials.
+Our benchmarking would suggest we should be able to realize an incremental 5% improvement in material and freight costs over the next few years through design cost reductions strategic sourcing and footprint optimization.
+We have spoken publicly previously about the extra content in our engines that can be removed as part of our transition from EGR to SCR engines.
+Third structural costs.
+We expect to realize an incremental $175 million in 2014 through additional SG&amp;A and product development opportunities building on our previously announced Q4 reduction of force actions.
+Over time we plan to reduce our structural costs below 10% of sales.
+And fourth warranty.
+As discussed earlier we still need to work through warranty related to our legacy EPA 2010 EGR-only engines for a few more years.
+Our target is to reduce warranty cost by approximately 4% of sales over that period of time.
+To summarize we are focused on the key drivers to deliver our longer-term goals.
+An improving economy truck industry and improving market share as well as our continued cost reduction initiative and cash focus across the enterprise should position Navistar well for success in the future.
+I will stop here and let Jack provide more insights on our Drive to Deliver plan.
+Jack? Thank you Walter and good morning everyone.
+As Walter indicated I'm going to provide more details on the items that were talked about earlier.
+Specifically I'll give you some perspectives on warranty and quality.
+I'll talk about the industry our products and sales and I'll bring you up to speed on the operational progress we've made on our 2013 Drive to Deliver plan.
+So turning to Slide 22.
+As discussed earlier we continue to work through the warranty issues on our EPA 2010 EGR-only medium and big bore engines.
+It's very frustrating that this issue has overshadowed our progress because a lot of good work has been done this year all across our business and particularly in the quality area.
+2013 was better than 2012 and '14 will be even better than 2013.
+But the good news is that we are not seeing these issues with our new SCR emissions products.
+This is primarily driven by our new robust design and quality tools.
+And we believe the high levels of initial quality that we're seeing with today's SCR engines will equate to higher levels of quality throughout their life cycle and the warranty spend levels will reflect industry norms.
+I'll come back and talk about products more in a moment.
+But first let me give you some perspectives on the industry.
+On Slide 23 you can see that the Class 8 industry retails for our fiscal year 2013 were 211 000.
+It's down from 230 000 in 2012.
+We believe 2014 will be a year of modest growth and we're forecasting a Class 8 U.S.
+and Canada industry of 220 000 to 230 000 retail sales.
+Similarly to our view last quarter the industry is still experiencing both headwinds and tailwinds.
+Tonnage and freight rates do continue to be good.
+And some sectors of the economy housing and automotive for example are showing improvement.
+Used truck values remain strong but the need for more freight capacity is still being impacted by an ongoing driver shortage.
+But as we said last quarter we continue to believe there is a fundamental need for replacement vehicles due to vehicle age especially given the economics associated with older vehicles that are less fuel-efficient and more costly to maintain.
+Shifting to Slide 24 let's take a look at Navistar's orders for the quarter.
+We continue to make progress and we see increasing order intake.
+Class 6 to 8 North American truck orders were up 12% from the third quarter and 34% from Q4 of 2012.
+And we expect that these improvements in our retail market share will follow this improvement in order intake.
+Meanwhile our backlog is up 26% year-over-year.
+The biggest improvement to this backlog is in Class 8 which is up by 1/3 compared to this time last year.
+Our market share performance is where we indicated it would be on our Q3 call.
+Class 8 market share was 16% in Q4 which is our highest level of any quarter this year.
+Our medium share declined to 20% in the quarter as we saw a falloff in business in anticipation of the announcement of the ISB engine in our medium-duty trucks.
+We announced this offering in September the market reaction has gone extremely well.
+In fact we've already secured over 6 000 truck and bus orders.
+And our Class 6 7 order intake percentage in Q4 was 27% our highest level in the year.
+So we're quite pleased with the direction so far On Slide 25 these numbers indicate that our products with SCR engines continue to gain traction with customers.
+So far we've secured more than 16 000 orders for Class 8 vehicles with the ISX 15 and fleets are seeing improvements in fuel economy and uptime.
+Our Class 8 vehicles with the MaxxForce 13 SCR engines are also off to a great start.
+We've continued to accumulate miles in testing and are now over 4 million miles in on-road testing with no major issues.
+And we have more than 7 500 orders to date and fleets are experiencing fuel economy and uptime improvements here as well.
+In addition we reached another milestone this quarter.
+We completed the transition of our on-highway Class 8 products to SCR with the launch of the LoneStar with the ISX and we now offer a full lineup of on-highway SCR products for our Class 8 customers and we completed each launch on time with the highest level of quality.
+In regard to the ISB we started production and shipments in December.
+By the end of this month we would have built and shipped about 500 trucks and buses with the ISB.
+Now let's turn to our operating performance.
+We made tremendous strides in our Drive to Deliver turnaround plan over the last year and the fourth quarter was no exception.
+Turning to Page 26.
+As you heard earlier for the quarter we reported an EBITDA loss of $227 million versus our EBITDA target range of 0 to $50 million.
+However if you take out the asset impairments and prior period warranty this quarter our operating performance fell within the target.
+Let me break it down for you what are our many positives in the quarter.
+We achieved our volume targets for truck and parts.
+Our North American parts segment in particular had a very good quarter and a very good year.
+Although sales were relatively flat profit improved by 49% from Q3 to Q4 and 39% year-over-year.
+Used trucks finished the quarter strong also.
+Retail sales hit a record for the year.
+And on a year-over-year basis our inventory declined by 7% and is in good shape.
+We do expect the inventory to increase in early 2014 as our Class 8 market share grows.
+Material cost reductions exceeded our internal targets.
+In manufacturing our closure of Garland is complete.
+We've transitioned the products to other facilities.
+At Escobedo they've done a great job with improving first-time quality and the plant's running very well.
+Meanwhile after some startup issues and some onetime costs in the third quarter at Springfield their performance met expectations in Q4.
+Mexico had a very good year in truck parts and financing.
+However like others we're experiencing a slowdown here in early 2014 as a result of the economic impacts that have been driven by a tax change in Mexico.
+We continue to benefit from this quarter for the SG&amp;A and structural cost reductions we made earlier.
+We have far exceeded our goals in this area as you heard earlier.
+But you know there are a few areas where I really wish we could've done better.
+Declining government spending had a big impact on our defense business.
+And in response we made significant adjustments to rightsize this business in this quarter.
+Similarly in Brazil volumes were impacted by the economic volatility there in 2013.
+And as a result we took significant actions to restructure this business to return it to profitability.
+And finally we had anticipated faster market share recovery in North America and which is now just materializing for us.
+So on Slide 27 let me wrap up my comments for the quarter and for the year by first expressing my pride in the many accomplishments our employees made in fiscal year 2013.
+We made difficult decisions to turn around this historic company and we worked with a sense of urgency to create a path to profitability.
+As a result we're a much different and a much better company than we were a year ago and we positioned ourselves for the future and our momentum reflects that.
+So now I'll turn it back to Troy who will give you the high-level outlook for 2014.
+Thanks Jack.
+Let me start my wrap-up by saying that 2014 will be a better year for Navistar and hopefully the reason for our belief is obvious given our accomplishments this past year and the additional color that Walter and Jack provided.
+But let me add my summary if I could.
+Regarding the first quarter of 2014.
+Q1 will be the softest quarter of the year for us.
+Charge-outs will be similar to 2013 Q1 given the industry trends and slightly down from Q4 given the fact that we are ramping up the ISB engine in medium-duty trucks and buses in particular.
+This will be corrected late in the first quarter.
+Manufacturing cash is expected to finish the quarter in the range of $1 billion to $1.1 billion.
+We anticipate Q2 will better represent the true progress of our Drive to Deliver plan.
+Volumes in trucks parts and our global operations will be higher.
+Furthermore our structural costs will be lower in Q2 given the actions that we took in Q4 and our material performance in pricing will also show improvement over the first quarter.
+Regarding the full year 2014 we are forecasting a Class 8 industry of 220 000 to 230 000 retail sales.
+We project our Class 6 through 8 and bus share to be approximately 21%.
+We expect our pricing to improve slightly given our new products.
+We expect to reduce our structural costs by an additional $175 million.
+We anticipate material cost reductions will more than fully offset the added cost of SCR.
+And entering 2015 we plan to reduce another $1 200 $1 400 in cost from our 13-liter SCR engines.
+We expect $50 million to $60 million in year-over-year manufacturing cost savings not including the impact of any engine manufacturing consolidation actions that we have referenced in the past.
+And lastly capital expenditures will be similar to 2013.
+These accomplishments will be significant steps towards achieving our goal of an 8% to 10% EBITDA run rate exiting 2015.
+2013 has been a challenging year.
+We changed our products we changed our leadership.
+We changed the organization and we've created a central focus with clear goals and objectives.
+We've done a lot to rightsize our cost structure.
+We repaired relationships that are so important in our business.
+And now our sales are increasing.
+We made a lot of progress and our momentum is building.
+We got more to do but we're optimistic about the headway we're making and we're confident more positive financial results are on the way.
+We're excited about 2014.
+Thanks for your time this morning.
+And now let me turn it back to Heather and we'll open the call for your questions.
+That concludes our prepared remarks.
+[Operator Instructions] Operator we're ready to open the lines.
+[Operator Instructions] Our first question comes from Andrew Kaplowitz of Barclays.
+Research Division</strong> Troy or Jack maybe you can -- actually this might be for Walter.
+Maybe you can talk a little more about cash after 1Q.
+In other words 1Q usually is a seasonally weak quarter we all know that around working capital.
+As you go forward how should we look at cash given productions' going up which should help? But you do have these warranty reserves that you've been accruing over the last couple of years.
+So how do we think about cash after 1Q? Yes it's Walter Andrew.
+I think you should think about it not dissimilar to what you saw last year.
+When the group was sitting on the call last year we were also expecting cash outflows in the first quarter and that improved significantly over the balance of the year.
+So we're not in a position to provide guidance beyond the first quarter today.
+But the first quarter is clearly a cash use for us typically.
+But you wouldn't expect that to repeat quarter after quarter.
+Research Division</strong> Okay that's helpful Walter.
+And I guess my second question is for you too.
+Like I think these warranty issues will again we've seen them for a while.
+Is this some fresh set of eyes coming in? And looking at the extended warranties and so maybe we really can say we're getting over the hump after this quarter.
+And how do you view that Walter? Do you have decent -- I mean when we see the chart that you've given us now we know that you're halfway through this period.
+But how should we look at warranty expense going forward? Do we think it can now be on a declining scale and then how much of the 152 is medium-duty? Well I mean obviously there are some new eyes that have come into the company including my own.
+The company's also put more resources into this area because we've got to get our arms around this.
+So there's a number of people working on within the company to reduce the cost going forward as well as to do a better job of forecasting it.
+And quite frankly every quarter we look at it and we accrue where we need to.
+But as we try to do our cash guidance going forward I still feel we're in a good position to be including any additional pre-existing warranty amount that we might have as part of that guidance.
+But the reason we included the information we did on the EGR engines is to show you what we're looking at which is that we're halfway through and that this is going to be improving going forward.
+So the risk is smaller.
+These engines as we go through time will obviously have to make payments for what we've accrued over time and that will play its way out over a few more years.
+So we would anticipate that our cash outflows for warranty will be higher than expense over the next few years given the accrual that we now have on our books.
+So we are focused on it.
+We're bringing in additional experts to look at it as well.
+And you can rest assured that I and the rest of the organization are very focused on this topic because we need to do better here.
+Research Division</strong> Walter just out of that 152 how much was medium-duty approximately was it like a quarter or something like that? Yes.
+Let me answer the question a different way.
+The extended warranty item was more than 2/3 of the total of the 152.
+Our next question comes from Andy Casey of Wells Fargo Securities.
+LLC Research Division</strong> On medium trucks can you discuss what the order books suggest your engine mix looks like meaning internal versus Cummins ISB? Andy this is Jack.
+There has been a surge here of ISB orders as I indicated.
+We have secured over 6 000 of those.
+So right now the --our medium-duty orders that we'll be building are primarily the ISB.
+It's the highest proportion.
+But as time goes on I'm not sure that it will stay that way.
+This reflects a big initial pent-up demand for that order.
+LLC Research Division</strong> Okay thanks Jack.
+And then getting to the core of the question we've been looking at the impact of introduction of Cummins on the Class 8 business.
+You're changing the internal engine to include SCR.
+Can you kind of describe the milestones that Navistar's looking for to try to determine what the best -- well said differently the optimal cost of the internal engine facilities should be going forward? Good question Andy.
+Maybe I'll start on that this is Troy and then I'll put Jack to give any additional perspective.
+So I think the path that we established on the big bore we brought the ISX in and we put the SCR in our 13-liter.
+And initially we saw -- I mean all the orders are ISX.
+It's kind of all we had for a while.
+And then quite frankly now the 13-liter orders are coming back in.
+So we're going to take a while here yet to figure out what that mix looks like it is going forward in that engine.
+We think quite frankly it's going to be in that 50-50 kind of range okay? And then what that allows us to do is that now we can look at total costs of our 13-liter engine.
+We have the opportunity to think about how we manage capacity and resources to support it to make sure that we have the right internal business case for providing that offering into the market.
+We think that's what we're doing and we're optimistic and confident that that's the right play.
+We're going to play in the same thing now on the medium-duty to be very honest.
+As Jack indicated we've brought the ISB out.
+And it isn't -- what we really -- we don't have the SCR on our own DT yet so that's kind of a stranded technology.
+So it's going to take a little bit longer for this to play out.
+But ultimately we see the same thing.
+We're going to get a feel here in the next couple of quarters on what that mix is going to be between an ISB and between an internal option that we can provide.
+And then at that point in time we're going to have to make some calls with regards to the cost structure that we can afford to allocate to have that entry in our portfolio.
+We haven't made those calls today.
+And quite frankly we don't have enough data to make that analysis.
+But in the spirit of the way you asked the question I wanted to be very open with you as to how we're looking at it.
+It's a great question.
+I'm sure it's going to come up every quarter for a couple of quarters.
+And we're going to try to be just as open in answering it.
+And when we have an answer we're going to move forward with that.
+That said I referenced in my comments in either case we know we have too much manufacturing capacity today and we will take steps to rationalize that throughout the year.
+We haven't announced those plans yet and they will be out there a little bit.
+But we are moving forward with our plans in that regard to limiting some fixed costs from that type of business.
+Jack do you want to add anything to that or? No I think that covers it Troy.
+Our next question comes from Stephen Volkmann of Jefferies.
+Research Division</strong> I wanted to just go back to the cash for a second if we could.
+And Walter it sounded like you were saying that the cash balance should sort of bottom out or at least sort of be flat from the end of Q1 going forward.
+But I don't want to put words in your mouth today.
+Did I read that right? I think what you should assume is that we're not going to have a repeat of the kind of outflows in subsequent quarters that we're going to see in the first quarter.
+And much of this is really driven in the first quarter by 2 items.
+One is working capital which tends to increase in the quarter for us as I alluded to in my remarks.
+And the second is our profitability which should be lower in the first quarter than where we need it or where we plan for it to be over the balance of the year.
+So again I can't make any predictions today for cash balances beyond Q1.
+But we're obviously looking at that internally and planning our cash for the year including the maturity on the convert that we have coming up in the fourth quarter of 2014.
+Research Division</strong> Okay.
+That's helpful.
+How much visibility do you have into the warranty cash outflows? Is that something that's pretty forecastable? Or is that sort of dependent on when people bring things in? Yes it's a good question actually.
+As we've looked at that that data is actually quite stable.
+And so while we haven't done a great job in terms of forecasting pre-existing warranty accruals that we might need to take we do have a very good line of sight on spending and that's included in our cash projections for 2014.
+As a matter of fact I would add that spending is fairly stable which again gives us some confidence that we're kind of at the peak of this cycle.
+Research Division</strong> Okay.
+Thanks for that.
+And then just quickly Troy on your long-term EBITDA goals where you sort of sketched out the 5% benefit on material costs and 4% on warranty.
+I guess theoretically that's around 9% of EBITDA margin.
+And then I guess you have some other cost saves potentially the engine the $1 200 to $1 400 per engine as you go forward and take cost out.
+Am I kind of repeating that the right way? Is that how we're supposed to kind of build the bridge here? Yes yes.
+I think the engine cost by the way is in -- average out on the total material cost so you can't kind of count those numbers twice that you noted.
+And then like most things we have some -- I don't want to say contingency but the plans would allow us to overshoot a little bit because not everything happens sometimes the way we want or in the timeframe that we wanted.
+But those basically are the 2 big building blocks as we go forward along with the warranty runoff right getting back down to a reasonable percentage.
+In order to get to the goal we don't have to go all the way back down to the industry standard for warranty as a percentage of revenue but we've got to get a lot better than the 7% that I referenced in my comments.
+Research Division</strong> So that was my final just follow-up.
+So the warranty sort of falloff looks pretty linear between now and the end of 2015.
+Can you just give us a sense of the cadence of these other benefits? Is it sort of a 2015 second-half hockey stick with the rest of it? Or would you expect it to be somewhat linear? No truthfully I mean the data that I'm looking at tells me it's kind of linear right? I mean we're looking to make a big step here in 2014 pluses and minuses.
+And we get a little bit of industry behind us and we get a little bit of share behind us.
+I think that's going to give us even more opportunities.
+But we're not -- we're trying to avoid the hockey stick.
+At least the management's efforts are focused on that and then obviously our results will be the judge.
+Our next question comes from David Leiker of Robert W.
+Baird.
+Research Division</strong> This is Joe on the line for David.
+It looks like you booked around 8 900 medium-duty truck and bus orders during the quarter.
+And just considering the ISB was available in the order book for 2 months it basically implies every order since the ISB became available has basically been on that engine.
+And in that context how does this reception and feedback from the market kind of accelerate moves you might make such as winding down medium-duty platforms or accelerating plant closures? Well we talked -- we kind of referenced that in the earlier question okay? Obviously this is the kind of thing that will have an influence on that and it's just a little premature for us right now to make those decisions.
+But they are the type of decisions that I think we'll be addressing throughout the course of the year as the volumes will -- as the volumes will basically stabilize.
+But I would say again we referenced in the past we will take steps this year to consolidate our manufacturing capacity.
+We have 3 manufacturing facilities for engines today.
+We don't need 3.
+And so we have a couple of options as to how to get at that.
+I personally would like a little more insight as to the mix between ISB and our own engines because I think it will allow us to make a better decision.
+It is on our radar screen.
+We have no announcements to make today.
+And we realized that that's a topic that we need to talk to as we go forward.
+But I want you to have confidence that we're thinking about it probably the same way that you guys are.
+Research Division</strong> Okay.
+And then switching gears a bit.
+But on the structural costs commentary and targeting that to be under 10% of sales just wondering where does that stand as a level of sales today? That's in excess of 11% today.
+So the steps -- so we've kind of commented on the steps in structural costs we're making this year.
+So you guys can kind of do the math.
+And we believe that's walking us right to the spot where our benchmarks tell us we need to be.
+Our next question comes from Ann Duignan of JPMorgan.
+Research Division</strong> It's Ann Duignan.
+Can we just get -- a point of clarification.
+I just want to take a step back on the warranty accruals.
+Are we not to believe that there was no change or no increase in warranty accruals back when these extended warranties were provided? No.
+No Ann.
+As a matter of fact every time we took an accrual in the base warranty we took an accrual in the extended warranty as well okay in the course of last year.
+However the model we used to do that was really a very simple model that did not reflect -- didn't have any intelligence so to speak as to what those claims might be.
+I mean this is a -- an extended warranty on big bore is kind of a product that really just came about right when we introduced the big bore engines so we didn't have a lot of experience on it.
+As a matter of fact our experience was on a small set of DT-type engines.
+So Walter referenced we basically got an actuary to come in and say okay even though it's very early claims data what is the algorithm? I mean what's the actuarial model look like? And so the difference is not that we didn't accrue in the past -- we have been -- but is what does it show when you use a different and probably model that's more reflective of the kind of spend pattern that we might experience? I don't know if that answers your question or not.
+And Walter do you want to add anything to that? Thanks Ann.
+And again I thought it would helpful to all of you to include this chart that we had on Page 18.
+If you look at that and if you look at the dark blue sliver there which is the extended warranty for the big bore you can see we're just coming into that.
+So we're only now getting claims experience that we can analyze and the actuaries can use to refine our estimates in that area.
+So as Troy indicated we had accrued amounts there as we got more fidelity on that now and looked at it more closely with external help and more eyes.
+We thought we needed to top that out.
+I mean I think extended warranties apply to about 85% of the big bore engines we sold.
+I'm looking over for Jack to nod his head.
+And it extends warranty up to 3 years past the base warranty period.
+The standard warranty period is 2 years and the extended warranty typically goes 2 or 3 further years.
+Research Division</strong> Right.
+But it just raises one of the reasons why people do not give extended warranties doesn't it? Extended warranties are pretty common in the industry these days Ann.
+Research Division</strong> Yes.
+I want to switch gears now because that does lead me to the second question.
+One of the common things we hear from truck owners is that there is the low residual values of used equipment.
+Can you just talk about your used truck inventory talk about who's going to end up responsible if there's a write-down on residuals? Is it the dealer? Is it GE because they finance the trucks is it Navistar? Talk a little bit about is that another brewing problem that we could have out there that we've got all these used trucks that nobody wants? Well there's some interesting phenomenon that's going on in the marketplace today.
+And clearly with the improved fuel economy and uptime of our new trucks we have a number of customers that we're talking to about trades.
+So the way we approach this is we do our best to trade for used trucks at the market value and always at the time of a new truck sale.
+We're not buying used trucks.
+In the event that as part of that new truck transaction we put an above-market value on the trade we record that inventory write-down right then and whether that's all us or whether that's shared with a dealer or shared with GE or any other third-party that kind of depends on the circumstance.
+But we do it right then.
+We do it at the time of a new truck transaction so that our inventory is valued properly.
+A piece of challenge here though Ann is our data does not indicate that the market value of the MaxxForce 13 engines is depressed in the marketplace.
+And our data shows that these values are holding up and our inventory levels are down on a year-over-year basis within our used truck inventory.
+So I understand what you're saying.
+I hear the same thing in the marketplace.
+We're keenly focused on used trucks and what that means to us as a company and how that can help further our market share goes.
+But we're not seeing the phenomenon you're describing right now.
+Research Division</strong> Okay.
+Well that's good to hear.
+We're probably giving the outliers just something else [ph] they're not happy about it.
+So it's good to hear.
+Our next question comes from Steven Fisher of UBS.
+Research Division</strong> I'm wondering if you could just talk about what's in the $175 million of structural cost savings in 2014 and what some of the opportunities are for beyond 2014.
+Sure I'll start.
+This is Troy speaking I'll start.
+So we have mentioned -- we mentioned that in Q4 we took some actions to basically reduce our staffing by about 500 people.
+And that should deliver in the range of -- and a couple of other things and that should deliver in the range of $50 million to $60 million improvement.
+And we'll see -- on an annual basis and we'll see that improvement in the first quarter.
+Okay we are seeing that okay.
+That's one part of it.
+The second part of it is we have put in place some system upgrades to give us better visibility on indirect spend in all areas.
+And so we've benchmarked our indirect spend.
+I referenced earlier our benchmarking activity with our competitors.
+And that has kind of pointed us into hundreds of savings opportunities.
+Most of them are small but they're all interesting okay that these will accumulate throughout the year as well.
+And then the third item really has to do -- because we say kind of structural costs it's not just SG&amp;A.
+It's SG&amp;A and some stuff that you call fixed or maybe even in cost of goods sold.
+But the other area is continued improvements in efficiency of engineering okay.
+A couple of years ago I mean we were managing an engineering factory that was working on Workhorse chassis and Monaco motorhomes and even a 15-liter engine.
+So we have rationalized all those programs and chose to do our engineering in a different way.
+And part of what we've talked about this like Project Horizon.
+So Project Horizon is really an engineering program that we'd lay over the next couple of years that brings to market the next generation of our ProStar products okay.
+So we may be able to take a lot of the engineering expense that you're kind of -- I don't want to say it's waste but you're just kind of grinding it up all the time trying to make improvements to the product.
+Focus that around really quality today but then additional capabilities in line with our Horizon projects.
+So those are kind of the pieces that you see.
+Once we get down to that kind of below 10% kind of range though I think that's where the business kind of needs to be.
+We are really into lean and we're having a lot of progress.
+Jack talked about it on Escobedo and we're getting up speed in Springfield.
+And we're also using it in our enterprise.
+So they will always be continuous improvement opportunities.
+But I think kind of once we get past this 2014 kind of 2015 kind of timeframe those additional improvements are the kind of things we want to take and reinvest in our business for the benefit of our customers and our shareholders going forward.
+So that's kind of how we think about it.
+And I think unless I missed on something Walter or Jack those are kind of the pieces of it that I described.
+Research Division</strong> Great.
+That's helpful.
+And then on the 8% to 10% EBITDA exit range do you guys have any visibility to hitting at least maybe the low end of the range at some point during the first few quarters of fiscal '15 versus that exit range rate? We're really not going to try to provide guidance on that right now.
+But I'm sure Steven you'll bring that question up in succeeding quarters and we'll let more information out at that time.
+Our next question comes from Jerry Revich of Goldman Sachs.
+Research Division</strong> Troy can you talk about any organizational structural changes to go along within your reporting and indirect cost structure work that you're doing? And also can you just touch on how you're thinking about performance metrics for your direct reports in '14 and how that's different versus '13 just to give a sense where we are in that turnaround process? Yes.
+Yes Jerry.
+Happy to do so.
+Thanks.
+So one of the things that Walter announced in his comments was this change in our segment reporting structure.
+And that really does reflect how we're looking at the business today.
+It wasn't so long ago Navistar was a company that was made up of its own kind of internal divisions to include a very strong engine division which had all the attributes of the business right? I mean it had an external sales arm its own HR group its own engineering group its own PR group et cetera et cetera and a truck group which basically duplicated all those expenses.
+Today that's really not how we're running the business.
+We're running the business as a North American entity.
+So as you might take away they's kind of the need for one organizational infrastructure to support that one HR group one product engineering activity.
+And so just very simple as we've taken -- have basically created this North American entity we don't need this duplicate structure that supported an engine business.
+We really only ship engines today if they go out the doors in a truck.
+And so we've taken those savings opportunities.
+And I just used that as an example throughout the course of the year and that's part of the SG&amp;A saving that you've already seen or as we shed Monaco or sold Workhorse or those kind of things okay.
+So we've continued to modify the organization in that regard.
+So the organization today is kind of lean.
+I mean this time last year or just a little bit before this time last year we had 60 -- a little bit over 60 people walking around Navistar with the title of Vice President.
+Today we have less than 40 people.
+And even this month there's additional changes being made where as we continue to streamline our organization we just need -- we need less leaders of that level.
+Getting to the next thing and say you talked about performance metrics and Navistar was a company kind of it was organized around a whole bunch of little P&amp;Ls okay so that you were kind of adding up the P&amp;Ls of these kind of divisional structure.
+And that caused a lot of issues to be very honest because it was hard to make -- to allocate fix and figure out how you got into -- and what share of the engineering program.
+And everybody was competing for these critical resources and there was always something kind of left over which is really hard to allocate.
+Today we're pretty much a straight functional organization right? We have an engineering function that designs everything with one person accountable for the output of that factory and the budget.
+We have a purchasing activity responsible for every bit of material purchased for this company be it pencils to SCR systems.
+They're accountable for that and they budget that.
+They measure that and they forecast that and we track that religiously.
+And this is something that's taking place.
+We have a single manufacturing organization that runs engines and trucks in Mexico in the United States and again with the same kind of accountability.
+And we have a sales organization and the sales organization's mission is to sell -- is to sell and they have retained price retained margin okay.
+And those are the type of metrics kind of we look at.
+And that's kind of the North American entity.
+We have a global entity which is small a lot smaller scale but similar levels of accountability.
+And we have a parts activity that includes all parts now that is the same way.
+So it's a simpler more streamlined more functionally organized organization.
+At the end of the month now at the end of the quarter there's no funds that are left unallocated.
+Every dollar is owned by a senior leader in the organization and that's how we talk to each other and that's how we create expectations and forecasts of improvement.
+Research Division</strong> That's a helpful context.
+On a different note on medium-duty market share obviously that's the legacy of the international brand historically.
+Now that you have the ISB I guess how quickly do you think you can regain that market share based on inquiries that you're seeing? Maybe if you could touch on what your order share will be in November and December if you have a rough sense.
+Well.
+We had a real good September and October in both our orders and retails -- both us and our dealers closed out the fiscal year.
+So it's not surprising we did see a little decline in November.
+But also remember our competitors are pushing here towards the end of the calendar year which is the end of their fiscal year.
+But we're already seeing recovery in December.
+10 days to go left in the month albeit some holidays in here.
+We already have more orders for Class 6 7 and Class 8 than we had in November.
+We'll show an increase in December '13 versus December '12.
+And the medium duty side of that is very strong also.
+Research Division</strong> And just the last clarification if I may.
+Walter the warranty expense that you're quoting on Slide 20 of a 400 basis point decrease does that take you 4 points of sales in '15? Just make sure we are looking at it apples-to-apples.
+I guess that I'd say consistent with Troy's comments.
+I'm a little -- I would like to be a little careful in terms of the percentages because different people calculate them different ways.
+So I guess you'd have to take a look at your model and see how your calculating and subtract 4% off of that.
+Our next question comes from Jeff Kauffman of Buckingham Research.
+A couple of questions.
+I just want to clarify a little bit more on the warranty and the goals here.
+If I take a look at that chart that you gave us which is extremely helpful in terms of the number of units subject to warranty at different stages the Class 8 and the Class 8 extended warranty are about 40% of the total units; the 1 to 6 a little over 50%; and the light duty a little less than 10%.
+But how does the dollars that we should think about being classified in the warranty match up? Would you say that the Class 8's are probably 65% to 70% of the warranty dollars at this point? So I'm trying to do some math in my head.
+On a per-unit basis warranty is more expensive on the big bore engines than it is on the medium duty and more expensive than it is on the light-duty engines.
+Standard and extended.
+Yes in both standard and extended.
+I mean they're just more expensive components that you put on the engine and the warranty of the standard repair types tend to be longer.
+Right.
+And the half-life of the Class 8 is going to go away a lot faster than the medium and light duty so I'm trying to take your unit exposure and turn it into a dollar exposure.
+Yes you're right.
+Yes because I think what happens is on the big bores right I mean they accumulate miles relatively fast and the medium duties and the light duties they accumulate mileage slower because they're in more regional applications.
+Mixed in there by the way in both the light duty and in the DT the midrange engine are some school buses.
+And school buses are basically sold with 5-year warranties so that's a face warranty for those.
+But that is out of that number yes it's a smaller proportion of that less than 25% right? Right.
+So if I was going to ballpark the dollars if your heavy duties are 40% of your units today would that represent say 60% to 70% of the dollars in the pre-existing warranty reserve? We'll have to circle back to you.
+Your assumption that it's more than the 40% is accurate but we won't be able to do the math in here.
+We don't have it.
+We'll have Heather and company follow-up with you okay? I don't want to give a number for everybody to hear that turns out to be wrong.
+I'm just kind doing this in my head.
+I could possibly do that.
+Okay.
+And then a hypothetical question.
+Let's say I'm a big customer and I was an early-launch customer on the big bore.
+And I've made a decision you know what? I'm going to trade back in my big bore and I'm going to take say the Cummins 15-liter and you guys are taking that big bore in as a trade.
+What happens to the extended warranty when you take it in as a trade? Does that extended warranty no longer exist when you take that engine back and then put it in your retail system? And then I think you mentioned if you were to buy back something in the market and you bought it back and you happen to pay a price higher than market that you would take the write-down to your inventory can you explain to me how the accounting of that work if I was a customer and say I'm trading those trucks back to you.
+How would you handle the warranty reserve and the inventory would play out? Well maybe I'll start with how this transaction in the marketplace and maybe Walter could pipe in on the accounting.
+But today the used trucks that we're selling in the marketplace also have a warranty on them.
+So it may not reflect the same extended warranty that came from the factory depending on where the truck is going and what the application is in the used side.
+And we take a fresh look at the used truck to make sure that the application is the same.
+But today the used trucks being sold in the marketplace they also have a warranty on them.
+But if you have an extended warranty on a vehicle you would take in a reserve against that warranty and it was traded into you.
+You would put out a new warranty on the new truck sold but the extended warranty reserve would that go away as these trucks came back? Well depending on what the new warranty is right? So if they're turning it into you after the base warranty period they're in extended and then you were to provide an additional warranty on that used unit you have to look at what that warranty looks like relative to what you had on the prior vehicle.
+And so theoretically the difference between the 2 you'd be able to release the accrual for.
+Okay and then one last question.
+Troy when you give that 8% to 10% EBITDA goal is that taking into account anything you might potentially do on the engine footprint? Yes yes yes.
+Let me say yes.
+I am counting on some fixed cost savings from fewer engine manufacturing plants in that.
+Our next question comes from Brian Sponheimer of Gabelli and Company.
+Inc.</strong> My question is for Walter.
+If you take a look at the balance sheet you've got $1.5 billion of cash with approximately 570 you've spoken for and you're going to have about $400 million burn in the first quarter.
+What's your confidence that the balance sheet is in a position where you can operate with some flexibility on a go forward basis? Flexibility in terms of what Brian? Inc.</strong> Yes.
+Just as far as running the business and not leaving any pieces of capital allocation a little more starved than you would like.
+Oh I see.
+I mean we start up by taking a look at how much do we need per product because that's what you always do.
+So CapEx expenditures are at the top of our list.
+We obviously need to meet all of our required payments whether it's the suppliers or to debt service and the like.
+So if we exit the first quarter on $1 billion $1.1 billion range that's where we kind of like to be.
+We obviously have this maturity at the end of the year so we will either need to build our cash balances organically or we do have the opportunity under our covenants and the like to refinance that debt when it comes due.
+We demonstrate our ability to enter the capital markets here in October with the transaction that we did.
+So if that comes necessary we don't have any plans to go to market today.
+We think the market is open to us.
+And if we see any opportunities to do something significant strategically then presumably we'd make our case at that time.
+And if we needed to raise some additional funds we'll do that at that time.
+Inc.</strong> What's the flexibility in either an intercompany loan -- another intercompany loan or a dividend up from the parent co at this point? We did $270 million there.
+There's some additional capacity.
+It doesn't factor prominently in our plans.
+Our next question comes from Patrick Nolan of Deutsche Bank.
+Research Division</strong> Just one last quick one.
+Most of my other questions have been answered.
+Troy just on a high level how do you think about your current level of CapEx spending? I mean do we have a pure maintenance level CapEx then over time this is going to start to go higher? When you look at that kind of $150-ish million number it's pretty close to what's kind of the 2009 kind of crisis spending CapEx.
+Or is this just the level with where we're sizing this business where we're going to be close to be going forward? No I [indiscernible] think about it.
+This is kind of maintenance CapEx okay.
+And we're basically been able to take advantage of the fact that we had fewer engine platforms and fewer engine programs that we're investing in and with kind of a spinoff of some of these other businesses in our fixed close or sell kind of approach we've taken full advantage of that.
+But I think in the kind of range we are spending is our maintenance CapEx.
+We do have -- obviously we are still investing in future truck programs but that investment tends to be lumpy.
+So I think in the course of the next couple of years our CapEx will rise okay to reflect those programs and potentially other strategic initiatives that we might entertain.
+But I don't think we're starving the business today.
+But we probably can't stay at these levels for another 3 years.
+We will have to start to spend a little bit more to make sure that our programs are timed out appropriately.
+I hope that gives you a reflection as to how I'm looking at it and that's probably subject to change.
+But I think we're being pretty thoughtful at this time.
+And our final question comes from Ted Grace of Susquehanna.
+LLLP Research Division</strong> The first question is something -- just quickly on the orders.
+I was wondering if you could just characterize how the order book kind of stacked up from fleets versus dealers.
+And then kind of similarly you referenced the traditional market being up 26.
+When you look at the export markets they obviously had a tough time.
+I think Jack referred to Mexico as a challenge given some tax-related factors.
+But could you just kind of speak to how we should think about the export market? And I guess from the standpoint of margin mix I would have thought that the export market is pretty healthy profit margins so maybe just start there.
+That would be great.
+Okay.
+So from an order book standpoint I guess the way to think about this is when we announced the ISB in our product line we saw 2 phenomenons.
+We saw our dealers place some real significant orders for their stock inventory.
+And then we saw a number of very significant fleets also place orders for delivery starting primarily in our second quarter and going out through the rest of the year.
+And that's what's built up our order bank.
+So we're just starting to ship these products now so really the dealers don't have them yet.
+But I know from conversations with them many of those are presold.
+So we expect those medium-duty products get out there with our dealers.
+We'll see the dealer percentage of the total start to ramp back up to a more normalized percentage between fleet and dealer.
+But today it is certainly fleet oriented in our order book.
+Relative to export our largest export market is certainly what we would call is Mexico as well as Colombia.
+And Colombia was off dramatically.
+I don't have the exact numbers in front of me but it was off dramatically in 2013 as a result of some government policies down there relative to scrapping.
+So we really haven't seen the Colombian market come back quite yet but there are signs -- more positive signs.
+Mexico it's coming off a very good 2013.
+The initial part of 2014 is off because of this tax change that was made.
+But it will get better.
+The real dip in Mexico was due to the uncertainty and the customers didn't really understand what the tax changes were going to be and how they were going to impact them.
+Now that's becoming more clear.
+In many cases it's not quite as onerous as what of some of the expectations were so we do see the Mexican business coming back here and we'll have another good year in Mexico.
+It will be just more back-end loaded.
+LLLP Research Division</strong> So the 80% decline in that market how much would be attributable to Colombia versus Mexico? I'm not sure I have that breakdown right here.
+We can get back to you through Heather.
+LLLP Research Division</strong> The second thing I just wanted to ask is the parts businesses obviously saw a very nice uptick in profitability and you referenced some of the structural changes.
+I think operating margins are up 730 basis points.
+I'm just wondering if you could help us understand what would have been the structural benefits what might have been Blue Diamond parts doing a lot better.
+Just kind of walk through what that bridge might have looked like.
+The primary drivers of the parts profit improvement is really on the cost side.
+It's not on the revenue side in either Blue Diamond Parts or our traditional North American business.
+We're just far more efficient very aggressive on the structural side some improvements in price some improvements in product mix.
+Those 3 elements are really what drove the improvement in our parts business.
+A lot of benchmarking in our distribution activities and our warehouses.
+I mean I think there are probably benchmarks for implementation of lean practices and productivity measures for distribution.
+Those really came to fruition throughout the year and it's a really really well-run part of our business.
+LLLP Research Division</strong> I know it has been.
+And that's why the improvement is so impressive.
+Should we think about a 20% operating margin as sustainable? They're certainly going to work hard to continue to do what they're doing.
+Well they're not out of ideas and initiatives yet so we're counting on them.
+Thank you.
+That does end the Q&amp;A session for today's conference.
+Ladies and gentlemen thank you for participating in today's call.
+You may all disconnect and everyone have a wonderful day.

@@ -1,0 +1,497 @@
+Good day ladies and gentlemen and welcome to the Second Quarter 2012 VeriFone Systems Inc.
+Earnings Conference Call.
+My name is Melanie and I'll be your coordinator today.
+[Operator Instructions] As a reminder today's meeting will be recorded.
+I would now like to turn the call over to Mr.
+Doug Reed Senior Vice President Treasury and Investor Relations.
+Please proceed.
+Thank you Melanie and welcome everyone to the VeriFone Financial Results Conference Call for the Second Quarter of Fiscal Year 2012.
+Today's call is being webcast with both audio and slides available via the link in the Investor Relations area of our website ir.verifone.com and a recording will be available on our website until May 31 2012.
+With me today in VeriFone San Jose California headquarters is our CEO Doug Bergeron; and our CFO Bob Dykes.
+First for the legalities.
+VeriFone desires to take advantage of the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Certain forward-looking statements in this conference call including management's view of future events and financial performance are subject to various factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements.
+For a description of these factors I refer you to our filings with the Securities and Exchange Commission.
+Any forward-looking statements speak only as of today and VeriFone is under no obligation to update these statements to reflect future events or circumstances.
+In addition today's call will cover certain non-GAAP financial measures on both historical and forecast basis.
+Our management uses these measures to evaluate our operating performance and to compare our results to those of prior periods as well as to those of peer companies.
+These non-GAAP measures are not substitutes for disclosures made in accordance with GAAP.
+Reconciliations of these measures to the most comparable GAAP measures are presented in our earnings release which is available on our website.
+[Operator Instructions] Now I'd like to turn the call over to Doug Bergeron CEO of VeriFone.
+Thanks Doug and good afternoon everyone.
+We are very pleased with the results of our second quarter fiscal year 2012.
+For the 10th consecutive quarter we posted all-time record results.
+Q2 non-GAAP revenues were $479 million a 64% increase over the previous year.
+Excluding the impact of all acquisitions over the past 12 months organic revenue growth accelerated to 15%.
+Hypercom revenues were $81 million up 11% sequentially and 17% over Q4 fiscal year '11.
+Point revenues totaled $58 million also ahead of expectations.
+Non-GAAP services revenue comprised a record 28% of total revenue in Q2.
+Non-GAAP operating income was 21% of revenue for the second quarter in a row.
+We hope for further good news on operating margin expansion throughout the remainder of the year.
+Non-GAAP fully diluted earnings for the second quarter were $0.64 per share 39% higher than the $0.46 per share results a year ago.
+Today I will review our performance by region and follow with comments on some of our strategic activities including an update on the Point acquisition.
+Finally I will turn the call over to Bob who will provide a detailed review of the financials and update guidance.
+Our international operation showed continued strength in Q2 posting year-over-year growth of 103%.
+Organic growth was 25%.
+Latin America had another very impressive quarter with 71% year-over-year revenue growth and 46% growth excluding acquisitions.
+We continue to see strong sales in Brazil and across the rest of the region driven by wider acceptance of electronic payments growing economies and a migration towards contact with terminals.
+Each and every other Latin American sales region materially exceeded plan with a standout performance in Venezuela Peru Mexico and Chile.
+New government mandates kicked off a new wave of growth in some markets.
+In Puerto Rico for example the government has developed an incentive for electronic payment instead of cash by rewarding the customer with a lotto number on their receipt making them eligible for prizes if payment is made using electronic media.
+The sales tax information is uploaded to the taxing authority as the transaction is processed.
+We are hearing that similar programs are now in the works in several emerging market regions where increased tax collection and tax enforcement will be the key to financial stability.
+In Europe the Middle East and Africa revenues grew 119% over Q2 last year and 10% organically.
+As I mentioned earlier revenues from Point were $58 million in Q2.
+The development of the payment-as-a-service all in one model across Point's home markets continues to be very successful.
+All-in-one revenue was up over 25% on a year-over-year basis.
+We are beginning the rollout of Point's payment-as-a-service offering beyond Point's traditional markets.
+In the quarter we kicked off Point business plan expansion in Germany the Netherlands Poland and Australia.
+Through Point's gateway we can deliver real-time EMV application support and guaranteed compliance end-to-end encryption and beginning this quarter an extensive merchant analytics capability enabling customers to do daily tracking of their sales and settlements.
+Point also confirmed their leading position in cross-channel payments in France.
+McDonald's has chosen Point's Paybox offering to process card-not-present payments for its preorders service GoMcDo.
+With GoMcDo customers can preorder and pay for their favorite menu item simply by clicking on their mobile device or laptop.
+This makes it possible to collect their meal at the nearest McDonald's restaurant without having to go and stand at a queue.
+Our African business continues to develop well.
+We have now deployed in excess of 45 000 devices to aid the Central Bank of Nigeria's program to convert Lagos into an electronic payment society and have another 55 000 devices on order for installation throughout the second half of fiscal year 2012.
+We are seeing demand for similar initiatives in other parts of Nigeria and there are ongoing discussions about similar deployments in other countries in Sub-Saharan Africa including Kenya and Ghana.
+Our London black cab initiative continues to ramp up ahead of the Olympics.
+We have now signed over 9 000 cabs and have installed our systems in over 4 000 cabs.
+Earlier this month we announced an agreement with Sky News to broadcast news bulletin to London's black cabs.
+Our VeriFone digital network VNET will deliver Sky's breaking news to passengers as they travel around the capital.
+VNET's Taxi TV now spans more than 10 major media markets.
+In addition to providing passengers with access to entertainment and news VNET provides advertisers with a unique opportunity to engage directly with their audience through targeted promotions and information reaching affluent business professionals and consumers inside the cab when they are at their most receptive and least distracted.
+Moving onto Asia.
+We are extremely happy with our results in the second quarter.
+Revenues were up 120% from a year ago and 32% organically.
+We hope for even better results in Q3.
+As a result of a management upgrade in late 2001 we have really begun to see some remarkable progress there.
+We saw a strong revenue growth in China.
+We're seeing new business generated from ISOs such as China PnR and Alipay and there's opportunity for future growth with more than 100 licensed ISOs now in the market.
+Third-party acquirers are starting to invest in and develop their respective local merchant base.
+NFC-enabled contactless cards and systems capable of accepting them are a big and growing trend in China.
+And we're seeing more demand from various segments of the market.
+Our managed services offering continues to grow and we won new deals this quarter with our gift card solution.
+In Greater Asia we experienced our first sales in Cambodia Mongolia and Japan as we expanded our presence in the region.
+We had a great win at Woolworths in Australia and we see much interest from retailers in our PAYware Mobile Enterprise and Global Bay solutions.
+Sales into the financial institutions remain brisk in Q2 with wins at Westpac and Suncorp.
+In India we continued strong sales into the financial sector including wins at Axis Bank ICICI Merchant Services American Express India TCBIL and Global Payments India.
+Now let me move on in North America.
+Sales were up 7% compared to year ago and 8% sequentially.
+Organically revenues were about flat compared to a year ago.
+But having now fully passed the PCI upgrade cycle anniversary we hope to see double-digit organic growth revenue growth for the remainder of the year in North America.
+Our Multi-lane Retail sales remain strong.
+Market interest and adoption of our MX900 series is off the charts in the tier-1 retail space with wins at Dick's Sporting Goods Bealls Ascena Retail Group Save Mart and Kroger.
+In Q2 we successfully closed 3 payment-as-a-service deals in our North American business as a first step in bringing the Point model to the U.S.
+This long-term monthly recurring revenue offering includes the hardware device management security encryption help desk and a bulk of services.
+Our North American petroleum revenue was up 13% compared to a year ago.
+Shipments of integrated system solutions including our Topaz and Sapphire products were very strong into the reseller channel and into direct accounts.
+We saw great wins at Tesoro Valero and Susser Holdings.
+We continue to expand our advertising and taxi market presence signing multiple new contracts totaling over 2 100 new vehicles during Q2 including expansions in New Orleans Chicago Las Vegas and New York.
+Our secure PumpPAY rollout continues to make good progress.
+Once again we saw a record number of secure pump sales.
+We've been working with several large petroleum convenience store operators to advance our PAYMEDIA screen base and we remain on target to sign 10 000 to 15 000 new pumps in fiscal year '12.
+We are excited by our Q2 acquisition of LIFT Retail.
+LIFT develops and markets the LIFT station at network-connected digital marketing hub that integrates with leading point-of-sale systems in the convenience store and petroleum retailing market.
+Leveraging an advertiser funded model the LIFT Station personalizes the experience for each shopper by presenting relevant offers with compelling digital ads on a touch screen display while simultaneously engaging cashiers with a friendly sales script to help close the deal.
+The solution increases the up-sell conversion rate as much as 40% and total store sales up to 5% for convenience store operations.
+Our LIFT Retail offering integrates with all leading retail point-of-sale systems in the convenience store and petroleum segment including our own Ruby SuperSystem and Topaz XL solutions.
+We've seen strong interest in the distribution channel at our petro customer event in April.
+Now let me take a few moments to give you an update on some of our strategic initiatives.
+Earlier this month we introduced our SAIL payment service for small- and medium-size businesses.
+SAIL is uniquely compatible both with mobile devices such as tablets and smartphones and traditional payment acceptance devices crucial to higher volume merchants.
+Merchants using sale with iOS or Android devices will receive a free mobile app and card reader that securely encrypts card data with each transaction.
+Merchants with higher volumes or multiple locations can opt for traditional VeriFone Systems that support emerging standards such as EMV smart card alternative payments and NFC mobile wallets.
+Unlike other merchant aggregation solutions all enrolled users are assigned an actual merchant ID which means that merchants with SAIL are able to redeem card brand-based offers that are increasingly popular with consumers.
+Other micro-merchant systems available in the market are closed to third-party app developers and with the U.S.
+bank and processing community.
+SAIL however enables banks technology companies and independent sales organizations to add instant enrollment and activation capabilities to their own payment or marketing solutions.
+The platform includes a mobile development kit and a secure gateway with end-to-end encryption real-time merchant fraud screening merchant settlement services and the ability to connect to third-party marketing loyalty and social media tools.
+VeriFone's inclusive approach allows for rapid expansion and adoption through our extensive network of processers ISOs and channel partners as well as a rapidly growing list of nonpayment services providers that are expressing interest in our upcoming developer program.
+SAIL offers 2 simple pricing models to meet the needs of many business types.
+Lower volume businesses can offer a flat 2.7% fee per swiped transaction while those with higher volumes may select a monthly $9.95 subscription with a discounted 1.95% transaction rate that could save hundreds of thousands -- or hundreds and up to thousands of dollars in fees annually over competing services.
+VeriShield Protect our end-to-end encryption software to securing cardholder data at a merchant generated 20% sequential revenue growth as we continue to make great progress in this initiative.
+The customer list now stands at 85 national retailers and over 71 million transactions were secured by VeriShield Protect in Q2.
+This quarter U.S.
+transaction volume through our PAYware Connect gateway achieved an annual rate exceeding $10 billion a first for the mobile payments industry.
+PAYware Connects rapid U.S.
+growth reflects our wide range of offerings to merchants of all sizes.
+Small merchants are selecting PAYware Mobile solutions for use with smartphones and tablets in their business.
+Large merchants are selecting PAYware for in-the-aisle check out and for solutions that are integrated with other retail systems.
+We saw another great quarter of progress with our mobile payment solutions initiative generating a record number of new customer additions including Samsonite New Balance Tory Burch Sonoco Robert Graham Giovanni and North Face among others.
+These customers have all joined the ranks of major retail brands that have selected VeriFone's Global Bay Mobile point-of-sale solution.
+GlobalBay mPOS makes it possible for retailers to deploy mobile apps to speed up service and transform the customer experience leveraging secure mobile payments online catalogs and streamlined inventory management.
+Our efforts with strategic partners such as Isis and Google are ongoing and continue to progress forward.
+Most notably this quarter we have solidified an agreement with PayPal that will help expedite retailer adoption of PayPal services and reduce barriers to adoption.
+Earlier today at a press conference PayPal announced the next wave of merchants to sign up for implementing PayPal acceptance at their physical retail locations.
+We're pleased to report that PayPal is relying on VeriFone to deliver integration services and software licenses to 10 of the 12 tier-1 merchants named today.
+We are excited about bringing the PayPal commerce experience to VeriFone's customer base of 80% of the top 200 retailers with more than 1 million high-volume checkout lanes.
+Longer term we are working with PayPal on the continued evolution of payments into a broader lens of commerce.
+The PayPal pact also validates that multiple commerce technologies can coexist at retailers.
+And the focus should not be on cloud versus NFC but on how to unify the customer experience and allow multiple wallets to coexist regardless of who they are and what technologies they use.
+Our vision to be focused on offering -- our vision continues to be focused on offering retailers everywhere a managed service to easily accept all existing payment types including the evolving alternative and mobile payment methods being offered by Google PayPal Groupon Isis Visa MasterCard and American Express.
+At the same time we can increasingly offer the new payment entrants easy and accelerated access to our worldwide installation of more than 20 million merchant lanes.
+Now I would like to turn the call over to Bob to discuss in more detail the P&amp;L balance sheet cash flows and guidance.
+Thanks Doug.
+As Doug discussed revenue in some detail I will begin my discussion of results with non-GAAP gross margins.
+Gross margins came in at 44.6% an increase of 1.7 points from our first quarter.
+System solutions gross margin improved by 1.8 points primarily driven by favorable product mix as we increased sales of our higher margin VX Evolution product line and our continued efforts around cost reductions and supply-chain efficiencies.
+Services gross margins improved by 1.4 points.
+The sequential improvement in services gross margins primarily reflects the addition of a higher margin Point services revenue for a full quarter.
+Compared to the prior quarter non-GAAP operating expenses increased by $16.5 million to $111.9 million.
+This increase is primarily due to having a full quarter of Point operating expenses and ongoing investments to grow the business.
+Non-GAAP other expenses increased sequentially by $6.6 million primarily due to a full quarter of interest expense from our financing of the Point acquisition.
+Now let's take a look at our balance sheet.
+Our cash balance at the end of Q2 was $361 million.
+I want to point out once again that there was $279 million of restricted cash excluded from this cash balance and included in other current assets on the balance sheet.
+This cash has been set aside to repay our current convertible notes coming due in June 2012.
+Also on the balance sheet inventory balances decreased by $9.3 million and days of supply decreased by 1 day to 57 days.
+Accounts receivable days sales outstanding was up 1 day to 68 days.
+Accounts payable declined $14 million and days payable declined from 56 days to 47 days.
+In the second quarter cash flow from operations before changes in working capital was $80 million primarily driven by our non-GAAP net income and we repaid $32 million of debt.
+Now let's now look forward to the balance of fiscal year 2012.
+On a full year basis for our fiscal '12 we are reaffirming our existing guidance for non-GAAP revenue and earnings per share.
+We saw strong demand in Q2 and expect demand to continue at a robust level tempered by our concern regarding the potential impact of a declining euro and other currencies when translated in our consolidated U.S.
+dollar results.
+The recent strength of the U.S.
+dollar has taken away the increase we would otherwise have reflected in our guidance.
+So our guidance is for non-GAAP revenue to be in the range of $1.9 billion to $1.925 billion and we expect fiscal '12 full year non-GAAP earnings per share in the range of $2.60 to $2.66.
+Our guidance for Q3 is for non-GAAP revenues to be between $495 million and $500 million over 60% growth over last year.
+We expect our non-GAAP earnings per share to be in the range of $0.68 to $0.70.
+I will now turn it over to Doug Bergeron for some concluding remarks.
+Thanks Bob.
+We are really happy with the results and the outlook that we are able to communicate with you today.
+Both the Point and Hypercom integrations are going very smoothly and the major activities are now behind us.
+Our ability to bundle encryption services content and advertising gateway services e-commerce capabilities and cloud-based retail application processing is of great competitive advantage and is providing our customers with an abundance of ways for them to reinvent the retail experience for their customers.
+Hopefully our accelerating organic growth will put to bed any confusion regarding our organic growth.
+Our strategy blends strong organic growth of 10% to 15% with an opportunistic acquisition strategy that leverages our brand and worldwide distribution channel.
+We continue to see an opportunity to enjoy greater than 20% emerging markets organic growth and high-single digit organic growth in our developed markets.
+And as we have demonstrated in the past we will continue to convert this revenue growth into an even faster growth in earnings per share.
+So thank you for listening and we will now open up the call to your questions.
+[Operator Instructions]  Our first question comes from the line of Andrew Jeffrey with SunTrust.
+Inc.
+Research Division</strong> A couple things.
+With regard to organic revenue growth the disclosure is really helpful.
+Is it safe to assume as you look forward that as Hypercom and Point anniversary and move from being part of your pro forma growth calculation into your organic revenue growth calculation that you're going to stay in that 10% to 15% range? In other words those 2 businesses grow consistently with the rest of VeriFone's existing business? Yes.
+I mean there's nothing fundamentally less growing inside the Hypercom customer base.
+What we had in the beginning was some product starvation and a retraining required to do business with VeriFone versus the way the business was done in the past.
+So no we're solidly behind our annual 10% to 15% organic growth rate.
+I mean even our guidance for Q3 if you look at that compared to our Q2 performance indicates sequential growth of whatever 4% or 5% which I think can be interpolated to -- as another data point to support our near-term and long-term organic growth goals.
+And also I'd point out that the product shortfalls in the Hypercom business in Germany are expected to be relieved right about the time that acquisition anniversaries so it gives us more strength just to -- or confidence in the Hypercom business in that period.
+Inc.
+Research Division</strong> Okay.
+And I understand the challenges with regard to FX.
+Can you speak a little bit to demand conditions in Europe? I mean I think I heard you say Bob that the entirety of the seeming conservative of this -- guidance for the back half is FX-related.
+So couple of things how do you separate FX from demand and how would you encourage us to think about it? And then second what is the assumption underlying the dollar-euro relationship that's currently within your guidance? So maybe a little bit of a sensitivity analysis.
+Let me take it first and I'll pass it off to Bob.
+I mean there's nothing fundamentally changing in our demand.
+As we've mentioned before through good fortune our exposure in Europe is largely Northern Europe the Middle East Germany with the Hypercom acquisition now that we have products to sell and in Africa which is doing phenomenally well.
+And we have much less exposure to the problem neighborhoods in Southern Europe.
+So we continue to see good demand.
+We saw a great organic demand in Q2 and the headlines have been as they are now for several months.
+This is all related to just a translation issue.
+Over time we can reprice our products to -- in fact Ingenico has pretty much the same cost base just as us to reflect changes in FX.
+But in the near term we have products in transit and orders to fulfill.
+And as the dollar continues to be at current levels that's different than what we had modeled earlier in the year.
+Having said all that we're reaffirming our guidance we're just saying that the FX translation impact eats away some of the otherwise upward revisions we would be making the guidance.
+Our next question comes from the line of Darrin Peller with Barclays.
+Research Division</strong> Bob maybe you can just start off.
+Is there a way you can actually quantify what the guidance would have been had it not been for currency? Or under a constant currency environment what would your growth or numbers would have been? Well so the revenue for this quarter probably would have been $5 million to $10 million higher and it will translate into -- we would have been raising estimates by several cents.
+Research Division</strong> Okay that's helpful first.
+And then just maybe overall Doug the services obviously continues to grow extremely well.
+I mean you talked a lot about different initiatives you're making.
+But help us understand I mean long term you're saying you should see no reason why 10% to 15% top line growth isn't sustainable.
+Clearly if you have services growing the way they are growing right now margins will keep moving in the right direction too leading to EPS I would imagine north of 20% for a while organically that is.
+Can you just give us some more specific color.
+What are the top 3 services that you see driving that kind of growth right now? And how sustainable is that? Well as payment at the point-of-sale becomes more complex Point has proven and other markets are begging for a services-based point-of-sale solution.
+So I think the transformation from -- in many markets from product sales to much more profitable and predictable services sales will be the leading driver.
+We're kicking it off in 4 countries now.
+We've already signed 3 interesting deals in the U.S.
+and my sense is as EMV comes into the U.S.
+that will accelerate.
+I think the second one would be our advertising business.
+We continue to go into new cities in new countries new cities in America.
+Advertising is a great business inside of taxis.
+And we make a lot of money from it.
+And once we reach the tipping point with secure pump sales hopefully at the end of this year with -- just call it 25 000 to 30 000 installations we believe we'll have a sufficient enough platform to start really making some money on media at the pump.
+So those are the 2 things that come to mind as things that can move the needle for the company.
+The Global Bay business it's very exciting.
+I mean it's still small.
+It's still in the above $10 million to $15 million revenue range but we're seeing demand in every one of our regions.
+We're building out the sales and support infrastructure in Australia in Asia throughout the whole Point channel in Latin America and in many of our submarkets in the U.S.
+So I think the mPOS mobile payments initiatives through Global Bay and PAYware Mobile enterprise also will probably be the third leg of an accelerating services story.
+Research Division</strong> All right that's helpful.
+Just last question for me on the margin side it's been a couple of quarters in a row of expansion now.
+I think you said gross is 45% operating margins are over 21% now.
+Look with the services growing at these rates and obviously having accretive margins longer term I mean is there any reason that you're operating margin can't reach Point-like margins in the next couple of years? Well Point operates as we've indicated before at plus-30% operating margin so I don't think that's a reasonable number for us to be looking at now but I could see over the next 3 years as certainly creeping towards the mid-20 operating margins not EBITDA margins operating margins so higher than the EBITDA margins.
+We're not running away from our unique position as the premier provider of system solutions in the world.
+My expectation is though as those become more complex there'll always be average gross margin less than our services business.
+So in some ways that provides a bit of governor on the growth.
+But as I stated before our long-term operating model going 3 years out is to be 50% services I think we can get with 50% services average gross margin in the high 40s and operating margins in the mid-20s.
+And it's just going to be slowly but surely 50 basis points at a time quarter-over-quarter.
+You just have to continue to chop the wood.
+Research Division</strong> Okay.
+If I could just throw one more quick one.
+The organic growth 15% that's without any real benefit from EMV right? Well we get benefit from EMV in a lot of countries because there's constantly EMV library updates and software updates and new standards but...
+Research Division</strong> That's really a 2013 impact? Yes.
+There's not really any U.S.-driven EMV benefit in that.
+But that's for 2013 2014.
+Our next question comes from the line of Julio Quinteros with Goldman Sachs.
+Research Division</strong> So just to reiterate the targets in terms of the organic growth assumptions had it not been for currency you guys are still comfortable with that 10% to 15%.
+Is there anything in the back half of the year demand-wise that you guys are looking out for in Europe or any other parts of the world that could pose any challenges to your organic growth targets? No.
+We did all of our country by country reviews this week and everything is as planned.
+Just when you add it all up and converted back to U.S.
+dollars you get a number that is $10 million or $20 million for the year less than we had hoped which basically forces into a situation where we had to steal from our hope to increase guidance and cover that.
+The euro went from 1.38 to 1.30 and we basically swallowed all of that just through accelerating sales and organic growth.
+It's now 1.256 and we're just being cautious here.
+I don't -- if the trend continues we're going to continue to make pricing revisions but it's hard to react on a one quarter basis to address the issue.
+It's a currency translation issue in the short term.
+Research Division</strong> Understood.
+Is there anyway Bob maybe you can help us with a weighted average look across Europe and maybe Latin America that we can use to start sort of driving a model with little bit of currency assumptions in it just because this is the first time I think after Point that you guys have called this out explicitly.
+It will be helpful to get some sense on the weighted average for you there from a revenue mix perspective.
+Yes.
+I hesitate to formula-ize it.
+But Doug has given you ideas of what the revenue was worth just over the last month of currency changes.
+And so maybe you can use that as a guidance.
+The thing is in some instances we're totally locked into the local currency revenue and for example the Point contracts.
+In other instances it's a mixed bag.
+We have the opportunity to change prices if the currency stays down because they will fall long enough.
+And that is why I hesitate to say that there really is a formula.
+That's going to evolve.
+And so and every -- as it changes it will give you an idea of what it is.
+But I think what Doug gave you that 10 to 20 for the full year based on the last month of exchange rate changes.
+That's across the board and everything in U.S.
+dollar is probably the best indicator.
+It's not really so much a euro issue as it is a dollar issue.
+I mean in the last month or so you've seen commodity prices collapse in some cases or at least come down.
+And even the currencies of the resource-centric economies that we've priced in local currencies like Australia and Canada Brazil have come in compared to the dollar.
+So in cases like Brazil we negotiate contracts in dollars.
+But we then have FX exposure while the 2 months or 3 months PO is being delivered.
+So we'll fix this stuff over time.
+Research Division</strong> Okay.
+And maybe just on the 3 payments of service deals in North America.
+Can you talk a little bit about the sales process for that? Are you selling those through merchant acquirers processors? Or are you selling those directly to the merchants themselves? Just trying to get a sense for what that sales process looks like and who's it's going through.
+We're targeting basically 2 markets the tier-2 midsized national retailer who's big enough to have a problem but too small to be able to solve the problem themselves and there's literally thousands of those national retailers out there and EMV I think will be the ultimate problem that they won't be able to solve.
+PayPal and other things are kind of opportunistic right now.
+And then the second opportunity is to convert midsized ISOs into payment-as-a-service resellers for us in a shared economic model.
+And many of them are looking for ways to grow their business and convert or rent a terminal rental business into a technology services business.
+And it's a great partnership and we expect to sign more and more of them over time.
+Our next question comes from the line of Tien-Tsin Huang with JPMorgan.
+Research Division</strong> This is actually Reggie filling in for Tien-Tsin Huang.
+I guess my question and I hate to belabor a point but on the FX exposure I know in the past you guys have talked about pricing your devices in U.S.
+dollars and I know obviously with Hypercom the acquisition in Point maybe that mix has changed.
+But have you guys talked about or disclosed what percentage of your volume international volume today is U.S.
+dollar denominated? And then I guess a follow-up to that would be in the $10 million to $20 million revenue that you guys are talking about is that purely translation? Or is it also having to maybe reprice some of these U.S.
+dollar denominated devices lower because the dollar has strengthened? No.
+We've seen no impact on competitiveness or demand.
+It's -- when the results are done how they convert to U.S.
+dollars back in the consolidation.
+The bulk of our overseas revenue is designated in the local currency.
+But as we said there are many instances where we have in the past and will again change our local currency prices as the U.S.
+dollar strengthens for a reasonable period.
+That's why it's very difficult for us to get a particular number and why that's a $10 million to $20 million range because it's quite variable.
+The only things that are truly fixed are things like the 3-year contract that we have with the Point business and some business like that where it's -- probably you can't change every month.
+Research Division</strong> Okay.
+So just -- so then clear then because I guess I was under the impression that you guys are actually price -- or quoted price is in U.S.
+dollars to your customers overseas that's not the case? Well there are some cases if you're selling to somebody in the Middle East for example.
+U.S.
+dollar is the general Russian currency.
+Yes in Russia we use U.S.
+dollars.
+So there are certain countries where U.S.
+dollar is literally the number.
+But in the U.K.
+in France Germany it's a very local business and so all of the pricing is designated in the local currency.
+Research Division</strong> Okay perfect.
+And then I guess kind of following along that path on the expense side are there benefits to the strengthening dollar as well? Yes.
+I mean we can't cover it all.
+But the good news is and especially for services-based businesses most of the expenses are local.
+The vast majority of Point's expenses are euro or euro-like.
+So we'll get a benefit there.
+But at the end of the day we make money.
+So revenue minus expenses equals profits and those profits -- those revenues and those profits when translated back into U.S.
+dollars will be 3% or 4% less than we have modeled or some of the upside that we had hoped to be able to go get there in a year.
+Research Division</strong> Got you.
+And if I cold sneak 2 last questions.
+And I guess on Point you guys talked about maybe expand into Germany and some other markets.
+And I guess my question on that front is who are you competing with or kind of bidding against in those markets? Or are you going in there with a product that's not currently being offered there? And then I guess my second question would be on the PayPal agreement that was announced today.
+I mean is there going to be longer-term some type of recurring revenue opportunity there? I'm not sure if you covered that in your prepared remarks or not.
+But if you could talk a little bit about what that contract or relationship would look like longer term.
+Sure.
+Well the agreement with PayPal is very much similar to what we've formed with Isis and Google.
+And that is either they pay us or they spiff the retailer to pay us a per lane software fee.
+In PayPal's case it doesn't require an NFC upgrade so we don't get the benefits from that.
+And these software applets if you will will have to be purchased over time by retailers as PayPal changes the wallet and they drive more value and come up with more bells and whistles.
+So yes we do believe it will be recurring.
+We intend to make these options on our payment-as-a-services offering but it's very consistent with what you've seen in the past.
+It's still not meaningful in terms of our U.S.
+revenue numbers but it's certainly symbolic of where we're taking the business.
+Research Division</strong> And on Point going into other markets? Yes.
+I mean in some cases where -- like the U.S.
+where there wasn't EMV there wasn't alternative payments we're not replacing anybody.
+We're filling a hole and we're filling a need.
+In other markets in Northern Europe there's a smattering of smaller services guys.
+They're called different things in different markets.
+But the good news is they need products and we sell products.
+And what were saying is the real solution here is an integrated product and service.
+So we're optimistic in some cases that we can create JVs share revenue leverage their channel leverage our expertise and have everybody win.
+Our next question comes from the line of Phil Stiller with Citi.
+Research Division</strong> I guess I wanted to start with the systems gross margins.
+You guys have had a couple quarters here of very good progress.
+Was there anything unusual in the quarter? And what can we expect from -- on that front going forward? No.
+I think in the prepared remarks Bob mentioned that we're making really good progress in shifting demand to our latest generation product which is the VX Evolution series which is functionally much richer than the previous generation.
+And as you would expect for a company like ourselves we're able to produce it at a lower cost so it has a naturally higher gross margin.
+And I think the other theme is our huge franchise in the emerging markets in Brazil urban China et cetera is no longer a drag really on gross margins.
+Those countries are -- they really shouldn't be called emerging because they've emerged and they've arrived.
+They are now starting to consume higher complexity products that drive higher gross margins.
+So the mix shift result of that is beneficial and probably something that we can count on going forward.
+Research Division</strong> Okay great.
+And then I guess I wanted to follow up on the growth Latin America.
+You guys have had 2 extremely good quarters in a row.
+Are you guys seeing any signs of slowdown there? There's a new story that Brazil is potentially slowing down but I was wondering if you could provide an update on the demand pipeline there.
+I don't think we track quarterly with GDP growth.
+I mean Brazil is a perfect example of riding a multiyear wave of a shift from cash to cashless in the country that has a very active central bank that is -- that believes that an electronic payment society is good for banking.
+It's good for consumers.
+It's good for fraud and good for sales tax collection.
+And that's -- those dynamics -- but for an economic catastrophe like we saw in late 2008 early 2009 don't really change and they're not very sensitive to GDP growth.
+In fact I made a comment for the first time in this call in my prepared remarks that we're seeing a tremendous amount of new public policy sponsored initiatives around electronic journaling of payment transactions.
+And I would not be surprised to see legislation coming out of the Eurozone imposing things like this on some of the economies that have a abysmal record of collecting taxes from their citizenry but providing lots of benefits for the citizens who are paying taxes.
+Electronic collection of receipts in economies that are 70% 80% consumer spending is a very very successful way to raise tax revenue.
+Research Division</strong> I'm sure that will be helpful.
+Just last question for me.
+On the few deals that you signed well a Point-like model in the U.S.
+I know it's only a few deals and based on those and what you have in the pipeline would you expect economics of those deals both from a revenue and margin perspective to be similar to how Point has operated in Europe? It's too early to tell.
+We don't have enough data but that's what we're shooting for.
+Right now the water hasn't got hot enough in terms of EMV compliance requirements dual-sided liability agreements between acquirers and merchants.
+PayPal Google Isis really haven't hit their tipping points yet.
+But we're counting on some or all of that raising the temperature of the set of requirements.
+And I think we'll be very successful.
+In terms of the final price discovery and -- well it's just too early to really opine on that Phil.
+Our next question comes from the line of John Williams with UBS.
+Research Division</strong> I had a quick question on the pro forma revenue growth if you could just scale that up as if you would own them throughout the last year.
+I was wondering if you can give us that number.
+You mean what's the revenue will be if we put the historic numbers into the prior year? Research Division</strong> Yes.
+Yes I can do that.
+First of all caveat that this is already meshing together both organic revenue and negative impact of the product shortages at Hypercom for example and some other dynamics like that.
+So I wouldn't call this organic growth but it's around 9%.
+Research Division</strong> Okay.
+The other question I have I know you mentioned the 15% what looks like the 15% organic number in the quarter for a non-GAAP net revenue growth.
+I'm just wondering if you can give a GAAP equivalent for that number.
+Well the thing is that what GAAP requires GAAP actually requires you to do a non-GAAP calculation when you're doing the GAAP.
+Like for that 9% that I quoted you for example you have to take the Point revenue where there are contracts already signed and payment already received that you'd normally count them as revenue if you aren't selling the business.
+GAAP requires you to take that revenue out.
+However when GAAP is asking you to do a year-over-year comparison for that 9% calculation for example GAAP actually requires you to put that revenue back into the historical period.
+So you wouldn't take it -- you wouldn't put it back into the historical period take it out of the current period.
+So the 15% actually is the right way.
+It's an apples-to-apples comparison as is the 9%.
+One is taking the acquisitions out of the current quarter and the other is taking -- is putting the acquisitions into the historic quarter.
+But they're both apples-to-apples and GAAP actually requires you to do apples-to-apples.
+Research Division</strong> Okay.
+Just to turn to Europe.
+I know you gave a little color on that earlier but if you could do an apples-to-apples comps for Europe I guess what I'm interested in is a what you saw in the quarter? And b what you're potential set up for in the next few months? It seems like generally Europe is slowing.
+I know you made the distinction between Eastern and Western Europe.
+But any color you can give on that would be helpful.
+Well euro -- Europe continues to do pretty well.
+As we said on a year-to-year basis the product shortage in Germany is the biggest negative.
+But light revenue was a -- did very well and we expect that to continue to grow in terms of euros.
+I think we had 10% organic revenue growth.
+And if you did it on a constant currency basis which we haven't done it would be better than that.
+Research Division</strong> But -- so the 10% I guess x the acquisition that's your organic number.
+Yes yes.
+It's excluding all acquisitions the ones that impacted Europe would have been Point and Hypercom.
+But excluding all acquisitions we had 10% organic growth in EMEA which includes Middle East and Africa and that's not doing a constant currency calculation.
+That's eating a 10% after eating an erosion of the euro and euro-like currencies.
+Research Division</strong> It sounds like just given that the growth rates presumably in a less developed markets should be somewhat higher.
+It sounds like you probably are seeing a little bit of a slowdown in the core Europe business generally.
+Is that fair? Or is that not fair to say? Listen what we've said and what I said in my prepared remarks is we get confidence when we have our brainstorming sessions around long-term 10% to 15% growth because of 20-plus percent emerging markets growth and high single-digits growth in the developed world.
+It turns out that EMEA has some emerging markets in Africa and Middle East and in Russia but a lot of developed markets.
+So I don't know what the coefficient of contribution is for each of those -- into the EMEA number.
+But certainly it will be consistent with what we've said.
+Some emerging markets growth like Africa certainly above 20% and the rest of the Europe in the high-single digits organically and better than that if you look at it in a constant currency basis.
+Our next question comes from the line of Gil Luria with Wedbush.
+Research Division</strong> You had a very interesting announcement today with PayPal.
+PayPal seems to be making a lot of progress in terms of compelling retailers to use their product.
+And especially in the U.S.
+because of your overwhelming share it seems like you're going to be a very important partner for them.
+They announced 15 retailers today.
+That's still a fairly small subsegment of your customer base.
+At what point do you think that you'll help them achieve a higher level of penetration? When do you think they hit the inflection point in terms of engaging a bigger part of your customer base? Well that's a tough question.
+I'm only aware of 12 and I know we're serving 10 of those 12.
+I think in many cases the use case has to be proven out with more empirical data.
+I think PayPal is in a good position in that.
+The proof can be demonstrated economically what percentage of transactions actually go to PayPal what percentage of those become ACH transactions and what's the total impact on your blended interchange rates or cost of processing credit cards.
+And if it's meaningful then I believe that retailers will jump on board and we'll see more.
+If it's not meaningful and if users don't report a decent experience then they won't report more.
+So in one respect it's kind of a barbell.
+These things are either going to fall flat on their faces or they're going to catch wildfire and we'll see things like this everywhere.
+Obviously it's in our best interest to be very helpful to them bend over backwards because we pray for the wildfire scenario.
+That would be a great outcome for VeriFone.
+Research Division</strong> Right right.
+And then Bob in terms of free cash flow in the quarter is around $13 million.
+Adjusted net income about $71 million.
+That gap seems to be widening.
+At what point do you expect to report free cash flow that's closer to what -- to the adjusted net income that you're reporting? Well it will get closer over time the integration expenses are getting beyond us so that is one of the major numbers in some of that.
+Yes over the next few quarters we'll get it back to -- on track so it will be relatively close.
+Our next question comes from the line of Wayne Johnson with Raymond James.
+Inc.
+Research Division</strong> I was wondering if you could give us an update on VeriShield.
+You mentioned you have 85 customers today.
+That sounds terrific like you're adding roughly 10 new large retailers a quarter.
+And if that trend continues you should be over 100 by the end of the fiscal year which is something that you earmarked earlier in this fiscal year so that sounds terrific.
+What I'm trying to figure out is what is the number of enabled retailers with VeriShield today? And where do you expect that number to be by the end of the year? All but the ones that were signed let's say up to 3 months ago are live.
+So if that's what you mean by enabled.
+But nobody buys this stuff and keeps it in a closet.
+So it's all getting live.
+There's just a lag sometimes in terms of key injection and getting things loaded.
+Some other statistics that you can chew on I think we're processing around 1 billion transactions now on an annual basis.
+There are 60 billion transactions in America so we're still at 1.5% of the total opportunity.
+Maybe we're at 2% of the VeriFone addressable opportunity so lots of runway ahead of us there.
+Of the 11 processors in America 8 have VeriShield now installed.
+So retailers are almost processing almost anywhere to now comfortably installed the VeriShield solution and be sure that a processor of choice will be able to decrypt those transactions and the retailer can wash his hand of never having to touch an unencrypted card data and that's a real standard that we've created in the industry.
+Inc.
+Research Division</strong> That's helpful directionally.
+And I'm going to auger in a little bit here so please bear with me.
+I'm just trying to get a better idea.
+I thought at the end of the last quarter 38 36 retailers were enabled.
+So I'm trying to -- what was the -- what is it today? So 36 was enabled 3 months ago.
+Should I expect that there's 50 today? Yes I mean 50 55.
+I don't have the number off the top of my head.
+I mean we're all -- the sales are accelerating so but all but the guys that would have bought them let's say in 2012 should be enabled so we're in that neighborhood.
+Inc.
+Research Division</strong> Okay great.
+And then you mentioned -- you called out Japan in the Asia-Pac.
+Can you tell us a little bit about that particular market? Historically how much sales have been into that country? And what's causing the demand and the call out on this particular call that's creating the origin of demand from that particular country? It's been -- that's the only market in the world that's been closed to VeriFone and frankly Ingenico for all practical purposes.
+I mean we have meaningless sales there and I think our competitor has meaningless sales there.
+I don't have the specifics of the deal.
+It's not huge but we're starting to invest.
+My guess is JCB and some of the Japanese processors are just getting tired of doing all this themselves and they want to join the rest of the world in making use of technology that works everywhere and probably is dramatically cheaper than their homegrown solutions.
+So I'm not making any promises on Japan.
+It's been a bit of an enigma for us over 32 years and for Ingenico but it's -- we're knocking on the door.
+We're getting a few sales here and there.
+Hopefully we'll meet some success in the future.
+Our next question comes from the line of Keith Housum with Northcoast Research.
+If I remember correctly the MX solutions will be rolled out a new one here in June.
+If that's correct is there generally a buildup or a deferral of current purchases of the I guess those who would be buying that product and wait for the rollout.
+And do you expect an uptick with the new terminals coming out? Well the MX900 series as I've said is one of the most well-received new products we've seen in several years.
+There is a high demand for it in the backlog that we've built.
+We can only deploy these things as fast as we can.
+So it's part of the reason we've affirmed double-digit organic growth for the remainder of the year but it's not the only reason.
+Encryption media additional taxis are probably just as compelling.
+Okay I appreciate that.
+And a little more color on the -- and also again I know it's really small.
+You only had 3 deals for the payment-as-a-service.
+But just trying to understand a little bit better about how that's structured.
+So generally will the customers be paying either $10 $15 $20 a month depending on the type of service they're getting? Or is it a flat fee for all services included? How are you envisioning that product being rolled out I guess as it grows? Again it's -- I don't want to give the specifics of these 3 deals because they're early deals and we're tweaking them as we go and as we learn and as we test the pricing and test what's important and what's not important.
+The way it works in Europe is there's effectively a gold a platinum and a super platinum offering and each one has more services including 24/7 help desk or network management merchant analytics.
+All of them provide the minimum EMV compliant.
+That's the one you absolutely need to have.
+And then depending on what you're willing to pay or how much other services you need including in the future alternative payments wallet you check the box on the solution that best fits your needs.
+And ladies and gentlemen we have no further questions at this time.
+I'd like to turn the call back over to Mr.
+Bergeron for any closing remarks.
+Thank you everyone for listening today.
+Hopefully we've answered your questions and we'll talk to you again next quarter.
+Bye-bye.
+Ladies and gentlemen thank you for your participation in today's conference.
+That does conclude the presentation.
+You may disconnect.
+Have a wonderful day.

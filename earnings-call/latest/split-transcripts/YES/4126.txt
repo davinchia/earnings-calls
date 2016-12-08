@@ -1,0 +1,429 @@
+Good day everyone and welcome to the Vonage Holding Corporation First Quarter 2015 Earnings Conference Call.
+Just a reminder today’s call is being recorded.
+At this time for opening remarks and introductions I would like to turn the conference over to your Hunter Blankenbaker Vice President of Investor Relations.
+Please go ahead Mr.
+Blankenbaker.
+Great thank you Marcus and good morning and welcome to our first quarter 2015 earnings conference call.
+Speaking on the call this morning will be Alan Masarek Chief Executive Officer and Dave Pearson CFO.
+Also joining us are Joe Redling Chief Operating Officer and Clark Peterson President of Telesphere.
+Alan will discuss the company’s strategy and first quarter results and Dave will provide more detailed view of our first quarter financial results.
+Slides of the company’s today’s discussion are available on the IR website.
+As referenced on slide two I would like to remind everyone that statements made during this call maybe forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These and all forward-looking statements are made upon management’s expectations and depend on assumptions that maybe incorrect or imprecise.
+Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially.
+More information about those risks and uncertainties is highlighted on the second page of the slides and contained on our SEC filings.
+The caution list that is not to rely unduly on these statements and disclaim any intent or obligation to update it.
+During this call we will be referring to non-GAAP financial measures a reconciliation to GAAP is available on the IR website.
+With that I will now turn the call over to Alan.
+Thanks Hunter and good morning everyone thanks for joining us.
+I’m excited to discuss our Q1 results.
+On our last earning’s call I reported on my first full quarter as CEO and I outlined a new direction for the company that included maximizing the profitability of consumer services while aggressively growing organic revenues and pursuing inorganic growth at Vonage business.
+In addition I wanted to establish Vonage as a leading business brand.
+Reinvigorate the company’s culture by returning it to its innovative and disruptive routes and investing our people so that Vonage becomes a destination place to work.
+I’m proud to report that we are well on our way towards achieving these goals.
+A few highlights of our Q1 results.
+We generated consolidated revenue of $220 million reflecting a $5 million sequential increase.
+We generated consolidated EBITDA of $38 million a 28% year-over-year increase and up $3 million sequential.
+And within Vonage business we achieved year-over-year organic revenue growth of 49%.
+We also closed on the SimpleSignal acquisition on April 1 and today we announced an agreement to acquire gUnify a company whose technology platform will integrate our Telesphere communications platform with SaaS based business applications like Google for Work Zendesk Salesforces sales cloud Clio among others.
+I’ll discuss these acquisitions in more detail in a moment but for now let’s move on to a deeper look at the quarter and I’ll start with Vonage business which is how we now collectively brand all of our business acquisitions including VBS Telesphere SimpleSignal and now gUnify.
+Vonage business had an outstanding quarter and is well positioned for future growth.
+Revenue grew to $42 million up 49% year-over-year organic increase and a 120% increase on a GAAP basis.
+We had a 26 000 seats and set a new record for bookings in a single quarter.
+Our success is driven by strong demand for cloud based communications and Vonage’s ability to serve all segments of the SMB market.
+We have the right platforms and product set to serve customers one to a thousand seats and more and we strongly believe in the opportunity that exists across the full spectrum of the SMB market.
+While we are growing quickly in the mid market and with larger companies within the SMB market we continue to see excellent growth potential with smaller businesses.
+It’s important to highlight that 90% of all employer companies in the U.S.
+have fewer than 20 employees and this segment is rapidly embracing the cloud.
+Our low cost digital and telesales customer acquisition model generates very attractive subscriber economics and we are investing aggressively to further penetrate this segment.
+The sizable portion of Vonage business revenue is also derived from SMB customers at the mid to upper ends of the market.
+These customers generally require quality of service or QOS service level agreements and enterprise grade feature set matching those traditionally provided by on premise PBX vendors.
+As of the first quarter more than 25% of Vonage business revenues came from accounts with greater than 50 seats.
+The acquisition of SimpleSignal strengthens our ability to serve this segment.
+SimpleSignal uses the same underlying platform as Telesphere and it provides career grade reliability across both NPLS and bring your own broadband or BYOB delivery options.
+SimpleSignal has been particularly successful at providing business quality voice and rich communication features through new edge router technologies which extend QOS for those bring your own broadband customers and thereby further expands our product portfolio and addressable market.
+Since completing the acquisition of SimpleSignal we’ve made steady progress on integration and we’re on track to achieve cost and revenue synergies of nearly $2 million next year.
+Additionally as part of the integration of SimpleSignal and Telesphere we have reorganized our Vonage business distribution around four key channels to more effectively serve the SMB market.
+Those four channels are one telesales consistent of inbound and outbound direct sales which sells primarily to smaller businesses.
+Two online self service a new capability coming out later this quarter that will enable small businesses to sign up for our service directly.
+Three enterprise direct consisting of sales people in the field selling primarily to the mid market and to the larger companies within the SMB sector.
+And four channel sales which distributes our products primarily through master agents and thousands of sub-agents.
+These later two channels enterprise direct and channel sales will sell the full portfolio of Vonage business offerings from bring your own broadband cloud products to those BYOB with edge router products to set trucking to a fully managed highly secure QOS offering delivered over our national NPLS network with ATM pops across the country.
+Our channel sales partners serve a wide range of businesses from small and home office companies to much larger enterprises with hundreds of distributed offices.
+Given our channel partners comfort that we deliver the full range of solutions necessary to meet the diverse needs of their customers we believe we’re uniquely positioned to have our channel partners think Vonage first regardless of size or complexity of the customer opportunity.
+In fact we recently attended the channel partner conference in Las Vegas to present this new vision with the unified team and message.
+The response from our channel partners were tremendous the best that I’ve seen in my two decades over attending [indiscernible].
+The channel is excited to have a partner like Vonage one that not only provide solutions for the full range of their SMB customers but is also financially strong and investing aggressively for growth.
+Building on this strength this morning we announced an agreement to acquire gUnify a cloud based Technology Company who’s Middleware Solution integrates our cloud communications platform with today’s most widely used SaaS based business application.
+Again including Google for Work Zendesk Salesforce Clio and other CRM solutions.
+From a strategic perspective the acquisition at gUnify is significant I want to highlight three key reasons.
+First gUnify differentiates our offering from other UCaaS providers.
+It’s best to think of gUnify as the connective tissue that integrates cloud communications with the core SaaS based business apps that companies used every day as part of their daily workflow.
+Like Salesforce for CRM or Google for Work and productivity.
+By integrating into a company’s existing workflow our Telephony and Communication solutions become embedded and far less likely to churn that’s a great differentiator.
+Second gUnify creates distribution partnership opportunities with those business applications we integrate with.
+Typically stated we add value to their solutions and they add value to ours it’s a win-win and I believe we can build distribution partnerships around that.
+Finally gUnify is the only cloud based SaaS connector fully integrated with BroadSoft which is the underlying communications layer used by both Telesphere and SimpleSignal .This is really compelling when you consider that BroadSoft has more than 10 million business lines installed world-wide and with gUnify Vonage now has a solution to earn to SaaS integration within that entire ecosystem.
+From a market readiness perspective it’s important to understand that this type of integration is increasingly being demanded by SMBs because until very recently the best integration tools have been provided really only by on premise PBX solutions.
+Now with gUnify we can extend that same robust integration to the cloud PBX and more comprehensively serve our business customers.
+So to summarize Vonage business is positioned to continue to drive industry leading growth in the SMB market.
+According to data from investment Venture Partners our forecasted revenue growth of 40% in 2015 ranks us 9<sup>th</sup> among all public SaaS companies and Vonage is the only UCaaS company within the top ten.
+We have the platforms and teams in place to serve all segments of the market and we are investing aggressively for organic growth including a substantial increase in brand based spending to reinforce that Vonage means business.
+We’ll also continue to execute on our acquisition growth strategy which is to target assets that expand our geographic presence product set and/or customer base and add attractive prices.
+We’ve demonstrated that we’re disciplined to acquire and we’re actively evaluating a risk pipeline about the companies.
+Now moving on to consumer services.
+We continue to see the benefits of our focus on customer life time value and marketing efficiency.
+Consumer revenues for the quarter were a $178 million and consumer services accounted for all of Vonage’s EBITDA reflecting its strong cash flow generation ability.
+Our marketing efficiency is improving the quality of customers we acquire it’s driving lower churn and generating increase profitability.
+On our last earnings call I said we continue to reduce sales and marketing expense within consumer services while reallocating some of those dollars to Vonage business where we have superior subscriber economics.
+This quarter consumer sales and market decline by $10 million sequentially yet consumer line additions were down only slightly and only within basic talk.
+These results are very encouraging.
+Reductions and spends drove material reductions and acquisition cost as we continue to shift our focus to more efficient direct response vehicles and channels.
+Consumer services account churn for the quarter was 2.4% 20 basis point improvement over the year ago quarter.
+This better performance reflects the stability of our tenured base and the improvement in the early life churn of newly acquired customers.
+Churn improvements coupled with lower acquisition costs result in higher customer life time value.
+We intent to intensify our focus on these metrics to maximize profitability and cash flow within consumer services.
+While we made great strides in remixing our marketing spend over the past several months there is more work to be done and I’m therefore pleased to welcome Ted Gilvar as our Chief Marketing Officer.
+Ted is a veteran digital marketing innovator joining us from Monster world-wide where he was EVC and Chief Marketing Officer where we’re seeing all aspects of Monster’s global marketing function.
+Ted will lead our efforts to ensure we are maximizing efficiency and effectiveness of our marketing program.
+He is also leading the effort to extend the iconic Vonage brand into business markets.
+Ultimately we want everyone to view Vonage as one company with one brand that services multiple customer segments across business and consumers.
+In summary we’ve had great start to the year.
+We were executing on our plan to improve the profitability of consumer services while driving strong growth in Vonage business.
+It’s also been a very eventful first six month as CEO.
+We’ve taken despites of action to position the company for the future.
+We exited the Brazil joint venture.
+We’ve acquired Telesphere SimpleSignal and now gUnify.
+We reorganized the Vonage business sales channels and aligned our products with the market opportunity all will generating the fastest revenue growth in the UCaaS sector.
+We’ve increased consolidated EBITDA with the highest level in 13 quarters by improving the core profitability with consumer services.
+We’re actively repositioning the Vonage brand emphasizing our business strength to the world knows Vonage means business.
+And finally we are reinvigorating Vonage’s culture for innovation and disruption while investing our people through a variety of initiatives we referred to as employing first.
+Simply said we are realizing the benefits of being one integrated company organized to drive our objective to be the clear leader in cloud communications.
+Thanks for your time this morning and now I’d like to turn the call over to Dave to discuss our financials in more detail.
+Thanks Alan and good morning everyone.
+I’m pleased to review our financial results for the first quarter of 2015.
+More diving into the results I’d like to review with here some changes we’re making in our reporting.
+As I noted we would on last quarter’s call we have now updated our income statement and summary operating data which I will also refer to as TPIs give investors more detail on Vonage on a consolidated basis as well as each of our consumer and business operations.
+We believe these changes will enable investors to better compare Vonage to our peers in the SaaS space and take into account the growing proportion of Vonage business revenue which is expected to account for nearly one quarter of 2015 consolidated revenue.
+Specific reclassifications we made to the income statement include combining sales and marketing into one line item to reflect the increasing materiality of selling expenses given however our product to sell business.
+This category includes traditional sales and marketing expenses [indiscernible] media and sales commission as well as sales and marketing personal salaries benefits and IT Tiers 1 and 2 customer care and credit card processing fees.
+We also created a new income statement line item called engineering and development.
+This item reflects the cost of developing new products and technologies and supporting our service platforms.
+Because our networks include to mature Vonage consumer VoIP platform and the Telesphere platform where we are purchasing license to BroadSoft through CapEx.
+Thus effectively paying for R&amp;D performed by BroadSoft our engineering and development as a percentage of revenue is less than some of our peers.
+With the removal of sales and engineering and development class from G&amp;A G&amp;A now consists of cost related to overhead function that just corporate personal stock compensation and facilities stock.
+A conjunction with reclassifications made and intent to pay at the end of 4Q where we removed certain network operations and technical customer care centers into cost of service.
+We believe that these income statement changes represent a logical evolution attracts our business.
+None of the changes I just noted any effect on the definition or absolute amounts of revenues operating income net income or adjusted EBITDA.
+In addition to the income statement changes we have changed certain TPIs and are providing them for each of our consumer and Vonage business operations.
+There are three key changes.
+One providing revenue churn ARPU and user metrics for each of consumer and business rather than on a consolidated basis.
+Two in the case of Vonage business reporting the number of customer seat.
+We believe this metric better enables investors to track our progress given that we are adding accounts across the spectrum of SMBs from one to greater than 1 000 employees.
+Three starting next quarter we will begin reporting revenue churn revised business metric that we believe will be a better fit between SimpleSignal in our results and have a greater percentage of our revenue coming from larger account.
+This metric will capture the churn effect of account [indiscernible].
+We have shown all of these income statements in KPI changes for prior period so they can be compared overtime.
+My comments that follow assume that the reporting changes I just discussed are made for all period.
+Lastly before I get to the numbers I note that when we talk about Vonage business that represents our activities at VBS and Telesphere combined.
+We announced the acquisition with SimpleSignal in March and closed it on April 1.
+First quarter results therefore did not include any contribution from SimpleSignal.
+With that let’s move to slide four.
+For the first quarter adjusted EBITDA was $38 million reflecting a strong cash flow generation capacity of our consumer business.
+Adjusted EBITDA was up from $35 million in Q4 and up from $29 million or 28% from the year ago quarter all reflecting lower termination consumer sales and marketing and G&amp;A costs.
+Moving to slide five.
+Consolidated revenue for the first quarter was $221 million up $5 million sequentially and down $1 million year-over-year.
+Vonage business revenue improve to $42 million reflecting a strong quarter of organic growth and the addition of first full quarter of Telesphere revenue.
+Year-over-year Vonage business organic revenue growth as if we had owned Telesphere for all periods is 49% GAAP revenue growth was 120%.
+Vonage business growth was partially offset by a sequential decline in consumer revenues.
+First quarter average revenue for user and consumer $29.97 down slightly from $28.06 sequentially and down from $28.54 year-over-year due primarily to continue changes in employment.
+Vonage business ARPU is up significantly primarily due to the addition of a full quarter of Telesphere results.
+GAAP net income is $7 million or $0.04 per share up from $6 million or $0.03 per share sequentially and up from $5 million or $0.02 per share in the year ago quarter.
+Both improvements were driven by higher EBITDA.
+Adjusted net income is $20 million or $0.10 per share up sequentially from $19 million and $0.09 per share and up from $13 million or $0.06 per share in the year ago quarter.
+The sequential and year-over-year increases were also driven by higher EBITDA.
+Adjusted net income metric exclude the acquisition related items including intangibles amortization and adjust for the fact that Vonage is not a material cash tax payers due to over $640 million NOL.
+Cost of service was $62 million up from $59 million year ago and $57 million sequentially.
+All of these increases were due to the addition of Telesphere cost that were partially offset by continued termination cost improvement.
+Turning to slide six.
+Sales and marketing expense for the first quarter was $86 million down from $87 million sequentially and is down from $95 million year-over-year.
+The significant decline reflects continued efficiencies in our consumer sales and marketing expense as Alan noted is down $10 million sequentially.
+Our focus on the quality and profitability of subscribers and are focused on generating cash flow to invest in driving growth in Vonage business.
+It also includes a significant ramp in Vonage business sales and marketing costs as we build out sales and marketing teams to capture the strong demand for UCaaS.
+We expect to continue to reduce consumer and ramp Vonage business sales and marketing during 2015.
+Consumer acquisition costs were down in the quarter due to the lower sales and marketing expense but by gaining consumer customer acquisition efficiencies.
+General and administrative expense for the first quarter was $23 million that was down $2 million in the fourth quarter due to lower acquisition costs and lower severance down $4 million from the year ago quarter reflecting lower settlement and legal costs and lower compensation costs.
+Declines in G&amp;A are despite the addition of a full quarter of Telesphere G&amp;A.
+Moving to slide seven customer churn and consumer was 2.4% flat to Q4 and an improvement from 2.6% a year ago quarter.
+This year-over-year consumer churn improvement is a result of our focus on adding high value customers that have a lower churn profile as well as stability of our tenured base.
+This demonstrates that the actions we started taking in the second quarter of 2014 in the assisted sales channel to support only those locations that generate highest LTV that has a desired effect.
+We ended the quarter with $2.1 million subscriber lines in consumer down $177 000 from the prior year’s quarter on adjusting for the removable of $79 000 second line expansion from the account and down $50 000 sequentially smaller declines than in the prior quarter.
+With net buy and trajectory [indiscernible] reflecting our continued focus on adding lines to meet our customer life time value objectives and our decision to redeploy capital into Vonage business.
+Customer churn at Vonage business was 2.2% up from 2.1% in 4Q and from 1.6% in the year ago quarter.
+These increases in churn are occurring primarily with smaller account.
+We are bringing the expertise and analytics we have developed over the course of years on the consumer side to assess specific drivers of this and to align the IT and care organization that drive down churn.
+Vonage business grew total seats to 338 000 reflecting a very strong quarter of organic growth.
+Moving to slide eight.
+CapEx for the quarter including the acquisition and development in software assets is $4 million primarily for the network infrastructure and systems improvement.
+This was down by $7 million sequentially reflecting slightly in seasonal nature was less the year ago quarter.
+Free cash flow which we define as net cash provided by operating activity minus capital expenditures and acquisition and development software assets $6 million flat the year ago quarter and is down from $24 million in Q4 of 2014 due to changes in working capital of annual 2014 cash bonus payments.
+Adjusted EBITDA minus CapEx was $33 million up $6 sequentially and up $8 million or 30% year-over-year all reflecting a strong cash flow generation capacity [indiscernible].
+During the first quarter we repurchased $2 million for $8 million under our new four year $100 million program.
+As beginning our buyback programs in August of 2012 we’ve repurchased $47 million shares of Vonage stock from $141 million and an accretive average price of $3.02.
+We believe this program provides the right capital allocation balance and flexibility between organic investment acquisition and buyback.
+Cash cash equivalent and marketable securities as of March 31 was $53 million including $2 million in restricted cash and $8 million in marketable securities.
+Net debt was $121 million and we ended the quarter net debt with adjusted EBITDA less than one time.
+As of March 31 we had $87 million drawn on our revolving credit facility and have approximately $40 million of additional borrowing capacity remaining on the stability.
+Drawn amount included $20 million for the SimpleSignal acquisition but we still have that cash on the balance sheet as that transaction did not close until the day after the quarter ended.
+We expect to close gUnify acquisition in May for cash.
+This transaction will not have a material impact on our cash position or liquidity.
+More broadly we believe we have access to significant additional low cost debt in today’s market leading to the accordion feature of our current revolver.
+Overall we’ve ramp the liquidity and flexibility to execute on our organic and acquisition growth strategies.
+We believe that our balance sheet and low cost of capital continue to represent strategic [indiscernible].
+Regarding 2015 guidance we are updating our revenue guidance to a range of $862 million to $877 million.
+It takes into account the acquisition of SimpleSignal which we’ve purchased for approximately 1.5 time 2015 revenue and will own for three quarters of 2015.
+This updated revenue guidance is prior with any further acquisitions in 2015.
+There is no change to our view that we can grow Vonage business year-over-year revenue 40% organically from 2015.
+As if we own Telesphere SimpleSignal and gUnify that follows 2014 and 2015.
+EBITDA and CapEx guidance remain as discussed in our February call.
+As Alan mentioned we continued to actively assess acquisition and have a robust M&amp;A pipeline.
+Acquisitions are an important part of our strategy and we have proven we connected to a timeline of discipline accretive basis.
+We already have the platforms we need to serve the broad rapidly growing SMB market that ranges from small businesses to larger enterprises with hundreds of location.
+Therefore further acquisitions will likely fit with these asset and we would expect them to deliver significant synergies.
+As with prior deals acquisition targets would expand our geographic presence product set and/or customer base at attractive prices.
+Thank you for your continued support to Vonage.
+I will now turn the call back over to Hunter to initiate the Q&amp;A session.
+Okay great.
+Thank you Dave.
+Marcus could we initiate the first question please? [Operator Instructions] Our first question comes from the line of George Sutton of Craig-Hallum.
+Please proceed with your question.
+Thank you nice results guys.
+Thanks Greg.
+So as I looked through the reorganization and distribution that you talked about in the four different channels could you give sense of what the distribution capacity looks like now versus with prior to this change? And I’m wondering if you could also give us some more about a productivity metric or something that [indiscernible] side of it as well.
+I’ll start and then I can turn over for more.
+So the traditional distribution in Vocalocity which we later branded VBS was the telesales model.
+And that is been a very successful kind of a linear growth model where we add sales resources on the phone and spend more on basically a search – from a search perspective add online lead generation at the top of the file that we then convert via telesales.
+The Telesphere and SimpleSignal side they’ve all – they’ve both traditionally sold through the indirect channel so the master agents and subagents that are supported by our indirect channel managers and then also feet on the street direct sales model.
+We now have collectively 30 indirect channel managers servicing that master agent and subagent channel and we service all the majors.
+We have tremendous covers in the master agent channel and the subagents as well.
+And then on the direct side on the enterprise direct side we are hiring rapidly to fill in regional markets and we have teams already in place in four markets likely will be in seven markets by the year end in terms we have hubs we have sales people where based dispersed more geographically but sort of – if you will sort of thought today in four cities by the end by seven and will grow from that basis even more.
+As for metrics I’ll turn over to Carl to just – but this is all some of this is still in formation.
+Yeah let me just add to what Alan said I think the – really the powerful thing about this is as we address the 1 to 1 000 group in all customers and really have that unique ability to address such a broad market having a distribution channel segment of the way they are really allow us to uniquely address to follow different market segments the way that they should be addressed and really with the distribution channels that best applied.
+I think also on the marketing side having distribution channels now all under the Vonage business umbrella and all working more in a conservative way to address these market segment really allow us do a lot more on the marketing side to drive the [indiscernible] and the TDC and all of the different marketing mechanisms in a way that will allow us to address the whole market segment but all under the same umbrella through distribution channels that are really working in communism.
+Thanks.
+Greg.
+And I have a follow-up to that marketing.
+Ted Gilvar gave a interview recently I believe in advertising he was talking about some of the more aggressive things we’re planning to do from a marketing perspective.
+My understanding is that there is still shifting dollar from consumer through the business side and the things he is doing talking about sound exciting aren’t necessarily going to be more expensive that are [indiscernible].
+Yeah George this is Joe Redling that’s exactly right.
+We are shifting the investment from consumer to fund sort of the Vonage business branding campaign that will support all of the channels we just addressed.
+Okay.
+Lastly like on gUnify I really like the differentiator methods and the partnership potential.
+Could you give us a sense of what stage gUnify was in is it going to be GA right away and it will be exclusive to use? It is GA right now it’s end market.
+The company has really very low levels of revenue so this is largely the technology platform that we’re buying and a very talented development team.
+Today they have licenses to several other BroadSoft service providers and we’re going to continue to support them but we’re maintaining picking our options out.
+And what we like to do ultimately is we want to own the industry standard for how you connect the Telesphere platform broadly but the underlying comp players BroadSoft to all of the relevant SaaS business applications.
+And again I think we just – we create a level of differentiation which is really powerful.
+Okay thanks guys.
+Thank you.
+And our next question comes from the line of Gregory Burns from Sidoti &amp; Company.
+Please proceed.
+Good afternoon.
+In relation to the consumer business a little bit better than we were looking for this quarter but still declining I guess some of that is on delivery but I was wondering how are you positioning your tour business now is it mostly focused on international subs? What is the positioning of end market of that finalized? And then how should we think about the structural decline of that business do you foresee it finding out or reaching some level of stability in the near future? So Greg this is Alan.
+I’ll start and I’ll turn over to Joe.
+So the – as Dave reported this was all very purposeful and it’s simply an allocation of marketing dollars I think it was in the investment dollars to go after customers that generate the right LTV at the end of the day.
+And so the management of the existing consumer business is focused on being efficient on the marketing and very – and by virtue of the marketing acquiring more productive customers that are sticky and that in a variety of other mechanisms lower the churn.
+Now while we’re doing that and you’re seeing the results [indiscernible] more profitability.
+While we’re doing that we are continuing to invest in product development to bend the curve back to add more values to products so that we will being to see the benefit overtime of our products being ever more attractive to the consumer population.
+That’s the macro view of what we’re doing then I’ll turn over to Joe but I’m pleased that we’re beating the numbers and again it’s just the result of what we’re doing.
+Yeah Greg I think the way to think about this is where as we try to drive more efficiency into the consumer business.
+There is a couple lever right one is our acquisition costs right which we are really shifting to much more measurable to direct response vehicles and we’re seeing those results we’re getting much more efficient in our acquisition.
+That leading to us having the ability to our channel as we optimized each of our channels whether it’s selling digital or direct mail that we can actually acquire customers that have a lower churn profile in their early stage of their life.
+And as we improve that we can actually improve customer life time value.
+So we’re really measuring ourselves based on customer economics going forward it’s not about how many gross lines you can apply or how many profitable customers can we acquire at the right price.
+If we can deploy more resources against the business side we will do that the returns on the business side is obviously greater than what we see in consumer because of customer life with the stickiness of the business product.
+To answer the first part of your question we continue to target both domestic users of VoIP and residential as well as IOB.
+So that half of our base that we lead today we continue to focus the key targets on the IOB side in a particular channel that are relevant.
+So we continue to focus on the optimization of our spend there.
+Okay.
+And then in terms of your EBITDA guidance I guess you maintained it at least $135 million for the year but based on for what you put up this quarter I guess that implies [indiscernible] that target that low end of the target of slow down or lower EBITDA for the rest of the year.
+So should we like planning to increase planning to increase over the next couple of quarters? So this is Alan I made a decision and I think it was direct to maintain our underlying guidance and we’ve only adjusted it for SimpleSignal.
+We have one quarter in the books and we’re making – we’re doing a significant remixing of sales and marketing.
+So I think just wanted to be prudent and we’re going to maintain the existing guidance but we’re feeling good about the year.
+Okay thank you.
+And then our next question comes from the line of Catharine Trebnick from Dougherty.
+Please proceed.
+Yeah thanks for taking my question.
+In the prepared remarks you said that the line something above we’re growing at 25% or was 25% of the business.
+Do you have a year-over-year growth rate or quarterly query on that? Catharine it’s actually 25% of the revenues for Vonage business in Q1 came from customer with greater seats.
+Okay.
+Yeah a lot of that – a lot of those customers come from Telesphere which we’ve only owned for quarter and two weeks so we don’t track that year-over-year of that number remains solidly above 25% and all of the channel reorganizations and direct sales.
+In general reorganizations that we talk about are meant to put on the gas in that space as well as the top market as well as the low end.
+All right thanks.
+And then the other question is on your direct sales and on your channel partners.
+On your channel partners how many have you between Telesphere do you have now in total? And are there like large partners in that group like CDW and arrow and can you give us more background just on the channel partner I know your competitors are building off their channel partners just trying to get a magnitude of where you are with the competitive landscape.
+Thanks.
+Sparks why don’t you take that on the channel partners? Sure.
+And Catharine we’ve been well entrenched on the indirect channel side for years and years of the Telesphere and SimpleSignal has as well.
+And now we’ve also incorporated indirect channel distribution sales executives from VBS now in combined channel.
+So I’ll talk about the number of agents but just to mention we have now 31 indirect channel representatives all over the country who have real strong relationships that go over years and years in the past either with our company at Telesphere SimpleSignal from the past or from prior companies and so you have deep relationships on the indirect side.
+And we have master agent and really the larger agents are booked to hundred large master agents and as Alan said in the script thousands of subagents underneath those master agents.
+But they are – some of the names you mentioned they are those common stuff that you would expect with the larger master agents in the country on the communication side as well as some bars.
+And they have a very robust group of subagents underneath them.
+And we are – we’re very well connected with them and as Alan mentioned on indirect channel expo that we have as the channel partners expo it was a very clear message to them there that Vonage means business now and we’re serious about this and they took notice and we just create traction out from the indirect partnerships we have that are very numerous.
+Thank you.
+Keep up the good work and I’ll talk to you after the call.
+Bye-bye.
+Thank you.
+Thanks Catharine.
+[Operator Instructions] Next question comes from the line of Mike Latimore from Northland Capital.
+Please proceed.
+Hi there this is Tim Klasell in for Mike Latimore.
+So starting on Telesphere here can you guys just talk a little bit about the pipeline or how the backlog will remain for Telesphere now versus when it was first acquired? Sure yeah and I think as Alan mentioned and I mentioned we’re not differentiating between Telesphere and the Vocalocity and then also going forward in including SimpleSignal particularly given how we reorganize the channel for us is less about the product and the old silo workout the channels that we approach.
+I think the best way to say it is we continue to believe that we’re going to have 40% organic growth in the business area which includes Telesphere SimpleSignal and VBS when you mix that all together and put those channels together and implicit in that is that the old Telesphere make a very significant contribution to that.
+And we talked about that entity having had revenues in the $40 million range in 2014 and we talked about multiple which we bought it which implies revenues for that group the old group we were measuring it that way of in the mid $50 million range.
+But a lot of that is going to get mixed in so we’re not tracking it the way that you asked the question.
+Great okay.
+And then you guys mentioned about year-over-year improvement in consumer churn I think you quote last sequentially.
+Do you see that being sustainable going forward in 2015? Tim yeah this is Joe Redling.
+Yes we do.
+We’re seeing encouraging results both on the new customer front and our tenured base I think the optimization of the front end of our acquisition machine is as Dave mentioned in his prepared remarks we started that process in mid last year looking at our channels and really focusing in on the quality of the customers we’re acquiring and really seeing the benefits of that now.
+So we expect that to continue.
+Okay great.
+Thank you guys.
+Thanks Tim.
+Our next question comes from the line of Dmitry Netis from William Blair.
+Please proceed.
+Good morning gentlemen.
+Let me add my congrats on the good results.
+Thanks Dmitry.
+Couple of questions.
+First of all nice pick up there on gUnify but do you discuss how much you’re paying for that platform acquisition? And then secondly they just had relationship what brings central that they’ve announced recently.
+Do you plan to [indiscernible] that relationship what sort of a status there is going forward? Sure.
+In terms of what we paid we’re not disclosing the actual price but it’s very small and it’s essentially the acquisition of a product and a team and the technology and I mentioned it’s not going to have a significant effect on our balance sheet one way or the other.
+As it relates to and I think Alan covered it correctly in the answer of the prior question right now we don’t have plans to remove the product from anywhere that it is and it really is about making this the global standard and one of the global standards this I think has a bridge between the comp layer and the CRM layer.
+Okay great.
+And then on the VBS side could you talk about kind of – is there target plans for the test count additions this year if it is at all possible to share that with us that would be great.
+And just to kind of get a sense of what’s base of higher units sale on that side? And then also on the sales and marketing I noticed you were down about $9 million from a year ago on the absolute dollar basis.
+What were some of the drivers there that you’ve kind of cut out the – some of that sales and marketing spend and what’s the trajectory there that is going forward? Dmitry I think let me start with the second half.
+Almost entirety of that reduction volume was on the consumer side sequentially down $10 million that’s a combination of kind of reduction as we said in previous calls reduction at general market media base stock continued optimization of the existing selling channel and reduction of non-working media which is sort of reset our agency relationships in Q4 and Q1.
+So that’s the majority of those savings.
+In terms of the Vonage business ramp up without getting any specifics on headcount we continue and invest in the sales force.
+We continue to scale as well as continue to invest in infrastructure in terms of engineering to focus on continuing to improve our systems billing on boarding and etcetera to support the high growth that we’re seeing in that segment.
+[Indiscernible].
+I’m sorry Dmitry you broke up a little there.
+Oh okay I was going to say if there is any sort of place or whether you will consider splitting up how many [indiscernible] VBS versus kind of the total company headcount? No we don’t have any plans to do that.
+I think it’s fair to say that the growth in fully headcount is primarily happening there and a lot of that is within telesales which is – and to a lesser expense care which is where we’d be deploying most number of heads.
+I think it’s also fair to say given the way Alan described as operating as a company that there are going to be people particularly in headquarters but in all of our locations who are going to be working on multiple products and that could be consumer that could be up market to be the smaller end which is why we’re not planning to break it out it just not possible to have a break line on lot of those people.
+Okay understood thanks Dave.
+And then lastly I guess [indiscernible] I know you mentioned that in the prepared remarks but what’s little confusing to me is it went up from 1.6% to 2.2% where the year ago you had Vocalocity with the SMB business and you added over mid market and you focus with Telesphere and SimpleSignal yet the churn went up.
+So what is it [indiscernible] take a wild guess here but can you discuss what happened there? I’ll comment on the mass then I think Joe can comment on the qualitative fees.
+The implicit in your question is that Telesphere somehow drive up the churn and that is not the case here.
+Telesphere has a small number of a very small number of accounts that happened to be very large small relative to the number of Vonage consumer accounts and the number of Vocalocity accounts.
+So that did not factor materially into the churn.
+When we start reporting revenue churn we’ll actually – I think you’ll actually see the effect of Telesphere revenue churn is substantially lower than an account churn and I think it’ll be a much more clear metric as we add in SimpleSignal.
+I think Joe can then address kind of what’s happening with the shareholder account.
+Yeah so we as Alan mentioned are direct model on acquisition incredibly efficient and scalp so we’re continuing to grow the small end of the SMB market at a rapid pace.
+Well we have the scale or we should continue to scale our infrastructure.
+We have incredible visibility on the consumer side in terms of predictive model where we manage churn on the consumer side and what the reorganization of the company they support are leveraging all those assets across the board and very focused on the small business sector on the smaller company sizes to get much better with that.
+So we are again as I said earlier investing in building systems infrastructure network monitoring everything you would think we would do as we scale that to a relatively large business.
+[Indiscernible] I don’t know many guys actually do that so thanks for that.
+And keep up the good work.
+Thank you.
+Thank you.
+Our next question is a follow-up from Greg Burns.
+Please proceed.
+Yes just a follow-up on that last question about the churn.
+You have a sense of the churn and those lower VBS customers is voluntary or involuntary is it kind of economic related? And you had a sense of where they’re reporting to if they’re leaving for another solution? Greg this is Joe.
+Yeah our composition is pretty similar to last year we are still seeing a large share of our churn related to non-pay the smaller these accounts are the we’ve more business failure in this segment.
+So our composition of churn hasn’t changed much so the business grows the numbers get bigger.
+So we’re very focused on that drilling down on the non-pay sector.
+We’re not seeing anything material on any sort of competitive switching.
+Okay.
+And lastly in terms of the – kind of the BroadSoft focus acquisition strategy now that you’re gaining scale and you’ve kind of made yourself like a meaningful [indiscernible] and looking to kind of roll off that market.
+Are you seeing more inbound interest from some of these smaller players in the market looking for an exit strategy? And also when you’re bidding for assets are there any other maintenance [indiscernible] these BroadSoft providers? Yes I think we have very good visibility on what’s out there in the BroadSoft area particularly because Clark Peterson is head of the cloud communications alliance which is essentially the BroadSoft users group.
+We had – I think that both BroadSoft users know who we are now just because of the deals that we’ve done before and we’ve also I think formed a very good working and close working relationship with BroadSoft.
+So I think that gives us a lot of visibility and good connectivity with BroadSoft and these other players.
+We clearly have been people who I think are more incline to try to sell because there is a bid in the market or at least they look at it that way and I think that we do continue to be a potential buyer of those assets.
+I think we’ve proven that we’re going to do it if we do it on a discipline basis and we think that there were enough of amount there so we can’t do it on a discipline basis.
+And that looking in that area continues to be the high priority for us.
+Okay thank you.
+[Operator Instructions] Our next question comes from the line of Michael Rollins with Citi Bank.
+Please – Citigroup sorry please proceed.
+Hi good morning.
+Thanks for taking the questions.
+Just first question is do you have a preview maybe what the revenue churn like with prices if you look at the 1Q result can you just help us [indiscernible] how to think about NRR churn or the revenue churn in aggregate? And then secondly if you just think more broadly about the sales productivity and expansion as you described in the segmentation of distribution channels.
+So where would you say is [indiscernible] opportunity over the next 12 months of watching? Thanks.
+So I’ll take the churn part of that.
+So on the revenue churn I mentioned that it is when we look at it for 1Q it is substantially lower.
+What we’re focused on is getting SimpleSignal in and being able to present to the market that calculation which I think would be most meaningful.
+We’re not in a position to talk about it now but what you see obviously and we talked about it when we acquired Telesphere is that the churn in Telesphere the churn amongst larger accounts generally is lower.
+And when you have a three year contract by definition with NPLS and the full bundle by definition you have much lower churn.
+At the same time we’re also getting much higher ARPU at the higher level and so you can see how the dynamic between account churn which does not differentiate between an account of two lines and an account with a thousand and revenue churn and that is why it is substantially lower.
+Let me take it on distribution this is Alan.
+So I think the best way to think of it is where the growth is going to come from is sort of where the market is and the maturity of the different channels.
+In telesales which again is principally top of the formal regional that’s converted via telesales.
+There is a linear relationship in terms of how we – as we add sales infrastructure and are buying more keyword searches branded and non-branded and we’re feeling that funnel.
+Interestingly we’re not limited by sales people growth the limitation is been infrastructural so that’s where we’re investing very quickly to make sure that we can support as we grow so that’s one.
+So we expect telesales and continue to run really really nicely at the smaller end of the market.
+As I mentioned 90% of U.S.
+employer based businesses have fewer than 20 employees and they’re rapidly embracing the cloud.
+I also announced that we’re moving to an online so we’ll have sales sign ups that we’ll roll out later this quarter so that we can lower our acquisition cost even more by having a fully touch list acquisition model or certain of the – with the low end of the market.
+Then go now over to the channel side.
+The channel side is a very mature market or a very mature distribution channel.
+We’re stepping in the midst of bringing three companies together that is [indiscernible] or in aggregate 31 indirect channel managers spread across the country reporting up to four regional channel managers addressing the full swop of master agents and thousands of subagents around the country.
+We’re still in midst of [indiscernible] that I’m in Africa I’m heading down to Atlanta tonight because we have a sales meeting for the indirect channel managers tomorrow at Atlanta.
+So as we organize that ever more tightly we’re expecting really good results in that channel.
+Finally in the direct side feet on the street for us that’s the least mature channel because we’ve had the dealers number of people but we are aggressively adding and I mentioned we’re in four markets today.
+Again these people are distributed with a report to regional hubs four of those regional offices are already staffed we’ll likely have seven by end of the year these are major metropolitan markets and growing more thereafter.
+Thanks for those details.
+Sure.
+And our next question comes from the line of Bill Vogel from Team Capital.
+Please proceed.
+Hi thank you.
+I wanted to follow-up on the issue with master agents and other indirect channel partners.
+Are you at this point continuing to add those folks or are you finding with SimpleSignal and Telesphere that you really have the number that you’re looking at? And if you are so adding is it an aggressive rate or a more relaxed based? Clark why don’t you take that? Sure.
+Thanks Bill for the question.
+Yes it’s really the later the master agents and what’s really been a great thing about the acquisitions that we’ve done here with SimpleSignal and the combination with VBS and direct team is actually it was very complimentary.
+And so together we already cover all the main master agent all over the country.
+We have really the tier master agent partners that we would ultimately want around board and [indiscernible] through these different relationships.
+So really now the focus is working with both the masters and other subagents to get their mind share to help them understand our whole portfolio of products that we now offer the combined entity and really was all coming under this Vonage business brand and all the marketing behind that means to them.
+And so it’s really going after them and getting the mind sharing and helping and giving them all the tools that now they have with [indiscernible] and then agent portals and all these things that we have we think that are very unique to our offering besides the products in the back office and also the network team plus with NPLS all over the country.
+All these combined is an incredibly unique and powerful portfolio for them to sell so that’s really our target as to get out and help them understand what this all means to them as a partner for us.
+That’s very helpful.
+Bill now let me just make one follow-up.
+As I said in my prepared remarks we used the term think Vonage first and it’s kind of a mantra here.
+Those channel partners masters and subs call on the entire range of customers from the very small and simple to the very large and complex.
+We have a product portfolio that covers the first the full range.
+So we want them to think Vonage first regardless customer opportunity.
+In the past if they have let’s say a large complex opportunity when Telesphere was a separate company they might think what’s called Telesphere for that one.
+They might have a smaller one they might think well I’ll work with the formal Vocalocity for this one.
+We brought it all together under one unified team all our unified branding in light so that they think Vonage first regardless of the customer opportunity.
+Great thank you.
+I’d like to take a question one step further with the SimpleSignal acquisition are they bringing characteristics or tools that help the agents think about Vonage first because many of the things that Clark you mentioned Telesphere already had.
+Well Clark why don’t you answer that as well? Sure.
+And really on two fronts build they brought some very unique relationships that are complimentary at the master agent level.
+They actually had a deep deep long term relationship with the largest master agent in the country and so that really complimented us as well as other master agents who have that really filled any gaps that were there.
+So they brought not only those distribution partners but on the product side they really bring a lot worth all of the work they’ve done with Google App work and they’ve been using gUnify in the past so they’re very familiar with gUnify and being able to get us all off the speed very quickly on that as well as on Telesphere had used gUnify in the past.
+But SimpleSignal has don’t a lot of work both on all the application side as well as on video bridging and the cloud are some of the main things that they really bring from the product portfolio that we think are great in it.
+And they also had just like Telesphere had a great reputation with all the indirect channel partners.
+So when we at the channel show and on that day announced that Signal and Telesphere are now coming together under that Vonage umbrella brand.
+It was a big message to the indirect partners so I think the roll we expected in the indirect channel partner community.
+Again thank you.
+And so one additional question if you look for additional acquisitions do you anticipate that they will also be able to be bring you each characteristics as SimpleSignal did or at this point does it really become a market share gain? Hi Bill I’ll take that one.
+I mean clearly there is an opportunity to buy customers and potential customers accretively.
+That being said most of the things that we’re looking at also have a very strategic angle to them i.e.
+adding something with the SimpleSignal example is a great one with the experience with the edge router the experience in between Vonage business and Telesphere used to play as well as a broader regional presence I think is one – that’s a template for others and I think there are those out there that have strengths and capabilities that I think would be additive to us beyond the accretive customers.
+We do look at it as okay if we were just buying these customers would this be a good deal and the things that we do check out box but I also think there is more strategic opportunity out there as well and with things that [indiscernible] with that both of those characteristics.
+Thank you both.
+Thank you.
+This concludes our question-and-answer session for today’s conference.
+I would now like to turn the call back over to Mr.
+Blankenbaker for closing remarks.
+Great.
+Thanks Marcus.
+We really appreciate everyone’s time today and your interest in Vonage and we look forward to speaking with you throughout the quarter.
+Thank you.
+Ladies and gentlemen thank you for attending today’s conference.
+This does conclude today’s program.
+You may now disconnect.
+Everyone have a great day.

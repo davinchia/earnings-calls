@@ -1,0 +1,582 @@
+Welcome to the DuPont Fabros Technology's Third Quarter 2012 Earnings Conference Call.
+Today's call is being recorded.
+At this time I'd like to turn the conference over to Chris Warnke Investor Relations Manager for the company.
+Mr.
+Warnke please begin your conference.
+Thank you.
+Good morning everyone and thank you for joining us today for DuPont Fabros Technology's Third Quarter 2012 Results Conference Call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; and Mark Wetzel the company's Chief Financial Officer and Treasurer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income are contained in the company's earnings release which is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+To manage the call in a timely manner questions will be limited to 2 per caller.
+If you have additional questions please feel free to return to the queue.
+I will now turn the call over to Hossein.
+Thank you Chris and good morning everyone.
+Thank you for joining us on our third quarter 2012 earnings call.
+As noted in our press release we again delivered solid financial results as Mark will discuss later in the call.
+Leasing remains our first priority so I'd like to begin with an update.
+During the third quarter we signed 2 new leases with 1 existing Internet hub.
+One lease was for 2.2 megawatts in Phase I of ACC6.
+This phase is now 100% leased within 1 year of delivering the property.
+The second lease was for 1.3 megawatts in Phase II of Chicago increasing it to 86% leased after delivering the property 8 months ago.
+As we have seen in the past our tenant requirements grow.
+It's taken down additional space within our facilities.
+Over 50% of our 33 existing tenants have expanded with us.
+In terms of megawatts this expansion represents approximately 70% of our operating portfolio.
+In addition to the new leasing this quarter we have extended full leases with 3 tenants totaling approximately 24 megawatts.
+This represents an additional 7.5 years on a weighted average basis.
+The first tenant extended their lease for 13.9 megawatts in ACC3.
+This extends their weighted average remaining lease term for 4.4 years to 12.6 years.
+The second tenant extended 2 leases one for 3.9 megawatts in CH1 and the second tenant for 3.4 megawatts in ACC5.
+These extended the weighted average remaining term for 4.1 years to 11.1 years.
+The third tenant extended their lease for 2.6 megawatts at VA3.
+This extends their weighted average remaining lease term from 9 months to 6.3 years.
+On average the current extensions for these 3 tenants have reduced gap rent by 6% as compared to the existing base rents in place.
+This equates to only $0.02 per share reduction in FFO on an annualized basis.
+The reduction in cash rents only kicks in when the original leases expire.
+All of these tenants have the capital and the size to build their own data centers.
+A big part of our business proposition is having our tenants utilize our buildings scale and efficiency to reduce our overall operating capacity.
+We have consistently worked with our tenants to provide them with exceptional outsourcing solutions and have significant success in the past year in extending their leases.
+Santa Clara remains well in line with our leasing expectations.
+Decision-making in New Jersey is taking longer than expected for most enterprise companies.
+Even though some are taking up significant cash reserves we're still tracking more than that supply in New Jersey.
+Chicago and Northern Virginia continue to be very strong markets.
+We have some available supply in each which we are actively working on filling up.
+Safety of  ACC6 is currently 67% pre-leased.
+It remains on time and under budget for the December 2012 delivery.
+We have already began commissioning this site [ph].
+As previously stated on our February earnings call our goal was to have NJ1 SC1 ACC6 Phase I and Chicago Phase II to be 70% pre-leased on average by year end.
+To date these 4 properties are on average 64% leased and 60% commenced.
+We remain comfortable our target of 70% is achievable.
+This represents about 4 megawatts leased and 7 megawatts to commence.
+Year-to-date we have leasing of 28 megawatts at lease extensions of 24 megawatts.
+These account for approximately 25% of our total portfolio.
+We have pushed out lease expansions.
+Now 85% of our leases expire after January 2017.
+Our overall portfolio weighted average remaining lease term is now 7.5 years compared to 6.7 years at June 30.
+Our top 3 tenants' weighted average remaining lease term is now 7.9 years compared to 6.8 years at June 30.
+This has been our best leasing year since we have began.
+I have consistently said leasing wholesale data center space is lumpy.
+Decision-making continues to lag in New Jersey.
+The macroeconomic environment remains uncertain which has accounted for some enterprise and financial institutions delaying their data center decisions.
+Additionally having available supply in certain markets enables companies to take their time in deciding on whether to build internally or to outsource.
+We firmly believe in the macro fundamentals of outsourcing data center space.
+We have a great product and a superb operating platform for capturing this process.
+Leasing our available inventory continues to be everyone's focus.
+We have done a significant amount of leasing as we're renewing leases this year.
+That being said we have plenty of work ahead of us.
+We're confident that there is an adequate demand in all our markets to pre-lease our inventory while maintaining favorable terms for the company and achieving a solid return to our shareholders.
+Now I will turn the call over to Mark who will take you through our financial results.
+Thank you Hossein.
+Good morning everyone and thanks for joining us.
+I want to cover 3 main topics today.
+Our third quarter operating results our Q4 and full year 2012 guidance and a quick comment on the 2013 guidance.
+For the third quarter of 2012 the company's FFO was $0.38 per share compared to $0.44 per share in the third quarter of 2011.
+The $0.06 per share decrease was primarily due to lower capitalized interest and increased preferred dividends.
+We did record a real estate tax true-up which is an approximate $0.01 decrease in FFO no recoveries in Q3.
+The real estate tax and insurance line item should normalize back to approximately $3 million going forward.
+Quarterly revenues were $85 million an increase of $12 million or 16% over the third quarter of 2011.
+This increase is a result of new lease commencements.
+FFO was $0.33 per share for the third quarter compared to $0.37 per share quarter-over-quarter a decrease of $0.04 per share.
+Year-to-date AFFO was actually up $0.01 per share to $0.93 per share as compared to $0.92 per share last year due to higher cash rents collected.
+During the third quarter 4 leases commenced holding 5.9 megawatts resulting in increased revenues of 3% from $83 million to $85 million sequentially.
+All leases signed have commenced except for 2 in Chicago.
+As a reminder this tenant has a right to terminate this lease in early January.
+If not they commence in Q1 of 2013.
+As to the forward note Hossein discussed on a cash basis base rents -- the initial base rents are down approximately 18% compared to today's rents.
+Key points to note were that there are no brokers involved no free rent provided no capital committed to close any of these deals and there were no downtime re-leasing the space.
+These 4 leases remain pure triple net leases where each tenant pays a percentage share of the operating expenses.
+They trust us to manage the expenses and there is no cap.
+Cash on-hand today stands at approximately $25 million.
+We have drawn $15 million on our unsecured $225 million line.
+We expect to spend an additional $15 million by year end and another $15 million in early 2013 to fully fund the completion of the ACC6 Phase II development.
+We've tightened our full year FFO guidance from $1.47 to $1.54 per share to $1.48 to $1.52 per share.
+The bottom end of the new guidance represents no additional leases signed and commenced in 2012.
+Our FFO guidance range for the fourth quarter of 2012 is $0.38 to $0.42 per share.
+As we look at our 2013 guidance new leasing commencements by quarter will drive how big a year-over-year increase we can achieve.
+ACC6 Phase II should open January 1 with 33% pre-leased commencing immediately and 34% commencing in Q3 of 2013.
+We expect total revenues to be in the range of $360 million to $400 million.
+The $360 million assumes no new leasing as of today.
+We expect similar EBITDA margins.
+As leases commence we also get the pickup of unreimbursed operating costs.
+As for possible capital raise we continue to like perpetual preferred stock as a source of permanent capital.
+We do like to keep our line of credit fully available as dry powder.
+We would expect to start at least one development in 2013.
+But at this point everything is predicated on leasing up our available inventory.
+We look at each submarket separately as to this decision process as well as the overall risk for the company.
+Pre-leasing thus makes this decision easier.
+AFFO is expected to grow faster than FFO in 2013 and we expect our Board of Directors will consider a common stock dividend increase in the not-too-distant future.
+By keeping to our policy of paying out 100% of taxable income for each year we expect the dividend will increase 20% by the beginning of 2013.
+No 2013 common equity ratio will be modeled.
+We will provide all the details and all per-share amounts on our year end call.
+This call will be held on Wednesday February 6 2013.
+We will continue to operate with low leverage ensure our debt and leasing maturities are pushed out and maintain a strong balance sheet.
+We are in a great position to grow the company.
+With that let me turn it back over to Hossein.
+Thanks Mark.
+We continue to see more and more businesses looking to outsource their data center requirements.
+We are very pleased that we have been able to continue to extend our leases and our leasing activity.
+The fundamentals of our industry remains intact.
+With that we're happy to open the call up to questions.
+[Operator Instructions] And our first question will come from Jordan Sadler of KeyBanc Capital Markets.
+Research Division</strong> I just wanted to circle back on sort of the flavor of the markets.
+I mean clearly a bunch of renewal activity in the quarter new leasing some small activity coming off of a big 2Q.
+But the commentary sort of alludes to maybe continued success on that front with the exception of New Jersey.
+Can you give us a little bit more color on what you're seeing in terms of types of requirements and maybe what the difference is -- or what may be driving the acceleration in the activity? I mean each market is their own.
+Virginia and Chicago again remain very strong and there is significant amount of tours and leasing going on.
+In Virginia most of the activity here was the renewals and the extension of those leases.
+But like I said we gave away some cash ramps to get the expansions.
+We felt that was important to do to keep our long-term tenants.
+Chicago is very steady.
+We leased more space.
+Again after 8 months of opening we're 86% leased.
+We to some extent I wish that we have more space in Chicago.
+Santa Clara is very steady.
+We have a huge amount of activity going on in Santa Clara.
+We're pretty much intact where we expect it to be at this point.
+And I think with the amount of activity we have I think that will be exactly as we predicted on our leasing front.
+Research Division</strong> Do you think Santa Clara will be fully leased by mid year next year? Because I think...
+Yes we're comfortable.
+Research Division</strong> Okay.
+And then just on New Jersey I mean it sounds like enterprises are taking longer...
+They're taking their time making decisions.
+I think we'll have some leasing going on but it's taking longer than we expected.
+It's the one market that's taking longer than we expected.
+But it's a very good product.
+We're comfortable with what we've built and just like historically it's going to be -- it's taking longer than we expected.
+Research Division</strong> Okay.
+Lastly can you just sort of give us a sense of what happens to cash rent on these leases that you gave up some cash rent to get the extensions some modifications that we're all -- are we going to see any cash rent in 2012 '13 or is it...
+I'll turn it over to Mark and Mark will address the cash rents.
+Research Division</strong> And if you have the cash rent roll down number that'd be great.
+Yes Jordan in my prepared comment I made roughly an 18% reduction in cash rents as compared to today.
+Nothing really changes.
+One of the leases will expire next summer.
+So there's immaterial amounts for 2013.
+So '13 there's really no issues.
+And then as some of these renewals were kicking in some were -- didn't start till '16 so you'll see the step down.
+I think we have about 12 different lease expiration dates on all these -- on these 4 leases.
+So it's really nothing to '13.
+And then as it leads itself in over the next 5 years today's rents versus the day that each of those rooms expire is roughly an 18% reduction.
+But most importantly there's no free rent there's no capital there's no broker fees there's no downtime.
+So it continues through the end of these new extended lease terms.
+Research Division</strong> And the extensions have the bumps that were embedded in the old leases 3%? Pretty much.
+The bumps are pretty much the same yes.
+Our next question comes from Matt Leone [ph] of Goldman Sachs.
+I just had a couple of questions about the extensions.
+I was hoping you could talk a little bit about the thought process behind renewing rents down 18% 3 to 5 years early.
+So there were 3 tenants here.
+Who initiated these discussions? I think the same tenants were talking about taking more space down.
+And so as it happens when they talk about taking more space down we start discussing their old leases.
+So we talked about their old leases and we said or they said "We'd like to renew " and we said "How long for?" Discussions were kind of hard at that time.
+And we addressed what -- I think we could have left it alone if we wanted it.
+But we thought it was important for the market to see that our larger tenants are not leaving and that we can be competitive with even the biggest companies and the industry building their own and outsourcing and maintaining the tenants.
+So is it more of an issue of whether you were going to have the tenants or not in 2015 and 2017 than of where rents would be at that point? I think that's a fair statement.
+But we wanted to guarantee that we have the tenants.
+And especially with single tenant buildings it was important for us to review those leases.
+We went whatever it took to renew the leases.
+Our next question comes from Emmanuel Korchman of Citi.
+Research Division</strong> It's Michael Bilerman here with Manny.
+Just on the 18% that is compared to the current cash rents that are in place or the down 18% is relative to when the -- what the cash rent would have been as it grows 3% through 2015 and '17? The 18% is as of today Mike.
+Research Division</strong> So the actual cash decline in rent relative to new lease to the existing lease is going to be much much less because your leases are growing 3% a year for the next 3 to 4 years on those leases correct? Yes.
+Between now -- when those lease expires there's bumps between now and then as well.
+Research Division</strong> Correct.
+So what would be the cash decline -- the new cash starting rent for the new lease relative to the final cash rent that was being paid or that will be paid under these leases? Because if it's growing 3% a year and it's down 18% relative today that will mean that it's pretty pretty small of a decline? Yes.
+It's around 25% at that point.
+Research Division</strong> 25% decline at that point relative to today.
+It should be smaller shouldn't it? Because if you're signing it then -- because the current cash rents are growing further? So the 18% is where we're at today with today's rents as compared to the new rents and then it's in the mid-20s when you get to the cash rent at the day of the renewal to the new renewal.
+Research Division</strong> Correct.
+Right.
+Because if we're growing -- your rents are growing every year between now and then? That's correct.
+Research Division</strong> And then how do those rents compare therefore relative to markets? Because I would assume a 25% drop relative to where those rents are today what you're signing new because you're active in Chicago and you're active in Virginia.
+How do those rents compare to what you're developing and what the rents are for ACC6? Are you going to be developing ACC7? How does -- what's that spread? Yes I was going to say that those rents are super -- there were 3 leases that were renewed -- well 4 leases that were renewed with 3 different tenants and each one is different.
+The very large one is in the market -- is within market of super wholesale rent.
+So by giving them these reductions in what in 4.5 or 4 years what we deem to be super wholesale rent we extended that lease by 8 years.
+The other leases were within market right and the market meaning retail market meaning what we deem regular not super wholesale.
+Research Division</strong> So the large single building lease where the rents step down to in 2016 that represents where you're currently signing leases today? We're currently signing leases for super wholesales not for -- not for 1-megawatt deals or 10-megawatt deals.
+Yes.
+Research Division</strong> And I appreciate the positive side of this in terms of locking tenants up for longer and not having the CapEx no new capital and that they're also making a financial commitment to stay longer.
+But how do you sort of look at it -- this represents 14% of portfolio.
+How do you sort of then look at the 86% of the portfolio in terms of where those rents are relative to market? I mean should we be thinking about that rents are 25% too high relative to everything else you're earning or...
+No because -- no.
+I don't think so at all.
+I think their market has been -- there is a difference today in super wholesale rents and typically those are tenants signing 8 megawatts or more than tenants signing 1 megawatt deals.
+Research Division</strong> But the majority of your portfolio is super wholesale tenants? I would say there is a big part of our portfolio that is super wholesale tenants but there is a -- a lot of those are leases that are 3 megawatts at the time.
+So those rents I would say are all within market but then the larger leases that are super wholesale would eventually I think be at lower end.
+Mike as of 9/30 roughly 47% of our revenue stream is from our top 3 tenants and the issue of the lease extensions for that is pushed up pretty far at this point.
+So it was a decision to lock those down put them in place and focus on the rest of this development as we go.
+But the idea of super wholesale just like if you take 10 floors in an office building you're going to get better pricing.
+So it's no different.
+Our next question will come from Brendan Maiorana of Wells Fargo.
+LLC Research Division</strong> Mark just a quick one the 18% down -- or the 25% down on a cash basis what's the gap differential on rent? It's around 6%.
+LLC Research Division</strong> It's at 6%.
+Okay.
+$0.02 I think Hossein mentioned for...
+LLC Research Division</strong> Yes.
+Okay.
+The $0.02 was the gap number.
+Okay.
+Hossein just a broader question or maybe this is kind of related to what Michael was asking.
+But if we look at the asset class the fundamentals have generally been -- the demand has generally been decent over the past few years yet rents are down pretty significantly.
+They probably peaked sometime in 2009 or maybe 2010.
+I mean is this -- I guess as we look at the asset class is this an asset class that where rents can grow? And can they grow in products that is second-generation 10-year-old product? I think it depends on the product.
+Yes I think in our data centers which are super efficient there is not much efficiency to be gained.
+On our electrical systems we only have a 5% loss of electricity on the UPS.
+So there's not much to be gained.
+Whether you go from 5% to 3% there's not much to be gained.
+On the cooling systems we pay approximately 25% to 28% of the critical load to coolents.
+So if you get down from that there's again very little efficiency to be gained.
+So of that asset class on the new kind of the 36-megawatt asset I think there is very little efficiency to be had.
+On the older buildings I think there is going to be a change.
+On the -- as far as the rents are concerned I think what we have addressed here is that the -- with the super wholesale rents that Mark mentioned or difference by 18% we have addressed the fact that now it is worthwhile for larger tenants to renew rather than build their own.
+And on a 36-megawatt building even if you have a 10-megawatt tenant renewed it is worth their while to renew because their operating expenses will significantly lower on the large buildings.
+And we've addressed that twice and I think we'll continue doing that.
+LLC Research Division</strong> Yes I guess I understand that.
+I mean there's -- but the rents are down right.
+So the rents are down.
+They're down with the market.
+So what I'm reading from your comments is that your buildings are holding up in terms of their earnings power relative to new product that may be out there.
+But there's -- but the new product that's out there has rents that are down pretty sharply over the past couple of years if we're just looking at these data points that you're providing today.
+So why -- what are the dynamics that are going to get rent growth in this asset class over the next few years? Or is it just that new supply is likely to cause rent growth to be limited? I think rent growth is always supply and demand.
+So there is -- as we have in certain markets like Ashburn and Santa Clara and in Chicago we have limited supply and we have rent growth.
+In New Jersey there is more supply and less rent growth.
+Brendan also specific to I mean mortgage investing in terms of what we're trying to accomplish I mean we're used to borrow money at 8.4%.
+Now we -- our bonds are trading below 6%.
+So there's 200 to 300 basis points explaining our cost of debt.
+So yes rents are down at this stage of the cycle but so is the cost of the money we raised.
+So we're still making money and we're still in the right path to build the base of the company for the market.
+So I think locking down these bigger tenants pushing those maturities out now we can strategically shift and focus on growing and the cost of the money that we raise on a go-forward basis we're still -- we still have the right spread between what cost to build how to raise the money and the rents we collect.
+Brendan the other important data point is when we went public 5 years ago we said to the market that our unleveraged return on our data centers is 12%.
+For a couple of years that percent went to 15% in certain markets and then we are back on ACC6 right now we're at 12%.
+So we're making unlevered returns of 12% on new products.
+And that we're very proud of.
+LLC Research Division</strong> And I guess just a quick point for clarification.
+But the way I'm reading your comments is that you think the 12% that you're earning on the return on the initial leases that that 12% holds on the second-generation leases.
+Is that a fair comment? Yes yes I do.
+Because already the 12% we're getting now say if you take ACC6 that is already a super wholesale rate for 2 large tenants.
+Our next question will come from Evan Smith of Cantor Fitzgerald.
+Research Division</strong> We're hearing from some of our channel checks that the wholesale landlords are increasingly willing to sign smaller blocks of space.
+I was just wondering if this is something that you're currently entertaining or what your thoughts are there? We about 1 year ago we went to New Jersey willing to sign 280 kilowatts.
+We haven't done anything smaller than that.
+In Virginia I believe and in Chicago and in Santa Clara we haven't done any deals of that size.
+So typically there we would stop at 500 kilowatts which is half of 1 megawatt room.
+So all I can comment is that we haven't -- or I guess some of our competitors have retail arms as they are doing retail deals.
+Research Division</strong> Okay.
+Great.
+And then just back to leasing a little bit.
+You talked about that you're seeing more and more business from new customers.
+However what was done in the quarter was all with existing customers.
+If you could comment in terms of what you're seeing in traffic today and I guess future leasing what you're expecting to see from new tenants versus what's already in the portfolio? Well the majority -- a lot of our business had always been with a handful of tenants.
+And so I do think that there are some new tenants in the market but most of the old tenants are coming back.
+That's where we have organic growth.
+And I think that's a strong part of our business as we have organic growth.
+[Operator Instructions] Our next question will come from Ross Nussbaum of UBS.
+Research Division</strong> I wanted to thank you for the rent disclosure on those leases because I do think it was important to understanding the story.
+A couple of questions.
+First I think there was some mention earlier that you'd like to start one development in 2013 dependent upon your current lease up.
+Which project would that be? There are a couple of things in our current portfolio and Virginia will pretty much happen and that's our home market.
+And so assuming that we feel very comfortable with Virginia leasing up we need to have more products in Virginia.
+The other is Chicago and is -- Chicago we have no more land and we have to look for some additional land which we do not have yet but we're almost fully leased.
+In Santa Clara assuming that someone on the call earlier said that we project by middle of next year that we'll be fully leased we would need to build more.
+But now we have figured out how to build in smaller increments and still have the ISO-parallel designs.
+So what we would build is 9.1 megawatt or 4.5 megawatt increments for the Phase IIs in Santa Clara once the Phase I is fully leased.
+And also in Virginia we would only build 9.1 megawatt increments.
+We wouldn't build the 18.2 megawatt.
+But we have to get going soon because we're almost out of space.
+We have almost no inventory left.
+Research Division</strong> And what are your thoughts for financing? I think as Mark mentioned our preferable financing for new rates is professional preferred.
+Which aligns a starting point for us.
+Research Division</strong> Okay.
+The second question I have is just a more general comment or question which is by extending out these leases now and given that some of them had several years left to run isn't that somewhat of a statement that you think that the operating environment a couple of years from now is going to be the same or worse than it is today? Because if you thought it was going to be better and you would've had better -- a better negotiating stance with these tenants you would have waited to extend these leases? I think it's somewhat addressing what the market wants.
+If we were a private company Ross I wouldn't have extended the leases now.
+I would've waited a few more years and negotiated at that point because I would be no worse off.
+I think by addressing it now we're addressing the clarity and the certainty that the market wants.
+And as a private guy I wouldn't have done it.
+I think as a private -- as a public guy the market wants a certainty and there has been a lot of pieces around "Hey your biggest tenants are leaving." And now we're like "Okay well they're not leaving but they're here at these rents and we've addressed them." Research Division</strong> Great.
+I recognize that.
+I guess 2 thoughts.
+One is your stock was flat when the call began and now it's down 8%.
+So clearly the market is not liking something that occurs in the last half an hour.
+But I'm starting a little bit with did some of these tenants sit down with you and say look if you don't cut the rents we're out of here whether we tell you that today or we tell you that in 2 years cut the rents or we're gone.
+Is that the stance that they took? No.
+No.
+It was up telling them look if you want to renew let's negotiate and bring certainty to the market.
+And you always have to take one at a time Ross.
+The first lease was actually expiring next summer.
+So the notice period was in play.
+So that one we extended.
+So that one you would expect to see.
+The second one with the tenant who was looking to take some new space and so far the negotiations centered around the extension of what they already have because they want long-term certainty as well.
+So that one got put in place.
+And the third one is the one that's out there for years that you could -- you could check investors [ph] of not doing that.
+But locking that in the certainty of that a single tenant building it just made sense to us to do that.
+And it was us really approaching that tenant.
+It wasn't the tenant approaching us.
+Research Division</strong> Okay.
+Last question New Jersey and I know this is a question you've gotten before.
+Does reducing the rents helped get that leased? Or is there just simply a lack of traffic at any price at this point? I think New Jersey -- I think data center space in general is guys need it or they don't.
+It's not like "Oh I need another home." It's like either need it or they don't.
+If they need it they'll look at what's available and lease it or they don't or they're not looking.
+So my impression in New Jersey is not so price-sensitive and so we haven't had to cut cost.
+So we're -- cutting cost will not lease us up any faster in New Jersey.
+But the positive point is in the other markets.
+In Virginia we're getting 12% unlevered returns which is excellent in my view.
+Our next question will come from Jonathan Schildkraut of Evercore Partners.
+Research Division</strong> This is Robert Gutman for Jonathan.
+I was wondering guys if you could tell us what are your views on new market entry and what would it require in terms of a pre-lease and kind of how would you view that in terms of financing as well? Well you mean us going into new markets? Research Division</strong> Yes.
+Yes.
+No.
+We will not go into any market on a secular basis.
+We would on a base premium.
+We would not go in and build recklessly in new markets because -- or the other thing is we want -- we would want to have a current portfolio significantly more leased which we're getting there before we do anything.
+Research Division</strong> Okay.
+Okay.
+But at what point would you consider it in terms of if you reach your 70% threshold or...
+Depending on the market I don't know.
+What -- the 70% threshold we're very comfortable in reaching by year end.
+We see that very comfortable.
+At some point as you may say for example the market assuming we get there and we're comfortable in getting there at that point with the pre-lease we would go into a new market.
+But the launch of the next development is one of the phases that we have whether it be Santa Clara or New Jersey more likely Santa Clara and then the backyard right here in Virginia.
+So when you say new market that would be a fifth market for us and that's where I think Hossein is making the clarity that a big pre-lease would be kind of needed to do that.
+But building 4 megawatts or 9 megawatts kind of Phase II or next door in the Ashburn campus I think we probably -- we're comfortable on a spec basis in our home markets.
+But the new market is a different analysis.
+Research Division</strong> Okay.
+And that would be a pre-lease would you say.
+What would you consider a large pre-lease? 50%? 25%? Any sort of general idea or...
+I think at this point the -- we have figured out on the ISO-parallel rev up to build it in increments meaning we could build 4.5 megawatts at a time.
+Research Division</strong> I mean on the -- on something that will be non-spec new market.
+Yes so I guess what I'm saying is say for example eventually you want to get to a 26-megawatt building.
+Even if the tenant is say 9 megawatts you would -- you could think about building 13 megawatts.
+You don't need to build the entire 26 because so then you build 13 and out of the 13 9 will be leased pre-lease.
+Because now we can build it in 4.5-megawatt increments.
+Our next question will come from Gerry Andea [ph] of Le Monde Capital [ph].
+Question on New Jersey I'm still trying to understand on one hand you say the foot traffic is great.
+But here we're almost 2 years since the data center has been launched.
+It's only 36% leased.
+Is the wholesale -- demand for wholesale capacity completely dried up? Because if you look at the retail guys they still seem to enjoy pretty good demand in the New York-New Jersey area.
+So I'm just trying to understand what exactly is going on with the data centers.
+Well I think it's not our data centers.
+I think the New Jersey market on wholesale is slower than the rest of the country.
+In Virginia we have great -- I mean don't forget it's when you say our data centers in Virginia we're delivering a building on Phase II and the Phase II of the building with 12% unlevered return is 67% pre-leased and we're delivering it.
+No I understand that Hossein.
+But I'm just trying to understand New Jersey.
+What specifically is happening in the New Jersey market? Because I don't...
+[indiscernible] in the last 2 years that that market is slower and decision-making is slower.
+There are not that many large wholesale deals out there in Jersey and the banks are slower to make decisions.
+Got it.
+If that is the case would you kind of start doing something else with those data centers going forward? Well there's only one base kind of we have in New Jersey.
+But those is full so what do you mean? When I say it's a relatively large data center would you consider doing something else with it? No absolutely not.
+It's going to be tough but it's just going to take some time to lease up.
+I mean there is no alternative use.
+Got it.
+Second going back to the rental rates.
+You have given this 18% discount.
+As Mark is saying if you have to extend for that next 3 years it's almost a 25% discount of what you would have got 3 years from now.
+I'm still trying to understand are you just going back to these guys and saying hey you extend that so that you would be in good standing with your bank going forward? Hey look none of our large customers are leaving.
+We have extended this but it's coming at a cost.
+Why do you have to give a discount in fact that those guys that are already there? You have those leased up for the next 3 years.
+What is the real urgency? I'm just ...
+There was no urgency.
+We had an opportunity to extend at a lower rate and leases are coming up in 3 years.
+And we said okay let's do it.
+It addresses a thesis that people are leaving.
+Now we know where we're at and people are not leaving.
+But are they taking more capacity because you offered the discount? Or is it exactly the same amount of space? Some of the tenants are taking more capacity as well.
+Yes 1 of those 3 tenants took more capacity.
+Those were the leases that were signed during the quarter.
+Our next question will come from David Shamis of Jefferies.
+Inc.
+Research Division</strong> Just turning back to New Jersey.
+You essentially -- what's your confidence that those leases are going to come from financial services firms? Are you getting traction from maybe some tenants moving out of 111 8th Avenue? No.
+I think what we feel good about Jersey is some financial services also because of what's happening in the energy market power costs are down significantly in New Jersey.
+So what used to cost like $0.12 $0.13 per kilowatt is now $0.08 or $0.09 per kilowatt in New Jersey.
+So New Jersey is actually becoming an attractive market for Internet-type tenants.
+So we feel very good about the Internet companies that some of the traffic is coming through in New Jersey.
+Inc.
+Research Division</strong> Okay.
+Great.
+How should we be thinking about the recent announcement by Goldman to move to modular data centers? I think -- I don't know the details of that deal but I could feel that that's probably a very small deal.
+Don't forget modular typically is 800 kilowatts.
+Or it starts with 250 kilowatt increments and it goes to 800.
+So I think there is more noise in slots than reality there.
+So not knowing the details of that deal long term I do not feel that modular is the solution.
+There is absolutely an application for modular data center but I don't think it's a solution for large companies that want to build -- that need their own data center.
+Inc.
+Research Division</strong> Okay.
+Great.
+Appreciate that.
+And just one more.
+Going back to the lease extensions what kind of yields does that imply? Is that the 12% unlevered that you were talking about before? In what market? Inc.
+Research Division</strong> The extensions that you did? Well the extensions were in 4 different buildings.
+So I think as you look at each building we're pretty comfortable that the Chicago building is right where we said it was previously 12%.
+The ACC5 building was actually north of that.
+There's only a couple of rooms taken there.
+The VA3 building as you know is roughly 50-plus percent leased.
+We still have some vacancy to fill that building up.
+So those were the original building -- that was an original building from the IPO.
+So those returns are -- if you benchmark off of what we paid to build -- buy the building versus the gap step up with the IPO we look pretty good.
+And it's much higher than 12% because we didn't pay much to buy that building.
+Yes.
+And the same with the ACC3 building a pre-IPO building.
+Those returns honestly are north of 15% if you look at the cost to build that building not necessarily the book value.
+So as a reminder that is something that we deal with with our book balance sheet.
+A lot of these older buildings got stepped up.
+And so that -- what we paid from a cost perspective and where we're at is -- there is a difference.
+[Operator Instructions] And our next question will come from Chandler Spears of Davis Fund.
+Inc.</strong> Hossein Mark I have a quick question for you.
+I can appreciate your comments on the cost of debt to capital and cost of preferred capital because I sit here and I look at your stock price your common equity and think about the history of the volatility in the stock at least over the past couple of years.
+And then I also consider your incremental use of capital and I heard the comment about using preferred for incremental investment.
+I can't help but think that your weighted average cost to capital is going up not down.
+And keep in mind my personal opinion is that preferred market window will eventually close when the yield preferences by a lot of investors starts to wane that's going to go away.
+So as I think about the future of this business how can you tell me that you think your cost to capital is coming down when I look at the cost of your common equities clearly going up? Does that question makes sense? Or is that an unfair question? Well I think it's -- Chandler we focus in on the cost of the debt because that's how we're planning to grow the company.
+And debt and preferred I guess we'll put in the same bucket even though it's preferred stock.
+Whether we borrow at 5% 6% secured loans or even cheaper than that we've kept the low levels secured.
+The preferreds 6.5% to 7% and the unsecured bonds obviously are inside that.
+So the idea of -- it's a fair amount just look at the stock price too.
+But I think as we look at the spread between what we're building at and what we can borrow at to grow it and yet holding it pretty steady I mean the volatility of the stock price we can't control that.
+All we can do is focus on the business and that's what we're trying to do.
+Inc.</strong> Right.
+No I appreciate that.
+But as a long-time investor in DuPont Fabros I mean there's certainly some -- and I agree that leasing is lumpy and I understand that.
+But at some point you're going to have to come back to investors and you're going to have to show a history of good decision-making which you have done.
+But the communication and -- sorry let me recap that.
+As an investor it's very hard to know what's going on at the micro level with these data centers.
+And in the absence of that we place a great deal of reliance on management to be very clear about how leasing is going.
+And my perception is that that you guys are not doing the best job of helping us understand something that we don't understand as well as you.
+And that's being strongly telegraphed in the stock price performance at least this year and certainly the reactions that we see quarter-to-quarter from your announcements.
+And I'm not saying it's fair.
+But like I said at some point you're going to have to balance -- you're going to have to -- your balance sheet is going to have to have some component of common equity because you're not private.
+And it's just as -- like I said it's frustrating to see this kind of volatility in something that we think has a great deal of value.
+So I think it's incumbent upon you to figure out where the communication breakdown is going on.
+And unfortunately I don't have a great answer for you now which I did.
+I think Chandler -- I mean the space in general doesn't have a lot of independent data points that you as an investor can look at.
+I mean the brokerage community is not involved with most of our deals.
+So if you're talking to brokerage community about deal flow they don't see most of them.
+In terms of what is the true supply in the marketplace and is it a company that's always in-source looking to outsource you don't know that and most investors don't.
+So it's something that Jo Dill [ph] has done.
+It's hard to talk about it.
+As far as the cost of capital your original question we went out at 8.5% on our unsecured bonds.
+They're now trading less than that.
+Our perpetual preferreds we feel we were at the high thousands.
+We feel that now we would be able to get them lower than 7%.
+So...
+Inc.</strong> Yes I completely agree with that and -- but look...
+[indiscernible] where it's not done the equity does what it does and we'll try harder to better communicate where rents are at and I think we did that today in where we're leasing.
+So I'm not sure.
+We'll think about it and try to communicate better.
+Inc.</strong> I agree but just keep in mind one thing.
+This is an abnormal interest rate environment that I hope none of us ever have to revisit.
+I don't believe for a second that you can contemplate the current level of interest rates in the bond market or the preferred market and expend you in perpetuity.
+Well I think when interest rates go up returns will need to go up to match that.
+So when companies build their own bill have their own cause of debt and we're an outsourcing solution for good or for worse.
+And the returns will have to mimic the cost of capital of the company that's trying to build their own.
+Inc.</strong> Right.
+Exactly.
+And then -- and to the point earlier on the call I mean if you're now building to a 12% one would hope as interest rates go up that 12% goes back out to 15% whatever.
+15% exactly.
+The 12% may have to be a 15% at that point.
+Our next question is a follow-up from Jordan Sadler of KeyBanc Capital Markets.
+Research Division</strong> I just had a follow-up regarding sort of the lease up or lease renewal to some existing tenants and the sort of handful of large tenants that you have in your portfolio.
+Any -- given sort of the significance of the roll down here it seems that there's a lot of control or leverage in the hands of the handful of super wholesale tenants.
+Any thoughts regarding diversifying the tenant base? I think we'll obviously sign leases with creditworthy tenants whenever we can.
+There are...
+Research Division</strong> Because I mean as -- I mean that as a focus or a concerted effort and strategy to limit or reduce the leverage as opposed to signing with somebody who wants to sign with you right.
+So do you actively market into a greater extent to alternative tenants? And where do you try and maybe bring other tenants into the fold either through other property acquisition maybe the sale of a property with reduce exposure to a tenant investing in a retail solution? I think retail we've looked at retail on and off a number of times and we are interested in retail.
+I think eventually the markets will have just super wholesale all the way down to retail.
+So I think that is a good solution.
+But the credit worthiness of our tenants is I don't think being realized right now.
+It's significantly better than the credit worthiness of the retail tenants.
+And the fact that 70% 80% of our tenants are investment grade or better and we've got them locked in for a very long time.
+Our average lease term is now approximately 8 years 7.5 to 8 years in the entire portfolio.
+So I don't -- I think it's a good -- a very good business long term and we have to work through this slump.
+Our next question is a follow-up from Emmanuel Korchman of Citi.
+Research Division</strong> Yes it's Michael again.
+I think you'd mentioned that one of the leases -- or I don't know if it was both of the leases that were signed in the quarter the new leases were from tenants that you signed the extensions with? That is correct.
+Research Division</strong> Was it both or just one? It was one tenant that signed both leases and that tenant also signed an extension on several rooms in 2 markets.
+Research Division</strong> And I guess as you think about that was it -- the only way I'm taking new spaces is you'll lock me in at a reduced rate going forward.
+I'm just trying to understand the dynamics of these conversations.
+I'll try to give you as much color as possible.
+No I thought that we went to the tenant and said look -- the tenant wanted more space and we said "Look we just like to do a super wholesale deal " and they said yes and we've done a super wholesale rate with that tenant.
+And then at the same time we discussed extending their original leases and they said "Could we extend the original leases at the same rate?" And we said "Okay.
+Yes we'll let's do that." Research Division</strong> And the 12% that you're quoting that is the stabilized gap yield effectively over the life of the lease correct? Not the initial cash yield? That is correct.
+Research Division</strong> And if the gap rent declines I think you said it was down 6%.
+And effectively the...
+No that 12% is at the reduced rate.
+Research Division</strong> Right.
+What I'm just saying when you built all these facilities right and you've got a 12% you're effectively -- because you're not putting any new capital in you've extended your 12% yield for another 7 8 years right? You put a known increment like capital into these transactions.
+Yes.
+Research Division</strong> The rates even though they'll step down when the leases -- when the current lease expire by about 25% they'll then grow again 3% a year for another 8 years? That is correct.
+Research Division</strong> And so that when you blend the 23 years in total that you'll have 15 16 years of yields at these assets you'll have still earned probably around the 12% yield on that capital? That's correct.
+Research Division</strong> And that if we take ACC3 that cost to build ACC6 and the rent that you're receiving on ACC6 because it was leased as a wholesale the whole thing would be equivalent to the new rent that you signed on ACC3? I think that's a fair analysis.
+I mean the 3 buildings was again the original building.
+It actually didn't -- that building was one of the ones that actually did not have a step up.
+So if you pull the cost basis from the Schedule 3 of the 10-K you'll find the original cost of that building.
+And so the returns that we're getting on these new rents are still north -- are honestly north of 15% for that building with these reduced rents.
+That thing has just been a home run.
+Research Division</strong> Right.
+And I think in response to Ross' question you sort of made the analogy between being private and being public.
+Then as a private guy you would have just said I'm confident in the demand and I'm confident in these data centers and the tenants' use of the space.
+I'll wait.
+I guess compare that to sort of market price of your stock right which is now implying almost an 11% implied cap rate relative to the private market value of those assets and how do you think is -- you're clearly a big owner of the stock and with your partner even a larger owner of the stock.
+At what point do you say the right thing to do is for me to buy? At what point do you say maybe the public market is not the right vehicle for this entity? And where you sort of just you sell right or you buy more right or the company buy -- has a share repurchase program given the increased liquidity and you take advantage of the preferred and debt market and you lever up a little bit because at the 11% cap rate you think the value -- the disconnect between an asset value is extraordinarily wide? Well I think the stock is extraordinarily cheap and I wish I had more cash to buy more.
+But as a company we're looking at that Mike.
+That's a very good way to put it.
+Research Division</strong> You're looking at what? At selling the company or putting a share repurchase program in place? [indiscernible] The latter.
+Research Division</strong> I mean why not.
+I mean if selling the company to -- you have a lot of these data center companies running around trying to be REIT.
+Does that upper -- offer an opportunity given you're already in the REIT structure and someone reverse and merges into you? I mean these are all great theoretical questions and we look at all of them and think about all of them.
+I'm not sure how to answer you.
+I'm not sure...
+Research Division</strong> But you didn't think about -- your mindset in going into these lease or signing these extensions was that your stock was not going to go from $24 to $20 right? Yes.
+No I didn't think so.
+Research Division</strong> Right.
+You had the opposite mindset that you would provide a more comfort to the marketplace that your tenants are staying -- they're staying at current market rents and maybe had to obviously maybe just a little bit below because you had to induce them to sign today if there was a cost of doing it.
+But that it would add more security to the asset value than detract from it? I think that's fair.
+Yes.
+Research Division</strong> And so now that it's gone the other way the question is what do you do about it? Well I have to think about it.
+Let's talk about it later.
+I'll think about it.
+It's a lease off rightly or wrongly we would give the market comfort that the larger tenants are here to stay.
+Research Division</strong> And then if you look at your average rent per megawatt which is about $1.3 million in your estimation do you believe that's close to market even though you signed 14% of leases down 25% cash? Well I think the -- some of our yield of leases were higher than that.
+And we -- so they were brought down.
+So some of the older leases were higher than that $1.3 million.
+Research Division</strong> Well yes.
+I'm just wondering if you went after every one of your tenants and have to extend them today or bring them all to market the same way that you did with 14% in your asset base what would the new rent be today? I think rent today are about $100 per kilowatt for tenants that are 1 megawatt to 8 megawatts $100 per kilowatt per month.
+Research Division</strong> So that translates into $1.2 million? Yes exactly.
+And then you got a management fee of like $8 so it's almost your $1.3 million.
+Research Division</strong> So effectively you believe your current rental string today even if you were to mark-to-market everything would be in line? Well yes exactly.
+And the leases that are locked in are locked in for 7.9 years.
+So the leases are locked in for 7.9 years and I've addressed some of the issues that were 4 years out.
+Now do I address issues that are 8 years out? I don't think so.
+Research Division</strong> Well you're only at 15% rolling between now and 2015.
+Exactly.
+That's what I'm saying.
+So I don't think we -- do we build and address those issues? I don't think you address things that are 18% -- I mean 8 years out.
+Research Division</strong> And I guess what -- is there any other color in terms of the bid ask in terms of the rents that you can share? No.
+I don't think there's any more color than what we've shared.
+Our next question comes from Tayo Okusanya of Jefferies.
+Inc.
+Research Division</strong> One question with regards to what Michael was asking about.
+While you don't need to address leases 8 years out I just wonder that given the pricing is on the expansions what kind of negotiation situations that puts you into in regards to super users who are still looking to take up space within your data centers.
+Did they just point to that pricing and say that's what I want going forward? And that effectively lowers your yield going forward the new leases? Well I think it's on super wholesale deals we'll expect the return on capital to be approximately 10% 11%.
+On the regular deals we're getting north of 12%.
+Inc.
+Research Division</strong> Right.
+But the new rents you're signing the extension that suggest a yield lower than 10% if there's...
+No that is not correct.
+If you look at ACC6 I would say 70% of ACC6 is super wholesale and we're getting 12% on that building.
+Inc.
+Research Division</strong> Yes.
+But that was all done before the lease extensions.
+No.
+No.
+Those rates are the same rates as -- it's a very good question -- as the super wholesale rates.
+Inc.
+Research Division</strong> Okay.
+So the rates on the extension are the same as the super wholesale rates you're getting? That is correct.
+There are no further questions at this time.
+Thank you for joining us today.
+We look forward to seeing you folks at NAREIT next month in San Diego.
+This concludes today's call.
+At this time you may disconnect.

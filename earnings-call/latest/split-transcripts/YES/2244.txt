@@ -1,0 +1,294 @@
+Ladies and gentlemen thank you for standing by and welcome to the Level 3 Third Quarter 2013 Earnings Conference Call.
+[Operator Instructions] As a reminder this conference is being recorded today Wednesday October 30 2013.
+I would now like to turn the conference over to Valerie Finberg Vice President Communications and Investor Relations.
+You may begin.
+Thank you Fran.
+Good morning everyone and thank you for joining us for the Level 3 Communications Third Quarter 2013 Earnings Call.
+With us on the call today are Jeff Storey President and Chief Executive Officer; and Sunit Patel Executive Vice President and Chief Financial Officer.
+To accompany today's call you can find the presentation slides press release and supplemental schedules in the Investor Relations section of the Level 3 website at www.level3.com.
+During our discussion of revenue results today we will be comparing this quarter's period to prior periods.
+Unless otherwise noted all revenue comparisons to prior periods are provided on a constant currency basis.
+I need to cover our Safe Harbor statement which can be found on Page 2 of our 3Q '13 earnings presentation which says that information on this call and in the presentation contain financial estimates and other forward-looking statements that are subject to risks and uncertainties.
+Actual results may vary significantly from those statements.
+Discussion of factors that may affect future results is contained in Level 3's filings with the Securities and Exchange Commission.
+Finally please note that on today's call and in the earnings presentation we will be referring to certain non-GAAP financial measures.
+Reconciliations between the non-GAAP financial measures and the most comparable GAAP financial measures are available in the press release and presentation which are posted on our website.
+I will now turn the call over to Sunit.
+Thank you Valerie and good morning everyone.
+I'd like to start with some of the highlights for the quarter which can be found on Slide 3 of our presentation.
+Core Network Services revenue or CNS revenues grew 2.9% year-over-year and enterprise CNS revenue grew 7.4% year-over-year.
+Our CNS sales orders continue to see nice growth year-over-year.
+Year-to-date excluding severance charges adjusted EBITDA grew 13% compared to the first 3 quarters in 2012.
+And since the end of the last quarter the company refinanced approximately $2.6 billion of debt resulting in $23.5 million in annualized net cash interest savings.
+Turning to revenue on Slide 4.
+Year-over-year CNS revenues grew 2.9% to $1.397 billion in the third quarter of 2013.
+On an as-reported basis CNS revenue grew 2.3% year-over-year in the third quarter of 2013.
+The company continues to experience currency headwinds in Latin America particularly with the Brazilian real in the third quarter.
+Sequentially CNS revenue increased 1.7% an improvement over the 1.1% increase in the third quarter of 2012.
+Excluding U.K.
+government revenue CNS revenue grew 3.7% year-over-year and 1.8% sequentially.
+Enterprise CNS revenue grew 7.4% year-over-year and 3.1% sequentially.
+Excluding U.K.
+government revenue enterprise CNS revenue grew 8.8% year-over-year and 3.4% sequentially.
+Wholesale CNS revenue declined 4.4% year-over-year and 0.8% sequentially.
+We continue to see declines in wholesale due to industry consolidation and network grooming by our customers.
+On a regional basis North America CNS revenue grew 2.5% year-over-year and 1.8% sequentially.
+Enterprise CNS revenue growth strengthened this quarter increasing 7.8% year-over-year and 3.3% sequentially.
+Success in our North America Enterprise business continues to be based on strong demand of VPN CNS voice CDN and high-capacity transport services from both new and existing customers.
+In EMEA CNS revenue declined 0.9% year-over-year as expected and increased 0.1% sequentially.
+Excluding U.K.
+government revenue EMEA CNS revenues grew 3.6% year-over-year and 0.8% sequentially driven by continued strong enterprise performance.
+EMEA enterprise CNS revenues grew 8.7% year-over-year and 3.1% sequentially.
+Professional services in combination with VPN services provided a strong contribution to revenue growth this quarter in EMEA.
+Latin America CNS revenue grew 10% year-over-year and 2.9% sequentially.
+Enterprise CNS revenue growth was 13.1% year-over-year and 4.1% sequentially.
+Enterprise strength in the third quarter was driven by continued demand for IP VPN and security services.
+Wholesale Voice Services and other revenues declined to $172 million in the third quarter of 2013 compared to $225 million in the third quarter of 2012.
+At the bottom of Slide 4 for the third quarter 2013 we saw our CNS revenue churn decrease to 1.4% from 1.5% in the second quarter.
+Turning to revenue results by product group.
+Our enterprise-focused products continue to drive customer demand.
+On an as-reported basis overall CNS revenue grew 2.3% year-over-year with the strongest growth coming from IP and data services revenue which grew 5%.
+VPN high-speed IP CDN and managed services were the main drivers of growth in this product group.
+CDN revenue grew 37% year-over-year as customers continue to demand a higher level of service to deliver their content across the world.
+Colocation and data center revenue grew about 4%.
+Transport and fiber services and CNS voice services revenue were relatively flat.
+From a pricing perspective we saw little change in the pricing environment during the third quarter.
+Overall Level 3 is being more disciplined in our approach to pricing across our product portfolio.
+Turning to Slide 5.
+Gross margin was 61.2% for the third quarter of 2013 up from 59.6% in the third quarter of 2012.
+Gross margin in dollars improved to $961 million in the third quarter of 2013 compared to $948 million in the third quarter of 2012.
+The expansion in our gross margin was a result of the growth in high-margin CNS revenue and continued optimization initiatives.
+Turning to SG&amp;A on the bottom of Slide 5.
+During the third quarter we reduced our global workforce by about 6.5%.
+As we disclosed previously we took a $30 million severance charge in the third quarter of 2013 due to the reductions.
+We expect that this action will result in approximately $15 million of quarterly savings beginning in the fourth quarter of 2013.
+We also continue to be disciplined in taking non-headcount costs out of the business.
+Excluding the severance charges the noncash compensation in the third quarter of 2013 and the third quarter of 2012 SG&amp;A expenses declined 4.2% to $546 million compared to $570 million in the third quarter of 2012.
+SG&amp;A as a percent of revenue improved to 34.8% from 35.8%.
+On Slide 6 adjusted EBITDA for the third quarter grew to $415 million compared to $378 million for the third quarter of 2012 excluding severance charges in both periods.
+Year-to-date excluding severance charges EBITDA grew 13% to $1.204 billion compared to $1.066 billion for the first 3 quarters in 2012.
+For the third quarter 2013 adjusted EBITDA margin increased to 24.5% compared to 23.4% for the third quarter of 2012.
+Excluding severance charges in the third quarter for both 2013 and 2012 adjusted EBITDA margin expanded to 26.4% from 23.8% in the third quarter of 2012.
+At the bottom of Slide 6 capital expenditures were $194 million in the third quarter of 2013.
+Capital expenditures during the quarter and for year-to-date were approximately 12% of revenues.
+Turning to Slide 7.
+Unlevered cash flow for the last 4 quarters went from $583 million for the quarter ending June 30 2013 to $594 million for the quarter ending September 30 2013.
+During the same periods free cash flow for the last 4 quarters went from negative $109 million to negative $42 million.
+We expect continued improvement in the fourth quarter.
+Year-to-date working capital has been a use for cash -- use of cash.
+Our accounts payable balance for example declined to $633 million at the end of the third quarter from $779 million at the end of 2012 a decrease of $146 million.
+The reduction in accounts payable also includes the settlement of several long-standing network expense disputes with U.S.
+carriers in the third quarter.
+As we mentioned last quarter our interest expense payments are higher in the first and third quarters of each year.
+Net cash interest expense in the third quarter 2013 was $178 million compared to $145 million in the second quarter of 2013.
+We expect net cash interest to decrease by $46 million in the fourth quarter to $132 million.
+During the quarter as noted on Slide 8 we successfully completed the refinancing of approximately $1.4 billion in 2 separate senior secured term loan transactions.
+In the fourth quarter of 2013 we completed the refinancing of approximately $1.2 billion in an additional senior secured term loan transaction.
+As a result the company will incur a loss in the refinancing of $10 million or approximately $0.04 per share in the fourth quarter of 2013.
+In total for the 3 transactions the company expects approximately $23.5 million in annualized net cash interest savings.
+At the end of the third quarter of 2013 our net-debt-to-adjusted-EBITDA ratio was 5.2x.
+Net debt went up slightly during the quarter as our cash balance declined.
+In the fourth quarter we expect nice improvement in our leverage ratio driven by stronger adjusted EBITDA and free cash flow performance.
+Our debt-to-adjusted-EBITDA target ratio continues to be 3x to 5x.
+Our objective is to now get to the low end of that range.
+As of September 30 2013 we had cash on hand of $507 million.
+In summary we are reiterating our business outlook for 2013 as outlined in today's press release and on Slide 9 of our presentation.
+Given growth in our CNS sales orders year-to-date and the continued strength in our enterprise business we feel good about the revenue outlook for the fourth quarter.
+Also in the fourth quarter we expect stronger sequential growth in adjusted EBITDA compared to the $415 million in the third quarter excluding the severance charges.
+This improvement is a result of the cost actions taken during the third quarter and CNS revenue growth.
+Also I would like to note that despite the $40 million in unanticipated severance charges in the second and third quarter this year we are maintaining our outlook to be free cash flow positive excluding the $45 million in payments related to interest rate swap agreements.
+In closing we feel confident with our outlook for 2013 and feel we are well positioned for growth in 2014.
+With that I'll turn the call over to Jeff.
+Thanks Sunit.
+Good morning everyone and thank you for joining us.
+Before I get into the details I'll cover a few highlights for the quarter.
+Our enterprise solutions continued to drive our business now representing 65% of our CNS revenue.
+We see strong demand helping customers solve the complexity of their IT environments.
+Our portfolio of enterprise solutions and our ability to manage large and complex network projects are key to our success.
+Overall CNS revenue growth strengthened this quarter primarily from growth from enterprises.
+CNS sales grew 7% year-over-year again driven primarily from enterprise demand.
+From a revenue perspective total CNS revenue grew 2.9% year-over-year and enterprise CNS revenue grew 7.4% year-over-year.
+Sales in the third quarter have provided a good book of orders to be installed providing confidence as we look to the fourth quarter.
+To achieve our goal of driving profitable growth we took additional steps during the quarter to simplify the organization and streamline our business reducing headcount by about 6.5%.
+Excluding the severance costs associated with that action we had another quarter of good growth in adjusted EBITDA.
+As I've mentioned over the summer we reviewed our strategy and our go-to-market plans.
+Our overall approach remains intact.
+While we will leverage our leadership position in the wholesale market we will continue to sharpen our focus on enterprises and the solutions that they need.
+Focusing on operational excellence specifically the customer experience and network performance remains integral to our strategy and we believe essential to growing market share in the enterprise channel.
+We continue investing in growth by expanding and enhancing the products and services that enterprises need to solve the challenges of their evolving operating environments.
+Ensuring our product road map meets their needs today tomorrow and in the future is a core element for driving profitable growth over the long term.
+We are also taking a hard look at the natural obsolescence of technology and how that affects the services we sell and what our customers want to buy.
+As customers transition to new technologies to remain competitive within their own industries these transitions create very real opportunities for Level 3.
+Turning to our results by sales channel and region I'll touch on wholesale for a moment.
+As Sunit mentioned our wholesale customers are focused on managing their own costs through network grooming just as we are doing to reduce our network expenses.
+Combined with industry consolidation we do see revenue pressure in this channel.
+Our strategy with wholesale is to maintain our market share while also continually improving operational efficiency to maximize EBITDA contribution from these customers.
+Wholesale is an important part of our business but it will not drive growth in the near term.
+We continue to make great progress in growing revenue in the enterprise channel.
+Let me take a minute to walk you through what we're seeing in each of our 3 regions.
+Starting in North America our enterprise business continues to be based on strong demand for VPN CNS voice IP and high-capacity transport services.
+Incremental business from existing customers as well as business from new customers is often driven by customers' needs to migrate to new solutions.
+Those migrations can be driven by a number of factors.
+Given our global network we are well positioned to meet the requirements of customers seeking increased globalization.
+Customers may realize the need for additional layers of security where our solutions are based on our unique position and our ability to monitor the global threat landscape.
+When other customers look to expand bandwidth or eliminate legacy technologies they turn to Level 3 to help manage and lower the total cost of ownership for those networks.
+As a recent example Reed Elsevier a leading provider of professional information solutions wanted to improve their delivery capability to their worldwide customers.
+The company provides professional information solutions leveraging deep customer understanding to combine high-quality content and data with analytics and in technology platforms.
+Reed Elsevier's technology services division reshaped the way it serves its business units and connects to the rest of the world.
+To enable their next-generation technology significantly increase capacity and improve total cost of ownership Level 3 brought key customer sites on-net to deliver high-bandwidth Ethernet services.
+We are connecting their data centers to colocated equipment at Level 3 gateways laying the foundation for the re-architecture of their entire telecommunications platform.
+Through their relationship with Level 3 Reed Elsevier is positioning itself to continue to lead the way as one of the world's premier providers of information solutions.
+As more businesses migrate to cloud solutions the public Internet is not the best vehicle for customer access.
+Network performance and security are key constraints of the public Internet.
+Level 3 cloud connect solutions and our managed security offerings directly address these concerns for end users application and cloud service providers.
+I'd also like to mention that in the North America region despite the federal government shutdown our government channel had the best sales quarter ever coming from multiple agencies and customers.
+In EMEA we continue to do well solving enterprise networking needs including global connectivity solutions for European multinational corporations and have seen success with content customers that require scalable high-performing CDN and other services.
+In the U.K.
+government channel we saw the last of the contracts that we're transitioning leave our network in the second quarter.
+Despite deep declines in the U.K.
+government revenue we've been effective in minimizing the impact on the bottom line.
+While certainly a challenging area to grow we are aligning our approach with the changes in the way the U.K.
+government procures services and we'll continue to pursue the opportunities we see for profitable growth.
+In Latin America we see growing demand for IP VPN services high-capacity Internet services and connectivity to data center services.
+Growing Ethernet services are also driving demand.
+While Vyvx and CDN services were just launched last year we are seeing success in selling these services within the region.
+Additionally sales made in other regions over the Latin American assets continue to be strong especially for connectivity in Brazil.
+The customer experience remains a top priority for the company and I see opportunities for us to improve.
+Managing off-net vendors continues to be a challenge.
+And during the quarter we saw extended delivery intervals for many of our off-net providers.
+This is an industry-wide challenge and reinforces our strategy to add more and more locations directly onto the network.
+We believe providing an excellent experience for our customers is one of Level 3's key differentiators.
+And I set the expectation within the company that we should improve each and every quarter.
+We are focused on both short-term and long-term initiatives to continually improve our customer satisfaction.
+Looking at the sales force.
+As part of the global reduction in force we reduced quota-bearing headcount focusing on the bottom 2 quintiles of performers.
+We exited the third quarter with approximately 900 quota-bearing headcount.
+We continue to look for opportunities to improve the productivity and effectiveness of our existing sales force.
+And despite the lower QBHC numbers CNS sales grew 7% year-over-year and we had a healthy funnel.
+In summary I feel good about the opportunities in the enterprise channel and our ability to meet the needs of the market.
+I believe we're making the right investments and changes to drive predictable profitable growth and remain focused on growing free cash flow per share.
+Keep in mind that the outcomes of these changes take time but I believe we're on the right path to achieve our financial goals.
+With that we'll open it up to questions.
+Operator would you explain the process? [Operator Instructions] And our first question is from the line of Simon Flannery with Morgan Stanley.
+Research Division</strong> Jeff I wanted to follow up on the profitable growth and in particular on the revenue side of things.
+I think Sunit mentioned that you're becoming more disciplined on price perhaps looking at products that are not profitable and raising prices or exiting or rationalizing.
+And I see wholesale voice continuing to be under pressure.
+Could you provide more color there about the opportunities you see to be more disciplined and how long that's going to take to play out? Sure.
+We see great demand for our products and services.
+We are offering our products to the market that solve the customers' challenges.
+And we expect to generate the value that those products and services are delivering.
+And so we've been more disciplined.
+We've worked with our product team to be strategic about our pricing understanding exactly where we are in the market understanding the granularity of pricing market by market region by region and then putting the discipline in the sales channel and our efforts to ensure that we improve our pricing position.
+And our Wholesale Voice I think Simon as we pointed out as the world moves more and more to IP-originated and IP-terminated traffic more mobile that business is declining.
+It's not really having much of an impact on our margins as we -- it's a lower-margin business.
+Variable margins are much lower and it's very small dollars in terms of our total gross margin picture.
+And we manage that for margins.
+So it's not really impacting us much from a margin perspective and we think that decline will continue.
+Research Division</strong> So is the pricing discipline are you actually raising price in a lot of -- across a lot of products? Or is it more tweaking? No.
+We are -- in some cases we are raising; in some cases tweaking.
+But with the -- we just -- we have a price -- strategic pricing group within our marketing and products area and they are combing through pricing on a micro basis on all our products and tweaking and in many cases increasing in different products.
+Our next question is from the line of Ana Goshko with the Bank of America Merrill Lynch.
+Research Division</strong> I wanted to get more color from you if I could on gross margin because it was a quarter where you had revenue go up but cost of service go down which is great.
+And I know we've heard you say many times that there's high incremental margin on incremental CNS revenue but it appears that there's something else going on as well.
+I'm wondering if it is continued efforts to bring things on-net and if there's more of this to come in the future in terms of the gross margin trend.
+I mean I think it's a good quarter from a network optimization perspective and we continue to spend a fair bit of time -- our access management organization is spending a fair bit of time in North America to groom things bring things on-net.
+In addition in EMEA we've also ramped up our efforts there.
+And we're beginning to see benefit come there too and we think there's more there to be done there over the next year also.
+So we continue grooming and optimization.
+Research Division</strong> And then if I could just ask a quick capital structure question.
+You've got some converts the 6.5% converts which there is a soft call provision on those that I think went into effect in October.
+And I think based upon where your stock is trading and knock on wood it stays there you would have the opportunity to call those out.
+And wondering if your stock stayed strong enough would that be the plan to call those notes out.
+I think without talking specifically about that note just stepping back I think as I mentioned in my comments our objective is to continue to bring our leverage down and as Jeff pointed to improve our free cash flow per share.
+So I think that any actions we take that result in both those things happening we would certainly take a look to that look to doing that over the next couple of years.
+Our next question is from the line of Scott Goldman with Goldman Sachs.
+Research Division</strong> I wanted to -- maybe for Jeff and Sunit on the operational efficiency side wondering if any of the force reductions if we saw any benefit in 3Q this quarter.
+And then Sunit I think you said $15 million per quarter.
+Is that sort of the full run rate in 4Q that we should be thinking about for 2014? And I guess bigger picture for Jeff on that topic as you think about that those savings coming through from those efficiencies is that something that you think about being incremental to the margin opportunity in the business? Or is that something where you think there's an opportunity to maybe reinvest for further growth opportunities as you look at 2014 and beyond? So I think Scott on the savings $15 million is where we expect in the fourth quarter.
+Can it be a little better than that going forward? Possibly.
+We're being cautious just because as any of these actions as they play out you want to see what happens but we definitely feel comfortable at $15 million a quarter and we can talk more about that in future periods.
+But that we full very comfortable with.
+We didn't see too much benefit in the third quarter just given the timing of the actions during the quarter.
+And I think as we've mentioned that I think that pulling -- or those cost reductions gets us past the $300 million mark.
+We talked about the Global Crossing synergies and as Jeff has pointed out quite a few times in the past by milestone driven.
+So we felt comfortable and confident to take the actions when we did.
+I'll let Jeff add to that.
+But I think essentially we're now past the $300 million mark on the Global Crossing synergies.
+And with respect to reinvesting in the future absolutely we will continue to invest.
+I mentioned that we invest in our products in enhancing our capabilities.
+We're focused on being profitable today but we're also focused on growing this business and being profitable 3 4 5 years from now and need to invest significantly to do that.
+For example right now we're adding service delivery people in several of our regions because we need them to support the sales that we're seeing.
+And so we will continue to invest.
+But we will also maintain a disciplined focus on managing our costs and making sure that we're building an organization to deliver the business we have today.
+And maintain the incremental margins we've talked about in the past while we're doing that.
+Research Division</strong> So we should be thinking about the 60% sort of still in effect for '14 and that these actions don't really change that but perhaps give you some opportunity to reinvest on the growth side.
+Yes.
+I think generally yes.
+Our next question from the line of Colby Synesael with Cowen and Co.
+LLC Research Division</strong> It's Greg Williams actually sitting in for Colby.
+Just a quick one on the net leverage goal.
+Nice improvement and they're still hovering around that high end of your 3x to 5x range.
+And Sunit I think you said you want to hit the low end of the range.
+Is there a time frame for that goal? And how should we think about your deleveraging priorities in light of opportunistic M&amp;A and CapEx et cetera? Yes.
+I mean I think that we have quite a bit of opportunity just because of strong EBITDA growth which we hope to continue to drive and some amount of debt reduction whether it's converts or whether it's paying down debt with cash and I'm looking over the next 3 years.
+So I think there are plenty of ways that we will be able to keep driving the leverage now.
+So I mean I can't say exactly how many years but I think we'll continue to see meaningful reductions in that debt-to-EBITDA ratio every year given all the degrees of freedom we have now as I just mentioned.
+Our next question is from the line of Frank Louthan with Raymond James.
+Inc.
+Research Division</strong> Looking at top line in CNS.
+To really grow that meaningfully higher is there going to be a CapEx need to invest in that.
+And over time as you see maybe the economy improve or so forth should we expect CapEx to be higher than 12%? And if not why is it going to stay at that level? So I think first in the short term with revenue I think one of the big benefits is just that we don't have the declines or the big disconnects that we've had this year.
+I mean going forward we'll expect churn to continue but not very large ones some of the ones that we experienced earlier this year.
+So that's a help.
+And U.K.
+government revenue not going down helps in the short term just as you look at revenue comparisons.
+But as Jeff pointed out we are going to keep focused on investments here to make to drive better top line performance over time.
+And with respect to CapEx I think that we continue to feel comfortable at 12%.
+But if revenue growth does move up meaningfully it might go up a little but I think that is too early to say that now.
+Because then CapEx going up would follow higher revenue growth performance.
+But in the short term we don't see the 12% changing and we do see better revenue growth dynamics just because we're not -- we don't expect to experience the kind of declines we have over the last year.
+We will invest for growth and we'll continue to do that.
+12% is about what it's taking us so far and it seems reasonable going forward.
+We think we have a capital efficiency advantage in the marketplace from the scale and scope of our network whether it's the buildings that are closed to our network being within 500 feet we can add them more effectively; or the scale of our IP backbone we can add capacity more efficiently; or the scale of our CDN.
+We believe we just have a capital advantage over other people in the market.
+Our next question is from the line of Donna Jaegers with D.A.
+Davidson.
+Research Division</strong> On the stock comp is this a good -- I know you guys have been talking about this will be lower going forward.
+Is this a good run rate now to run off of? Yes I believe so.
+Well I think this is a good run rate yes.
+I think so.
+Research Division</strong> Okay.
+And then just a little color on the wholesale -- CNS wholesale going forward.
+Obviously Leap is going to be wrapped into AT&amp;T when that closes probably sometime in the first quarter.
+Can you size that a little for us? Is it $10 million-ish? Look I mean we always hesitate to give specifics on any customers without any -- their permission.
+But I would say I mean as Jeff has mentioned as you heard us say we continue to see consolidation drive churn in the wholesale segment.
+And wireless consolidation would be a theme next year not just for Leap transaction but Clearwire Sprint and others.
+So -- but I think we obviously have factored all of that in our thinking as Jeff remarked.
+Our next question is from the line of Thomas Egan with JPMorgan.
+Research Division</strong> Sunit I just want to follow up on a question that Ana asked earlier.
+I know that in general you look to do things that makes sense from a debt-reduction perspective and a cash flow perspective.
+But if you could just maybe frame it a little bit more specifically.
+Does it -- you've got the soft call converts that Ana talked about.
+There's probably at least 1 maybe 2 large coupon notes that are out there that could probably be refinanced given where your notes are today.
+So how do you think about prioritizing those things what you're going to do with cash flow what you're going to do with refinancing? How should we think about what you're looking at and what's on your radar screen for the capital structure? Sure.
+So I mean we've always said that ever since we combined with Global Crossing that we think that besides the operating synergies that there will be synergies on -- below the line on interest expense.
+So reduction -- reducing interest expense obviously helps our free cash flow without adding to the share count and works a little trickier because it reduces interest expense but adds to the share count which is why I made the comment that it -- over to Ana's question that has to have the benefit of both improving cash flow and improving cash flow per share while reducing interest.
+So yes we do have opportunities.
+To your point we have been -- as you know we are quite opportunistic in that area.
+We've already done as we pointed out well over $2 billion of financings refinancings already just in the last quarter.
+And we will continue to take a look at opportunities where we can and it makes sense and it's accretive on a cash flow basis and good NPVs on a cash flow per share basis.
+We'll continue to be opportunistic and move aggressively as we have in the past.
+I don't believe we have any other questions in queue is that right operator? That is correct sir.
+Right.
+So before we wrap up today I'd like to leave you with a few key points.
+We had a solid quarter.
+We are focused on initiatives that will drive revenue growth and are investing for today and the future.
+We remain focused on continually improving the customer experience and believe it differentiates us in the market.
+We continue our disciplined approach to managing costs and are focused on driving free cash flow per share growth.
+Lastly I think we have the best team in the industry.
+I believe that our alignment around the services that will drive enterprise growth we will continue to enhance our ability to win in all our regions.
+As always I appreciate your interest in Level 3.
+Operator that concludes the call.
+Thank you ladies and gentlemen this does conclude the conference call for today.
+We thank you all for your participation and kindly ask that you please disconnect your lines.
+Have a great day everyone.

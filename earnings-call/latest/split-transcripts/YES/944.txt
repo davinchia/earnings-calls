@@ -1,0 +1,335 @@
+Good afternoon.
+My name is Kirk and I’ll be your conference operator today.
+At this time I’d like to welcome everyone to the Williams Controls Third Quarter 2012 Results Conference Call.
+All lines have been placed on mute to prevent any background noise.
+After the speakers’ remarks there will be a question-and-answer session.
+(Operator instructions) Thank you.
+Mr.
+Dennis Bunday Chief Financial Officer.
+You may begin your conference.
+Good afternoon everyone.
+And welcome to our third quarter 2012 conference call.
+Before we begin you should note that the following discussions and responses to questions reflect management's views as of today August 8 2012 and may include forward-looking statements.
+Actual results may differ materially from those projected in the forward-looking statements.
+Information concerning risk factors and other factors that could cause actual results to differ materially is included in our filings with the SEC including our 2011 annual report on Form 10-K our fiscal 2012 quarterly reports on Form 10-Q and our fiscal 2012 current reports on Form 8-K.
+Specific factors that may cause such a difference include but are not limited to availability of adequate working capital domestic and international competitive pressures increased governmental regulation increased costs of materials and labor and general economic conditions in the United States and abroad.
+I will now turn the call over to our CEO Pat Cavanagh for his comments on the quarter.
+Thank you Dennis.
+Good afternoon everyone and welcome to our fiscal 2012 third quarter investor conference call.
+I’m glad so many of you could join us today.
+I think we have a record number of participants today.
+This morning we released our financial results for our fiscal third quarter that ended June 30 2012.
+Sales for the quarter were $16.4 million down 2.3% from $16.8 million reported in the comparable period last year and down 2.7% from the second quarter of fiscal 2012.
+Even though sales were down 2.7% from the second quarter net income remained relatively level at $845 000.
+For the nine-month period sales increased $3.6 million or 8% to $48.7 million from the comparable nine-month period last year.
+Net income for the nine-month period was $2.8 million up 16% compared to $2.4 million in the comparable period last year but it was impacted by India startup costs and higher material cost that Dennis is discussing further in his portion of the presentation.
+NAFTA was the primary driver of sales in the quarter up 5% from the comparable quarter last year and 19% year-to-date.
+Sales in the NAFTA region were led by our commercial truck customers which were up 13% for the quarter and 36% year-to-date compared to last year.
+OEM truck sales were down slightly quarter-over-quarter however.
+NAFTA Class 8 production in the first half of the calendar reached 150 000 units.
+But based on recent weakness in new orders the falling order backlog and higher inventory levels production is projected to be lower in the second half of this calendar year.
+Current NAFTA truck production in 2012 is projected to reach 270 000 units which is up from last year’s 255 000 trucks.
+We believe however the near-term economic uncertainty will end later this year after the election and that will result in NAFTA Class 8 production to be similar -- at similar levels in 2013 and ’14.
+We also expect the Class 4 to 7 productions will be slightly higher in 2013 and ’14 due to improving construction trends in aging equipment.
+India sales from our new manufacturing facility in Pune are up 41% fiscal year-to-date at $1.1 million and up 43% when compared to the same quarter last year.
+Sequentially quarter-over-quarter we saw 34% drop in sales to 361 000 probably due to comparison with the strong second quarter and a couple of customer shutdowns in this quarter as a result of weak truck orders.
+We’ve been able to implement price increases in India due to the rising material costs and we are moving forward with our local sourcing and sensor product and as a matter of fact we started sensor product this month in India.
+We expect to complete all of our local sourcing by year end and we are confidence that our startup cost in India will not be drag on our earnings in Calendar 2013.
+Our China sales in the third quarter were up 8% sequentially at $728 000.
+But we are still down year-to-date due to weak commercial truck and off-highway equipment markets.
+In the first six months of the year China heavy trucks sales declined by 32% from 2011 to 371 000 vehicles.
+It should be noted that the top five heavy truck makers in China now have 82% market share and they all had varying degrees of sales decreases from last year.
+As you know China’s stimulus policy boosted the commercial truck market in 2009 and ’10 and the commercial vehicle OEMs are hoping that government -- the government will take measures in the second half of this year to boost infrastructure investment and increase truck and off-highway equipment sales which would be an addition to the newly released trading subsidies from scrapping vehicles.
+It is widely anticipated that sales of heavy truck off-highway equipment in China will improve in the second half of the year.
+Since our last investor call we have not heard any -- we’ve not heard any other feedback on the new emission regulations in China slighted for July of 2013.
+Sales in Europe were down 6% compared to the same quarter and also down 7% year-to-date as a result of the weak economic climate and customer uncertainty.
+I think we can logically expected weakness for the rest of the year in Europe but I expect the rebound next year due to the prebuy for the 2014 emission regulation changes.
+Global off-highway sales were also down 6% for the quarter but up 15% year-to-date compared to last year.
+While a quarter was not a successful as I would have like we are very excited about our prospects in this market as a result of the new programs we have won and we will reach production in the next several years.
+This month we anticipate being awarded a new opportunity with a well-known off-highway OEM for a version of our recently introduced LCD panel.
+This panel will begin shipping next year and expect volumes will exceed 50 000 units per year.
+As we have discussed in the past we are in the midst of watching an aggressive sales in media campaign for our new CANbus Joystick product line.
+We are very excited about this product as its potential market is larger globally than our panel market.
+We believe that our long standing relationship and contacts and quality certification with the major off-highway OEMs combined with our global manufacturing platforms will enable us to be successful with this new product especially in the Asian market as it will simply be one of the largest markets for joystick in the world and we will leverage our footprint and customer relationships in that market with his new product.
+At this point we're working with two major off-highway OEMs on new programs and have test units at the number of others.
+I’ll now turn the call over the Dennis Bunday to discuss our financial performance for the quarter.
+Dennis? Thank you Pat.
+Net income for the third quarter was $845 000 or $0.11 per diluted shares compared to net income of $1.5 million or $0.20 per share in the third quarter 2011.
+Third quarter gross profit were $4.9 million on $16.4 million in sales or 14% decline from last year’s third quarter gross profit of $5.7 million on $16.8 million of sales.
+For this year’s third quarter gross margin were 29.7% compared to 33.8% in the third quarter of last year.
+Sales in the quarter were down approximately $400 000 which contributed both the lower gross margins and net income.
+However the more significant contributors were higher material costs.
+The India startup and sales mix changes.
+As we have commented in prior calls material cost have increased over the last year for several items such as die cast components and rare earth magnets.
+Overhead cost have remained relatively consistent with last year.
+India continues to negatively impact both gross margins and earnings.
+This was not an expected as we continue with our ramp up in that strategically important market.
+Approximately 0.0075 of a percentage point of the lower quarter-over-quarter gross profit margin comparison can be attributed to the India startup.
+We are on target to have the majority of our India components locally sourced by the end of this year and we have recently implemented price increases both of which will improve the results in that market.
+For the quarter the India start-up reduced earnings approximately $0.05 per share.
+Overall approximately 60% of the four percentage point decline in gross margin was due to volume and mix with the remainder due to higher material costs.
+For the first nine months of this year net income was $2.8 million or $0.36 per share compared to net income of $2.4 million or $0.32 per share in the first nine months of last year.
+Both year-to-date earnings numbers have some one-time or unusual items that need to be considered in the comparisons.
+Fiscal 2012 includes the reduction in our environment provision of $145 000 on an after-tax basis or $0.02 per share.
+For fiscal 2011 the first nine months included an after-tax charges of approximately $395 000 or $0.05 per share related to some special project and a legal settlement of a long outstanding claim.
+Excluding these one-time items from each of the year-to-date results the pro forma EPS would have been $0.34 for 2012 and $0.37 for 2011.
+For the nine months gross profits improved to $14.8 million on $48.7 million of sales compared to $14.4 million on $45.1 million of sales in the first nine months of 2011.
+On a percentage basis gross margins declined to 30.3% of sales in the current year from 31.9% last year.
+Somewhat similar factors influenced the first nine months as did the quarter other than the higher sales levels in 2012 created a larger base to distribute fixed overhead improving the gross profit margin for the year-to-date numbers.
+Higher material costs in the India start-up were the largest factors in not seeing the gross margin percentage improved over the last year’s levels.
+Overall India negatively impacted the first nine months approximately a $0.11 per share.
+Part of the impact of India in both the quarter and nine months is reflected in the gross margins and operating expenses.
+However a portion is also included in our tax rate.
+Our tax rate for the third quarter was 42.6% and for the nine months it was 40.6%.
+Normally we would expect our tax rate to be in the mid 30% ranges.
+However until we develop the consistent earnings pattern in India we are not reflecting a tax benefit on the India loss on the income statement thus increasing our overall effective tax rate.
+This was also the case last year.
+However this was offset by the last – by the last year of our five-year tax holiday in China.
+Excluding these two components our tax rate would've been in the mid-30% ranges for all periods.
+For the current quarter the basic EPS share count was 7 338 423 and the fully diluted share count was 7 517 291.
+For the nine month ended June 30 2012 the basic EPS share count was 7 321 202 and the fully diluted EPS share count was 7 511 933.
+At June 30th we had 7 341 659 shares outstanding.
+Engineering sales and administrative expenses during the quarter were down $181 000 from the third quarter of fiscal 2011 and were down $204 000 for the first nine months.
+When excluding the $225 000 reduction in our environmental provision in fiscal 2012 and the $579 000 in one-time special projects and legal costs in the first nine months of fiscal 2011.
+The decreases in both periods were primarily due to decreases in engineering and administration costs offset slightly by increases in selling expenses as we added additional technical support to our European sales team late last year.
+Engineering costs will fluctuate due to the number and timing of projects and process and where each project is in the development cycle.
+We remain fully committed to developing new projects and the lower engineering costs for both the quarter and year-to-date are strictly timing and do not represent a shift in our commitment to new product development.
+Now turning to the balance sheet and cash flow our net cash position was approximately $1.7 million at the end of the third quarter with cash of $2.6 million offset by $900 000 of India debt which is supported by a domestic revolver.
+EBITDA which consists of operating income depreciation and the non-cash charge for stock option expense contributed $7.1 million in the first nine months of fiscal 2012.
+Inventories decreased $2.4 million during the first nine months of fiscal 2012.
+This reduction was mostly related to reducing certain safety top stock as supply was stabilized for some components and more closely balancing inventory requirements with our sales mix.
+We also had higher than normal inventory at last year-end as we supported the large customer while they were addressing some internal logistics issues.
+Trade payables and accrued expenses were down from the end of fiscal 2011 primarily due to seasonal payments in the first quarter of the fiscal year of amounts accrued at the end of the prior year the property taxes compensation and insurance payments and to a lesser degree timing and payments of accounts payable in line with inventory purchases.
+Depreciation and amortization for the third quarter was $521 000 and non-cash stock option expense was $142 000.
+CapEx for the quarter was $456 000 and $958 000 year-to-date.
+Our capital spending is much lower than normal through the first nine months of 2012 mostly due to the timing of projects.
+We anticipate our capital spending to be approximately $1.5 million for this full year.
+During the quarter we entered into a new loan agreement replacing the $8 million revolving loan agreement that expired on June 30.
+The new agreement is for $50 million of immediately available borrowing capacity and will expire on June 30 2014.
+This additional capacity gives us the opportunity to immediately pursue opportunities as they arise.
+Today we announced our regular quarterly dividend of $0.12 per share payable on August 28 to shareholders of record as of August 21.
+Thus far this year we have paid out approximately $2.7 billion in cash dividends to stockholders.
+This concludes our formal comments.
+We would now like to turn the meeting over to questions.
+(Operator Instructions) Our first question comes from the line of Matthew Berry from Lane Five Capital Management.
+Your line is open.
+Hello gentlemen.
+How are you? I’m good Matt.
+How are you doing? I’m very well.
+I’m very well.
+Okay.
+Lots of different moving parts this quarter.
+With off-road some positive things going on in NAFTA and Europe in terms of new wins being offset with a bit of a shocker in China really.
+Could you talk a little bit about what products are driving the off-road growth that you experienced in NAFTA and Europe? Well we supply both paddles and paddle assemblies to a number of the major off-highway manufacturers and a number of smaller manufacturers in these markets.
+And to the extent Matt that the economy has an influence on the buying appetite of the customers and what kind of infrastructure improvements and housing developments and that kind of thing are going on there so that drives a lot of it.
+You typically signed our equipment on bulldozers skid steer loaders cranes wheel loaders road graders various types of tractors and those are the kind of equipment that our product builds on.
+Okay.
+Sorry.
+Go on.
+To the extent they sell that equipment and that drives our sales in the off-highway market.
+Is this growth through sort of incremental platform wins where you’re taking away share from other players or is this growth on platforms that are growing with the market? All of the above.
+We’ve won several new platforms from our competitors.
+We are on new platforms that are coming into production.
+And so if its incremental or when one product is replaced with a newer product or a new version of the same product typically we’ve had -- produce significant share of that market and we continue on with that business.
+So it’s kind of all of the above.
+Okay.
+Good.
+And we have one.
+I will say this.
+We have one several new customers over the last couple of years that we did not have in the past.
+Okay.
+All right.
+Thanks for that.
+I’ve got another question about India couple of questions about India.
+The total on the last conference call will you expect it to start seeing some margin improvement as you shifted procurement over to local suppliers through June and well starting in June and July.
+Obviously only one quarter of that -- also any one month of that in the current result? That’s part of the problem.
+We were very confident on India.
+Two things are going on there.
+One is because of some of the changes -- some what of a lag here but some of the what -- components like rare earth magnets and that type of things there has been an earlier increase and it has to do with China sourcing of those magnets but China has pulled through -- put it on allocation and done several different things which has driven up the price pretty substantially.
+And that service gives us a lag between the time that price goes up and the time that we’re able to convince customers that we need the price increase.
+Well we’ve been actively after that first increase and we’re getting there but that really didn’t have any impact on this previous quarter.
+It will have some impact on this quarter but not a whole lot but some.
+Okay.
+We really expect to see it in the last calendar quarter of this year.
+And if you -- that's one piece but the other part it’s absolutely important to us is local sourcing over there.
+And I said it in the last call that our plan was not to put a lot of variables in play all at the same time.
+We wanted to make sure we have our process down and we were supplying components that we were absolutely confident that we are good from our existing suppliers outside of India.
+Now that’s run its course.
+We won a substantial portion of the business in India.
+We have worked very hard in identifying sources.
+We’re in the process right now.
+A number of components are just starting production in India.
+I mentioned in the call that one of the biggest and cost drivers that we have are our sensors and we built of course a clean room there.
+We just finished that and we just started the initial; production over there.
+We expect to be in full production with sensors in December January of this year.
+So that’s going to have a big impact on our margins in India.
+And that was kind of our plan from the very beginning.
+We wanted to have as clean and a successful launch as possible.
+And I think to a large extent we’ve accomplished that and now we’re taking the second step and we’re step-by-step identifying the best suppliers we can get our hands on.
+And we’re qualifying those components which is not -- it's an overnight kind of thing when you identify these guys.
+This goes through validation testing and C-Fabs and a number of others to get them qualified and certified.
+So it takes some time.
+But as I said in the call India will not be a drag in our earnings next year.
+Okay.
+So one of the things on just regarding India in terms of the -- you can’t deduct the losses at the moment for tax purposes so you got the higher tax rates.
+Right.
+Later on will there be sort of a retrospective tax asset that you guys get back.
+Will you be able to recover those losses for tax purposes later.
+Yeah.
+We will.
+At what point? Matt this is -- what you do it is the way you look at that as your problem probably take it all at one time.
+And kind of the test is it is more likely than not that you will in the future earn enough money to absorb your tax loss carry forwards and so you have to have a fairly consistent earnings there.
+So you generally have to have a year or so of consistent earnings and a pretty good looking prospect before you start reversing those or taking those reserves off the provision.
+So you kind of look at with …you kind of look at when you get there and see what make sense.
+So we kind of look into 2014 at the earliest then.
+Yeah but remember that one of the nice things though is that when we start making money in India we don’t have to pay cash taxes on that because even though from an accounting standpoint you might not be taking the reserve off of that provision you are going to be making money there and you from a tax standpoint you’re going to be absorbing those loss or those NOL carry forwards and you don’t have to pay cash taxes.
+So there is we’re going to add a little bit -- we're going to add little bit we know there definitely is a bit of a kicker coming in there and we’re absorbing those losses today but it definitely will come back.
+Yeah.
+And the big thing is you won’t have those losses in when you start making money and you start providing even after you reverse the provision and all that you’re back to I think tax rate in India is like 30% or something like that.
+So we’re back more on a normalized taxes and we’re not getting baked on no tax benefit on the losses.
+Matt I think one thing that I wasn’t -- I’m not sure but was clear on this in the last call.
+But all the components that we bring into India from outside whether its China or here or Europe we’re paying freight and duty on those components going in there and that’s in the neighborhood of about 25%.
+Yeah.
+Okay.
+I have a couple of more questions but I’ll jump back in the queue to open it up to anybody else.
+Okay.
+(Operator Instruction) Your next question comes from the line of John Nobile from Taglich Brothers.
+Your line is open.
+Hi.
+Good afternoon.
+Hi John.
+How are you doing? Pretty good.
+Thanks.
+I was surprised to see such a large drop in your sales to China.
+Do you believe that the economic conditions were solely to blame or do you think that there is other factors that might be in play even competitive conditions? The competitive issue is always around us but things have been pretty weaker.
+I mean when you see truck sales down 30% from last year.
+We only have a very very small part of that truck market right now with electronic engines that they are exploring but it’s got a pretty substantial financial hit.
+So… Okay.
+I just know because the growth rate is slowing but they are still showing I believe some positive growth.
+That’s why when I saw the magnitude of the China sales it led me to think like maybe something else besides economic factors in hand.
+While off-highway everybody talks about the infrastructure investment.
+The infrastructure investment in China is what drives sales of our off-highway equipment.
+Off-highway equipment is a big part of our business over there.
+Okay.
+And if you could just I think earlier on you said that I missed it.
+The sales in India what exactly that -- I think you mentioned on a percentage basis but the dollar wise what they have earned in India for the quarter and how they’re compared to your fiscal Q2 not last years numbers because obviously it’s brand new but ….
+We were down -- I think John the message here was we had a very strong second quarter in India.
+And this last quarter third quarter was down from that.
+It was down I think -- let's see if I can look at my notes here.
+We were down 34% comparing this sequentially….
+Sequentially yes.
+But you know in those case it is pretty obvious John I mean in those markets with those numbers I mean this is -- we've talked about this numerous times before with Korea and some of these other markets.
+I mean they are volatile especially when you are at start of stage like this.
+I mean if I look back part of the issue I think in India was that we had a very strong second quarter as a result of launching a new customer and filling the pipeline and all that kind of thing which bolster that sales a little bit.
+And then India seeing some of the same weakness China has and two of our customers in India last quarter shutdown for weaker sub.
+I mean those are getting kind of an odd comparison but all in all we’re really comfortable with where we’re at in India and we like the penetration we’ve got and where we’re going.
+Okay.
+Obviously you comments before about India start-up cost I believe you said it would not drag on earnings in 2013.
+Can I take that to basically save that -- it would reach a break-even point in India come 2013? Yeah.
+And that’s why I am going and that going to be drag on earnings.
+Yeah.
+Okay.
+I just wanted to make sure.
+Not going to see this way John.
+We’re going to have things almost fully implemented by the end of the year -- calendar year.
+So to the extent that may be in the first quarter of our fiscal 2013 to have some drag from India.
+Going forward from there I think we are going to be in good position.
+Okay.
+So keeping it sound like the stall of the first quarter -- fiscal first quarter I can anticipate maybe a tax rate getting back to like mid-30s because of the drag on India but they could …? No.
+That’s not going to at.
+If you have a break-even John yeah you are going to -- your tax rate are going to go down because there is not going to be a loss that you don’t have a provision for so your tax rates all get down some yeah that will get down there.
+Okay.
+Whether it hit mid-30s.
+Yeah.
+It should hit mid-30s.
+Yeah.
+That’s fair.
+Okay.
+And John our position here is and this was anticipated from the GEICO with India.
+I look -- it was critical that we established our reputation versus our competitors.
+We were the first mover.
+We’ve gained all the share and we didn’t want to make mistake because that’s definitely in our industry equivalent in the commercial truck in off-highway equipment market have very long memory.
+And we wanted to make sure that we were dead on and when we went there and we were.
+And we implemented our production.
+And we are supplying and the products have been rock solid.
+And that’s how I feel very comfortable and so the next step is ensuring that we have the best supply base possible in India and that’s takes times.
+And so in our next year what we are looking to kind of trend the corner.
+Okay.
+Sounds good.
+I just have one more question and its actually in regard to this current call your fiscal Q4 because there were power size I mean significantly affected India for actually quite a while and I’m just curious the power size in India if they’ve had any effect on… I will push your mind to rest at our plan.
+When we refurbish that plant I purchased the brand new fully capable electric diesel gen set and it has full capabilities supply our plant 24 hours a day.
+So to the extent that we’re affected by -- and when our customer that affected by and that’s where we have to go.
+Okay.
+So I mean your plant was up and running but customer orders I am just curious if it may have… Our customers are seeing weakness in India.
+But I don’t think it’s due to the power failure.
+No.
+I don’t think so.
+Because do you think about we don’t sell that much in the north and east of India most of ours is on the west and south.
+Okay.
+And so I don’t think we would -- I did not hear anything that our customers were affected by -- they would have been for few days and they would be able to catch up and repay so...
+So that’s not an issue.
+That’s not an issue.
+No.
+Its not one that they comes up on our radar screen weaker economic climate is what comes up on our radar screen.
+So when we are talking to our customers such order.
+Okay.
+That’s all I had.
+Thank you.
+Thanks John.
+Thanks John.
+Your next question comes from the line of Matthew Berry from Lane Five Capital Management.
+Your line is open.
+Okay.
+Hi Matt again.
+Hello again.
+Anything changes we last spoke.
+Not.
+Okay.
+There is a couple sort of just moping up details.
+Firstly what was depreciation in the quarter? The second of about $500 000 depreciation is $521 probably in $21 000.
+Okay.
+And CapEx? Was $456 000.
+Okay.
+So little bit… Stock option expense was $142 000 in quarter two so if you’re building your cash flows.
+Thank you.
+So at this level given where we’re at.
+I heard some that commentary around revolver given where we are at in terms of China Europe sort of mix bag in the U.S.
+How are you guys feeling about the dividend whether you are comfortable with it whether you still like the revolver is there to help pay it just comments on the -- its probably $0.12 a share verus $0.11 of earnings how do you… It’s a good question [Mammy] correct.
+We kind of take a little bit longer term look at the business and we are feeling pretty comfortable where we are.
+We are looking forward to kind of return to some confidence with our customers.
+But yeah we’ve look at the dividend and where we are every quarter and the Board makes that call and they meet every quarter and obviously we’re very comfortable this quarter.
+Okay.
+All right.
+Have you taken on it quarter-by-quarter basis? Yeah.
+Yeah.
+Absolutely.
+Yeah.
+We have discussion about it every quarter before we announce it.
+Okay.
+And then lastly there were some funding market action in end of June and July with stock running up to 12.5 bucks how about that? I got little excited did you -- do you know have any idea what was behind that did you get speculate something? We can speculate a little bit but we really don’t know.
+We sell at June and we had no idea what was driving it.
+All right.
+Well its was… We did talk to our market maker and his thought was there might be some people covering some shot or something like that and that they drilled the price.
+Yeah.
+If you know but that was speculation… Speculation.
+There is nothing out in the marketplace.
+There was -- there was nothing that from our standpoint that would drive it.
+Okay.
+Matt we forget it and we were puzzled by to be honest with you and it all happened right at the end of the quarter if I remember too which drove our market maker to think that it was some shorts that we are trying to cover and they were having a hard time finding stock.
+But we don’t know.
+We don’t know.
+Yeah.
+Okay.
+All right.
+That’s all from me.
+Thanks guys.
+All right.
+Thanks Matt.
+Thanks Matt.
+(Operator Instructions) We have no further questions at this time.
+I will turn the call back over to the presenters.
+This concludes our third quarter conference call.
+I’d thank everybody for attending today.
+Thank you very much.
+This does conclude today’s conference.
+You may now disconnect.

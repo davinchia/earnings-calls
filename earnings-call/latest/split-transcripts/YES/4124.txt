@@ -1,0 +1,360 @@
+Good day ladies and gentlemen and welcome to the Vonage Third Quarter 2014 Earnings Conference Call.
+At this time all participants are in a listen-only mode.
+Later we will conduct a question-and-answer session and instructions will be given at that time.
+(Operator Instructions) As a reminder today’s conference is being recorded.
+I would now like to turn the call over to Hunter Blankenbaker Vice President of Investor Relations.
+Please go ahead sir.
+Thank you Jamie and good morning everyone and welcome to our third quarter 2014 earnings conference call.
+Speaking on our call this morning will be Marc Lefar Chief Executive Officer; Dave Pearson CFO; and Alan Masarek Vonage's CEO effective tomorrow.
+Also joining us are Joe Redling President Consumer Services; Wain Kellum President Vonage Business Solutions; and Clark Peterson CEO of Telesphere.
+Marc will discuss the Company’s acquisition of Telesphere and third quarter results and Dave will provide a more detailed view of the Telesphere acquisition and our third quarter financial results.
+Slides that accompany today’s discussion are available on the IR Web-site.
+At the conclusion of our prepared remarks we’ll be happy to take your questions.
+As referenced on Slide 2 I would like to remind everyone that statements made during this call may be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These and all forward-looking statements are based on management’s expectations and depend on assumptions that may be incorrect or imprecise.
+Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially.
+More information about those risks and uncertainties is highlighted on the second page of the slides and contained in our SEC filings.
+We caution listeners not to rely unduly on these statements and disclaim any intent or obligation to update them.
+During this call we will be referring to non-GAAP financial measures.
+A reconciliation to GAAP is available on the IR Web-site.
+With that I'll turn the call over to Marc.
+Good morning everyone and thank you for joining us today.
+It's an exciting time at Vonage and I'm pleased to be with you today to discuss our third quarter results and a transformational acquisition of Telesphere which we announced earlier this morning.
+Before I begin I'd like to introduce Alan Masarek who's on the call with us today.
+Alan officially takes over CEO tomorrow but has been with us as a special advisor over the last three weeks as we assessed and finalised the Telesphere transaction.
+He brings more than 20 years of C-Level experience at technology-centric companies.
+Alan joins us from Google to which he sold his prior company Quickoffice one of the world's most widely recognised mobile brands.
+He has built several successful companies demonstrating great vision and strong execution skills along the way an innovator with deep experience in mobile SMB and consumer sectors we're delighted to welcome him as the new Chief Executive of the Company.
+Alan welcome.
+Thank you very much Marc.
+Turning to Slide 4 let's now move to the acquisition of Telesphere a leading provider of unified communications as a service.
+This transaction accelerates Vonage's evolution into a leading company in the rapidly growing cloud communication sector and reflects the continued execution of our long-term growth strategy.
+Upon closing the combined 2014 pro forma revenues of Vonage Business Solutions Telesphere and our existing small business customers will comprise approximately 18% of total revenue and if independent will be the second largest pure-play UCaaS provider surpassing 8x8.
+We believe that our higher growth rate completeness of offering and exceptional cost structure position us well to gain market share while generating strong returns for our investors.
+As we demonstrated with Vocalocity the use of Vonage's scale brand balance sheet and cash generation to invest in the acquisition of complementary growth businesses has been successful by any measure.
+One year after the acquisition of Vocalocity we have far exceeded all of our original performance expectations.
+We have realized and reinvested cost synergies that along with the Vonage brand have accelerated revenue growth from 38% to 52%.
+We're confident in our ability to accelerate growth at Telesphere as we bring it under the Vonage umbrella.
+This acquisition immediately moves the Company into a considerably larger SMB and enterprise market generally requiring quality of service management service level agreements and carrier-grade feature sets matching those provided by on-premise PBX vendors.
+While large business solutions has demonstrated exceptional growth for customers who generally use the public Internet Telesphere expands our addressable market to serve customers requiring greater security and guaranteed service levels.
+Our addressable market is well north of $15 billion in North America and these segments all offer highly attractive customer economics.
+With Telesphere as part of the Vonage family we will now be able to provide a comprehensive and compelling range of cloud-based solutions to address the needs of a wide range of enterprises.
+Moving on to Slide 5 I'd like to provide more detail on Telesphere which Vonage is acquiring for $114 million.
+Telesphere's 2014 revenues are expected to be approximately $40 million with more than $50 million of revenue already under contract for 2015.
+Given the large backlog and strong current demand for their services we are paying a multiple that is 2x or less estimated 2015 revenues.
+This compares quite favorably to other public UCaaS companies that are trading at roughly 3x 2015 revenues.
+Slide 6; since 2006 Telesphere has provided cloud communications and virtual PBX solutions with a focus on distributed enterprises meaning those with multiple locations.
+The average monthly recurring revenue per customer is nearly $3 000 the average seat size is more than 40 and revenue churn has been less than 1% over the past year.
+50% of the company's revenues come from customers with more than 100 seats and Telesphere's top 50 customers average more than 375 seats across an average of 19 locations.
+Roughly 95% of new Telesphere customers sign longer-term contracts generally three years resulting in higher recurring revenue lower churn and very strong customer lifetime values.
+Moving to Slide 7 and 8 Telesphere utilizes proprietary apps and tools built on top of BroadSoft's unified communications platform to create a differentiated customer solution.
+In addition the company has developed its own comprehensive provisioning and feature management tool called Zeus that enables the rapid deployment of solutions directly by Telesphere and channel partners as well as the ability for end-users to manage their services online.
+We believe that Zeus is a significant product differentiator sales tool and strategic asset.
+The businesses served by Telesphere generally require higher levels of security and call quality SLAs.
+They also tend to purchase a broader suite of UCaaS features such as Lync integration multipoint HD videoconferencing mobile office and collaboration tools than do the generally smaller customers addressed by 8x8 and RingCentral.
+To help meet these needs Telesphere bundles their cloud services with MPLS broadband.
+MPLS is a critical component of the offering for larger multi-location enterprises.
+Frost &amp; Sullivan estimates that 50% of the larger SMBs deploying UCaaS solutions will require MPLS not only for voice but for other SaaS needs as well.
+Offering MPLS over its own nationwide network enables Telesphere to capture greater wallet share strengthens the customer relationship and increases the growth opportunities within the existing base.
+Telesphere's sell-through channel partners account for roughly two-thirds of year-to-date sales as well as the direct sales force.
+The provisioning and customer management tools provided by Zeus are key enablers of Telesphere's channel success.
+In addition Telesphere has been recognized for its strong technical and operational experience ranking as a top provider in Gartner's Magic Quadrant for UCaaS.
+Lastly we're pleased to welcome Telesphere's employees led by Chief Executive Clark Peterson who will join us as President of Telesphere a Vonage company.
+Clark is an industry veteran and Founder and Chairman of the Cloud Communication Alliance.
+He leads an experienced management team with a deep edge.
+Sanjay Srinivasan Telesphere's CTO lead the strong engineering and product development team and serves as chairman of the peering committee of the Cloud Communication Alliance.
+We're pleased to welcome the entire Telesphere team to the Vonage family.
+On Slide 9 let me now move on to the current quarter discussion.
+During the quarter we continued to balance our efforts to invest in growth while optimizing our operations to improve the margins and cash flow of the core business.
+As a result consolidated adjusted EBITDA improved to $30 million the highest in six quarters while consolidated GAAP revenue increased 5% year-over-year.
+The revenue improvement was driven by a 52% year-over-year increase in revenue in Vonage Business Solutions to $24.4 million.
+Let's take a few minutes to talk a bit more in detail about the progress at VBS.
+Since the acquisition of VBS one year ago our teams have worked well to deliver consistently exceptional performance.
+The most recent results reflect the strong and growing demand for cloud-based communication services in the SMB market and our ability to execute at leadership levels of growth.
+During the quarter we continued investing in our sales infrastructure focusing on three areas; growing the direct sales force expanding the reseller network and building out a platform strategy.
+The majority of the investment has been focused on growing the direct sales team resulting in a 48% year-to-date increase in staffing.
+We have also invested in training and infrastructure to create an organization and tools that can efficiently add highly productive new team members quickly.
+We are confident these investments provide the foundation to support continued strong growth.
+We also expanded the reseller program by adding new senior management as well as four national master agents representing 7 000 sub-agents.
+We've seen improved traction in this channel and will continue to build the support team to ensure our partner's success.
+Lastly we continue to invest in the expansion of the VBS platform which enables companies to use Vonage's cloud communication services on their desktops and mobile devices.
+During the quarter we announced the joint solution with Dell Software to help companies transition from traditional telecom services to Internet-based communications.
+The Dell Business Phone powered by Vonage Business Solutions is a wireless carrier agnostic service for any size enterprise.
+This offering allows companies to capitalize on the growing trend of BYOD bring your own device in a secure and easy to deploy manner.
+Vonage Business Solutions' dramatic growth combined with the acquisition of Telesphere places us clearly at the forefront of cloud communication services and dramatically expands our addressable market.
+Moving onto Consumer Services we continue to focus on maximizing customer lifetime value by allocating marketing spend to areas that provide the highest return.
+Consumer Services gross line additions were intentionally managed down this quarter as we continue to optimize the assisted selling channel.
+The assisted selling channel as you'll recall utilizes direct face-to-face selling across multiple retail chains and community and event venues.
+The investment in this channel has been reduced to support only those locations that generate strong returns as measured by customer LTV.
+Although this effort has purposely reduced gross line additions in the short-term it is improving the quality of customers we acquire while driving lower churn increased profitability and ultimately revenue.
+We also continue to improve our products in ways that increase the core value delivered to consumers.
+For example in October we launched mobile inbound calling capabilities.
+This allows customers and their families to take their full Vonage service with them on their mobile phones enabling them to receive a call made to the home number on the home phone and the multiple mobile devices concurrently while still being able to view the original calling party's ID.
+In this way the home phone continues to represent a family identity in the mobile environment.
+Let's take a moment to highlight the importance here.
+While many have predicted the demise of home landlines in favor of mobile phones there are still 79 million home landline subscribers in North America and that number has remained relatively flat for the past few years.
+It's important to note that one's home phone number is one of the last vestiges of the family identity.
+Our ability to connect the user's family identity their home phone number to a user's individual identity their cell number is powerful.
+It supports our ongoing strategy to provide broad communication services including text messaging video calling and group messaging wherever and whatever broadband connected device the customer wants to use.
+We're now working toward extending this utility to additional devices including tablets as part of the core service with Vonage Extensions.
+Initial response to our mobile inbound calling feature has been very encouraging.
+To-date 70% of our eligible Vonage Extensions users have upgraded to the enhanced mobile service and new customers are registering their mobile numbers at time of purchase at the same rate indicating a high level of awareness and understanding of the new feature set.
+We also expanded the feature set of the standalone Vonage Mobile App with the addition of group messaging which can be used on the iPad in addition to smartphones.
+Ongoing enhancements to the Vonage Mobile App reinforce our commitment to extend mobile services across the entire business leveraging our technology to give customers comprehensive and flexible communications.
+To that end we recently hired Pablo Calamera a veteran of Apple as our new Chief Technology Officer.
+Pablo has a deep background in software development and management covering a broad spectrum of areas including software communications systems architecture mobility and Internet clients and services.
+He's an accomplished technologist that will drive our mission of developing innovative products across all of our businesses.
+In addition to increasing the value of our core service we have also redesigned the Vonage online experience.
+The new site improves the learning and buying process to drive better sales conversion.
+Early indications are positive with consistent improvement in flow and sales conversion increasing nearly 20% versus the legacy site.
+While early initial results are encouraging and will drive improvements in marketing efficiency as we continue to expand investments in digital customer acquisition.
+On BasicTalk we completed our retail expansion to additional national partners as planned including CVS/pharmacy.
+Now that we have an established brand with distribution scale of 19 000 doors we'll begin to shift our marketing investment from brand building mass media to channel specific direct marketing vehicles supporting our retail and online channels.
+The result will be a reduction in acquisition cost per subscriber and increased overall profitability.
+During the quarter we enhanced the BasicTalk product with new privacy features including do not disturb anonymous call block and caller ID block and we refreshed our merchandising and packaging to market these new features further differentiating BasicTalk in the low-priced domestic calling market.
+In summary we continue to improve marketing efficiency to drive the profitability of the Consumer business.
+Now that we've seen a full quarter of impact from the actions in the assisted selling channel and we completed the BasicTalk retail expansion and product update we expect stabilization in consumer gross line additions and improvement in churn moving forward.
+Both now turned international we'll comment on our U.K.
+and Brazil operations.
+The U.K.
+that we've been operating since 2005 produced record revenue in the third quarter.
+The strong performance was driven by higher gross line additions in the SoHo and SMB segments as well as targeted price increases across several services.
+In Brazil we expanded into Sao Paulo with the TV and digital campaign following the initial market test in two smaller cities Curitiba and Brasilia.
+Combined these three cities represent approximately 45% of our addressable market.
+Results to date have not met expectations.
+During the expansion of Sao Paulo we concluded that mass-market television was simply not generating a financially acceptable response and we've since migrated to a digital only media campaign.
+In addition we enhanced our service pricing to call mobile phones and we've added Small Business Plans.
+In addition we have recently implemented a partner program to distribute service to the broadband customers of ISPs as well as through online service companies including PayPal which is also a new billing option on our site.
+We will evaluate the performance of these new channels over the next few months as we continue to take a disciplined low cost approach to our investment.
+In summary we had a solid quarter fueled by industry-leading revenue growth at VBS and strong adjusted EBITDA on the Consumer business the highest in six quarters.
+Vonage's cash flows continue to enable us to invest in profitable growth while returning value to shareholders.
+The Company is well-positioned as we look towards 2015 and the acquisition of Telesphere puts Vonage in a market-leading position in the fast-growing unified communications as a service marketplace.
+In closing I want to thank many of you on this call for the support you've shown Vonage and for me personally during the past 6.5 years.
+I'm proud of the financial turnaround and the strategic repositioning of the business designed and executed by the many talented employees here at Vonage.
+It has been my privilege to work with you.
+Vonage is financially strong with great opportunities for growth I believe the acquisition of Telesphere will further cement our leadership role in the growing UCaaS market and I have great confidence in Alan and his terrific team.
+I look forward to the continued success of the Company and I'll now turn the call over to Dave to discuss the third quarter and the Telesphere acquisition in more detail.
+Thanks Marc and good morning everyone.
+On behalf of the entire management team I would like to begin by thanking Marc for his 6.5 years of exemplary service to Vonage.
+He is leaving the Company in a strong position and has set up this team for success.
+With that I'm pleased to provide additional details on the Telesphere acquisition as well as discuss our third quarter financial results.
+Starting on Page 10 as Marc referenced Vonage is paying a total of $114 million to acquire Telesphere.
+This value represents a 2015 revenue multiple of 2x or less relative to our closest cloud peers who were trading at around 3x revenue on the same 2015 basis.
+We believe that Telesphere which is modestly EBITDA positive is already on track to grow revenue at a faster rate than these comparables in 2015 prior to any benefits of Vonage ownership.
+And we believe that Telesphere can grow faster within Vonage just as Vocalocity's already rapid growth accelerated after the acquisition.
+Telesphere customers sign-up to multiyear contracts and the company has more than $50 million of revenue already under contract for 2015.
+Furthermore as we did with Vocalocity we expect to achieve annual operational synergies through scale and technology beginning in the first year after close.
+These synergies are expected to be realized in similar areas to Vocalocity including cost of telephony services which includes termination and E-911 shipping and G&amp;A which is primarily financial and other shared systems and services.
+Under the agreement Telesphere shareholders will receive $91 million in cash and 6.86 million shares of Vonage common stock equating to $23 million.
+Stock consideration represents approximately 3% of outstanding shares.
+These shares are restricted under Rule 144 and therefore cannot be sold or transferred for six months.
+Vonage is financing the cash consideration through the combination of a portion of cash on the balance sheet and a portion of our $125 million revolving credit facility.
+On close Vonage will have net leverage of 1.2x EBITDA.
+This capital structure will enable us to continue to execute on our balanced approach to capital allocation including completion of our $100 million share repurchase program by the end of the year and the ability to pursue further organic and inorganic growth.
+This transaction has been unanimously approved by the Boards of Directors of Vonage and Telesphere and we expect to close by the end of the year subject to customary closing conditions.
+I will now discuss results for the third quarter.
+Beginning on Slide 11 adjusted EBITDA was $30 million up $1 million sequentially from $29 million and up $7 million from $23 million in the year ago quarter.
+This result reflects the strong cash flow generation capacity of our Consumer business.
+The primary drivers of the change in EBITDA were a reduction in sales and marketing expense which I will discuss in more detail in a moment and lower cost of telephony services or COTS offset by lower consumer revenues.
+As we have discussed previously we continue to operate VBS around EBITDA breakeven for the year so that fluctuates from quarter to quarter.
+Moving to Slide 12 revenue was $215 million down $4 million sequentially due to lower Vonage consumer revenue and lower USF which is a pass-through and accounted for $2 million of the decline partially offset by higher VBS revenue.
+Revenue increased 5% from $204 million a year ago due to the acquisition of VBS and its subsequent revenue growth to more than offset the impact of lower ARPU and lower lines in the consumer business.
+VBS grew 52% year-over-year and 8% sequentially to $24.4 million.
+ARPU was $28.19 down from $28.59 sequentially and down from $28.87 in the prior year quarter.
+Consistent with revenue the ARPU declines also reflect the larger number of customers on lower priced plans including BasicTalk as well as lower USF fees.
+GAAP net income was $5 million or $0.02 per share down from $6 million or $0.03 per share sequentially.
+GAAP net income was up from $4 million or $0.02 per share in the year ago quarter.
+Adjusted net income was $14 million or $0.07 per share down sequentially from $15 million and $0.07 per share and up from $9 million or $0.04 per share in the year ago quarter.
+The sequential decline was driven by lower stock option comp in the second quarter which normalized in the third quarter and the year-over-year increase was driven by higher EBITDA.
+The adjusted net income metric excludes the acquisition related items of intangibles amortization and adjusts for the fact that Vonage is not a material cash tax payer due to our over $700 million NOL.
+Moving to Slide 13 we continue to execute on structural cost reduction opportunities to further reduce COTS.
+COTS decreased to $50 million from $52 million sequentially and from $53 million in the year ago quarter which excludes VBS.
+This year-over-year decline occurred despite the incremental termination volume from VBS in the third quarter of 2014 which added several million dollars of costs.
+The year-over-year decline was due to lower termination but by a meaningful improvement in international long distance termination cost per line which declined by 12%.
+COTS per line was $6.54 down from $6.84 sequentially and down from $7.48 in the third quarter of last year.
+Selling general and administrative expense for the third quarter was $73 million.
+This is down $1 million from the second quarter reflecting lower compensation and employee related expense offset by an increase in tax accruals and settlements.
+SG&amp;A increased some $65 million in the prior year quarter due to the addition of VBS SG&amp;A.
+These factors were partially offset by a 17% improvement in consumer customer care cost per line reflecting continued improvements in key metrics including Contact Rate which declined by 9% and Average Handle Time which improved by 2% versus a year ago.
+Marketing expense was $58 million down from $59 million on a sequential and year-over-year basis.
+Parsing this number consumer sales and marketing was down in the quarter as we reduced expenses in lower performing channels consistent with our initiative to improve customer lifetime value and align marketing spend in GLAs.
+Marketing and selling in VBS was up for the quarter as we saw substantial opportunity to add customers at attractive acquisition costs to continue building the telesales and indirect channels going into 2015.
+Subscriber line acquisition cost or SLAC increased to $365 from $342 sequentially and from $339 a year ago.
+Despite a slight decrease in marketing spend SLAC increased on a sequential and year-over-year basis due to lower gross subscriber line additions in consumer.
+Turning to Slide 14 gross line additions or GLAs were 160 000 down from 172 000 sequentially and down from 175 000 in the prior year's quarter.
+The lower GLAs reflect the full quarter of our efforts in the Consumer business to optimize spend.
+We purposely moved away from elements of the assisted sales channel which we believe will have a positive long term effect on the profitability of our consumer business.
+Consolidated customer churn was 2.7% up from 2.6% sequentially and year-over-year.
+The actual number of churned accounts were lower sequentially or better and we expect the churn rate to come down as our actions in Consumer roll forward.
+VBS churn increased to 2% for the quarter from 1.9% sequentially.
+Customer account churn at VBS will tend to fluctuate given the relative size of its account base and increase due to early life churn and the presence of more small accounts.
+VBS had a record quarter in terms of gross and net line additions.
+Lower Consumer gross line additions resulted in negative 19 000 overall net lines for the third quarter.
+We ended the quarter with 2.5 million average subscriber lines.
+One item to note.
+As we launched mobile inbound calling in October we executed a $1 price increase across Vonage World and U.S.
+and Canada Unlimited plan.
+At the same time we stopped charging for second line extensions.
+Now customers get the full benefit of mobility across two free extensions.
+The impact of this in the fourth quarter and future periods will be a reduction of approximately 79 000 subscriber lines and from a revenue perspective the price increase more than offsets the effect of not charging for second line extensions.
+I'll now move to a discussion of CapEx cash flow and the balance sheet on Slide 15.
+For the quarter CapEx including the acquisition and development of software assets was $7 million up from $6 million sequentially and up from $4 million in the year ago quarter.
+The year-over-year increase was due to investment in our VBS business.
+Adjusted EBITDA minus CapEx was $23 million reflecting the substantial cash flow generation capacity of our business.
+Free cash flow was $21 million up from $18 million sequentially and up from $20 million in the year ago quarter driven by higher EBITDA.
+We continued our balanced approach to capital allocation in the quarter repurchasing 3.8 million shares for $13 million.
+At the end of the third quarter we had $13 million left on our current $100 million share repurchase authorization which runs through the end of 2014.
+Since beginning our first buyback program in August 2012 we have repurchased 41 million shares for $121 million at an accretive average price of $2.93 per share.
+Cash and cash equivalents and marketable securities as of September 30 was $67 million including $3 million in restricted cash and $5 million in marketable securities and net debt was $42 million.
+We ended the quarter with a strong balance sheet reflected in net debt to adjusted EBITDA of 0.4x.
+During the quarter we closed our new expanded $225 million credit facility composed of a $100 million term loan and a $125 million revolving credit facility.
+Upon closing of the Telesphere acquisition we will have ample liquidity and the flexibility to execute on our strategy of growth both organic and inorganic in the unified communications as a service space.
+Now moving on to guidance we are in a position to revise our EBITDA guidance.
+With strong performance year-to-date and continued focus on improving our cost structure we expect to exceed the 2014 EBITDA outlook updated last quarter.
+Based on our current run rate we now expect 2014 adjusted EBITDA to be in the $117 million to $119 million.
+In closing we are excited about the future particularly with Telesphere and their strong team joining the Vonage family.
+Cash flow generation of our consumer business remains high providing us the confidence to fund strategic growth initiatives and gain share in the high-growth communications as a service market.
+We remain focused on revenue growth and compelling returns on investment from all of our businesses.
+Thank you for your support to Vonage.
+I will now turn it over to Hunter to initiate the Q&amp;A session.
+Thank you Dave.
+Jamie can you initiate the call session Q&amp;A please?  (Operator Instructions) The first question comes from George Sutton from Craig-Hallum.
+First a lot of welcome to Alan Clark and Hunter and thanks to Marc.
+So my first question was for Wain and that is as we look at the strength that you're seeing in the SMB space we are seeing a lot of your competitors move away from the smaller account opportunities and you're having a lot of success there.
+Can you discuss if that's a large part of why you're seeing the growth you are and are you able to break down growth from distribution versus the growth from productivity of the sales force? You got that Wain?  Yes I got it.
+Thanks Marc.
+For us consistent with what we said last quarter the majority of the market that we're going after is still on Extensions and then flexible legacy platforms.
+So for the market that we sell to the majority of businesses are using old platforms that don't serve them well.
+And so for us we continue to find new ways to put marketing and sales dollars to work both directly and indirectly to give selling opportunities and then in the selling opportunity our value proposition our price point and feature set puts us in a position where our close rate is extraordinarily high.
+So without stopping short of telegraphing our sales and marketing tactic what we're doing is pretty straightforward which is just putting our way into explaining what we do to customers that are on legacy platforms and they are glad to migrate over.
+Okay.
+And my second and final question relates to this Telesphere integration.
+It sounds like you're not going to be integrating the name or the Telesphere name will remain.
+So just want to confirm that.
+And then also can you discuss the network because I know Telesphere has quite a bit of POPs in data center in their annual number of data centers can you discuss that integration? So let's take that two pieces.
+This is Marc.
+Let me take the first one on brand and I'll let Clark talk about his network and what makes them unique.
+From a branding standpoint as we described in the call we are going to at closing refer to it as Telesphere a Vonage company.
+We've seen both at Vocalocity and in our research that the Vonage name although most folks still think about it as a consumer name it is quickly and easily extensible to business.
+Folks are familiar with it have confidence in it and it has a quality impact to it.
+We've seen that it has helped to drive digital traffic and searches to Vocalocity now Vonage Business Solutions and the team will be working post-closing and actually prior to closing with Alan and the new team to talk about what leverage we can get from the Vonage brand and at what course and speed we leverage that in our marking material.
+So you'll see Vonage at the moment of closing and then the degree to which Vonage becomes the umbrella will be determined in the coming couple of months.
+Clark you want to take the network question? Sure.
+Thanks Marc.
+And George appreciate the question.
+I first – since you are the first question that I'm answering I would like to say on behalf of Telesphere we are very excited about this deal and feel that we are a powerful enabler in this industry to really create a leader in the UCaaS space and I think we will talk a little bit about that but this is a great day at Telesphere and I believe for Vonage as well.
+As you mentioned we have 16 POPs throughout the country as our network and really that creates an MPLS network that enables us to provide not only QoS and guaranteed SLAs for these larger customers but also other cloud services and also data services for them.
+So we utilize that network really as a facilitator for providing all of the full robust feature set of call communication services.
+Thanks Clark.
+Jamie can we have the next question please? The next question comes from Greg Burns from Sidoti &amp; Company.
+Given that Telesphere is using like a BroadSoft core is there any plans to kind of unify the platforms onto maybe Vocalocity's platform? And then also what is the margin structure of Telesphere look like given that they are using a BroadSoft core and they do offer the MPLS? It's Marc.
+So relative to the platform Alan and the technology teams from both companies will spend time over the next couple of months evaluating the wide range of what are the functions features capabilities of the platforms that have been built at both companies.
+It's important to note that while the BroadSoft platform is the base-level communications module Telesphere is really differentiated by having created a lot of apps and tools sitting on top of that that radically extends the feature set they can deliver.
+In addition some of their differentiating service comes from their OSS/BSS tool which as I mentioned was called Zeus and we've been extremely impressed with the capability that provides for provisioning for channel partners to access to sell to understand where they stand relative to what they've earned and for customers to be able to access and customize their feature set.
+So it's really an impressive suite and array.
+Those are things that are quite unique and do sit on top of that BroadSoft platform.
+In the case of Vocalocity or VBS when it was built the proprietary platform absolutely made the most sense to build and continues to be one that is expanded upon.
+At this point we expect to operate both platforms and we'll consider what additional technology integration needs to occur in the coming months into 2015 but there's no current plan and we don't have a need nor is the thesis for the acquisition in any way based on a technology integration.
+Great.
+Then I'll take the margin question.
+So first of all as with Vocalocity we expect to be able to increase the margins through some of the synergy opportunities that we talked about.
+Secondly the aspect of the Telesphere business that is their primary product which is the feature set built on top of BroadSoft and the call processing are some of the highest margins that we've seen in this space.
+The MPLS which is really sold as a bundle and pulled along in that whole package is growing at a very high rate as we indicated with the 2x.
+The MPLS gets pulled along it does have a lower margin and CaaS but overall we think the margin is quite compelling and we can add we believe over time pretty significant increase to that.
+Okay.
+And what percentage of the $40 million that Telesphere did this year or the $50 million that's booked is MPLS versus out of recurring service revenue for like the telephony component of the business? Again we sell it as a bundle and customers can choose to take it or not.
+Almost all of them do.
+And so having it together is a critical part of the product.
+I would just say that the MPLS piece is materially less than half of the revenue.
+Okay.
+And in terms of the core consumer subscriber base Marc I think you mentioned you expect the churn to kind of improve and GLAs to at least stabilize.
+What are you seeing I guess more recently or what trends are you seeing more recently that kind of give you confidence that you've hit the trough here with that consumer business? I mean we see stabilized gross line additions and we see lower churn.
+So it was planned to actually expect GLAs to decline.
+We've shut down investment in a number of channels and candidly what we found in some of these channels was we call spinners folks who were coming in the top for promotions who may stay for a couple of months then going right off the bottom again.
+So as you drop GLAs or there's a lag time of several months you will see that that GLAs a good portion of it quickly becomes offset with lower customer attrition and that's the trend we're actually seeing.
+We obviously started this process last quarter and now you have a full quarter of that impact.
+So we think that we've seen that kind of pass through the system at this point.
+Okay so the linearity through the quarter has improved the trajectory through the quarter you've seen improve? Yes.
+Okay alright thank you.
+Jamie can we have the next question please? The next question comes from Mike Latimore from Northland Capital.
+This is Jim Fitzgerald tuning in for Mike Latimore.
+So my first question is surrounding research and development for VBS.
+What features or areas is that research and development really devoted to for VBS right now? This is Marc I'll just – I'll turn it to Wain but obviously for competitive reasons we're not going to spend too much time talking about the specifics.
+Wain if you want to talk about the areas where you see emerging needs and the kind of customers and generally the feature sets that we're seeing increase in demand that would probably be most appropriate.
+Sure.
+Primarily it's in three buckets.
+Customers expected more and more mobility so we continue to innovate in that area and have a huge advantage in that we can do that company-wide at Vonage instead of just one-sided VBS which is good for us.
+We're growing like crazy so we continue to invest in capacity expansion and tools and that work fell well.
+And then the third bucket is we continue to take our software spec and advance it allowing other companies to do innovative things and that's one of the things that we like about our Dell relationship.
+Dell could have done business with anybody that they wanted to and they chose Vonage to be able to use our software and our infrastructure to be able to innovate and introduce that Dell's second line and that takes some work to do things to allow companies like Dell to use our software.
+Okay great.
+And then my second question can you give us an update on any incremental distribution channels you have for VBS? Go ahead Wain.
+So we continue to expand out our distribution channel Dell being one example.
+Marc mentioned in his scripted comments about VBS.
+We also continue to see really good growth in channel partners that's telco resellers and we realize that they need to sell cloud because of the value proposition that earns.
+So last quarter we signed four master agents which gave us thousands of sub-agents that are out repping the VBS platform.
+So we think that will continue to scale nicely for this foreseeable future.
+Thanks Wain.
+Jamie can we have the next question please? The next question comes from Catharine Trebnick from Dougherty.
+Congratulations to the new people and sorry Marc you're moving on.
+So on Telesphere is that revenue more geographic to the southwest region or is it a more national footprint? Clark do you want to take that one? Sure.
+We serve customers all over the United States.
+Our network is national.
+There's not a state or a city that we don't serve.
+I think you'll see most of our growth is on the East Coast actually.
+From the past our revenue where we started was more West-centric but almost all of our larger growth and larger customers especially as we've gone upmarket dramatically is coming from the East Coast.
+So it's pretty much spreading across the country based on our legacy base and our current growth areas.
+One of the things we found compelling when we kind of looked at the profile of the business was every place that Clark and his team has actually built distribution out they penetrate market share very quickly.
+So the distribution of revenues that Clark is talking about really is followed where the investment sales force has been and that's why we think there's so much upside opportunity here the ability to provide some cash and support the teams to expand their channels we think can grow accelerate growth very very quickly based on their history.
+Okay thanks.
+And then also another question would be when you compete for customers who do you typically compete against 8x8 RingCentral Comcast AT&amp;T CenturyLink? That would help give me an idea of the landscape too.
+Clark you got that? Sure.
+We really compete for – and our type of customers are those that currently have on-prem PBXs so these are larger customers of the SMB market and most of the customers that we acquire are previously in the traditional mode of having an on-prem PBX and with the traditional [indiscernible] that type carrier and so we're really taking those customers from that legacy product and moving them to the cloud and it is those larger enterprises who we compete against.
+And then the larger enterprises obviously have multiple branches and headquarters right? Correct yes.
+And we've been very effective at both kind of top down as well as bottom up being able to sell headquarter companies with thousands of locations around the country as well as selling satellite offices that then that excitement about our robust feature set and our ability to have great disaster recovery and great connectivity and high quality services for them spreads up from those satellite offices to headquarters and been able to grow that way as well.
+Alright.
+And then just one Marc an update on how you're doing with the Dell relationship and how that's working both from a consumer and a business point of view? Wain do you want to just talk about briefly how the timing on sales from the time we deployed it? Yes.
+Sure.
+As you know we announced Dell at the CTIA Mobility Conference but the product was still being completed.
+We are near completion and feature-set ready.
+So that means by the end of the year Dell will have a complete enterprise mobility management solution where we're providing the voice and messaging communications in February.
+They'll start a national rollout with formal sales training and hopefully engage thousands of Dell people to go out and represent the EMM solution to their client but we don't expect to see meaningful commercial traction until after the Dell sales training in February of 2015.
+Jamie next question please.
+The next question comes from Robert Routh from National Alliance.
+Congratulations on the deals.
+As far as the BasicTalk product I know you launched a while ago with Amazon can you give us an update as to how well that's going and is there any chance that you could expand that? And I think also in May when you announced the expansion of the BasicTalk product you said there were going to be four new retail partnerships and one online in addition to Walmart and we have the CVS I'm wondering who the other three retail partners are if you're finished with the expansion of that product? This is Joe.
+The other big partner was Family Dollar that rolled out through the month of September with 8 000 doors.
+That was the primary add-on.
+Amazon we've been in since the end of June where we're happy with the results there.
+They are actually delivering similar kind of volumes as we're seeing at Walmart.com.
+So BasicTalk is fully integrated into the Amazon channel.
+Okay great.
+And so that's the only other retail partner CVS Family Dollar and then Walmart? Between the two you have 15 000 to 16 000 locations.
+Okay great.
+And then as far as the cash value of your NOLs I know you had a bunch of NOLs from years ago when you reversed some of them and it's obviously a hidden asset of the Company I'm just curious as to can you give us an update now as to where that stands and are there still any NOLs that you could reverse going forward given how well you guys are doing? And then how incentivized is this management in the form of options and all that to continue doing what you've been doing and staying with the Company? I'm just curious as to above the compensation point of view how that's structured.
+I would assume you guys are highly incentivized to keep doing what you're doing but just wanted kind of an update on that.
+Sure.
+I'll start with the NOL question and then turn it over to Marc and Alan for the options question.
+Regarding NOL we don't – first of all it's over $700 million.
+We do not anticipate being a cash tax payer in this decade and we don't anticipate a major shift in how we're recognizing that at this point in time.
+I would also note that Vocalocity came with an NOL and Telesphere is coming with an NOL as well which we'll be valuing over the pre-closing time.
+And I'll take the first half of the employee compensation structure.
+As you well know we do provide to many of our employees incentivization in the form of some stock options and performance RSUs.
+Those performance RSUs which have been granted this year are tied very much to shareholder return over a three-year window and the details of that are public information so you can read that in our historical filings and get a feel for what those are as well as the compensation for the senior executive management and what that split is and what those performance – and how those performance metrics are delivered.
+Relative to the leaders that you hear on the phone here today so Clark and Wain both in terms of their annual cash bonus as well as their stock performance plans are very tightly tied specifically to the performance of their business units.
+So we are looking very clearly to Telesphere performance and Clark is highly incentivized to perform within his business specifically in the form of stock as is Wain.
+Relative to Alan I think I'll let him speak for himself on that.
+Thank you Marc.
+So clearly that's a large chunk of my compensation in terms of aligning with the shareholders but philosophically going forward we'll continue that with future hires as well to make sure that the team is well aligned with the shareholders in terms of incentives.
+Great.
+Thank you very much.
+At this time I'm showing no further questions.
+I would now like to turn the call back over to the presenters.
+Okay Jamie.
+Thank you very much and that wraps up the call for today and we look forward to speaking with you further in the future.
+Thank you everybody.
+Thank you.
+Ladies and gentlemen that does conclude the conference for today.
+Again thank you for your participation.
+You may all disconnect.
+Have a good day.

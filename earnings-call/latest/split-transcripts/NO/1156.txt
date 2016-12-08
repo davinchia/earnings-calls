@@ -1,0 +1,479 @@
+Good day ladies and gentlemen and welcome to the Third Quarter 2013 VeriFone Systems Earnings Conference Call.
+My name is Derrick and I'll be your operator for today.
+[Operator Instructions] As a reminder this conference is being recorded for replay purposes.
+I would now like to turn the conference over to Mr.
+Doug Reed Senior Vice President Treasury and Investor Relations.
+Please proceed.
+Thank you Derrick and welcome everyone to the VeriFone financial results conference call for the third quarter of fiscal year 2013.
+Today's call is being webcast with both audio and slides available via the link in the Investor Relations area of our website ir.verifone.com and a recording will be available on our website until September 12 2013.
+We encourage those on the phone to access the webcast in addition to or instead of dialing in because the slides can be helpful.
+With me today in VeriFone's San Jose California headquarters is our Interim CEO Rich McGinn; and our CFO Marc Rothman.
+First for the legalities.
+VeriFone desires to take advantage of the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Certain forward-looking statements in this conference call including management's view of future events and financial performance are subject to various factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements.
+For a description of these factors I refer you to our filings with the Securities and Exchange Commission.
+Any forward-looking statements speak only as of today and VeriFone is under no obligation to update these statements to reflect future events or circumstances.
+In addition today's call will cover certain non-GAAP financial measures on both historical and forecast bases.
+Our management uses these measures to evaluate our operating performance and to compare our results to those of prior period as well as to those of peer companies.
+Please note that VeriFone expects to continue to incur types of income and expense items that are excluded from the non-GAAP results discussed today.
+These non-GAAP measures are not substitutes for disclosures made in accordance with GAAP.
+Reconciliations of these measures to the most comparable GAAP measures are presented in our earnings release which is available on our website.
+Please note that on today's call we will be referring to the non-GAAP measures including revenue gross margins operating expenses net income free cash flow and earnings per share.
+[Operator Instructions] Now I would like to turn the call over to Rich McGinn Interim CEO of VeriFone.
+Thanks Doug and thank you everyone for joining us today.
+We appreciate the opportunity to speak with you and look forward to answering your questions at the end of the call.
+As part of this quarterly financial results call we'll provide you with the report on the progress that we've been making to reestablish the competitiveness and the vitality of VeriFone's business.
+We continue to focus our efforts on addressing the challenges we shared with you last quarter and have begun to see positive feedback from the market that our efforts are in fact paying off.
+Not only have we exceeded our financial guidance for the third quarter but we're seeing improved customer and partner interactions and a dramatic increase in the sense of urgency and the pace of change in the company.
+Again we have more to do but the path ahead is becoming clearer and more attainable.
+Now I'd like to detail the progress that we've made with regard to some of the challenges that we discussed last quarter.
+First let me address R&amp;D.
+Last quarter I told you that we authorized a substantial increase for both R&amp;D and customer-facing resources to reestablish our traditional strength in high-quality devices and to sustain customer relationships.
+We've added more developers and field engineers to expedite the delivery of next-generation countertop portable and unattended POS devices.
+We've opened a record number of certification evaluations an important step in the product certification process in order to bring these products to the local markets where they're needed most.
+We continue to focus on enhancing our product portfolios across all regions and we are making good progress with additional work to be done over the next few quarters.
+There are a number of exciting developments that are underway.
+First our decision to open our new Linux-based software platform has been very well received.
+It is not only attractive to the broader software development community but it's also a symbol that we're changing the way we collaborate with our industry partners as well as the new entrants who wish to add value to the payments industry.
+Developers throughout the industry are comfortable that they can more easily add vertical market value by working with us on this open platform where they have considerable technical expertise.
+Original development integration and application certifications will be much easier and much faster.
+Our decision to future-proof partner and customer applications written for earlier OS environments which would be ported to our new Linux VOS preserves the value of these investments and reduces the friction typically associated with major software upgrades.
+Next recent software and systems introductions have received excellent response from our partners and early customers.
+This week we introduced a new payments software suite GlobalBay Merchant running on iOS tablets for Tier 3 and Tier 4 small and midsized merchants available exclusively through our partners.
+At launch we had already signed more than a dozen partners that serve more than 500 000 merchants.
+We're in discussions with an additional partner group and expect to add partners who themselves serve an additional 2 million to 4 million U.S.
+customers.
+We are focused on creating a superior distribution partner network to sell the millions of merchants who use cash registers today.
+Beyond that we're moving to additional countries in the immediate future with the same distribution strategy.
+We expect this payments software platform running iOS along with our previously announced Lenovo agreements and a near-term Android implementation will give us a substantial distribution advantage to address the market for mPOS retail systems worldwide.
+Last month we announced Way2ride a mobile software platform that is providing a new method of payments for taxi passengers first in New York City and others to follow by allowing them to upload payment card data preset tip amount to their smartphone check into a taxi securely transfer payment data and exit the taxi quickly when the ride is over.
+Way2ride designed with the consumer in mind and built on VeriFone's mobile commerce platform will not only speed digital payments for taxi payers and other transportation applications but will also host third-party hailing apps using our payment infrastructure.
+Earlier today we announced that Hailo an innovative hailing app is partnering with us to bring their capability to New York taxis with VeriFone as the hosting payment software platform.
+Other apps will join them soon as hosted services in our platform.
+In August we announced that our mobile commerce and payment system was selected by SNCF the operator of the French National Railroad which serves more than 100 million passengers a year.
+This win is further evidence that our capability to bring innovative solutions in the market is increasing and a demonstration that we'll be a leader in our pay anywhere mobile world.
+Additionally where we've invested sufficiently in our traditional terminals markets we're being rewarded with substantial business.
+We're moving quickly towards the release of new core system to capture revenue opportunities in Turkey where government-mandated upgrade to wireless POS terminals with tax-reporting functionality will require re-terminalization of the entire market.
+In the U.S.
+we've gained a substantial share increase with a major retailer who manages more than 75 000 checkout lanes where we have won and shipped more than 90% of their purchases thus far in 2013.
+This is in addition to being the partner of choice for 8 of the top 10 retailers in the U.S.
+including names such as Costco Lowe's McDonald's Kroger and Safeway.
+For these leading retailers execution must be flawless reliability functionality and integration are must-haves.
+They note that we are delivering for them and rewarding us with their business.
+Last quarter we announced that we won a tender of 450 000 terminals with Sberbank Russia's largest bank.
+This agreement is enabling us to gain significant share in this key emerging market.
+In Brazil we earned substantial system solutions business with one of the country's largest processors.
+In the U.K.
+we were named the global supplier to one of that country's large acquirers replacing the incumbent.
+In both instances we were able to be victorious with the product offerings we had available.
+As we develop and introduce a more robust product line starting mid next year we will see additional upside in these markets.
+Our reception by these customers has been gratifying.
+In India we renewed a substantial contract with the country's largest petroleum provider to enable and maintain electronic payment acceptance network across the country as part of this operator's fleet card program.
+In our global taxi business we have a significant market opportunity as 1 of the 2 approved payment systems providers for the new class of green taxis that will cover Upper Manhattan and the New York City boroughs.
+The city will license up to 6 000 additional taxis per year for the next 3 years increasing the addressable market for Greater New York alone from 13 000 to approximately 31 000 during that period.
+Large U.S.
+retailers in the Tier 1 and Tier 2 retail segments continue to offer demand for our MX 900 Series platform and our integrated solution which is creating real stickiness with our existing customers and winning new business from competitors.
+Additionally merchant interest is high for our next generation of mobile acceptance platforms which enable large retailers to deploy mPOS solutions with the iPhone 5 and iPad Mini which is changing the shopping experience for many.
+Also in the U.S.
+we secured the U.S.
+PIN pad business the large global quick service restaurants group as they prepare for the upcoming migration towards EMV.
+We're also working with this customer on enabling acceptance of multiple wallet technologies across their more than 24 000 locations.
+Next we continue to accelerate the growth of our payment-as-a-service offering.
+We mentioned last quarter we closed our acquisition of ENZ of New Zealand on May 31.
+We will leverage this acquisition to add VeriFone point service offerings in this market.
+In Australia Greater Asia we're introducing VeriFone point services where we see demand for solutions that incorporate mobility devices software and support.
+In August we launched VeriFone point services in North America which enables merchants and partners to purchase flexible software terminal and support packages on a subscription basis.
+As U.S.
+merchants continue to be mired in the evolving complexity of PCI-compliance and migration to EMV and the availability of many many mobile wallets and value-added services at the point-of-sale more and more see value in the point services offering.
+In the Nordics VeriFone point continues to pace Europe we did saw the 24% year-over-year revenue growth for our all-in-one subscription services offering.
+We will continue to explore payment-as-a-service opportunities in targeted countries.
+Our rollout of this capability is accelerating and we'll reach the most receptive countries during the next year.
+In a number of countries banks or other large acquirers may aspire to roll out some subscription-based services themselves.
+But what we and they are seeing is a difficulty of getting large IT organizations to be responsive and to deliver this capability in a timely and/or a cost-effective manner.
+This presents additional partnering options for us.
+Finally we are seeing tremendous growth in our cloud-based data analytics soft offering.
+VeriFone gateways provide secure transaction routing from merchants to their processors of choice and feature-rich management information reporting capabilities.
+These gateways route 3 billion transactions per year and growing creating significant opportunity for VeriFone to provide actionable intelligence to its clients based on customer purchasing behaviors.
+We're investing in our cloud-based analytics capability in order to expand in this area.
+These are some of the indicators of our ability to compete effectively where we have focused and dedicated the appropriate resources.
+As we move ahead to position ourselves for a sustained growth we're investing for the long-term with resources in R&amp;D and at the customer interface but we are also clearly focused on the short-term progress that we need to demonstrate.
+We've taking meaningful steps to improve our balance sheet repaying $160 million of debt in the quarter.
+Additionally we've amended our credit agreement to give us additional operational flexibility.
+The opportunities for VeriFone are substantial.
+We remain a leader in our industry with the assets and the people to capture opportunities.
+From the global franchise of our core systems and payment-as-a-service initiatives to our diverse innovative approach to enabling new mobile interactions between merchant and consumer.
+We have to do more work working quickly to restore the business to what we and you expect it to be.
+Payments market is changing.
+To capitalize on these opportunities in sum [ph] we are focused on 4 key areas.
+Our core or network devices or network end points; number two subscription services; number three platform software; and number four data analytics.
+VeriFone has 20 million network devices worldwide in 150 countries which are becoming more and more intelligent end points day by day.
+These network devices are critical to the merchants for trillions of dollars in value exchange as well they're an important asset for us as major online players are moving into offline markets.
+These 20 million network devices can become the distribution endpoint for targeted content such as ads and coupons.
+Current example is our recently announced Groupon agreement.
+We're in discussions with other partners regarding coupons and loyalty programs as well.
+We'll build on the relevance afforded by our worldwide incumbency and position in the payment ecosystem to provide services and software solutions.
+Many of the G20 countries have the positive conditions to make this subscription offering very attractive.
+This is a high-growth market.
+Our APIs will be open for partners who are looking to offer value-add applications with payment functionality to their customers.
+And we're offering these APIs today to taxi and transportation providers.
+Our next step we will offer this to petroleum and then c-store operators and then the hospitality industry.
+We'll also host third-party developers looking to create applications that include varied payment functionality.
+This is an emerging market.
+As I mentioned earlier we're investing in cloud-based data analytics to build on the billions of transactions that we see every year.
+We leverage this data aggregation capability and tie our developing mobile applications experience to this data mining service.
+This is a high-value high-growth market.
+Underpinning all of this is the broad adoption of mobility given its both real and perceived value to the consumer.
+Mobility is a fundamental horizontal elements of all these areas of strategic focus from devices to mPOS to mobile apps to data both collected and analyzed.
+Finally I would add that the board continues to work diligently towards a decision regarding a permanent CEO for VeriFone to comprehend the process and I am confident when finalized shortly that this will yield the right leader for the company's future.
+In the meantime our work continues.
+At this point I'd like to turn the call over to my colleague Marc Rothman CFO who will review of our results.
+And I will come back after his remarks to provide some additional closing perspective.
+Marc? Thanks Rich.
+Consistent with the company's past practice we will be referring to certain income statement items on a non-GAAP basis.
+Let me begin by highlighting our key financial metrics.
+For the third quarter despite foreign exchange headwinds we reported net revenues of $418 million exceeding our guidance of $400 million for the quarter.
+Our net revenues were down 15% from a year ago and down 3% sequentially.
+Non-GAAP earnings per share of $0.24 compared to non-GAAP earnings per share of $0.75 a year ago and our results were $0.04 above our guidance.
+Our GAAP earnings per share loss of $0.02 compares to a profit of $0.34 a year ago.
+And our cash flow from operations this quarter was $49 million and our free cash flow was $31 million exceeding our non-GAAP net income of approximately $26 million.
+Excluding large onetime items such as litigation settlements we expect to better align our free cash flow with our non-GAAP earnings going forward.
+We are pleased with the results this quarter as we continue to focus our cash generation and better working capital management specifically accounts receivable and inventory.
+I'd like to discuss briefly our regional results.
+Our North American business recorded revenue of $116 million reflecting a decline of 16% compared to a year ago and 5% decline sequentially.
+These changes were driven by several factors: First in our U.S.
+multilane retail business we continue to see strong demand for our core integrated retail offering the MX 900 Series but this quarter's results reflect the year-over-year revenue reduction due to large rollouts that occurred in the third quarter fiscal 2012.
+Over the past 12 months more than 30 existing Tier 1 customers have chosen VeriFone for their next-generation EMV ready solutions.
+The same trend exists in the mid-tier with 10 existing customers migrating from the MX 800 to the MX 900 Series.
+Additionally a number -- significant number of mid-tier customers have selected the MX 900 and will be rolling this platform out over the next several quarters.
+We did experience lower sales in Canada as we further developed specific new products and address certification challenges that we are having for that market.
+Our Petro business revenues were up slightly from last quarter but down from a year ago.
+Last quarter we had discussed a significant site point-of-sale contract with one of our largest customers that we expect will generate approximately $15 million of revenue.
+We will begin to see material benefit of this order during the next several quarters.
+Partially offsetting these year-over-year decreases our U.S.
+taxi business improved and benefited from expansions in markets including Chicago Las Vegas New Orleans and Philadelphia.
+Turning now to Latin America.
+Revenues for the third quarter were $70 million down 26% year-over-year and sequentially down 18%.
+In Brazil as we have previously discussed we have experienced delays in the release of new products and certifications.
+With increased focus in investments we continue to make progress in order to meet the growing demand in the market.
+Another factor in our year-over-year decline is a drop in our Venezuela revenues as a result of currency control and political uncertainties.
+Turning now to Europe the Middle East and Africa.
+Revenues of $179 million were down 12% year-over-year and up 4% on a sequential basis.
+As we discussed last quarter we are significantly investing in this market to enhance our product portfolio and rebuild our distribution channels.
+Highlights in this region included our Russian business where sales were up significantly on a sequential basis benefiting from the large win from last quarter with one of Russia's largest banks.
+Additionally in our point business in the Nordic region sales increased sequentially as we continued to drive additional customers to our value-added all-in-one payment as a service solution.
+As Rich mentioned earlier all-in-one subscription service revenues were up 24% year-over-year.
+Finally turning to Asia.
+Our Q3 revenues of $53 million were down from $57 million a year ago primarily as a result of increased competition.
+On a sequential basis sales were up 6% from $50 million and this resulted or we benefited from our New Zealand acquisition ENZ.
+Additional information on organic and constant currency growth is included in today's press release as well.
+Let us now turn to our system solutions and services revenue and margin mix.
+Our system solution revenue was $251 million in Q3 down 28% from the prior year.
+We are addressing these declines with reinvestment in our products and our product certification process.
+On a sequential basis revenues were down 10% mainly reflecting reduced sales in Latin America primarily Brazil and in North America primarily in Canada.
+Our service revenues were a record $167 million in Q3 an increase of 18% year-over-year and 11% increase sequentially.
+Service revenues represented 40% of our total revenues in Q3 up 5 percentage points on a sequential basis.
+Primary drivers of the revenue growth are the continued uptake for our value-added service offerings in our point business growth in the U.S.
+taxi business for transactions and advertising and the acquisition of service businesses in New Zealand and France.
+Overall our gross margin was approximately 41% a decrease of 140 basis points from our second quarter.
+The decline in our system solutions gross margin as a percentage of revenue reflects higher inventory reserves required on certain slow-moving inventory.
+These reserves impacted our system solutions' gross margin percentage by approximately 200 basis points.
+Reducing our inventory levels and minimizing additional write-downs is an important priority.
+Additionally as we expected we experienced lower gross margin in certain geographies as we continue to work to bring new products to market.
+Our services gross margin increased from the second quarter of 2013 to 46.6% in the third quarter.
+This sequential improvement primarily reflects the impact of increased payment-as-a-service revenue and higher taxi advertising revenues.
+Let me now turn and discuss operating expenses.
+During the quarter operating expenses were $127 million an increase of $12 million over the prior quarter as we increase our investments in product development sales and customer interface activities and related back-office support.
+The $12 million increase also includes the impact of acquisitions made during the period.
+Now let's take a look at VeriFone's balance sheet.
+We are pleased with our progress this quarter on improving the balance sheet and our increased focus on cash management.
+Cash flow is a top priority for the VeriFone team.
+Our cash balance of $309 million reflects the repayment and deleveraging of $160 million of debt an investment of $65 million previously announced for acquisitions and the addition of $31 million of free cash flow generated during this quarter.
+Our net debt is now down to $810 million down $102 million from this time a year ago.
+I'd like to take a moment to discuss our deleveraging actions in Q3.
+As I said we paid down $160 million or 13% of our total debt.
+Most of these funds for the $160 million came from repatriated international cash.
+These repatriations were executed with minimal tax costs.
+And I would classify the repatriations in 3 categories: one dividends to U.S.
+from our foreign entities that are not subject to tax because they are branches for U.S.
+tax purposes; two repayment of intercompany debt owed to our U.S.
+entity and three transfer of foreign funds deemed returns of capital which are not subject to tax.
+We will continue to bring back cash from abroad to pay down debt and cover needed U.S.
+outflows.
+As Rich mentioned in July we amended the credit agreement for a onetime fee of approximately $1.2 million which included the extension of a maximum limit for the leverage ratio at 3.75 through the end of fiscal year '14 giving us more financial latitude.
+We are in compliance with the credit agreements to financial covenants details of which are included in a new schedule posted on our website at ir.verifone.com.
+Continuing with the good progress on our balance sheet our days sales outstanding improved 8 days to 58 days and our accounts receivable balance declined to $269 million.
+This improvement is due primarily to better sales linearity additional focus and a more coordinated effort amongst our sales and collections team.
+Our inventory of $172 million decreased by $9 million and inventory measured as days of supply decreased 3 days to 64 days.
+We are focused on making continuous process improvements around the demand planning activities to optimize inventory levels and improve our overall product costs.
+In addition our initiatives on centralizing procurement activities continues to gain momentum which we expect will help us optimize cost further consolidate vendors and better managed terms.
+Our accounts payable ended the quarter at $112 million a decrease of $39 million quarter-over-quarter.
+Days payable outstanding for the quarter decreased to 41 days.
+The decline reflects lower receipts this quarter on lower sales and reduced inventory levels.
+We expect our days payable to fluctuate between low 40s to the low 50s going forward for the near term based upon timing of receipts during the quarter and our current payment terms.
+We are focused on initiatives to improve our cash conversion cycles and our cash flow metrics going forward.
+Turning now to cash flow.
+In the third quarter of 2013 cash flow from operations as I said was $49 million and our free cash flow was $31 million for the quarter which was slightly higher than our non-GAAP net income.
+And during this period we invested $18 million in capital expenditures including $10 million on revenue-generating assets mainly systems for our payment-as-a-service model and our taxi business.
+CapEx was lower than planned due to timing and focus of our investments.
+Let me now turn to our guidance.
+We expect non-GAAP revenues in Q4 to be in the range of $418 million to $422 million.
+We expect our non-GAAP earnings to be $0.25 per share and we expect free cash flow to be approximately $25 million before payment of the shareholder of litigation settlement and negative $35 million including the settlement assuming the payment happens during the fourth quarter.
+Consistent with our direction last quarter we would expect Q1 2014 to reflect modest sequential improvement in both revenue and earnings per share over our Q4 guidance.
+For fiscal year 2014 we expect continued sequential increases in both revenue and earnings per share each quarter and we'll provide more guidance on our financial metrics during our year-end earnings call.
+Now let me thank you and turn the call back over to Rich.
+Thanks Marc.
+I'd like to provide some closing comments before your questions.
+We're pleased with the progress we're making.
+Transformation effort that is underway at VeriFone is broad.
+We're moving ahead smartly.
+2014 we continue to expect a more robust pipeline of wireless and mobile products as well as increased traction in our payment-as-a-service initiative software platforms and our data analytics.
+By the second half of 2014 we expect VeriFone will be on its way to a new growth path.
+Several messages I'd like you to take away from this conversation: Our plan is working the business is stabilizing but there is more work to do.
+With 20 million network devices worldwide our incumbency provide a solid foundation for our future expansion.
+Leveraging this foundation we are strategically positioning the company for long-term value creation through the continued growth of our core business our payment-as-a-service initiatives our open software platform and our growing data analytics capability.
+We're a leader in this industry with a solid foundation and great people.
+We're executing on our plan and focused on the opportunities which we will seize more fully by midyear 2014.
+And at this point I'd like to open us up to Q&amp;A.
+[Operator Instructions] And our first question will be coming from the line of John T.
+Williams with UBS.
+Research Division</strong> I had a couple of quick ones.
+So Marc you had mentioned quickly that you're currently having present tense some certification issues in Canada.
+I was just hoping you could give us a little bit more info on what you meant by that? And then the second question is on CapEx.
+I know you mentioned that the quarterly number was lower than planned for the third quarter.
+And I was just hoping you could give us some sense of what the fourth quarter number should look like.
+Should we see that catch-up or is it generally going to run at a lower rate than you had originally planned 3 months ago? John thanks.
+Let me cover CapEx and Rich will make some comments on Canada.
+On the CapEx as you've mentioned $18 million for the quarter was lower than our planned expectation of $23 million to $25 million.
+Part of that was timing and an increased focus on just the investment discipline.
+I would expect with that downtick in Q3 that we will run around $25 million in the fourth quarter.
+And that's what we're factoring into the free cash flow guidance that I provided.
+Substantial amount of that again will be for revenue-generating assets.
+As far as Canada is concerned we were not battle-ready in terms of things that we've done in the past couple of years.
+Customer reaction was not positive and then we came foreward to get into the certification queue.
+We were late to that queue.
+We missed the cycle.
+And our good competitor our primary competitor took advantage of that as one would which had them get a big move up in terms of business vis-à-vis us.
+But we are back on top of it now.
+We have well-developed rock-solid products.
+We're getting into certification queue.
+And over the next 2 quarters we should see a full product line available for us in Canada in terms of portable and mPOS devices.
+So we missed the cycle by our execution.
+Research Division</strong> So just to be clear Rich this was more of a legacy sort of lingering issue than something that's come up in the last few month? This sounds like an old issue that you're still dealing with.
+An old issue with a long tail.
+And we are finally getting it under control now.
+And that's what has been plaguing us and understandably the customers voted with their feet and they move to someone else who was seen in the absence of our inability to deliver a product at the right time well-baked to go with someone else.
+But the conversations that we've maintained with our customers informs us that as we finally get our act together here as we are that the opportunity is there for us to begin once again getting good business volume in Canada.
+But we didn't do a good job for a while.
+Research Division</strong> If I could just sneak one last one in on EMEA.
+I know you talked about the issues there last quarter how much of the improvement -- is a little bit better than we expected.
+How much of the improvement there was Middle East versus Europe? Could you just give us a little bit of direction on that? Thanks John.
+So in Europe Middle East and Africa the results in Middle East North Africa were relatively comparable to Q2.
+And a significant part of the increase in Europe quarter-on-quarter John related to our success in Russia on the contract that both Rich and I highlighted with Sberbank.
+And lastly the UM acquisition that we closed this quarter also contributed to the increase sequentially.
+The next question is from the line of Julio Quinteros of Goldman Sachs.
+Research Division</strong> It's actually Roman Leal in for Julio.
+I guess just a follow-up on the question in Canada and maybe we can group Canada and Brazil together more on how we should think about the cadence for the trajectory of revenue and business volume there.
+Should we think about maybe 2 more quarters both Canada and Brazil before you kind of lap the initial step down with some customers there? So maybe after 2 quarters the comps get easier.
+First is there another way of thinking about the comps? And then secondly do you have some visibility on when some of these customers potentially come back to market with some sizable orders? Thanks Roman.
+First of all I wouldn't lump them together.
+First dealing with Canada.
+And now that we've addressed all of our issues and we moved into the cycle for certification we'll get through that.
+And then the latency period between working with the customer and deployment that's probably a couple of quarters.
+I think that's a reasonable statement.
+In Brazil a little bit different in that we are still able to sell products in Brazil.
+We've got a very good market share position.
+Other major competitor took some shift share from us in the recent past as we didn't have a full portfolio.
+But as we have indicated we're investing to address that but it is not the same situation.
+It wasn't as long duration as we have had in Canada.
+And the products are coming online for Brazil by the end of this year first quarter of next year and fully by midyear next year.
+So it is a lot more products that are specific for the Brazilian marketplace in form factor in functionality at the request of our customers.
+And -- but honestly the relationship remain strong and they're just waiting for us to -- not patiently but waiting for us to deliver on the promises and the expectations that they have.
+And that will occur on a step-by-step basis starting soon and probably reaching its point of full competitiveness by midyear next year.
+Research Division</strong> Got it.
+And then just on the balance sheet you made some good progress there.
+Anything you can share with us in terms of what the near-term goals are maybe in terms of how much more debt you like to pay down or where you'd like to get to in terms of leverage anything that would be helpful.
+Thanks again Roman.
+So this is Marc on the balance sheet.
+And yes we're pleased with the progress we made and certainly looking forward to making more progress.
+On the deleveraging side just to recap $160 million from this quarter brings the debt down the gross debt to around $1.1 billion.
+And we have the flexibility to pay down additional debt.
+Right now we're planning to pay down at a minimum the amortized requirements which double to roughly $25 million a quarter next year.
+And we will look for the right opportunities continue to at least pay down the revolver.
+We don't have an intention to further pay down the term A and the term B at this point except as it relates to the amortization.
+But we'll be managing the revolver down as it makes sense.
+Your next question is from the line of Andrew Jeffrey SunTrust.
+Inc.
+Research Division</strong> Nice to see that perhaps the bottom is in here I think a lot of people will be relieved.
+Rich not to in any way minimize the efforts and the refocus of management on execution and certification and so forth but is it safe to conclude or reiterate with you that as you make progress in key markets especially in services that this remains a global duopoly primarily and that any significant improvement outside of just intrinsic market growth that VeriFone can make its go-to-market execution more effectively be 0-sum gain in other words you call back some of the share you currently lost in key markets like Latin America I guess a little bit in North America too? Thanks Andrew.
+Probably a longer conversation than one could have at this moment in a Q&amp;A session.
+But I see the world a little differently.
+If you were to think of the taxonomy as only about terminals you might draw that conclusion that it's a 0-sum gain.
+But every day you and your colleagues and many others remind us that the world of payment is changing.
+In fact one would describe it as a major changes in the way in which people are thinking about payments how they're using payments the intersection of payments and commerce et cetera the application of information in different ways.
+Google knowing what you're thinking by your search.
+We know what you're doing by your purchases.
+There are so many things that are changing that actually the element of the value chain that is payments is moving around and we are not only relying on our tremendous position as is another major competitor in our incumbency but as I pointed out looking at subscription services looking at software platforms and mobility software and looking at data analytics and the value that that implies to our merchant customers and partners as an expanded opportunity for us.
+So it is beyond the notion of 2 major players which is a factual statement of a duopoly by virtue of market shares.
+But it's much more opportunity for us as these new elements move in terms of more importance throughout payments.
+So that's why we are optimistic about the growth prospects as these new S curves come on over the next few years giving us a chance to have a more robust future while we fix the fundamental issues that have plagued us over the recent past in our core business.
+Inc.
+Research Division</strong> That's really helpful color.
+You once again demonstrated it on a pretty simple figure.
+It actually...
+I'm sorry.
+I wasn't quite finished [ph].
+I apologize.
+Inc.
+Research Division</strong> It actually begs another question.
+To the extent that services outperformed this quarter relative to system sales is some of that a shift in the business? In other words is more of your revenue being recognized ratably as services and less from hardware or system sales? Or is it too early to make to draw that conclusion? There were some of that but that's not the big issue.
+This is not some situation where the reduction in systems numbers and device numbers is down in some measurable meaningful way because of services.
+The rate of growth may be a little bit impacted but it's not much.
+The real issue is as we have told you last quarter and this quarter is we didn't do a good job.
+We didn't invest enough.
+We didn't invest properly.
+We had some issues about it and we let another good competitor take ship share away from us.
+In the recent past they benefited from us at this point in time.
+We're fixing that.
+But we're also looking to the opportunities in these additional spaces.
+I find it quite interesting that we're able to win a mobile e-commerce business in France for the French National Railroad based upon our software.
+I was very pleased to see that.
+Inc.
+Research Division</strong> And one last quick one.
+Marc could you take a stab for us at normalized profitability? One of the callouts I noted was 200 basis points of inventory reserves.
+I assume that normalizes to some lower level over time but are you prepared to kind of give us a sense of what you think your long-term sustainable non-GAAP EBIT margin might look like? Let me clarify the comment I made on the gross margins and the adjustment for inventory reserves is actually in the non-GAAP results okay? So the 40 -- approximately 41% of gross margin that's included in the non-GAAP results and the $0.24 per share reflects that write-down.
+It's not called out.
+In fact the non-GAAP callouts this quarter are as low as they've been in at least the last 6 quarters.
+So we are working very hard and very diligently to minimize the amount of charges that go through the non-GAAP results.
+And you see that Andrew in our cash flow performance which I am trying to tie the 2 in terms of improved earnings cash flow free cash flow being $31 million and the non-GAAP earnings being $26 million.
+And it's reflective in part by the fact that we have lower non-GAAP callouts.
+Inc.
+Research Division</strong> Okay.
+Any thoughts on long-term margins? With respect to the long-term margins I would expect it to continue to sequentially improve upwards.
+We've laid out the OpEx framework.
+We did $127 million and we expect that to go up slightly in the next quarter and thereafter.
+And I would expect over time as we work through some of our inventory our slower-moving inventory and our competitive issues with our product our gross margins will improve as well.
+And those 2 things coupled with the revenue leverage will result in operating margin improvement from the current levels.
+I would add one more piece on that to amplify the comment which is the number of customers that a dialogue has been developing around these major banking institutions thinking differently about how they interact with a company like us.
+Historically it's been -- you had to be a good supplier deliver on time on price good quality.
+Now a number of players who must be having let's say industry conversations are saying you are being seen differently.
+You're being seen as a technology partner as we think differently about our strategies.
+That is a great change in the conversation because it lets us in earlier to their thinking helps us in our ideation for products and services reduces the latency period from that to introduction and gives us a chance to show the real value that we're offering in addition to a device.
+So that is a bit of a change in terms of the conversation we're having -- happening these days.
+And quite honestly we're quite satisfied quite gratified with that change.
+The next question comes from the line of Tien-tsin Huang with JPMorgan.
+Research Division</strong> Just a few quick questions if you don't mind.
+Just first off could you size the revenue loss due to product or certification gaps this quarter? I know you've mentioned Canada but I didn't actually hear any sizing of the impacts.
+I think it's reflective Tien-tsin in the fact that the revenues declined significantly from the second quarter the $430 million down to $417.5 million.
+You can attribute a substantial portion of that to the product and service -- the product challenge that we've highlighted.
+I would say that it is specifically in the 2 or 3 countries that we've highlighted Brazil I think we've covered that pretty well in detail.
+And in Canada as well.
+And we're making progress in parts of Western Europe.
+But we still have some product gaps that we're working through.
+So I would suggest that a significant portion of the change quarter-on-quarter related to product gaps and it's a little bit more than that because the acquisitions and the increase in our service offerings.
+So I hope that color could allow you to get to a reasonable number.
+Research Division</strong> No we can extrapolate from that.
+I mean I'm asking because just trying to get a sense over the next 2 quarters as that gap narrows what kind of revenues we could assume comes back.
+That's the crux of the question but that works.
+Let me add to that in terms of looking.
+We're being gated in terms of our estimates.
+We expect that we'll have improvements that will be more meaningful towards the second half of next year when we have a more full and robust upgrade to the product offering.
+So we've signaled that the sequential improvements will be modest and that's consistent with our previous guidance except it's on a better baseline relative to our results today.
+Research Division</strong> Right it makes sense.
+The multi-lane you guys still doing well there.
+I know a tough comp but I guess my bigger picture question is just can you give us some sense on the shipments with what's the -- whatever attach rate or penetration rate for EMV and NFC in the U.S.
+and maybe outside of the U.S.? Sounds like EMV is actually still moving the needle.
+Well EMV is just a part of the decision process that the people are folding in to their normal upgrade cycles at this point in time.
+The processors are doing it early acquirers are now ready certain merchants are doing it every time they get to do a new rollout of certain offices et cetera.
+I don't see it as a dramatic change.
+I see it as a benefit to us and a sense -- creating a bit of a sense of urgency in terms of the preparation time but I don't see it as a step-function change in terms of what's going on.
+Just step-by-step quarter-by-quarter as we get closer to the dates you'll see more and more.
+And the timing is good for us because we'll have a more complete product line of that time too.
+So I like that.
+Research Division</strong> Any risk of that system sales get delayed as a result of some of the Durbin 2.0 stuff obviously with the judge striking it down and you make it to [ph] be more uncertainty around whether that EMV should still stick with those deadlines given there could be some routing rule changes et cetera? I know it's pretty new.
+It's not showing up in your numbers.
+But we've been thinking about this potential how real could that be in your view? First I don't see any at all.
+Second I don't think I'm qualified to comment on Durbin or friend of the court filings to try to block the judges rulings.
+That's too metaphysical for me.
+So I'm going to deal with customers needs engineering resources and we're all managing the business.
+And if we'll only be focused on those things we'll do our part.
+Research Division</strong> Okay fair enough.
+Last one I promise.
+Just the -- I like the comments around the open software platform et cetera.
+As you're thinking about those comments in relation to what Visa had said at their Investor Day around the Visa-ready partner program where they're going to create a path to certification I guess for innovators focused on hardware and software which I thought was a change to create potentially more competition but also more innovation.
+So how do you think those 2 things coexist? I think the incumbency message is right from a VeriFone standpoint but there's obviously a lot of moving pieces.
+How do you think those 2 things coexist if you follow my question? To the extent that I do follow it I tried to study a little bit of history.
+And most of the time I believe on average over time the moat theory of defense didn't work out too well.
+So rather than embracing the fact that incumbency and control gives you comfort security and is [ph] a moat I'd rather go out engaged and bring in the considerable value from the very very bright engineers around the industry who wish to play in this value chain and have them develop on our platforms and have us be a partner going forward.
+And given our share position our incumbency especially in the U.S.
+where so much innovation is taking place we are the most attractive partner in the world to work with in the U.S.
+because they can reach so many people.
+So why not really think about it differently? And that took about 10 days to figure that out.
+And we are committed to it.
+We're on our way.
+We're already beginning to shift POS-based operating system software products.
+And we'll have a whole new hardware platform as well when the tape-out occurs in the chips in about 15 months which is great performance and allows us to do chipsets reductions et cetera cost reductions.
+But we are already shipping and we're already opening ourselves up.
+We got the APIs publishing and we're going to start providing in things that we didn't know how to do previously which is developer support in a more professional way.
+I think that makes them more -- provides an easier way for them to go to market and makes us more valuable to the end customers.
+The final question will come from the line of Wayne Johnson Raymond James.
+Inc.
+Research Division</strong> Good news on the top line so well done there.
+Could you give us an update on kind of the outlook by region how you expect that to unfold in North America Latin America EMEA Asia? That will be helpful.
+Thank you Wayne.
+This is Marc.
+Let me give you some information on the regional outlook for Q4 off of Q3.
+So for North America we are guiding and modeling towards a slight improvement.
+And that slight improvement is coming primarily from multi-lane retail and we see progress in Q4 from Q3.
+In Asia-Pac I expect -- we expect it to be relatively flat off of our Q3 numbers.
+And in EMEA with $179 million in Q3 we now expect some slight improvement in EMEA as well.
+And I highlighted Russia during my comments.
+Offsetting those improvements and [ph] the balance in Asia-Pac are the headwinds in Latin America.
+So when we look at Brazil in particular and we continue to navigate through the various competitive dynamics and factoring in the current FX headwinds we expect Latin America to be down from the Q3 numbers.
+Inc.
+Research Division</strong> And then is there going to be a range on how much is it going to be down sequentially? I think I'll let you guys do a little bit of the modeling there.
+The $417.5 million that we have for Q3 we just to highlight again the range we got it to $418 million at the low end to $422 million.
+So Latin America will have some impact on the upside that we see in North America and Europe...
+Inc.
+Research Division</strong> Okay.
+That's a...
+I'm sorry.
+Please go ahead.
+Inc.
+Research Division</strong> All right that's helpful direction.
+Could you size Canada for us? As part of North America what in absolute dollar value terms how big is it how big was it in the most recent quarter how big was it a year ago? The overall market is what I'll comment on.
+The overall market in Canada is reported to be around $50 million to $60 million a year.
+And one would argue that we should have a substantial piece of that.
+And recently we have not.
+There's good proximity to where we have a very substantial market position in United States.
+Many of the same customers are present in Canada as are in the United States.
+We do well with them in the U.S.
+And the same customers the same buyers have rewarded our good competitors with business in Canada because of our own personal failures.
+We believe that by rectifying our own internal problems that we'll be able to substantially improve the position in Canada once we address that.
+So...
+And just to comp it to last year.
+So last year we had our relative share of the market fair share of the market.
+And obviously given the product challenges that we've had and we're working on that's been cut sizably.
+If I were a customer and you're satisfying me well with good products security quality reliability and timeliness and decent pricing in the U.S.
+I would award you the business.
+If the same conditions were true in Canada I'd probably award you the business it makes it easier for me.
+And then the same customers are making a different decision in Canada.
+And quite honestly I understand it.
+I don't like it but I understand it.
+So fix our problem the dynamic will change.
+Wayne thank you very much.
+If I may just make a closing statement.
+I think earlier it may have Andrew who said that it's good to see the bottom and we concur.
+We feel good about the way things are beginning to change.
+Economists talk about leading economic indicators.
+We have our own leading indicators.
+We have been defensive for the past several quarters maybe as many as 3 quarters in the conversations with our customers because we have not been outstanding in servicing them and serving them.
+But the network of conversation with the customers has begun to change.
+And for us the first manifestation of that is that conversation and the way in which the customer-facing organization the engineers and the salespeople are able to hold their heads up and to deal with the customers.
+That is not a sales forecast.
+That is not a business plan but is a leading indicator of how things are changing that is followed by investing that's followed by plans and programs and execution and that's why we're saying as we're seeing this turn we see it step-by-step quarter-by-quarter our competence is increasing the rate of change is increasing and we expect over the next several to 3 quarters that we will be back in fighting shape to be able to not only build on our installed base our incumbency and our relationships but also add a lot of value with these 3 other areas that I mentioned in services and software and information to build a more robust business.
+We thank you for your continued support your insightful questions and we will continue to share with you.
+Thank you very much.
+Ladies and gentlemen that concludes today's conference.
+We thank you for your participation.
+You may now disconnect.
+Have a great week.

@@ -1,0 +1,464 @@
+Hello and welcome to the DuPont Fabros Tech Third Quarter 2014 Earnings Results Conference Call.
+[Operator Instructions] Please note this event is being recorded.
+Now I'd like to turn the conference over to Chris Warnke.
+Mr.
+Warnke please go ahead.
+Thank you Keith.
+Good afternoon everyone and thank you for joining us today for DuPont Fabros Technology's Third Quarter 2014 Results Conference Call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; and Jeff Foster the company's Chief Financial Officer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income and operating income as applicable are contained in the company's earnings release issued this morning.
+The release is available on PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+[Operator Instructions] I will now turn the call over to Hossein.
+Thank you Chris and thank you for joining DFT on our third quarter call.
+I'm pleased to report a strong third quarter with all financial metrics meeting or exceeding guidance.
+Before we discuss our strong quarterly results I'd like to update you on our succession process.
+Finding the right person to lead DFT's next chapter of growth is such a serious undertaking.
+It deserves careful time and attention but frankly our process has taken just too long.
+The board and I have committed to a new and re-prioritized approach an approach with 2 important changes.
+First we have changed the nature of the search.
+It's no longer a search for a President.
+It's a search for a CEO.
+Initially we plan to hire a President who would transition to CEO after we had worked together for some period of time.
+Now it's clear to us that we can move more quickly.
+The successful candidate will be qualified appointed to CEO on day 1.
+This leads us to our second important difference in our renewed search my ongoing role.
+Rather than transition over time from CEO to a board role I will make that transition the same day as our new CEO is appointed.
+Let me be clear.
+I will be here to offer my full support to my successor be it in the form of data center knowledge or my customer contacts.
+My support will come in the form of cofounder and board member.
+These changes in our approach are important signals to a broader candidate pool and provides a refocusing event for the search.
+Meanwhile the team and I are focused on producing results.
+Our strong quarter provides evidence of that sharp focus.
+During and subsequent to the quarter we signed 9.59 megawatts of new leases in our 3 markets with inventory extended the maturity of one lease by 2 years and entered into a tri-party agreement as part of Yahoo!'s sublease of 13.65 megawatts in ACC4.
+This agreement is accompanied by a lease extension for 9.1 megawatts of that space.
+Let me give you some color on those results.
+Our business benefits greatly from the organic growth of our existing customers.
+The 1.49-megawatt lease we signed in ACC7 is a great example.
+This technology customer currently leases a space in Santa Clara 1 and has expanded its relationship with us in Northern Virginia.
+Our operational expertise and state-of-the-art design assures this customer that their mission-critical applications will operate without interruption within our facilities.
+This is our second lease within Phase 1 of ACC7 making the facility 29% leased on a critical load and 25% leased on a square footage basis.
+We are super excited about the demand for our new version 3.0 design.
+It replicates the reliability of the electrical design of our previous buildings with the added value of an extremely low PUE of 1.15.
+We expect ACC7 will lease out in a similar time frame as our other Ashburn assets.
+This takes me to New Jersey where we have signed a 1.27-megawatt lease with a new financial analytics customer the ninth customer in this facility.
+This lease was referenced on our last call and commenced this quarter.
+In monitoring the operations at NJ1 we noted that some of the customers were not able to fully utilize all the power density in our computer rooms.
+Leveraging the ACC7 design we're able to apply some flexible density features to NJ1 in order to capture current requirements.
+To date we are 59% leased on a critical-load basis and 70% leased on square footage.
+Based on potential deals on the market we believe NJ1 has 3 to 4 megawatts of critical load available for leasing before rate floor is fully optimized.
+If our assumptions are correct we will have 3 to 4 megawatts of remaining critical load which we can move to Phase 2 of the building.
+This will allow a future Phase 2 with a much lower investment since significant amount of capital has already been deployed into Phase 2.
+We will only consider additional development when the time and demand drivers are correct.
+Now on to Santa Clara.
+Two of our existing Internet customers again expanded their relationship with us.
+Subsequent to the third quarter one customer signed a 1.14-megawatt lease in Phase 2a and a 4.55-megawatt pre-lease in Phase 2b.
+The second customer signed a 1.14-megawatt lease for the remaining space in Phase 2a.
+Phase 2a is now 100% leased.
+Phase 2b now has reached the 50% pre-lease mark.
+Demand in Santa Clara is robust.
+We're confident in our ability to lease the remaining 4.55 megawatts of space in Phase 2b.
+Let's talk about ACC5.
+As discussed on our last call we extended the lease term of our only remaining 2014 lease expirations by 2 years.
+This now brings that lease exploration to December 31 2016.
+Our next lease expiration is not until June 30 2015.
+That takes us to Yahoo!'s sublease of 13.65 megawatts of space in ACC4.
+This week Yahoo! sublet this space to one of our existing Ashburn super wholesale customers.
+As part of this arrangement we entered into a tri-party agreement with Yahoo! and the subtenant.
+This gives us a direct relationship with the subtenant on all operational matters.
+That said Yahoo! remains bound under the original lease and is obligated to us for all of its payments.
+We said that we would only enter into a tri-party agreement if it was beneficial for DFT.
+This is beneficial on several counts.
+First it deepens our relationship with one of our fastest-growing companies.
+Second this sublease takes a huge amount of space off the market in Northern Virginia.
+Third we entered into a lease with a subtenant that extends the lease term on 9.1 megawatts to coincide with the balance of the space.
+This 9.1 megawatts of space was originally set to expire in 2017 and 2018 and now has been extended to March 31 2019.
+Jeff will discuss the GAAP and cash impacts later on on the call.
+All in all we're very pleased with the level of leasing we have achieved this year.
+To date we have signed 9 leases with an average lease term of 5.6 years.
+This totaled 17.17 megawatts of critical load.
+These leases will generate approximately $18.2 million of annualized GAAP base rent.
+It's really interesting to note the leases signed since the last earnings call are $5 per kilowatt higher than those reported on our last earnings call.
+Excluded our recently deployed ACC7 facility our operating portfolio is 96% leased on a critical load and 97% leased on a square footage basis.
+We believe this success reflects the strength of our customer relationship and the recognition of DFT as the premium data center brand in the industry.
+Overall I am very pleased with our operating results our leasing performance and the ongoing demand for our business.
+With that I'll turn it over to Jeff.
+Thank you Hossein and good afternoon everyone and a special congratulations to all you Giants fans 3 out of the last 5 World Series isn't too bad.
+I want to cover 4 main topics today: our third quarter results capital markets update a guidance update and our dividend.
+Our third quarter 2014 normalized FFO was $0.60 per share compared to $0.51 per share for the year-ago quarter an increase of 18%.
+The increase was a result of higher operating income primarily from new [indiscernible] that primarily resulted from all our refinancings over the past year.
+Our AFFO per share continues to increase and reached $0.64 per share this quarter compared to $0.52 per share for the same quarter of 2013 an increase of 23%.
+This increase is due to commencement of new leases the burn off of free rent grants our normal 2% to 3% annual cash rent increases and lower interest expense.
+Quarterly revenues were $105.6 million.
+This is an increase of $9.3 million or 10% from last year.
+You may have noted that we added an additional disclosure to our supplements relating to same-store growth which is on Page 12 of our earnings release.
+Similar to our peers we have 2 separate calculations with same-store.
+The first is simply labeled same store and includes properties placed in the service on or before January 1 2013.
+This includes all of our properties except ACC7 which was placed into service this summer.
+This analysis shows same-store revenue growth of 8.7% when comparing the current quarter to last year's third quarter and 2.8% sequentially.
+On a 9 months basis we grew revenues 11.7% year-over-year.
+Cash NOI grew 11.6% when comparing the current quarter to last year's third quarter 3.8% sequentially and a healthy 17.3% when comparing the first 3 quarters of 2014 to the first 3 quarters of 2013.
+The second chart represents same-store same capital.
+Like the first chart it excludes any data center placed into service after January 1 2013 and also excludes data centers where the available critical load was increased by 10% or more since January 1 2013.
+This resulted in ACC7 and SC1 being excluded and SC1 Phase 2a which was placed into service this spring increased available critical load at SC1 by 50%.
+I would now like to discuss the Yahoo! sublease which Hossein previously mentioned.
+As we disclosed in our earnings release we signed a new lease with the sublessee.
+The rates on the new lease are 30% lower than Yahoo!'s current rates.
+These new rates do not go into effect until the underlying Yahoo! leases expire in 2017 to 2018.
+When the new leases begin in 2017 and 2018 GAAP rent will decline 26%.
+Although the magnitude of this reset is specific to these leases the rent we will receive during the extension term is consistent with our then escalated super wholesale rates.
+In 2007 when Yahoo! signed their original lease wholesale rents reflected the lack of available data center space and included 3% annual escalators.
+We're now 7 years into high base rents that have escalated well above inflation.
+Yahoo! will pay us the escalated rents during the balance of the original lease term.
+Having cleared this hurdle our only remaining Yahoo! space in Ashburn is ACC2.
+This lease expires next September.
+We are still expecting a 20% decline in cash rents.
+Yahoo! pays $20 less than base rent on this lease versus the ACC4 lease which is leading us to predict the lower decline in cash rents.
+There are super wholesale requirements in the market for which we believe ACC2 will be well-suited.
+Once Yahoo! provides us with a definitive move out date potential customers will have a clear time line to accurately plan their deployments.
+This leads me to our capital markets update.
+In July we amended our $250 million unsecured term loan and decreased the interest rate by 25 basis points taken from LIBOR plus 1.75% to LIBOR plus 1.50% and extended the maturity date from February 2019 to July 2019.
+Our stock repurchase plan which allows us to purchase up to $122.2 million of common stock expires at the end of this year.
+During the first 9 months of 2014 we did not purchase any shares and the full amount is still available for purchase.
+Next an update on our development and borrowing forecast.
+Since SC1 Phase 2a is now 100% leased I can report its ROI as 9.2%.
+We expect a similar ROI for SC1 Phase 2b.
+As disclosed in our development table we have spent $93 million on SC1 Phase 2b as of September 30 2014.
+About $50 million was already spent during the construction of Phase 1 on the land and shelf and on Phase 2a for redundancy.
+We anticipate additional $14 million to $20 million will be needed to fully complete the Phase 2b build-out bringing the total cost to around $110 million.
+We are forecasting that Phase 2b will be placed into service early second quarter of 2015.
+Now let's discuss CH2.
+We expect to spend about $200 million to get Phase 1 and Phase 2 in service of which $55 million has already been incurred mostly for the land and shelf.
+Of that total spend $125 million is for future phases including land shelf underground infrastructure and redundancy.
+The second phase of Phase 2 will require very little incremental spend to open.
+The cost per megawatt for Phase 2 is still estimated at $10 million to $11 million.
+We expect to deliver the first phase consisting of 7.1 megawatts in the third quarter of 2015.
+To date we've drawn $50 million on our $560 million line.
+We expect to draw an additional $20 million to $40 million on the line by the end of 2014 which would increase to approximately $150 million on the line by mid-2015.
+The additional draws along with our excess cash flow will fund SC1 Phase 2b and CH2 Phase 1.
+Given the conditions of the financial markets next year we may look into taking out the balance on our line with a long-term fixed facility possibly in the form of perpetual preferred or bonds if the terms are favorable.
+Our balance sheet remains strong and provides enough capacity to continually fund our growth for the next few years without the need to issue any equity.
+I now would like to discuss our fourth quarter and revised full year 2014 guidance.
+Our fourth quarter 2014 normalized FFO guidance range is $0.61 to $0.63 per share.
+This is an increase of $0.02 per share from the third quarter's normalized FFO of $0.60 per share.
+The increase is primarily due to the new leases.
+We increased the bottom end of the full year 2014 normalized FFO guidance range by $0.03 a share and tightened the range to $2.41 to $2.43 per share.
+This is an increase in the midpoint of $0.01 per share which is being driven by our leasing success.
+As in the past the low end of the range assumes no additional leasing in 2014.
+The remaining assumptions are disclosed in today's earnings release.
+We will release our 2015 guidance on next earnings call.
+If we were to release the 2015 guidance today our midpoint of normalized FFO per share would be roughly equal to the analyst consensus of $2.53.
+Last but not least let's discuss the dividend.
+On October 15 we paid our quarterly dividend of $0.35 per share.
+The anticipated 2014 annualized dividend remains at $1.40 per share which represents an estimated normalized FFO payout ratio of 58% at the midpoint of our guidance.
+As our FFO and AFFO continue to grow our dividend will also subject to board approval.
+With that let me turn it back over to Hossein who will provide some final comments.
+Thank you Jeff.
+Let me leave you with some reasons why I'm very excited about our company and the data center market.
+We feel that pricing in the market has stabilized and is trending upwards.
+Our customer base is expanding with both new and existing logos.
+Overall data center demand continues to be very strong and we are poised to capture our share of it.
+With that I'd like to thank the employees of DFT.
+Your contributions make this company a leader in our space.
+Thank you all for your hard work.
+With that let's go to questions.
+[Operator Instructions] And the first question comes from Jonathan Schildkraut with Evercore.
+Research Division</strong> I guess my first question is I'd love to get an update on where we are in terms of the base between super wholesale and wholesale rates and maybe you can sort of give us a little bit of visibility in terms of the leasing year-to-date as well how that broke out.
+And then my second question just has to do with further expansion.
+Can you sort of weigh the considerations of maybe expanding further in some place like Santa Clara where I believe Hossein that you own a bunch of land already right near the existing facility but the yield so far have been under 10% versus pressing into a new market.
+Okay.
+Thanks.
+I'll address first the question regarding super wholesale rates.
+As disclosed in the past our super wholesale rates are in the low 80s.
+Our wholesale rates are somewhere depending on credit depending on the size of the tenant depending on the tenants' growth is somewhere in the low-100s but that can vary $20 per kilowatt.
+That's -- and both of these I'm quoting you triple-net without OpEx.
+To go on to the second question about growth well Santa Clara we still have 4.55 megawatts remaining.
+That remaining space is giving us a huge yield because the new money invested in that space was considerably less.
+Most of -- a significant amount of the money was invested in the previous phases.
+So as far as expansion and growth we're really going to expand and grow in 3 markets.
+Northern Virginia has been a very solid market for us.
+Chicago will continue to grow in ACC7.
+Chicago we're just delivering a building next year and Santa Clara currently on the 4.55 megawatts will continue to grow and then long term we are committed to the West Coast but not necessarily expanding in areas with lower returns.
+And Jonathan let me add something on the super wholesale question because I think I know what you are getting at there.
+So in the past I've stated about 1/3 of our portfolio was already priced at super wholesale rates and that there was probably another 1/3 given our tenant concentration that would eventually convert it into super wholesale rates if those customers stayed with us.
+With this recent Yahoo! sublease and lease extension with one of our super wholesale customers those numbers are now 40% of our portfolio is priced at super wholesale with about another 25% remaining that could be converted into super wholesale.
+So I hope that helps.
+And the next question comes from Emmanuel Korchman from Citigroup.
+Research Division</strong> If we think about the ACC4 leases now been done I believe that's the asset where you guys were going to implement your colo strategy and sort of expand from there to take up some of that space.
+Is that now off the table or is that going to go elsewhere? Well I think the thing about data center space it is to a large extent fungible.
+We're going to start the data center our retail model our version of retail which is about from 100 to 300 kilowatts in ACC5 where there is about 0.5 megawatt remaining.
+And from there in Virginia we'll expand into ACC7 with flexible densities that have flexible densities.
+We'll also be doing it in New Jersey.
+So those are the 2 areas we're focused on because the space have leased up.
+Research Division</strong> And then with the tenant that's taking the sublease did they look at ACC7 and you sort of steered them towards other asset or did they go to Yahoo! first? Can you walk us through sort of how that relationship happened or how that...
+We have a very solid relationship with the tenant.
+They wanted a large amount of space and frankly we didn't have all the space they wanted in ACC7.
+So it was really the only remaining option for them but we have a terrific relationship with that tenant.
+We didn't have 13 megawatts elsewhere.
+Research Division</strong> Yes and I think Michael has a question for you as well.
+I'll ring you up to keep the limit.
+And the next question comes from David Toti with Cantor Fitzgerald.
+Research Division</strong> I just wanted to maybe explore a little bit the recent uptick in leasing velocity and sort of ask if you think this is sustainable momentum going into the end of the year and early next year maybe even quantify if you can any conversations you might be having now that you think are fairly solid and might materialize in the near term.
+I think all the players in the market were seeing uptick in leasing more discipline in demand more discipline in supply in the market and more discipline in not lowering rents beyond a certain point.
+So we're all cautiously optimistic that will continue.
+Listen every day we hear about a new internet company that used to be 2 megawatts and now they want a dozen megawatts of space.
+So the larger customers are also becoming much larger.
+For some tenants I see an insatiable appetite of demand for data centers.
+Some of the numbers I'm hearing are -- I'm just shocked by how large the loads are.
+David one of our cloud customers put out in one of their blogs that their need for data center space for its cloud product is doubling every 9 months so quite impressive.
+Research Division</strong> Yes that's helpful.
+And then I had sort of a -- just my second question's a bit left field.
+Would you be willing to lease to big coin [ph] miners and have you already? We don't have them as customers.
+Depending on credit we would look at it.
+Their requirements of data have been for literally no redundancy which doesn't match well with our product.
+And the next question comes from Jonathan Atkin with RBC Capital.
+LLC Research Division</strong> Yes so I was interested in drilling down a little bit on Chicago with CH2.
+Can you remind us if you had any pre-selling activity going on and what are sort of your leasing expectations in that market given that there are depending on how you define it a couple of competitive projects and new inventory in that market.
+And then with regard to Virginia and Santa Clara just also interested in kind of the tone of competitive activity and the leasing that you've done.
+Some of it's been with new customers.
+A lot of it's been growing with existing customers but how competitive were those negotiations? In Chicago we're very optimistic.
+That's been our second-best market.
+It's always performed very well for us.
+As you know Chicago the first building is 100% leased.
+Our building there is right across the road from our first moving our fiber conduit going across it.
+I wish we have had space there earlier.
+We would certainly lease some.
+We have not leased anything yet but it's still too early to be doing large or any leasing of that large sizes there.
+I am very excited about the building because we're using the same design as ACC7.
+We expect to have the same very low PVs in Chicago and we will have the flexible densities where you can -- it takes space with 100 watts a square foot all the way up to 250 watts a square foot.
+So that should give us a clear advantage over the market.
+As in terms for Virginia and Santa Clara I think our demand speaks for itself.
+We have a decent pipeline in both markets.
+We do compete efficiently but our existing customers certainly recognize us as the premium brand and other things being somewhat equal they would prefer to grow with the existing space.
+LLC Research Division</strong> And then I was interested just in connectivity and Open-IX and kind of any update on that front since you are part of that initiative.
+I've done a handful of customers in Virginia and we're continuing to sign more customers on.
+We're starting to get some eyeball networks which will be very effective since we will have the content.
+Many of the content can directly connect to eyeballs bypassing some of the long-distance providers.
+So we do think it will take a long time to take hold.
+It's not an immediate thing but we've had good traction on that to start with.
+And frankly since we didn't really have much retail we haven't had much need for it in the past but going forward it's something that we'll continue to invest time in.
+And the next question comes from Colby Synesael from Cowen and Company.
+LLC Research Division</strong> Great.
+Two questions if I may.
+First off as it relates to the ACC7 design I thought I heard you say that you're doing something in terms of utilizing that design in New Jersey and I was wondering if you could talk a little bit more about that.
+And are there other data centers potentially in the base where you could apply what you've learned with ACC7 on a retrofit basis? And then the second question just has to do with the dividend.
+From a modeling perspective is it fair that we should just look at the payout ratios remaining fairly consistent? It's just a matter of how fast the AFFO grows or could the payout ratio actually start to increase? And then also just a sense of when you guys do decide to make a change what's the timing around that? Yes Colby if I can ask you to put your phone on mute.
+I think there's a buzz on your end but I'll take the design questions and I'll ask Jeff to take the dividend question.
+On the design question what we've learned is to be able to expand the Iso Parallel rebuff [ph] while having to live load on it that's been a -- that's one of the reasons we're able to build in smaller phases and add to the existing bust.
+We've successfully tested that in ACC6.
+We did it again in Santa Clara and we're going to do it again in ACC7.
+So what that would mean is that what we do have is have bigger PDUs in a room to start with.
+Some of that technology's somewhat proprietary and without really spending more money on the building we're able to simply add load from one side of the building to the other side of the building.
+And even if we have some unleased space on the building a tenant can come if we have some unleased load and they can say 4 years from now "Can we have 2 extra megawatts?" If they're using a certain amount of space we can give them the additional load.
+That we're going to successfully implement in the new designs going forward.
+Having said that we also recognize as time goes on that the density per cabinet is actually going up.
+So while other buildings in the industry may be limited on their density we recognize that our buildings will have a very long useful life and that some of them are already 240 watts a square foot.
+So I hope that answered your design question.
+But with that I'll let Jeff explain the dividend question.
+Yes.
+Thanks Colby.
+So on the dividend being a REIT we have to pay out all of our taxable income as dividends.
+So we have to keep that into mind but we also look very heavily at our ratio payouts for FFO and AFFO.
+Over the past 20 quarters we raised the dividend 6x so the average rate in like once every 3 quarters shifts because our growth in cash that we produce has been so large and I would expect that to continue into next year.
+So I would look at AFFO and FFO as like a proxy and you can continue to model off of that.
+We could easily increase the dividend higher than the 58% payout ratio it is today because we're generating $90 million of cash this year after dividend payout but we're choosing to keep the balance between the dividend growth and using this cash to fund our development and we will keep doing that in the future.
+And the next question comes from Jordan Sadler with KeyBanc Capital Markets.
+Research Division</strong> I wanted to come back to the CEO search for a second.
+So I guess the change in the scope the couple of changes you've made in terms of the search process obviously helpful in signaling and potentially sourcing a new CEO.
+I'm curious one with the adjusted or expected time frame it is now at this point because it sounds like you guys are frustrated with the -- with how long it's taken as well? And separately Hossein on your point that you'll be a board member and a supportive player do you -- would you expect to be in a Chairman role or in a Director role? Okay let me kind of take it both ways.
+Yes I mean we do feel that this has taken longer than it should.
+And originally what we were going to do is have this person as President and over time be groomed to be CEO.
+During the search process we found that perhaps we were limiting some candidates who could be terrific day 1.
+This is a great company and a great job.
+So I don't -- with the expanded role we have been able to take -- to interview some very qualified people that may have otherwise not wanted to be interviewed as there was no definite time frame.
+So I'm cautiously optimistic about our prospects and some of the prospects we see I really like.
+And to answer your second question we just interviewed -- for example we have 4 new candidates that we're interviewing now and some of them I really like.
+To answer your second question I want to be helpful as much as the new candidate wants me and the board wants me.
+I'm a cofounder.
+I'm a very large shareholder.
+I'm dedicated to the company.
+So it's a little bit dependent as to title and role.
+I'm happy to be -- I'm happy to take on the title that the candidate and the board is comfortable on.
+So it really depends on the ultimate candidate and how much the company would want me involved.
+I want to be as involved as much as they need or want me.
+Research Division</strong> Okay that makes sense.
+It's helpful but -- and what did you say time frame? Time frame I didn't say.
+So I on purpose didn't answer that question.
+Research Division</strong> But hopefully soon not another year? I should really hope so that it's not going to take another year.
+Research Division</strong> Okay okay.
+My second -- my follow-up was just because you didn't answer that I had a follow-up.
+So that was -- that is my first question.
+My second one was just on the sublease.
+Can you -- I thought ACC2 -- I mean ACC2 is obviously the sooner exploration I believe that's September of next year and that's still hanging out there it seems.
+Why were you unable to steer this large existing customer into that space which is more of a super wholesale friendly space? I think it's a very good question and I wish we could have -- the answer is Yahoo! has some application in ACC2 that they just won't lease and they told us that it's going to lease sometime early next year.
+I just have to see it.
+We've toured people through it but they -- I even offered look I'll move that application line myself.
+Product's not going to interrupt it.
+We'll move it.
+And they said "Absolutely not.
+Don't touch that application." And this is somewhat normal.
+We see some applications are movable like search.
+There are other applications some storage devices that are absolutely not movable without much a lot of difficulty.
+So it's -- the answer's really availability.
+Research Division</strong> So we should -- so I'm sorry the new tenant that's taking the ACC4 space is moving in right away? Yes.
+Research Division</strong> Okay.
+And it was available right away.
+Okay.
+And the next question comes from Tayo Okusanya from Jefferies.
+Research Division</strong> So another question around the sublease.
+With all everything kind of lined up now to expire in 2019 that's 5 years from now.
+Was there any conversation at any point about trying to get a longer lease duration with the sublessee maybe 10 years rather than just 5? I mean this is a very good customer of ours.
+They wanted 5.
+They wanted to make this work for them.
+The same customer we have a great relationship with.
+We're doing deals with them elsewhere.
+So there were some conversations but that's what they wanted and we gave in to the customers' needs.
+Research Division</strong> Okay.
+That's helpful.
+Then efforts to again build the co-location franchise I mean so you made a couple of comments earlier about Open-IX is going to take some time to ramp up but just in regards to overall product design anything that's happening specifically to any -- in regards to any of the data centers to really kind of get co-location space ready within it? Yes it's a good question.
+We're responding to cage product RFPs between 100 to 300 kilowatts with minimal service.
+I'm confident we'll be successful at getting some of those customers.
+And as demand for that product surfaces we'll apply new data center space to that product but it seems to be getting traction.
+But at the moment I wouldn't say we're only dedicating right now less than 0.5% of our portfolio to it.
+And the next question comes from Young Ku with Wells Fargo.
+LLC Research Division</strong> Most of my questions have been answered.
+Just one follow-up on succession plan.
+Now that you're searching for a CEO position are you guys more -- looking for someone who's already a veteran at the data center space or still considering someone that's outside of data center? We're looking across the board.
+We're looking for someone that has a big amount of gravitas and a big amount of experience in running an organization similar to ours but not necessarily from the data center industry.
+LLC Research Division</strong> And as it stands today...
+Sorry I didn't hear that.
+LLC Research Division</strong> Yes as it stands today how many candidates are you guys looking at? We're not going to comment specifically on the number of candidates.
+And the next question comes from Matthew Heinz with Stifel.
+Nicolaus &amp; Company Incorporated Research Division</strong> I'd like to hear your view on the balance of demand I guess from large Internet customers and perhaps content customers between multi-tenant and proprietary builds and I guess whether you're seeing a shift in the marketplace towards one or the other.
+And then secondly maybe just an update on how you're thinking about your own development cost and PCO over several years versus some of the more modular design concepts in low-cost regions that are being deployed by large Internet companies.
+Yes I'm happy to take on that question.
+I think when you look at our design where we are very successful and it's just math and it's impossible to do what we're doing on a smaller scale is the operating expense.
+Look at ACC5 we run that building including base load without direct power and cooling at $20 per kilowatt per month and that's a 36 megawatt building.
+Our ACC -- not ACC VA3 the same building at 13 megawatts runs around $38 per kilowatt per month so significantly higher operating expense and just -- that is just because of size.
+So ACC7 with 41 and change megawatts of critical load when fully deployed so even a much much -- it will be even lower than in today's dollars $20 per kilowatt.
+So for a large customer and you hear that from say Rackspace they say DuPont Fabros will put us together with 2 other very larger customers and a handful of smaller customers in a 36-megawatt building and day 1 they get the operating expenses of a very efficient data center.
+Even an 8-megawatt customer if they wanted to do that day 1 they would need like 36 megawatts so 8-megawatt customer may take them 5 or 6 years to get to that economy of scale.
+So it's -- from that sense this is very efficient.
+For a 2-megawatt customer it's a no-brainer.
+For that customer we see that all the time that hey what were we even thinking trying to build our own data center? Even though their cost of capital could be 20% less than ours they're going to get killed on operating expenses.
+The 2-megawatt customer may well cost them $80 a kilowatt on operating expense.
+You still need security.
+You still need 4 or 5 people to run the building and the majority of that is labor.
+And we see a trend right now easily for this 1 to 2 to 8 or 10-megawatt customer saying we don't want to outsource.
+We want to take advantage of a 5 or a 7 or a 10-year lease where otherwise we wouldn't have to and frankly DuPont Fabros knows how to run these buildings better than we do.
+They buy more generators than we do and they buy more UPS systems than we do.
+So we see that as a trend in outsourcing and financially it makes more and more sense.
+Nicolaus &amp; Company Incorporated Research Division</strong> Okay that's great.
+And then just back to the first part of the question about the balance of demand.
+It still seems like we're seeing a fair amount of [indiscernible].
+Yes we see a huge -- like I said in some of the Internet customers like Jeff quoted we see an insatiable amount of demand and they're all the names that you all have read.
+Some of them have gone public in the last 5 years.
+Some of them still have not gone public.
+Some of them are very large already public companies that have been public for 20 years.
+So one way or another all these companies have different colors of application that they're each going after and the Internet is still growing very rapidly.
+The Internet is changing the way we all live and all of that is reflected in data center demand.
+Nicolaus &amp; Company Incorporated Research Division</strong> And I guess more specifically have you thought about any ways to sort of quantify the strategic rationale behind even at a hyper scale type of enterprise data center what would be the rationale or the value behind continuing to build proprietary space? Well I mean yes I mean some of that is look if you're working for a government agency whatever you do they're not going to come in to shared space.
+So that is one clear example that we see.
+Some of it is they believe their applications need to be 2N applications.
+If they're 2N applications we're N+2 really operating at N+5.
+We're not going to get there for everybody but I think for 80% of the sector we're there.
+Some of them just haven't made the transition to an outsourced sector.
+They're just being historically doing it their own way.
+They've done it their own way for 20 years and they're still transferring.
+And we see companies all the time.
+Still come in and say "Oh we haven't looked at this.
+We looked at building our own data center but now that we see your model it doesn't make sense anymore and it makes sense for us to outsource." So with all the companies in the sector I would say 90% of the sector still has not converted to outsourcing and I will -- I believe in the enterprise sector that 90% will over time transfer because financially it makes a lot more sense.
+And the next question comes from Kevin Smithen with Macquarie.
+This is Will [ph] for Kevin.
+I just wanted to touch on the point you made earlier about the leasing rates coming up since Q2.
+I think you said it was something like $5 a kilowatt.
+I was wondering if you could kind of shed some light on that.
+And then I was also wondering I think you mentioned at some point in a previous call or discussion that you were working with a marketing firm or a consultant because you hadn't done any marketing outsourced in the past.
+Has anything come of this or has this been any help to your improved leasing momentum? Kevin it's Jeff.
+Yes on the increase in rates in the $5 that we quoted I think we've said for several calls now that we felt rates have stabilized and they have stopped going down on us.
+So we wanted to report once we saw them go up.
+It's actually the second quarter in a row it happened.
+So I feel comfortable saying that it's more of a trend now not just a one-time occurrence and we're hopeful that it will continue in the future.
+And on the marketing front we did hire a Director of Marketing this quarter and we're well underway playing out our future marketing initiatives.
+And the emphasis for that is really that we are just 0.5% of our portfolio that we are configuring to our version of retail is I need some extra marketing where previously if you had a 1-megawatt tenant you're running 4 000 servers.
+If you're looking for 4 000 servers of capacity in Northern Virginia you know who we are.
+We didn't need to do any marketing for this.
+I mean if you didn't there'll be a problem of whoever is running that.
+But for this new space that's 100 to 300 kilowatts we need to do a little bit of marketing and as we're starting that process we're paralleling it with some marketing.
+[Operator Instructions] And we do have a follow-up question from Emmanuel Korchman's location of Citigroup.
+Research Division</strong> Yes Michael Bilerman.
+Hossein just had a quick couple of follow-ups.
+So you kept on talking about I when you're talking about the board the CEO President search.
+Who on the board is working with you on the search? Well pretty much everyone on the board is working with me on the search and [indiscernible] we have a lead board member who's running that process so it's was very much a collaboration of the board and I working together.
+Research Division</strong> But there's not like a subcommittee 2 or 3 individuals that are more active and vetting candidates? There's a subcommittee the 2 or 3 individuals that are more active but our board is only of 8.
+Our board is only 8 people.
+So everyone pretty much gets involved.
+Research Division</strong> And then as you think about your role as you step into this board member and I think you were talking a little bit about you'll be open to whatever the candidate wants you to be how should we think about the commitment that you will have on the board in terms of if you decide you don't want to be a board member anymore and whether there's a certain level of non-compete that would have to be negotiated today for that time given that you still have some personal land holdings around existing DuPont Fabros centers? Well I'm very happy with my investment in DuPont Fabros and this is not a -- this isn't the first time that a cofounder and CEO wants to step aside and help the new person succeed.
+So my role will be to step aside and help the new person succeed.
+Fabros and DuPont Fabros the Fabros part of it is Fateh brothers.
+So I still consider my name on the door and I want to be associated with the company for the very long term going forward.
+I still consider this as something that Lammot and I have found and again Lammot and I will continue to be on the board for a very long time.
+Research Division</strong> And then just ask one other clarification on ownership.
+So the last proxy says you have about 2.25 million units that you don't have much shares left and about 1.75 million of those units are pledged or as collateral for a personal line of credit.
+Is there other share ownership that's held throughout your family that would boost that stake? Or should we really think about your ownership -- I know you have some options to purchase and some potential vesting of stock but current ownership is at 2.25 million of which 1.75 million is pledged.
+So can you just share with us? Yes I mean 2.25 million at $30 that's still a considerable amount of net worth.
+But I mean I still consider that to be a huge amount of money.
+I don't know what -- if you don't.
+I certainly do.
+Research Division</strong> No I do.
+It's a lot of money.
+And yes the family does control other shares.
+Research Division</strong> Okay.
+And then was there anything in terms of the process where a candidate was not willing or didn't want to be -- I mean was it partially driven by the fact that some candidates said "You know I don't want to be President for a little while.
+I just want to be the CEO." I mean was that part of what drove it? Yes partly.
+That's correct.
+And we also have a follow-up question from Jordan Sadler with KeyBanc Capital Markets.
+Research Division</strong> I guess I was just following up on the question about your future role also Hossein.
+I guess I'm curious.
+It sounds like you're willing to be pretty flexible here in terms of what's best for the candidate and the company which I think we can all appreciate that position.
+I guess more specifically I'm curious.
+Will you have an executive position or role and a day-to-day ops role of some sort as an executive in the company? Or would you expect to be like most board members if not all the current a non-executive member of the board? I think at the moment I would expect to be a non-executive member of the board but be as active as they want me to be.
+Research Division</strong> Okay that's helpful.
+And then my other question is a complete non-sequitur for Jeff on the balance sheet.
+Jeff you've -- I'm kind of curious given sort of your commentary surrounding financing if you've thought about and talk to the rating agencies at all and sort of -- as you've kind of grown and backfilled some of the vacancy and filled up some of the developments and diversified the portfolio where do you stand with the rating agencies and what's the current thinking? Yes.
+So we talk to them all the time Jordan and Moody's have us one notch below investment grade and S&amp;P a couple of notches below that.
+And the 2 things that are holding us back today from being investment grade we have every credit that you would want to be investment grade net debt to EBITDA at 3.5x very good interest coverage.
+The things that are holding us back are not financial statistics.
+They're that we're in only 4 markets.
+They like to see more geographical diversity and also that we have such high tenant concentration with our top 4 tenants being a little over 60% of our revenue.
+So those are things that will take some time to solve.
+We continually press that especially on the geography for an Internet-based provider like ourselves.
+The geography is not as important as office buildings but again they're still kind of entrenched into thinking about things in traditional REIT fashion.
+And we have another follow-up question from Emmanuel Korchman's location at Citigroup.
+Research Division</strong> So I just had one other one Hossein.
+I guess if you're in this non-executive capacity on the board Lammot doesn't take any comp from the company to be Chairman right now and board fees are pretty light relative to earning $3 million as a CEO I guess should we expect that you will be doing something else and you're still a young guy 47 years old would you be doing something else outside? I guess how should we think about your desire or are you effectively retiring in the career? I mean are you sending out a resume for me to -- do you want me to send a resume to you for a job? Research Division</strong> No we can make room for you as an analyst on the team.
+We don't pay that well but you know.
+But your last analyst didn't have an MBA.
+I have one.
+So I have a masters.
+I would get -- I'll get better pay than that last one.
+I'm joking.
+Michael I don't know and frankly look I want to be as helpful as possible.
+I don't have hand down another career plan but I have huge amount of dividends still coming in from the company.
+I'm happy to live on that alone but I will have other things real estate lines that I'm doing.
+I've been in real estate for a very long time.
+And if the board decides that look we selected a new candidate we want to hire Hossein for part of the time to help I'll do that as well.
+So it's up to the board and -- to decide how much of my help and the new candidate will want and I'll be as helpful as they want them to me and I haven't really thought about -- that much about the new career but I hope to have several new careers.
+Research Division</strong> Right.
+I think it's just from a competitive standpoint whether any of those careers would be going into the data center space and clearly I recognize the significant amount of wealth you still have in the company but it's in the form of units that are effectively -- have tax implications from selling.
+I'm just trying to put all those things together because I think as an investor in the stock the other 96% of the people who own the shares they would clearly want to make sure or understand what sort of competitive potentially or not you could be involved in.
+No I think it's a fair question and it's a fair question.
+But at the moment my dedication is to DFT and I'd like DFT to succeed going forward and I'm committed to that.
+It's -- I'm committed to DFT.
+And there are no more questions at the present time.
+I would like to turn the call back over to Hossein Fateh for any closing comments.
+Thank you for joining us on the call today.
+We look forward to seeing many of you at NAREIT next week.
+Thanks everyone.
+Thank you.
+The conference is now concluded.
+Thank you for attending today's presentation.
+You may now disconnect.
+Have a nice day.

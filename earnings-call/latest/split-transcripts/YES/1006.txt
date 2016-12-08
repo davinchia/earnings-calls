@@ -1,0 +1,696 @@
+Welcome to DuPont Fabros Technology's Fourth Quarter and Full Year 2012 Earnings Conference Call.
+Today's call is being recorded.
+At this time I'd like to turn the conference over to Chris Warnke Investor Relations Manager for the company.
+Mr.
+Warnke you may begin your conference.
+Thank you.
+Good morning everyone and thank you for joining us today for DuPont Fabros Technology's fourth quarter 2012 results conference call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; Scott Davis the company's Executive Vice President of Operations; and Mark Wetzel the company's Chief Financial Officer and Treasurer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which  explanations and reconciliations to net income are contained in the company's earnings release issued this morning.
+The release is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.[Operator Instructions] I will now turn the call over to Hossein.
+Thank you Chris and good morning everyone.
+Thank you for joining us on our fourth quarter 2012 earnings call.
+As noted in today's press release we delivered solid quarterly and full year financial results for 2012 which Mark will discuss later in the call.
+Leasing continues to be our primary focus.
+So I would like to begin with an update.
+At the beginning of 2012 we stated our goal was to be 70% leased and commenced by the beginning of 2013 for our 4 non-stabilized properties.
+As a reminder these properties were ACC6 Phase 1 Chicago Phase 2 Santa Clara Phase 1 and New Jersey Phase 1.
+I'm happy to report that these properties were 77% leased and 69% commenced as of January 1 2013.
+2012 was our best leasing year ever.
+During 2012 we signed 14 new leases for a total of 41 megawatts of critical load with an average lease term of 9.9 years.
+These new leases represent approximately $44 million of annualized GAAP base rent.
+In comparison we signed 25 megawatts in 2011 23 megawatts in 2010 37 megawatts in 2009 and 4 megawatts in 2008.
+In addition to the 41 megawatts of new leasing we extended 3 tenant leases by an average of over 7 years totaling 24 megawatts.
+During the year we completed construction of 31.2 megawatts of critical load 18.2 megawatts in Chicago back in January and 13 megawatts in Ashburn in December.
+This increased our capacity 17%.
+Those projects were 100% leased at year end.
+Since going public in 2007 we increased our leasable critical load from 74 megawatts to 218 megawatts nearly tripling our capacity.
+During the fourth quarter we signed 5 new leases totaling 13.6 megawatts.
+All 5 of these leases were with existing tenants.
+The details of the leases are disclosed in our press release.
+Of our top 4 tenants 3 have taken additional new space with us during 2012 and 1 of the 3 signed a long-term extension with us.
+These tenants also build their own facilities and lease with other providers.
+They all continue to recognize the value and the quality of our facilities and the operational expertise we provide.
+Because of this level of service it is our hope that as their requirements continue to grow they will grow with us.
+Let me walk through each of our 4 markets.
+Northern Virginia continues to be our best market.
+We have had considerable leasing success here and have limited available inventory in Ashburn.
+We'll continue to actively market our Reston VA3 property.
+Chicago continues to be our second best market.
+We continue to see this market providing considerable growth for its data center requirements.
+We are currently looking at several land parcels as well as building acquisition opportunities in order to build another data center within this market.
+Santa Clara leasing has performed as expected with an exception of a slightly lower return than planned.
+When we delivered the property in the fourth quarter of 2011 our goal was an 18-month lease up and achieving a 12% unlevered return.
+With the most recent leasing in the fourth quarter we're now targeting a 10% unlevered return.
+We continue to see good demand and are optimistic about fully leasing the property by mid-2013.
+Leasing New Jersey continues to take longer than we originally expected.
+NJ1 is now 39% leased up 3% from our last call.
+The leasing pace for wholesale providers in the New Jersey market was disappointing.
+We're committed to this market.
+Hurricane Sandy created some renewed interest and we're tracking some new prospects.
+We remain confident New Jersey will be a good long-term market for us.
+We're hopeful that we can turn some of these prospects into leases.
+To be conservative our 2013 FFO guidance excludes any New Jersey leasing.
+As Mark will explain any leasing at NJ1 that commences in 2013 will provide upside to our 2013 FFO.
+This assumes that we achieve our leasing targets for the other properties included in our 2013 guidance.
+Despite our best leasing year ever we hit a small snag with one of our existing reseller tenants.
+This tenant expanded too fast.
+It was mutually decided that we would modify their leases by allowing them to return the small amount of space while maintaining that all their rental rates remain unchanged.
+Mark will discuss this restructuring in more detail later in the call.
+Also as previously disclosed one tenant had an option to return 2.6 megawatts in Chicago in the first quarter.
+That tenant elected only to return 1.3 megawatts of that capacity.
+We are actively marketing this new available inventory.
+The lease on their retained 1.3 megawatt room has commenced.
+We continue to address customer concentration.
+We have 33 tenants with 82 lease expirations.
+The weighted average remaining lease term is over 7 years.
+Less than 5% of the expirations will occur over the next 2 years.
+Our goal has always been to be a global preferred provider to the Fortune 1000.
+As of December 31 2012 our customers include 4 of the Fortune 20 and 17 of the Fortune 1000.
+This also includes prizes for foreign enterprises of equivalent size.
+The 17 customers provide 72% of our annualized base rent as of December 31 2012.
+Additionally as of December 31 2012 our top 3 customers provide 48% of our annualized base rent.
+Our top 10 customers provide 82% of our annualized base rent.
+Our goal is to continue to expand and grow our tenant roster.
+I would now like to discuss our development and long-term growth plans.
+Due to the limited availability in Northern Virginia our next development will likely be ACC7 and construction will likely commence sometime in the second quarter of 2013.
+As previously stated we're now able to build out in smaller incremental megawatts instead of the full phase.
+Scott Davis will discuss this later in the call.
+This enables us to match demand and supply while decreasing our capital expenses and carrying costs during lease up.
+The amount of pre-leasing and tenant demand will determine how many incremental megawatts we will develop and deliver.
+We continually focus on improving our building while providing the best solution and economic environment for our tenants.
+The macroeconomics of outsourcing data centers remain in place.
+We continue to see significant growth year-over-year from cloud computing and applications video-on-demand health care data retention and processing large amounts of data.
+One of the biggest opportunities is from companies outsourcing their requirements.
+This makes economic sense for them to do so.
+Not only does it save them large amounts of capital but also allows them to lease inventory as they need it while focusing on their core competencies.
+We believe there is a potential for considerable growth within this market.
+As demand decreases we will expand our portfolio in our existing markets and consider opportunities in new markets.
+Our focus remains on leasing up our available inventory and offering our tenants the best solution for their needs while creating long-term value for the company.
+Now I will turn over the call to Scott Davis Executive Vice President of Operations who will discuss our ACC7 version 3.0 design and how our data centers performed during Superstorm Sandy.
+Thank you Hossein.
+Good afternoon everyone.
+I'm pleased to join the call today to discuss our plans for our next-generation data center design.
+Elements of the design are based on the success of our existing prototype design that we have used in 5 of our ground up data center developments: ACC4 ACC5 and 6 NJ1 and SC1.
+Our prototype design utilizes the isolated parallel UPS topology which has proven to be everything we expected with regard to delivering highly efficient highly available critical power while simultaneously offering significant redundancies and fault-tolerant capabilities required in a world-class data center environment.
+The ISO parallel system will continue to be a main feature of our next-generation data center design.
+The impetus behind the evolution of our data center design is to bring new innovation and greater efficiencies to our product.
+Industry trends and new product offerings afford new opportunities to further enhance our designs and operational effectiveness.
+Additionally we have ongoing collaboration with our clients and we have taken their requirements into consideration with our new design.
+Throughout this design effort which we have undertaken over the past year we've had 3 primary goals in mind: one develop a product that is cheaper to build on a per-megawatt basis; two develop a product that has lower maintenance costs reducing operating expenses; and three develop a product with industry-leading PUE which leads to reduced utility cost and therefore lower cost to operate.
+Lastly we have devised greater flexibility for the facility to be constructed in a more modular fashion allowing for multiple phases of construction and logical building blocks sized to better match our expected demand.
+The facility being planned will be a large-scale data center with ultimate critical load capacity slightly in excess of our current 36.4 megawatt facilities.
+The initial buildout will consist of a subset of computer rooms being completed with the accompanying support infrastructure.
+Some of the key elements of the design will include a higher usable computer room distribution voltage which will save our tenants buildout costs; flexible power density within each computer room; economization elements in the cooling plant that will yield a high volume of cost-efficient operating hours further serving to reduce our annualized PUE.
+There will also be provisions for air-conditioners and power distribution units which are normally housed in the computer room to be housed in segregated equipment galleries for clients with high security requirements.
+Our design process is still under way and these elements are subject to change until we complete the final design.
+We are currently targeting second quarter of 2013 for construction start in Ashburn Virginia.
+We're practical.
+We will also look to incorporate some of these new design elements in the second phases at Santa Clara and New Jersey when the time comes to commence those projects.
+Next I would like to say a few words about our data centers' performance through one of the largest hurricanes in recorded history Superstorm Sandy.
+Two of the regions in which we operate were in the path of the storm: Northern Virginia where we have 7 operating facilities; and Piscataway New Jersey where we have a single facility.
+Although the full fury of the storm was not experienced in the Northern Virginia region this was not the case in New Jersey where NJ1 is located.
+In Virginia we experienced heavy rain high winds and some brief utility anomalies but no sustained utility outages.
+Our Northern Virginia data centers functioned as designed and no tenant's critical load was impacted at any time during or after the storm.
+Our data centers are designed and operated to provide our customers with the utmost in reliability even during the most inclement situations.
+At our Northern Virginia locations and at NJ1 we have built dedicated substations with multiple feeds for our data centers which afford us the highest level of utility service availability.
+The New Jersey region experienced widespread and prolonged utility outages.
+Our NJ1 data center operated on generator power for approximately 100 hours the longest utility outage DFT has experienced to date at NJ1 or at any of our data centers.
+We were able to secure fuel deliveries from out-of-state providers and provide local utility workers with access to our facilities and amenities.
+When gasoline became scarce we were able to provide our employees and security staff with gas for their vehicles enabling them to get back and forth to work.
+We were also able to assist other local data center operators procure fuel for their sites by sharing our fuel-provider resource.
+All back up systems performed as expected and no NJ1 tenant lost critical load at any time during or after the storm.
+The combination of a superior data center design and a well-experienced and dedicated operations team enabled us to meet our clients' expectations by being fully operational through this exceptional storm and its aftermath without disruption to any of their services.
+Now I will turn the call over to Mark who will take you through our financial results.
+Thank you Scott.
+Good morning everyone and thank you for joining us.
+I want to cover 4 main topics today: our fourth quarter and full year 2012 results capital markets update a walk through our 2013 guidance and a 2013 dividend update.
+For the fourth quarter of 2012 the company's FFO was $0.38 per share compared to $0.37 per share in the fourth quarter of 2011.
+For the year FFO was $1.48 per share.
+For both the quarter and the year we hit the low end of the range based on what we provided on the Q3 call.
+As Hossein mentioned previously we mutually agreed with one of our tenants to take back 16% of their existing contractual space.
+As a result we recorded a $0.04 per share charge in Q4.
+This tenant restructured its obligations and we believe this restructuring should put this tenant in a position to succeed.
+As part of the restructuring this tenant returned space at ACC5 and VA3 in Virginia.
+Also under this restructuring this tenant's outstanding accounts receivable and deferred rent receivable related to the returned space has been converted into a note receivable.
+We continue to look at the acquisition of income-producing properties and development opportunities.
+We visited and looked hard at multiple locations both domestically and internationally in the second half of 2012.
+In the fourth quarter you will notice a $0.01 per charge on our results for deal pursuit costs.
+This charge represents the cost-pursuing opportunities to acquire operating properties and development sites.
+We expect to continue to pursue deals as they arise but have not included any cost in our 2013 guidance.
+Without the $0.05 per share charge in the receivables reserve in the deal pursuit cost we will have exceeded the high end of the range for the core on year by $0.01 per share.
+The overall $0.13 per share decrease as compared to 2012 is primarily due to higher capitalized interest expense as well as the receivable reserve and deal pursuit cost.
+FFO was $0.37 per share for the fourth quarter compared to $0.32 per share quarter-over-quarter an increase of 15%.
+As compared to Q3 AFFO is up $0.05 per share or 15%.
+For the year AFFO was $1.29 per share compared to $1.21 per share for the prior year an increase of 7%.
+These overall increases are primarily a result of increased lease commencements and cash rents collected from tenants.
+Quarterly revenues were $86 million our highest ever.
+This increase was $11.6 million or 16% quarter-over-quarter.
+For the year ended revenues were $332 million compared to $287 million for 2011 an increase of 16%.
+As to our Capital Markets update we had no activity in Q4 and only 2 transactions in 2012.
+In January we sold 2.6 million shares of Series B perpetual preferred stock raising approximately 63 million.
+In March we raised our unsecured line from $100 million to $225 million.
+As of today we have drawn $25 million on our line and have $25 million of cash on hand.
+The 80 million common stock buyback program approved by the Board remains in place.
+No activity under this program has occurred through today.
+We remain committed to maximizing shareholder value and will utilize this program as opportunities arise.
+Our next debt maturity is in December 2014.
+This is the one secured loan and can be prepaid without penalty.
+We may look to address this sooner than later but have not included the impact of any refinancing or pre-payment in our 2013 guidance.
+We continue to keep our leverage low and strengthen our balance sheet while improving on all financial metrics.
+As of year end our debt to enterprise value was a low 23%.
+Our interest coverage ratio was at 4x and our fixed charge ratio including our preferred dividend is at a 2.3x.
+As a result our balance sheet is in great shape.
+I would now like to discuss our 2013 guidance.
+Our first quarter 2013 FFO guidance range is $0.38 to $0.40 per share.
+Sequentially if you roll forward Q4 2012 of $0.38 per share add back the $0.05 per share reserve in pursuit cost you need to subtract an additional $0.01 per share for the January reserve that we rolled into the note $0.02 per share for increased G&amp;A as we had a lower bonus payout in Q4 and a higher FICA cost in Q1 and $0.02 per share for the lower capitalized interest in carry cost for the opening of a ACC6 Phase 2.
+Let me walk you through this 24% FFO increase as compared to our 2012 actual results of $1.48 per share.
+We tightened the total revenues range provided on a Q3 call from $360 million to $400 million to $365 million to $385 million.
+This is primarily due to eliminating any New Jersey leasing from our guidance range and the 2.5 megawatts capacity we need to release.
+We expect to be 100% leased at all other properties with available inventory by the end of 2013 excluding New Jersey.
+We have assumed that commencement dates -- commencement start dates for these leases will be in the second half of the year in order to hit the midpoint of our guidance range.
+Straight-line rents continued to come down year-over-year as the ramp rent has burned off on existing leases.
+This has dropped from $34 million in 2011 to $18 million in 2012 and a projected $11 million in 2013.
+Several of the new leases have no ramp rent in place.
+As of year end for lease is executed on a forward 12-month basis we expect GAAP-based rent to be $238 million and cash-based rent to be $235 million.
+For new leases already executed base rent for lease commencements in 2013 will total approximately $17 million or $0.21 per share.
+For new leases we expect to sign in 2013 excluding New Jersey base rent will total approximately $6 million or $0.07 per share with the majority of this coming in the second half of the year.
+The 2013 unreimbursed operating cost real estate tax and insurance total approximately $0.11 per share.
+This includes $0.07 per share for New Jersey and $0.04 per share for the remaining properties with available inventory.
+Specific to New Jersey the building is 39% leased and it is cash flow positive.
+For our current and prospective tenants we have no intent of selling this property and remain committed to the New York metro market.
+2013 G&amp;A is $18 million or 4.8% of gross revenues as compared to 5.1% of gross revenues in 2012.
+In summary our 2013 FFO midpoint is $1.83 per share excluding any new leasing at NJ1 and including a $0.07 per share impact due to unreimbursed New Jersey operating expenses.
+We project midpoint revenues of $375 million up 13% year-over-year.
+We project operating income excluding depreciation or EBITDA to exceed $230 million up 16% year-over-year.
+Overall we project FFO to be up 24% and AFFO to be up over 30% as compared to 2012 actual results.
+Free cash flow after the common dividend should be in the $80 million range prior to any CapEx spend.
+For capital cost on our existing portfolio we expect to spend $6 million in 2013.
+This includes the completion of a lobby and security office at VA3 battery replacements at VA4 variable frequency drive upgrade in several properties and a variety of small projects.
+For capital costs and new developments we expect to spend $65 million in 2013.
+We expect to utilize free cash flow in our current unsecured line to fund these developments.
+Currently we only anticipate starting the development of ACC7 in the second quarter of 2013.
+This will include a shell and a building out of at least 5 megawatts of critical load.
+At this point we do not anticipate starting development of Phase 2 of Santa Clara in 2013 and no costs for this potential development are included in the $65 million.
+Accelerated leasing at SC1 could accelerate this development.
+The 2013 guidance assumes no debt or equity raises and at this point no use of our stock repurchase program.
+Overall details of our 2013 guidance are included on Page 15 of today's press release.
+We had previously discussed several times about our unsecured bond call provisions as a reminder the 4-year non-call's on December 15 2013.
+At that point it would cost us a onetime fee of 4.25% or about $23 million to take out and replace the bonds.
+Current estimates are that we could pick up 250 to 300 basis points on the coupon.
+We will evaluate this opportunity as the year unfolds.
+As for the dividend update we raised the dividend twice in 2012 from $0.12 to $0.15 per share during the second quarter and again in the fourth quarter from $0.15 to $0.20 per share.
+New leases and new lease commencements occurring in 2013 could result in another dividend increase.
+We will reevaluate any increases in the second half of the year.
+Our policy remains paying at least 100% of taxable income.
+Any future changes to our common dividend will be approved by our Board of Directors.
+We believe our balance sheet and financial condition are in great shape which provides us a strong foundation for continued growth.
+With that let me turn it back over to Hossein.
+Thanks Mark.
+Before we open up for questions let me offer a few final comments.
+We had a great leasing year.
+We still have a lot of leasing to do for our available inventory especially in New Jersey.
+This is everyone's objective.
+Second I want to thank everyone at DFT for their continued dedication and hard work.
+Finally hopefully everyone noticed the Form 8-K we filed yesterday.
+We listened to our investors and changed my base salary and compensation back to a standard annual salary.
+The Board approved this change.
+The old compensation was an unnecessary distraction.
+With that I'll open up the call for questions.
+[Operator Instructions] The first question will come from Jordan Sadler of KeyBanc Capital Markets.
+Research Division</strong> So I just wanted to focus in on the deal costs or deal-pursuit cost in the quarter.
+Could you maybe discuss the thought process strategically behind the acquisitions or the assets you were pursuing? Were they new markets domestically or abroad or existing markets? Or was the nature of what you were looking at wholesale versus retail? And how should we be thinking about that relative to what you'd look to invest in the business in 2013 and beyond? There were 2 or 3 deals mainly.
+There was one deal which was domestic.
+A part of their business was retail and part of their business was wholesale.
+That was a large company.
+There was a second deal that was in the U.K.
+that was primarily wholesale but smaller segment and smaller segments than we typically do -- smaller tenant base than we typically do but I would consider them wholesale.
+And then there were a few other opportunities with -- I would say half of those were with build-to-suit type opportunities that we would build with an anchor tenant.
+One or 2 of them were simply land acquisitions.
+Research Division</strong> Okay.
+And then as a follow-up as it relates to strategy you've successfully leased the portfolio to 90% New Jersey and a little bit of Santa Clara are the principal balance of what remains here.
+Despite this the stock is 12% above the IPO price today which was 5 years ago.
+Could you maybe -- whereas your AFFO per share is up 100% almost over that same period.
+Could you maybe address your thoughts around this and how you would intend to potentially rectify this? And if there's any thoughts surrounding strategic alternatives.
+I think we would like to do whatever is in the best interest of our shareholders as strategic alternatives come up.
+We are looking at acquisitions.
+I think for the first 5 years we have to build the tenant base and to build a diversified portfolio that could successfully absorb a acquisition.
+And I believe we're now close to making that happen.
+We're now like we said almost 3x the size in magnitude of megawatts since our IPO.
+And like you said AFFO has gone up significantly.
+We've built a balance sheet that is much more solid than our IPO at times.
+And the -- so now we would look to doing acquisitions and any and all strategic alternatives to maximize shareholder value.
+Meanwhile some acquisitions may have some elements of retail and connectivity.
+Research Division</strong> The only difficulty I have with sort of you guys looking at incremental acquisitions here is the market hasn't necessarily afforded you the cost of capital for one reason or another to actually go out and pursue incremental investments.
+And so I was thinking about it from the other perspective.
+Have you thought about strategic alternatives the other way either merger with another company or a sale of the company given the discount relative to net asset value and relative to the public peers? In the long term we don't control the stock price we control our FFO and our AFFO and we mean to increase that.
+So we -- nothing is off the table.
+We -- as opportunities occur we'll evaluate them on the best way to maximize shareholder value.
+The next question will come from Emmanuel Korchman of Citigroup.
+I guess if you go back to the IPO acquisitions were never sort of part of the discussion.
+The whole idea was here's a portfolio of assets and potential land that we can develop on.
+This is a development story.
+And that is where it's at.
+And so I guess I'm also a little bit confused as sort of the strategy now of going out and making acquisitions where -- the best acquisition you can do is your stock right? And you have a share repurchase program in place.
+Why wouldn't you be buying that as much as possible relative to going out and buying an asset? I think we will look at that as opportunities occur we will look at our stock to purchase it back as opportunities occur.
+However we're not also in the business of trading our own stock as a short-term trader.
+But we will do whatever it takes to maximize shareholder value.
+I guess how long will you let this go for right? I mean obviously FFO has increased.
+It's going to continue to increase as you lease up the remaining space as you continue to develop in your core markets that are showing the demand.
+I guess at what point will you have the reflection of saying you know what with the stock where it is and clearly where values are there's something -- there's a disconnect.
+I think you're absolutely right but it wouldn't be right for me to tell you what is the stock price in my head that I would buy at right? That's kind of negotiating against myself -- against ourselves here.
+So we're looking at it aggressively.
+We continue to monitor it.
+And so we have the program in place to buy back our own stock.
+Just looking at the tenant who we assume is not too easy and like give back some space.
+And obviously they're a big part of New Jersey and important to that asset and your businesses in 4 of your assets.
+Maybe you can tell us more about sort of the company you mentioned that they grew too quickly.
+Maybe you can kind of give more details on that and what their current financial state is and whether they're going to keep growing or what happens to them.
+Well I think we consider them a partner like we consider all of our tenants a partner.
+We realize that they were not doing well financially.
+With this restructuring we believe they are now cash flow positive and we believe that they're in a better position to become a success.
+We stand behind them and we stand behind their tenants.
+Typically a reseller -- a smaller reseller has been our -- on the weaker side of our tenant base but we stand behind them.
+We hope the best that they will succeed.
+We have full confidence that they will.
+Yet at the same time on the reverse side of it we have some of the acquisitions we have looked at have included elements of retail.
+So we hope the best that they will succeed.
+And maybe just as a follow-up to that.
+If you look at their performance in the 2 markets that have been downsized in versus maybe New Jersey or the one market where they're are not downsizing if you can kind of walk us through.
+Did they approached you about taking space in all the markets and this was negotiated deal where the -- just those 2 were backed out? And when will we find out more about the potential deferred payments in New Jersey? I'll leave the last part to Mark.
+As far as the markets when we started talking to them kind of in the last quarter those are the markets that we were very much more confident in leasing up the space and those are tighter markets.
+So those are the markets that we could help them out at.
+So those are the markets we let them out of those leases.
+And in terms of -- Manny this is Mark.
+In terms of any updates obviously for quarterly we can provide updates but I don't think it will be any time sooner than that.
+We've positioned it where they can -- they're cash flow positive they can grow.
+They've had a few wins lately with tenants and they continue to hustle to fill up what vacant space they have.
+Our next question will come from Jonathan Schildkraut with Evercore.
+Research Division</strong> Great.
+Listen I guess I wanted to go a bit of a step back here.
+You came through a year where you signed some very big wholesale or super wholesale deals in renewals yet the overall leasing volume was obviously pretty robust.
+As we stand on February what -- the first week in February when we looked out over 2013 and you compare back to a year ago is the industry in a better position or worse position? How do you feel about trends today versus 12 months ago? Because the one thing I'm having a hard time getting is your sense of enthusiasm for this business versus what we've seen from you historically.
+I guess I want to be conservative in my demeanor but I do feel like I said like 3 times that this has been our best year in leasing.
+The amount of volume of leasing we've had has been unbelievable.
+And if you had asked me a year ago "Would you have done 41.5 megawatts of leasing?" I would have said "No." even in my older enthusiastic ways.
+I want to be -- I want to look at it more conservatively.
+When we went public we had under 80 megawatts of leasing.
+And right now this 1 year alone we did 41 megawatts.
+When we went public we said we would get 12% unlevered returns on ACC6.
+Even with the wholesale pricing we were getting 12% unlevered return.
+So in that sense I'm very excited about these opportunities.
+But we have gone through a period where there was talk of industry's changes so I want to be moderate about my demeanor.
+And I think Jonathan -- this is Mark -- I mean we're trying to be moderate in terms of our capital deployment as well so that we can be poised to act in multiple markets if in fact leasing takes off.
+So building in smaller phases allows us to control our capital cost so that we're not long in any one market.
+We can be proactive in our 4 markets and potentially in a new market.
+Research Division</strong> Mark I think it's a good point and I do think that your change in capital allocation strategy given particularly your ability to achieve certain goals in terms of overall facility quality and construction is a big positive change for you guys.
+I agree.
+And maybe that raises a different question which is the opportunity to allocate capital to markets that work and away from capital markets that may not have as good dynamics over a short period of time is somewhat limited as you look at a 4-market portfolio.
+As you evaluate expansion opportunities either within the market footprints or potentially outside the market footprint what criteria are you looking at in terms of determining that decision? And are you looking at just kind of the near-term impact? Or are you also looking at kind of the long-term portfolio effect of the decision? Well I think we certainly are at this time not interested in Tier 2 markets.
+The Tier 1 markets are literally a handful.
+And so -- and those markets will always grow faster than the Tier 2 markets.
+Those markets are where those tenants really want to be in.
+So we're going to concentrate on those markets.
+We will also in new markets look at pre-leasing opportunities to try and minimize risk to the shareholders.
+Our next question will come from Jonathan Atkin of RBC Capital Markets.
+LLC Research Division</strong> Yes 2 questions.
+First quickly for Mark.
+Was there any change in the AFFO definition? I thought I saw some modest changes in kind of the verbiage.
+And then secondly on New Jersey I'm just interested in a little bit of clarification.
+Maybe you could comment on of the deals that could go away from you to other third-party data center providers what portion is going to other facilities in that New Jersey market versus go outside the region to other geographies? Yes Hossein will answer the second question first.
+Okay.
+From our leasing of the deals that we have seen we've been getting a fair amount of them.
+There were some deals that were single source.
+There were some deals that were tenants-type of occupants.
+And there were some deals that were like a reseller going to a provider that they have leased from before.
+From the 1- or 2-megawatt-type of deals that we could have had we've been getting a fair shot at all of them and we haven't really seen any deals that we've missed that we can go back and say it was because our product was different or because our leasing guys were not doing a good job.
+We believe our product is the best product in the market and we've been told that by the 39% of tenants that are occupying them.
+And don't forget it is a very very large data center.
+1/3 or of 18 megawatts 6 or 7 megawatts kind of 6 or 7 megawatts that's like a whole entire Equinix-type of building.
+So we've leased one entire type of building in terms of megawatts and we have 2 of those left.
+It's just that the buildings that we have leased in Virginia have been instantaneous and have leased way beyond our expectations.
+And Jon AFFO we did fine-tune that from Q3 to Q4 added a few new line items that are consistent with what other folks seem to be identifying as adjustments to AFFO.
+So it really didn't move the needle.
+Some went up some went down but we did expand that based on some analysis of some other REITs.
+As you know a REIT doesn't necessarily define AFFO it defines FFO.
+So we're just trying to play consistency with some of the other players.
+LLC Research Division</strong> Is there any historical reconciliation available? Or is the net number unchanged in prior quarters then? You mean for prior years? LLC Research Division</strong> Yes.
+I think we will probably -- I don't know if we'll update that in the K but we can easily pull that together.
+The next question will come from Young Ku of Wells Fargo.
+LLC Research Division</strong> Mark first question.
+How does the lease restructuring reflect on the balance sheet? Well the bulk of the expense -- what we ran through the P&amp;L is sitting in other expenses.
+And then there's a note sitting in other receivables.
+LLC Research Division</strong> I'm sorry.
+I didn't get that.
+Can you say that one more time? On the P&amp;L -- obviously what we ran through the P&amp;L is sitting in other expenses.
+And then in terms of what's sitting on the balance sheet it's a -- the bulk of it is sitting in note receivable in terms of what we've pulled together.
+A little bit in deferred -- adjustment and deferred rent as well in the deferred rent line.
+LLC Research Division</strong> Okay got it.
+And the notes receivable is in other assets line item? I'm sorry.
+Repeat that Young.
+LLC Research Division</strong> And the notes receivable is on the other asset [indiscernible]? Or is it...
+No on the ARs and other receivables line.
+LLC Research Division</strong> Okay got it.
+And just going back on the New Jersey comments a little bit.
+Just a few months ago I know you guys were a little bit more bullish on New Jersey given what happened with Sandy.
+Then you said that there were some prospects for leasing that up.
+But it seems like you're a lot more cautious there.
+When do you expect to lease New Jersey up? Well we did actually get one lease out of Sandy that happened.
+It went straight -- they wanted to actually be out of the New York Metropolitan area.
+And it was an existing tenant in our Jersey facility who was very happy with our quality of service and they leased a small pod in Chicago almost instantaneously.
+So -- and then we are still evaluating 2 or 3 other prospects or they're evaluating us considering their options as to where to go from that.
+But on the whole I think the idea of not putting any New Jersey in the 2013 guidance was to be conservative.
+Mark do you have anything to add to that? Yes I think we leased less than a megawatt in '12 The idea of putting in numbers through '13 and then having to adjust it midyear I just think from my seat we -- I wanted to put out there here's where we -- very conservatively here's where we're going to be.
+Anything upside we commence in New Jersey is a win-win.
+LLC Research Division</strong> Okay.
+And do you expect to lease it up by when? Did you mention it? No I don't think we have a date.
+I mean I think we -- obviously we'd like to lease it up next quarter.
+But it's going to take time and there are some big requirements there are some little requirements.
+But -- and we continue to track "perceived demand" just like some of our competitors in that submarket but decision making is out of our control.
+So at this point we're taking the conservative route.
+LLC Research Division</strong> Okay got you.
+And I do have one other question in New Jersey.
+So what is the magnitude of kind of activity on New Jersey? I mean are you seeing a couple prospects or a couple of activities that you could potentially sign? Just a little bit more color there.
+Yes we are tracking I would say a handful of deals that we're tracking and we're following them up.
+And we are -- I just think that there is -- demand for the wholesale space is not where it is in Virginia where in Virginia we have tenants wanting 5 to 10 types of megawatts and then we have a whole bunch wanting 1 or 2 megawatts.
+In New Jersey the decision making is slower.
+The -- and the reason for a data center demand is not so much that there must -- where -- in Virginia the reason they need it is because they are growing so fast that they need additional data center space.
+The reason in New Jersey is that -- where they need it is that their older data center needs to be redone and they need to move out of an older data center that could have problems in the future whereas not necessarily an immediate need that's going to affect those companies' bottom line.
+LLC Research Division</strong> Okay got it.
+That's helpful.
+And just one more quick follow-up.
+The $235 million in base rent over the next 12 months there's a lot of moving parts so I'm just trying to get a handle for where that would be if all of the leases that you've signed kind of commenced and was online.
+What's kind of like a 12-month executed [ph] [indiscernible] that $235 million number? Well the $235 million base cash rent is forward '12 on executed leases as of 12/31.
+So that includes leases that have not yet commenced.
+They've been executed but not commenced.
+Obviously it doesn't include any leases that are not yet executed.
+So for -- to execute those leases we said in guidance base rent was roughly $7 million of base rent in 2013 guidance.
+The question is when do they commence? What kind of ramp period do we give them? If they all commence as we planned and we shall see.
+But again if you draw the line in the sand at the balance sheet date it excludes -- they also exclude -- it's just the operating properties at 12/31.
+So Phase 2 of ACC6 which is 100% leased and 50% commenced on day 1 of '13 is not in those numbers.
+So again we're just drawing the line at the balance sheet.
+Here it is.
+And then we have to add in -- again executed operating properties are in there; executed in the development property which wasn't open as of that date is not in there; plus anything new.
+LLC Research Division</strong> Sorry I...
+There is no speculative leasing in that number Correct.
+Does that make sense? LLC Research Division</strong> Yes.
+Our next question will come from Bill Crow of Raymond James.
+Inc.
+Research Division</strong> Hossein you talked about how you identified the problem with net2EZ last quarter.
+When was the most recent lease signed with them at any one of your facilities? I think...
+It was back in '11.
+Yes.
+Nothing in '12 Bill.
+Inc.
+Research Division</strong> Okay.
+So things kind of deteriorated pretty quickly? Or maybe they got over their SKUs [ph] a little too far? Yes as of 9/30 when we reported Q3 they were paid in full as of 9/30.
+So it's really Q4 where they kind of had come to Jesus meaning that they needed to restructure.
+They had a lot of leases not only with us but some other players that they -- from a cash flow perspective they just need to do a deal with.
+Inc.
+Research Division</strong> Yes.
+Are there any other tenants on your watchlist currently Mark that you're worried about? No no not at all.
+No no.
+Not at all.
+Inc.
+Research Division</strong> Okay.
+And then just finally I know New Jersey's been beaten to death but any change in the traffic volumes from when you had this call a quarter ago? No I would say there's probably no change in the traffic.
+I mean obviously during the hurricane a couple weeks it probably slowed down.
+But then it picked up and then the holidays hit.
+But through the quarter I think the averages continue to be -- if you just look at our -- we do track all that in traffic and the challenge is traffic is one thing decision making is another.
+And we signed one small deal.
+We went from 36% to 39%.
+So I would say we're like 40% leased up right now.
+And we're cautiously optimistic about the market.
+The tenants that do look at it and do take the time to look at the backside of the engineering do realize that it's a superior product.
+Inc.
+Research Division</strong> Yes.
+What is your return expectation for ACC7 unlevered return? We haven't quoted that but I would.
+It's still in the range of -- in Virginia we could be in that 12% to 15% range Bill.
+Inc.
+Research Division</strong> You're still comfortable even with the wholesale? Yes.
+I mean it depends on what percentage of the data center is super wholesale and what percentage of the data center is typical wholesale.
+So on a typical ACC6 where 80% of it was super wholesale will be at 12%.
+If it was the reverse meaning 80% wholesale 20% super wholesale we'll be at 15%.
+Inc.
+Research Division</strong> Yes okay.
+And finally for me Hossein I think getting into the acquisition business is interesting.
+Getting into the international acquisition business is a little different.
+Have you talked to your partners the shareholders out there their reaction to had you or would you go into Europe? And I'm just curious how you think that their reaction would be.
+Well I think it depends on the risk factors involved on is it you're going into development is it that you're going into acquiring an income-producing property that is accretive and the level of accretion.
+So we look at all 3 and also looking at the tenants' quality and the tenant base of it.
+So we would look at it with all 3 of those risks involved.
+And also Bill potentially with a JV partner it depends on the location overseas.
+Inc.
+Research Division</strong> Yes you're still open to that though I take it? Yes absolutely.
+The next question will come from Rob Stevenson of Macquarie.
+Mark if I think about the FFO per share you guys did $0.38 in the fourth quarter but it was really $0.43 if I add back the net2EZ and the debt deal cost.
+So you're sitting there at $0.43.
+You have -- from the release it looks like almost 9 megawatts of commencements in the first quarter of '13.
+I don't know how much of that are deferred or free rent.
+But can you help me reconcile that run rate to the sort of $0.38 to $0.40 that you're guiding to what steps the FFO backed down? Sure Rob.
+I tried to explain that on the -- in my prepared remarks.
+So if you go $0.38 plus $0.05 you're at $0.43.
+You back off.
+We didn't do the deal with the reseller until February 1.
+So you got January that's going to roll into a note.
+So the reserve hit there is $0.01.
+You've got $0.02 of G&amp;A.
+Because of the reserve hit we all took lower bonuses.
+So the accrual for bonuses got taken down in Q4.
+And in Q1 you have a restart of bonuses at 100%.
+You have FICA kicking in for everybody who gets paid.
+And then you have $0.02 roughly for ACC6 Phase 2.
+If you think about it we open the doors we take a very conservative approach with interest we stop capitalization on 1/1 and we commence 50% of the 13 megawatts.
+Well the other 50% has carrying costs that we as a company absorb until those leases commence which some of them commence later this year.
+So that's at $0.05.
+So it goes from $0.38 to $0.43 back to $0.38.
+Okay.
+And then on the -- and then you also have the -- when is the impact hit of the Chicago give-back? Or does that never -- so that was never in? That was never commenced because we -- it was an executed lease that had not commenced.
+And so they had the option which they had to decide in mid-January.
+One of those 2 commenced.
+The other one did not.
+Okay.
+And then lastly what's the revenue magnitude and the megawatts involved at New Jersey 1 if they -- if that rolls into a loan or arrears for net2EZ? They were at -- they leased one room 2.275 one of the bigger rooms.
+And the issue of the revenue -- I don't know if I have that handy but it's roughly x percent that amount leased.
+You said it's 1.275 megawatts? 2.275.
+2.275.
+Out of the 18.2 that they lease from us.
+The next question will come from John Stewart of Green Street Advisors.
+Inc.
+Research Division</strong> Hossein I was hoping you could help us understand why the -- what led to the deals you pursued in the fourth quarter falling apart? We did a lot of deals in the fourth quarter.
+I'm not sure if I understand your question.
+Inc.
+Research Division</strong> The dead deal costs.
+Why were the acquisitions not consummated? Oh.
+I think other people were willing to pay more for them and one of them they decided to go public themselves.
+Inc.
+Research Division</strong> Got it.
+And in terms of deals that -- where others paid more what -- can you help us understand kind of market cap rates? The one deal that someone else paid more was in Europe and I think they paid an EBITDA multiple of 13.5.
+Inc.
+Research Division</strong> Okay.
+And with the net2EZ restructuring what does the revised return on NJ1 look like? Well I don't think we've -- the revised return is still north of 10%.
+But we have to go lease the rest of the building so...
+So it depends on what the rest of the building is leased at.
+But the -- it's not like they're walking away from their responsibility.
+It's just rolling into a note.
+So they still have -- they've had some wins up there and they continue to -- we feed them deals that are smaller than we can absorb.
+And so I think it's -- time will tell.
+But obviously on an invested capital and what we spend and if you look at it from that perspective it's not pretty.
+But in terms of where we eventually will get on a stabilized basis we still think it'd be north of 10%.
+But there's no charge at all for New Jersey for that particular reseller.
+No rent reduction either.
+Inc.
+Research Division</strong> Right got it.
+Okay.
+And Mark I think you guided to a 10% GAAP return on SC1.
+What would -- and you also commented on how the spread between GAAP and cash is narrowing just across the portfolio.
+But what is the current cash return on SC1? Some of those leases have not commenced.
+It's definitely -- I don't know if I have that at fingertips John but the year 1 year 2 of any of our developments are typically not cash positive.
+But that building does throw off on a cash-positive basis on what we've leased to date.
+But in terms of the return I can't -- I don't anything handy to quote you that.
+Inc.
+Research Division</strong> Not cash.
+I mean I expect there would obviously be a delta between cash and GAAP call it a couple of hundred basis points.
+But it's -- well I can follow up with you offline.
+Lastly just confirming.
+The land for ACC7 is that held on balance sheet? Yes it is.
+The next question will come from John Petersen of MLV &amp; Company.
+Lewis &amp; Vlak LLC Research Division</strong> In terms of VA3 I want to focus on that for just a minute.
+So we've now seen 2 tenants leave that space Yahoo! a few quarters ago and now the tenant this quarter.
+If I kind of -- I guess between those tenants there's really no backfilling of that space.
+Just looking at it on paper it was built in 2003 the square foot-to-megawatt ratio is the highest in your portfolio.
+Your other properties in Northern Virginia seem to be leasing up just fine and you're moving ahead with ACC7.
+Is the conclusion that that building is becoming I don't want to say obsolete but maybe inferior? And what's the road to leasing that up? Well there are 2 issues.
+One it never really had a lobby and a proper entrance.
+So there were some security issues which our newer building did not.
+We have now -- are under construction to have the lobby finished and we hope to be done with it sometime in May of this year.
+So that physical inferiority has gone away.
+As far as the electrical and mechanical infrastructure it's in great shape.
+And as far as the network connectivity standpoint it's probably one of the best areas in America.
+It is -- it sits on Sunset Hills Road which has more fiber optic running down at it than probably any other road certainly on the East Coast.
+The one issue -- the advantage that we do have at Ashburn is that we did -- we do have the tax abatement for servers that was passed for the Ashburn campus that we do not have that mapped for ASHRAE [ph].
+So I think so long as we had space available the Ashburn was a better location.
+But now that we have nothing left we're cautiously optimistic about VA3.
+Lewis &amp; Vlak LLC Research Division</strong> That makes a lot of sense.
+Is it possible to have more to upgrade the power in that building? I mean I'm looking at the 11 300 square feet per megawatt.
+ACC5 is 4 800 per megawatt.
+I mean if [indiscernible] more.
+I mean -- you're right but that doesn't make any difference because we lease the available power up.
+We don't lease the space.
+So if you're leaving -- whether you leave 3 feet in between your racks or 6 feet in between your racks you're paying the same price to us.
+Lewis &amp; Vlak LLC Research Division</strong> Oh no I understand that.
+But I mean it seems like you can do 3 feet instead of 6 feet and cram more stuff in there and make more money.
+Oh.
+Yes yes.
+It would -- we would need to upgrade all the electrical wires.
+We would need to upgrade the cooling systems.
+I mean essentially we would need to build a new building.
+[Operator Instructions] The next question will come from Dave Rodgers of Robert W.
+Baird.
+Research Division</strong> Just going back to the acquisitions and maybe not anything specific but as you think about moving more toward acquisitions on the horizon where are you comfortable with the initial going in returns for some of these assets? And how should we think about what you target aside from some of these larger companies? Some of the things we're looking at are -- Mark why don't you? I think Dave the -- in the development arena work we like 12% to 15% settle for 10% in California.
+The issue of income-producing acquisitions typically in the 7% to 9% to win the deal.
+I mean we looked hard at some things that we lost on and other folks who will want to pay a little bit higher price.
+So if you pencil in some kind of yield it's 7% to 9% probably.
+And it's not that we're going to stop our development no.
+We're absolutely going to continue our development as well.
+Research Division</strong> And I guess if you thought -- is that still the right risk premium given the success you've had in some markets? Do you consider compressing that a little bit relative to where acquisitions are to drive more business and perhaps enhance the net asset value? I think it depends on asset value and it depends on credit quality lease quality.
+It depends on if the older leases are true triple-net.
+It depends on growth prospects in that market.
+It's hard to set a parameter without having the actual deals to look at.
+Research Division</strong> Again I guess the last question on that line.
+Would you continue to want to focus on a similar set of customers in the verticals where you are strong today? Or would you I guess actively use this as an opportunity to diversify those vertical exposures? I mean it would certainly diversify us on acquisitions because I think no one in the industry has the credit quality that -- the quality of the tenants that we typically have on the name brands.
+So apart from that one tenant mentioned in the call today everybody else is very very high quality.
+So one of the reasons we have not looked at acquisitions in the past has been asset quality and tenant quality.
+So doing some acquisitions may -- we may not have the -- it depends on the acquisition.
+And Dave I mean the benchmark at the IPO we were in one market.
+Top 2 tenants were 86% of our annualized rent.
+Today we're in 4 markets.
+We've as we've talked early in the call grown the revenue line grown the EBITDA line grown the FFO line grown the AFFO line.
+We issued one round of stock between the IPO and today.
+So the growth story is there.
+[Indiscernible] diversification today the top 2 tenants are less than 40%.
+So yes the top 3 are 48% but we continue to diversify both geographically and tenants.
+And that continues to be a good thing for the company.
+The next question will come from Tayo Okusanya of Jefferies.
+Inc.
+Research Division</strong> Just a couple more things.
+Around the tenants that gave back space I mean on a megawatt basis it seems like it's roughly about 2.5% of total megawatts that have been leased.
+Could you talk about that percentage? As a percentage of your total revenues how much exposure you have to them? Well I think the give-back in Chicago was an option that was always out there.
+It was 1.3 megawatts of the 218 that we have.
+So percentage-wise that's pretty low.
+The give-back of the 1-point -- whatever it is 1.3 or so of...
+1.2.
+1.2 to the reseller that amount is -- that tenant is a top 10 tenant for us and they are doing well in these other markets.
+So I think the issue of what's our exposure in the revenue line it's north of $0.10.
+So I think we're poised to help them succeed and so we're -- that was part of the restructuring when they're a long-term partner with us and we want them to succeed.
+Inc.
+Research Division</strong> But not top 10 tenant.
+Are they overall 8% of your total revenues? Or what's that number? Well I think if it's $0.10 of FFO and we're in the $1.80...
+You can calculate.
+-- $1.83 so it's -- I don't have that at my fingertips Tayo.
+I'll have it offline.
+Inc.
+Research Division</strong> No worries at all I get it.
+And then just in regards to the deals that you're tracking right now Hossein could you talk a little bit about pricing and where you kind of think pricing is going? Is it kind of stable? Is there some pricing pressure on the superuser side? Or what are you kind of seeing? No I think their pricing is stable and that we have established a price that we've discussed on our previous call for the super wholesale tenant.
+And the general market price in -- for the non-super wholesale kind of 1-megawatt type of tenant is somewhere around $1.05 to $1.15 type of range.
+Our next question will come from Ross Nussbaum of UBS.
+Research Division</strong> A couple of questions here.
+First what's the cost per kilowatt of ACC7 versus say Santa Clara and New Jersey? How much lower? How much do you [indiscernible] to fill? I think again to be conservative well first of all I may add we have not finished our design yet.
+We're still modifying that.
+So I don't want to quote hard costs because the design is not finished yet.
+But what we're targeting is to build the data center in smaller increments and not be higher than the current cost of our older data centers.
+So if you look at the ACC type of campus we're all in approximately at $8.5 million a megawatt.
+That includes capitalized interest.
+And so if we're able to bring the data center in all in or about the same rate but not take into account inflation which is a few years have gone by and not to take into account the smaller incremental builds then I think that's the goal we're going for.
+Research Division</strong> Okay.
+Second question.
+Why didn't you tell your reseller tenant why didn't you just shove the signed lease in their face and say look you're an adult you signed this contract honor it.
+Well I mean we looked at their financials.
+We realized -- we look at all of our tenants as partners.
+They -- we've gone through a long time with them where we had given them leads where they were too small for us.
+They had referred once in a while a lead to us that was too big for them.
+We want them to succeed.
+And frankly we felt that if we shoved that lease there they wouldn't succeed.
+So we've given them a second chance to be able to make that and we'll see.
+We're cautiously optimistic that they'll make it.
+Research Division</strong> Okay fair enough.
+Third question I have and I want to make sure I heard this right when somebody asked you Hossein about dead deal cost in the fourth quarter and acquisitions that you may have been pursuing I thought I heard you say that one of the things you were pursuing went away because they went public themselves.
+Are you suggesting that you were talking to CyrusOne? I'm not prepared to answer that question.
+[Indiscernible] Research Division</strong> I mean you already quasi-answered it by suggesting that an entity went public.
+I'm just trying to get a sense of making sure I heard you said that correctly.
+You heard what you heard right? You can repeat.
+You can look at the transcript.
+The next question is a follow-up from Emmanuel Korchman of Citigroup.
+Research Division</strong> Yes it's Michael Bilerman speaking.
+You said that the $0.10 is net2eEZ's total exposure after the give-back of the 1.2 megawatts.
+And so it effectively is $8.2 million of NOI.
+That's really at the revenue line and not the NOI line.
+So roughly north of $0.10 of revenues that they generate for us.
+Research Division</strong> And that is -- so effectively so call it about $10 million of -- it's a little bit higher than on an NOI basis given the probably positive spread on your recoveries and fees? Correct.
+Research Division</strong> Okay.
+So -- and that's on the 6.25 going forward correct? Yes that's on the -- that's after the restructuring on what they currently have in Virginia and in New Jersey.
+Research Division</strong> Okay.
+And then so what -- you said you sort of looked at their financials they were cash flow negative in the fourth quarter hence why you sort of gave back and put them into the black.
+So what exactly -- I mean do they have any assets? What is -- what sort of security do they have for that note? Who's the financial backer? Things like that so that we can get comfort that not only the note that you have now is eventually going to be paid but also thinking about the security of this ongoing $10 million stream.
+Mike I think most resellers do not have a "strong balance sheet." I mean they lease space they sublease the space out and they make a margin on the difference.
+So you've got to be prudent about how you grow the business.
+And the biggest line item expense is payments to guys like us.
+So if they can control that continue to grow the revenue line fill up what they have it's a pretty profitable business.
+That's why a lot of people are in the -- in -- it's a people-focused business but the idea that they have a balance sheet of strength is -- they make it.
+They live by -- or eat what they kill.
+But the idea that the notes -- we've been with these they've been with us and we've been with them for since the IPO and we want them to succeed.
+So I think it's just they're cash flow positive with some restructuring in place.
+And so they're going to manage their distributions they're going to manage their growth and we've given them a reprieve on what they owe us.
+Research Division</strong> What's their utilization rate? And on -- if you think about the 7 4 5 that they had with you pre-restructuring what was their utilization rate on reselling that space? Was it a -- I guess was it a utilization issue or was it a price issue that they were failing on? I think they did not lease fast enough in those markets.
+So it was a utilization issue.
+Research Division</strong> And then do you know on the balance now at 6.25 where that utilization stands? No we do not.
+Research Division</strong> And then...
+If you walk the rooms and they -- there's definitely busy-ness and activity so...
+Research Division</strong> Lights are flashing.
+I'm sorry? Research Division</strong> The lights are flashing.
+The lights are flashing.
+I mean what we could say is that we believe that they're cash flow positive now from the financials that we've seen.
+Research Division</strong> And then the note -- just the size of the note now so is -- how much and then -- and what's accruing then going forward just so I understand the math.
+Well the note I believe at year end is roughly $1.6 million.
+The deferred rent is obviously in there as well.
+The additions to the note in January as well.
+So it's going to grow north of -- actually it was $2.9 million at year end and then as you grow it'll grow north of $4 million by -- as we get further into the year depending on New Jersey.
+Research Division</strong> And then just going back to the share repurchase program for a second I guess if you look at like yesterday's trading right in the afternoon would you have been able to be in the market when things like that happen? Or would you be blacked out because of earnings? As you know we set this up in November.
+We did not put a 10b5 plan in place prior to our lockout which was December 15.
+And so we could not -- we didn't -- we were not able to do anything during the course of December 15 through today.
+So effective tomorrow the window opens and we can act on volatility.
+We may decide to put in a share -- a 10b5-1 program but we have not done that yet.
+That would allow us to purchase at any time.
+Without that the window opens tomorrow.
+Research Division</strong> Because you've announced the share purchase plan and you were effectively in blackout for earnings you couldn't act on your share repurchase plan? That is correct.
+Research Division</strong> But if you had a 105b plan in place where you set a certain price to the -- an outside party to a broker they would be able to act on that behalf with the volatility? That is correct.
+Research Division</strong> And then as you -- I guess as you've investigated a little bit do you have any sense of what occurred yesterday? It would seem pretty traumatic from a volume perspective on 0 news.
+You know what Mike we can control the leasing we can control the development.
+The idea of -- we did not get any phone calls.
+We did not -- we don't have any color on that.
+Research Division</strong> And so your specialist on the floor didn't sort of highlight to you that you crossed...
+No they don't typically tell us who it is or why it is.
+They normally trade through an intermediary and we don't understand why it was.
+Research Division</strong> I mean does it concern -- I guess there has been some stuff that's happened in the past with trading in terms of some ex-board members.
+Does it concern you at all the volume and the price action yesterday especially relative to the disclosure today? I mean does that -- does it give you pause that something else may be going on either outside the company or inside the company? No.
+Not at all.
+No not at all.
+The next question will be a follow-up from Tayo Okusanya of Jefferies.
+Inc.
+Research Division</strong> Just one quick question.
+I just wanted to confirm there are no other tenants that have the ability to put back space at their option? That's correct not at their option.
+It'd have to be -- again no other tenants on a watchlist.
+No other tenant is of concern.
+So the answer's no.
+Yes.
+And Tayo the options of the tenant in Chicago we had disclosed that during every call.
+Inc.
+Research Division</strong> Yes yes.
+And I'm showing no further questions at this time.
+Thank you for joining us today.
+We look forward to providing future leasing updates and showing continued growth in 2013 and 2014.
+Ladies and gentlemen this concludes today's call.
+At this time you may disconnect your lines.

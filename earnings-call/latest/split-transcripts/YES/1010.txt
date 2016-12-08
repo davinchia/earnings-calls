@@ -1,0 +1,479 @@
+Good day and welcome to the DuPont Fabros Technology Fourth Quarter 2013 Earnings Results Conference Call.
+[Operator Instructions] Please note this event is being recorded.
+I would now like to turn the conference over to Chris Warnke Investor Relations Manager.
+Please go ahead.
+Thank you Gary.
+Good afternoon everyone and thank you for joining us today for DuPont Fabros Technology's fourth quarter 2013 results conference call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; Jeff Foster the company's Chief Financial Officer; and Scott Davis the company's Executive Vice President of Operations.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income are contained in the company's earnings release issued this morning.
+The release is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+[Operator Instructions] I now will turn the call over to Hossein.
+Thank you Chris and good afternoon everyone.
+I'm happy that you could join us today as we discuss DFT's fourth quarter and full year results and provide guidance for 2014.
+As you noticed in our earnings release we delivered strong fourth quarter and full year 2013 financial results.
+We increased our dividend by 40% from $0.25 per share to $0.35 per share and provided our 2014 guidance which forecasts normalized FFO per share growth of 19% over 2013.
+I'd like to start today with a leasing update.
+We are 94% leased.
+And while that is great news it leaves us with a good problem of having very limited available space.
+There are only 2 operating properties out of 10 that have available space: New Jersey with approximately 9 megawatts and VA3 in Western Virginia with approximately 4 megawatts available.
+Last quarter we announced that we have signed 2 leases for space in these properties totaling 4.9 megawatts.
+We continue to respond to several RFPs provided to us and are in discussions with potential customers regarding available space within these 2 buildings.
+Although we have very limited space for new leases we continue to renew existing leases prior to expiration.
+During the fourth quarter we renewed 2 leases scheduled to expire in 2014 totaling 1.17 megawatts of critical load.
+The renewal rates averaged at 6% decrease on a cash basis when compared to rates at the end of the original lease.
+The renewal rates increased 9% on a GAAP basis based on our recent leases and renewal rates.
+I believe that pricing in our markets has stabilized.
+Let's talk about our new -- let's talk about our data center in New Jersey and this houses the bulk of our inventory.
+It is 52% leased on a critical load basis and 64% leased on a computer room square footage.
+And 8 customers within the facility account for 9 megawatts of critical load.
+The majority of them are enterprise customers.
+The power requirements for these customers are much smaller than we have seen from our Internet customers in other markets.
+As an example the average customer size in our ACC4 ACC5 and ACC6 buildings is 3.5 megawatts compared to 1.1 megawatts in New Jersey.
+We have talked about the benefits of organic growth within our campus environments.
+A number of our enterprise customers which tend to be stickier have now been within our New Jersey facility for 2 to 3 years.
+These increases the likelihood that some of them may require additional space at the future.
+There continues to be new demand in New Jersey and we're optimistic that we will get our fair share.
+We are confident that NJ1 will be a great long-term asset for us.
+To be conservative however we maintain our forecast of no new leases in New Jersey for 2014.
+Each new lease we sign for space in New Jersey will provide upside to our guidance.
+The only other remaining space available within our portfolio is VA3.
+The facility increased from 51% leased in February 2000 -- in February to 71% leased as of today.
+We are actively touring this facility and are optimistic in our ability to fully lease out.
+Now let's discuss our 3 new projects: ACC7 Phase 1 in Northern Virginia Phase 2a of Santa Clara and our site in Elk Grove Village on which we will develop our CH2 facility.
+This summer we plan to deliver ACC7 with 11.89 megawatts of critical load.
+This building incorporates our version 3.0 design and will eventually total 41.6 megawatts when fully dealt out.
+We are very proud of the new engineering and design elements incorporated within this new facility.
+It will be the most efficient data center we have ever built.
+We expect that the cost for ACC7 to be 7.4 million per megawatt excluding capitalized interest.
+This is a savings of about 400 000 per megawatt compared to ACC5's costs a savings of approximately 5%.
+ACC7 is complete enough to begin customer tours which should facilitate increased leasing interest.
+So where will the demand from ACC7 come from? From both new and existing customers.
+Within our Ashburn campus we have 20 customers 60% of whom have taken additional space with us within the campus.
+We have had great success in our Ashburn -- in Ashburn and are optimistic that some of our current Ashburn campus customers will take space with us in our new facility.
+ACC7 is also eligible for the sales tax exemption that all of our customers enjoy in the Ashburn campus.
+Phase 2a of Santa Clara is scheduled to be delivered at the end of May.
+We are currently building out 50% or 9.1 megawatts of the planned 18.2 of critical load for Phase 2.
+Our top 3 customers which leases space in the 3 of our 4 markets is expanding in this facility and has pre-leased 4.55 megawatts of critical load.
+We have been conducting tours for our existing and new customers for the remaining space.
+Both ACC7 Phase 1 and Phase 2a of Santa Clara are currently on time and on budget.
+This takes us to Chicago.
+We acquired a 15-acre parcel of land in August of 2013 directly across the street from our CH1 facility to build CH2.
+Building a campus environment will support the future growth of our customers.
+We are currently working on design and permitting for this facility.
+We have designed CH2 to total 25.6 megawatts of available critical load while incorporating the same 3.0 design element.
+With this new design we expect CH2's PUE to be around 1.15 compared to CH1's PUE of 1.30.
+Chicago has been a very robust market and we need capacity in order to capture current and future customer demands.
+We expect to begin development of the first phase of CH2 in the second quarter of this year.
+Now let's discuss Open-IX.
+In November we executed an agreement with the London Internet Exchange or LINX at our ACC5 facility.
+We also signed up the Amsterdam Internet Exchange at our New Jersey facility.
+These exchanges will provide a local peering fabric in each of these geographical areas.
+Both exchanges are currently building out their infrastructures and are preparing to go live this quarter.
+This will take some time -- or it will take some time for Open-IX's peering fabric to obtain critical mass.
+Why is Open-IX beneficial to DFT? Well we believe this is a good opportunity to step into a cabinet-based offer where customers can lease one or more cabinet connect to fiber provider of their choice and to one of the Open-IX switches and subscribe to our Level 1 IT support should they need assistance.
+These services will include bracket stack server reboots shipping and handling of equipment network cross connects and cable.
+This will be DFT's version of retail.
+The initial launch will be at ACC5 and NJ1 and will total less than 0.5% of our current portfolio approximately 0.8 megawatts across these 2 markets.
+This initial launch will allow us time to build out the infrastructure needed to support a robust retail product while taking a prudent approach into this offer.
+As you know we have customers in several of our facilities offering retail so we know our facilities are suitable for this level of service.
+We expect to have our cabinet-based offering on the market in the second quarter of this year.
+Let me take a final moment to discuss the progress on our succession planning.
+We are searching for a candidate who will deepen our executive branch add new skills and help me develop and implement new strategies to further grow the company.
+I like the range of candidates we're seeing and look forward to making an announcement once our final candidate has been selected.
+With that I will turn over the call to Scott Davis our Executive Vice President of Operations who will discuss the new design at ACC7.
+Thank you Hossein.
+Good afternoon everyone.
+I'm pleased to join this call today to discuss some of the exciting innovations in our latest data center design.
+We have refined our product to achieve improved levels of efficiency while simultaneously reducing our cost to construct on a per megawatt basis and further aligning ourselves with our clients' corporate social responsibilities.
+Most importantly we accomplished this without sacrificing the reliability and resiliency that our customers have come to expect and rely on from our facilities.
+We are currently at various stages of design and construction on 3 properties: Phase 1 of ACC7 in Ashburn Virginia; Phase 2a of SC1 in Santa Clara California; and CH2 in Elk Grove Village Illinois.
+ACC7 and CH2 are new greenfield projects while Phase 2 of SC1 is the planned expansion of our existing data center.
+I would like to start with ACC7 which is our new prototype data center design that we have been developing for years.
+The goal of this new design was to fully analyze the latest trends in the data center industry and to create an enhanced product that aligns with these trends that exhibits a high degree of flexibility and appeals to a broad spectrum of both existing and prospect customers.
+We expect all new greenfield designs including CH2 to be based on the ACC7 design premise.
+Let me highlight a few of the key features of the design.
+Please bear with me as I get a little technical here but I think you'll see why we are so excited about DFT's new product.
+Our data centers have always been in the top echelon when it comes to industry-leading efficiency.
+However the ACC7 design achieves new greater level of efficiency.
+The calculated annualized PUE for ACC7 is less than 1.14 at 75% load levels and sub 1.13 for 100% load level compared to a 1.30 PUE at our existing ACC5 facility.
+This is achieved in large part from our new cooling plant design a waterside economization plant with chiller assist that maximizes our opportunities for free cooling.
+The key words here being chiller assist because chilled water is produced primarily from the waterside economizers from which we receive year-round contribution.
+We expect to supplement chilled water production from the chillers only during peak demand times which may be less than 25% of the year.
+Secondly advances in electrical distribution technology further afford us opportunities to innovate.
+Recent advances in medium-voltage switch gear design and circuit breaker technology have significantly improved the reliability of these products to the point they may now be considered permission critical applications.
+For the first time we are able to move from a low-voltage distribution to a medium-voltage distribution within the facility.
+This allows us to significantly reduce the size of our electrical feeders by a factor greater than 7x.
+It also spawned the creation of a new highly efficient PDU or power distribution unit that is 99.6% efficient which is nearly 2 full percentage points more efficient than conventional PDU.
+These PDUs will be located outside of the computer room proper further increasing the available computing cabinet space within the rooms.
+The PDUs and downstream distribution are configured to provide a complete 2-end architecture.
+The secondary voltage of the PDUs is at 240 volts versus the conventional 120 volts and will further provide cost savings to our customers in their branch circuit design.
+This PDU architecture enables our customers to fully utilize the power within their computer rooms as power is not stranded or what we in the industry call air pockets.
+This increases the overall efficiency of power utilization for our customers which is what we always strive to achieve.
+We have further enhanced the flexibility of our product by making the power densities within the computer rooms variable.
+We can deliver densities in the range of 120 watts to 230 watts per square foot.
+We will offer one room size but we'll have the ability to divide the room into smaller offerings depending on our customers' load requirements.
+We will also be able to provide segregated equipment galleries for customers with increased security requirements.
+We have eliminated the race and have provided a highly efficient and customizable LED lighting solutions that is activated and controlled by occupancy sensors.
+Lastly ACC7 is a green design.
+We've discussed the energy efficiency.
+In addition the facility will be LEED certified.
+And as a result of our medium-voltage solution we are using less copper steel and PVC than ever before.
+Also we have recently converted our entire Ashburn campus over to a newly available reclaimed water service which will be the water source to ACC7's cooling plant and irrigation needs.
+Next I would like to discuss our SC1 Phase 2 design.
+The original design for Phase 2 was based on the Phase 1 design.
+However in light of our efforts in designing ACC7 we wanted to enhance the Phase 2 design and incorporate many of the progressive elements from the ACC7 concept.
+These elements include adopting the waterside economization with chiller-assist cooling plants emulating the new 2-end PDU design with 240-volt secondary distribution improved overall efficiency with calculated annualized PUE for Phase 2 at less than 1.16 at 75% load levels and sub-1.15 for 100% load level compared to a 1.30 PUE in Phase 1.
+We also have variable power densities within the computer room's optional equipment galleries and LED lighting and control.
+In summary we're extremely excited about the direction of our new data center designs.
+We've brought forward the isolated parallel UPS design to policy which has proven to be extraordinary in delivering reliable critical power while we made advances in several other areas that will provide us with an innovative green product that is cutting edge in the data center industry.
+With that I would like to turn it over to Jeff Foster our CFO who will take you through our financial performance.
+Thank you Scott and good afternoon everyone.
+I want to cover 4 main topics today: our fourth quarter and full year 2013 results a capital markets update 2014 guidance and our dividend.
+Normalized FFO for the fourth quarter of 2013 was $0.57 per share compared to $0.38 per share for the year-ago quarter an increase of 50%.
+The $0.19 per share increase is primarily due to increased operating income and lower interest expense.
+Normalized FFO for Q4 2013 excludes the loss from debt extinguishment of $0.11 per share from calling our remaining 8.5% 2017 senior notes.
+Normalized FFO for the year was $1.96 per share compared to $1.48 per share in 2012.
+The increase of $0.48 per share or 32% is primarily due to higher operating income.
+Normalized FFO for 2013 excludes a $0.50 per share loss from the debt extinguishment on our 2017 senior notes and the early payoff of our ACC5 term loan.
+Our AFFO increased -- continues to increase as GAAP revenue and cash revenue are now in step as the ramp from our 2012 and 2013 leases has pretty much burned off.
+AFFO for the quarter was $0.56 per share compared to $0.37 per share for the same quarter of 2012 an increase of 51%.
+For the year AFFO was $1.87 per share compared to $1.29 per share for 2012 an increase of 45%.
+Quarterly revenues were $99.4 million our highest ever.
+This is an increase of $13.5 million or 16% quarter-over-quarter.
+For the full year 2013 revenues were $375.1 million.
+This is an increase of $42.7 million or 13% over the prior year.
+Cash from operations in 2013 was $193.8 million an increase of $61 million or 46% in 2012.
+After common preferred dividends we generated $93.7 million of cash in 2013 that is being used to fund our current developments.
+This is an increase of approximately $31 million over 2012.
+We had $5.8 million of capital expenditures on our operating properties in 2013 and we will build 80% of this to our customers under the capital expenditure recovery clause at our leases.
+Most of the amounts not being billed are for the upgrades of the VA3 lobby which was completed in the second quarter of 2013.
+Our estimate for 2014 is $4 million for the expenditures of which 95% will be billed back to customers.
+As you note in the earnings release we reclassified the management fee that we collect from customers from recoveries from tenants to base rent on our income statements.
+The impetus for this change is a change in our go-to-market strategy on our wholesale leases.
+Our existing leases contain a management fee cost stating that customer will pay DFT 5% of base rent plus operating expenses as the management fee.
+This fee is locked in for the life of the lease.
+We will be eliminating the management fee in our new leases.
+Because of this I feel the new classification will more accurately reflect the true nature of our management fee which is additional rent for the company with no offsetting expenses.
+Also it will allow patch results to be comparable with the results produced from our new market strategy.
+In a fully leased building base rent will now represent our NOI since all operating expenses are recovered under our triple-net model.
+Because of this change we are now exposing annualized base rent for leases signed in 2013 inclusive of the management fee and are often including management fee in annualized base rent over the next 12 months in the operating property table footnotes.
+This reclassification did not change total revenues operating income net income earnings per share FFO normalized FFO or AFFO.
+As to the capital markets update we drew the remaining $96 million earlier this month on our $250 million senior unsecured term loan.
+This money along with the cash on our balance sheet and free cash flow will fully fund both of our current developments ACC7 Phase 1 and Santa Clara Phase 2a.
+The Phase 2 developments will be funded by a combination by cash generated by operations and our untapped $400 million line of credit.
+Current projections call for about $50 million to be drawn on the line at the end of 2014.
+After our bond refinancing our weighted average cost of debt is 4.7% at December 31 2013 which is 260 basis points lower than a year ago.
+Our first debt maturity is not until 2018.
+We continue to improve our balance sheet and have ample capacity to grow and fund our business.
+I now would like to discuss our 2014 guidance.
+Our first quarter 2014 normalized FFO guidance range is $0.56 to $0.58 per share.
+The midpoint of the range is equal to the $0.57 per share we earned in the fourth quarter of 2013 as we had no leases scheduled to commence in the first quarter of 2014.
+The full year 2014 normalized FFO guidance range is $2.28 to $2.38 per share.
+As in the past the low end of the range assumes no additional leasing in 2014.
+The assumptions are disclosed in today's earnings release on Page 15.
+Here are some highlights.
+Revenues are forecasted to exceed $400 million.
+For the first time ever cash-based rent is forecasted to exceed GAAP base rent by an estimated $4 million to $9 million.
+EBITDA margins should remain constant at around 63% to 64%.
+And our cash flow after our common dividend and before development spend is forecasted to be about $90 million again in 2014 even after taking into account the 40% increase in our common dividend.
+G&amp;A expenses forecasted to increase $1 million to $3 million versus 2013.
+This increase is primarily due to increased compensation expense resulting from our anticipated hiring of a new president and the new infrastructure costs that support our exploration into the cabinet-based offering.
+After the 2 lease renewals that Hossein mentioned we only have 2 leases scheduled to expire in 2014.
+Both are in the fourth quarter.
+The impact of the mark-to-market on these renewals is negligible to our 2014 and 2015 FFO.
+In 2015 we have one notable expiration on September 30 at ACC2 for 10.4 megawatts.
+This lease is currently at market when compared to our current wholesale rate and is about 20% above our current super wholesale rates.
+Last but not least let's discuss the dividend.
+As previously mentioned we increased our quarterly dividend from $0.25 per share to $0.35 per share an increase of 40%.
+This represents an estimated normalized FFO payout ratio of 50% at the midpoint of our guidance.
+For comparison the normalized FFO payout ratio in 2013 was 48% and the AFFO payout ratio was 51%.
+Our dividend increase is consistent with our company policy to distribute 100% of taxable income.
+The thought I would like to leave you with is our business is strong our balance sheet is secure and we are confident in our growth prospects.
+With that let me turn it back over to Hossein who will provide some final comments.
+Thank you Jeff.
+Let me offer a few final thoughts and then we will go to questions.
+2013 was a record year for lease commencements totaling over 33 megawatts.
+We are on time and on budget to deliver our 2 new developments: ACC7 Phase 1 and Phase 2a of Santa Clara.
+We are finalizing the design and obtaining permitting for CH2 and we are working hard to fill up our remaining existing inventory and to pre-release our new developments.
+The fundamentals of our business remain strong.
+The growth of the Internet is not slowing down.
+This leaves us with a lot of business for our customers to capture which in turn increases the demand for outsourced data center space.
+In closing I'd like to thank the DFT team.
+I'm proud of your hard work.
+Your commitment means a lot to me.
+With that let's go to questions.
+[Operator Instructions] Our first question comes from Emmanuel Korchman with Citi.
+Research Division</strong> So Hossein maybe we can go back to your previous comments on the RFPs that you have out there.
+Are those for the sort of the builds you have in progress or future phases? And if we look at those tenants are they existing to the portfolio or sort of new potential banners that are out there? The RFPs we're working on for the majority of the part right now are new customers.
+Our existing customers typically don't go to an RFP.
+They just come directly to us and pretty much all of them are for the 4 markets we're in.
+None of them are for any new market.
+Research Division</strong> Got it.
+And then as we think about the retail offering I think it's sort of new that you sort of given a timing and sort of jumping in there.
+Have you discussed that retail offering with your current tenants that have a retail product? Maybe you could share the reactions start there.
+Yes.
+Most of our tenants do not have necessarily a retail product.
+They may have 1 or 2 cabinets for interconnection in a co-location facility.
+Well our tenants typically are much larger for that.
+So the majority of those tenants will be new tenants.
+I also want to emphasize this retail product as I mentioned in my prepared remarks it's only less than 0.5% of our entire portfolio.
+Yes.
+Was your question related to discussing this with our existing retail resellers? Research Division</strong> Yes.
+Especially if we look at an asset like New Jersey where there's probably good room for you to put in the product but your current sort of tenancy there does offer that product.
+Oh yes.
+I mean they know we're offering it Manny and we're not really concerned frankly.
+There are customers even within say a server central that could potentially compete with a server central.
+So it happens all the time.
+Research Division</strong> And then Jeff maybe one for you.
+On the management fee reclassifications can you just give that in dollars for 4Q as to what was transferred between the 2 buckets? And then did I hear you correctly you said it's not going to be part of new leases and maybe you can elaborate on why? Okay.
+In the fourth quarter our management fee was about $4 million.
+And for the full year 2013 it was about $15 million.
+For why we're not going to include it in new releases it's part of our new go-to-market strategy.
+Today when we -- maybe Hossein will want to explain on this...
+Yes.
+Today for example if one of our leases Manny is at say 105 the tenants really looks at that lease really more like 113 anyway.
+They model that management fee in their assumptions as rent.
+So we've come to the conclusion better late than never because they're modeling at base rent and we have no operating expenses against it.
+We might as well call it base rent.
+That's how they're looking at.
+Research Division</strong> So there will be 0 net economic impact it's just sort of classification on the proposal? Yes.
+That's correct.
+The next question comes from Jordan Sadler of KeyBanc Capital Markets.
+Research Division</strong> Okay.
+So I'm interested to hear a little bit more about the retail offering just specifically what it is you're building out.
+Who's leading the charge in terms of this initiative how many people? And I mean I think you gave a little bit of color about what the offering will be Level 1 service and server reboots rack and stack shipping and handling of equipment that were cross connects.
+But I'm just kind of curious if you could sort of flesh out the offering as you're envisioning it and then the timing of the launch.
+Sure.
+That's a very good question.
+The impetus for really the offering is the going live dates for the Amsterdam Exchange and the London Internet Exchange.
+Those exchanges putting a switch in our data center will make available for customers to connect to that switch and basically for the initial term of the content to have that connectivity for free.
+For our wholesale customers and super wholesale we don't really need a peering fabric and that's why we haven't done it so far.
+The fact that this switch is now available and is going live in two of our data centers it makes sense for us or why not offer a retail product that in the long term we're hoping -- we want to be really ready for a retail product in 2017 '18 and '19 that when and if some of those lease has come up in ACC4 we'll be able to re-lease some of that space getting a decent same-store rent growth rather than a decrease in same-store rent growth if some of those leases go to super wholesale.
+So that's where we're getting prepared to be ready for that period.
+As far as how many people are going to be in our retail offering Jeff has already baked that into our G&amp;A for what we need and we also will be outsourcing some of those people.
+Research Division</strong> Right.
+Well from a numbers perspective I'm interested to hear what the numbers are that are baked in for the president and the retail offering in the G&amp;A number for certain.
+But I'm kind of curious strategically how many people who's leading -- how big of an operation is this? Well it's going to be a very small operation less than 0.8 megawatts.
+So in Virginia we're talking less than 40 racks.
+Research Division</strong> Are you hiring 2 people though to do this or? We're hiring a couple of people to do this and we're outsourcing these [indiscernible] for the moment.
+At the moment we don't envision it to be a large part of our business at all.
+Through that combination of our people and the outsourced people once it's fully up and running and we have some customers online we'd anticipate sort of between 5 to 10 people.
+But that includes the outsourced labor.
+Yes.
+But again it's less than 0.5% of our portfolio.
+Research Division</strong> What's the -- right but the idea is for it to be significantly greater than 0.5% as a percent of revenue.
+Well we're going to see how -- we're going to respond to market demand.
+We are not necessarily going to go full scale.
+We will grow the demand as the market allows us.
+The only space we're making available for it right now is 0.5% of our portfolio.
+Assuming the market responds well to our offering well we can make more space available for us.
+But at the moment the 0.5% does not represent a changing strategy.
+Research Division</strong> And what was the cost Jeff you said you were -- that you baked in for retail? For the president and for the retail offering there's an increase in G&amp;A of an extra $1 million to $3 million.
+The reason for the range happens to be on the timing of when all these people come on board.
+So when the president come on board in the model and also when do we ramp up our hiring for the retail.
+The thought process is in ACC4 we've got leases coming up 13.85 megawatts in 2017 '18 and '19 is to really have a decent product in those years to be able to re-lease part or some of that space in a rack-based offering.
+Research Division</strong> Okay.
+And then in terms of the search Hossein do you still expect to be able to announce something in the first quarter or toward the end of the first quarter? We have -- we really like -- I really like the candidates we have.
+The search process is going according to plan.
+The interview process is on schedule.
+I'm more now focused on getting the right candidates the right partner for me rather than necessarily hitting the timing of getting someone on board at the end of first quarter.
+Research Division</strong> Okay.
+And has there been a thought process to try and kill 2 birds with 1 stone here a little bit in terms of the retail offering and the president? Maybe there are some several small companies out there that are involved in the retail business already sometimes a capable person at the helm.
+Has that been -- have those people been on the radar in terms of a potential search? I don't want to go into kind of details of our search to that level but I can say that eventually we will need a head of retail and a president.
+So is -- could there be a head of retail that could later be promoted? Maybe.
+But I believe that having some retail experience for the president could be helpful absolutely.
+It's a skill set that long term we'd like to have.
+But I do believe long term we'll need both candidates a head of retail and a president.
+The next question comes from Jonathan Atkin with RBC Capital Markets.
+LLC Research Division</strong> Yes.
+Kind of a macro question on the Virginia market given the land purchase and certainly by far was one.
+And I don't know of the timing of when they plan to come online but kind of what are your thoughts on how that affected dynamics in Northern Virginia given the entry of a new player? And then in Santa Clara I was just interested I wanted to confirm the low end of your guidance does incorporate the pre-leased demand that would come online this year.
+Is that correct? Yes Jon and this is Jeff.
+I'll handle that last one there.
+The 2 28 has baked into it the revenue from that pre-leased.
+LLC Research Division</strong> So is there a possibility of upside if the installations occur sooner than expected or is all of that contractually somewhat rigid at this point in terms of how that would flow to future revenues? I would say given where we are on our construction schedule we had it baked in pretty accurately right now.
+LLC Research Division</strong> Okay.
+Yes.
+Let me take the first part of the question.
+We pretty much dominate the Northern Virginia market and the wholesale and super wholesale categories of data centers.
+We have -- in all the buildings we have in Ashburn and Northern Virginia we don't believe anybody else can really compete as effectively with us.
+We typically set price and 2 [ph] levels for our returns.
+And typically that may -- the market will follow where we are.
+So I'm really not afraid in this market of competition.
+I think our product and our operating staff speaks for itself.
+LLC Research Division</strong> And then on New Jersey you made a comment about 2 to 3 years is if the customer life cycle sometimes customers look to take down more space.
+Was that more of a kind of a general comment employing to the possibility of further leasing in New Jersey or are there specific indications that you're hearing from your customers if they may in fact looks to do that? There are no indications.
+I mean I wouldn't tell you if there were indications from the customers.
+However that goes to -- that comment is based on 2 things.
+One typically when a customer first signs a lease the second question they ask is what do we do in 2 or 3 years when we're full? So we're now in that time frame.
+The second part of it is that we see IT loads and we can watch loads of our tenants.
+And we see where some of our tenants in New Jersey are now using a good part of their electric loads.
+So hence they may need more space.
+Some of them.
+Does that answer your questions regarding our [indiscernible]? The next question comes from Jonathan Schildkraut of Evercore.
+Research Division</strong> Hossein so 3 questions here if I may.
+First in terms of the change of accounting I think it makes a lot of sense actually what you're saying about moving the management fee into the base rent especially as we think about some of the comparative pricing in the market versus your peers that maybe don't have triple-net and the management fee.
+I just wanted to get a little more context in terms of some of the commentary you gave about pricing stabilization and the mark-to-market some to 2 renewals.
+I don't understand if you're comparing that to the prior base rents or you're comparing it to the prior base rents where you've rolled in now the management fee.
+Absolutely I was comparing it to prior base rents including management fee.
+Our tenants typically look at the management fee as base rent.
+So if for example we're talking about super wholesale pricing that base rent was in the low 80s.
+Now we're saying it's in the mid to high 80s.
+If you're comparing it to wholesale rents that were previously 105 to 110 you would need to add $8 to that to have a base rent and management fee built in.
+Those rents have stabilized.
+So just to point of clarification there Jonathan on a renewal the customer already has an existing lease with us with the structure laid out.
+So we wouldn't be changing the structure on a renewal or on an amendment to an existing lease just on brand-new leases.
+We treat management fee as base rent so do our customers.
+Research Division</strong> Okay.
+And the management fee is just on top of the base rent or is it -- you got a management fee also on the reimbursements for the OpEx? Well I think that's where it becomes more clear for the customers.
+The management fee has always been 5% of base rent and operating expenses.
+So right now in some of our leases we have had pushed back that okay if operating expense goes up you're making a fee on that.
+And now that's not going to exist that's 5% of that fee we're not going to make it.
+We're just going to build in all the management fee upfront into the rent.
+And it's also Jonathan the other thing it does well for us is we are very proud that our operating expenses in our properties are the lowest in the industry because of the size of the assets which is not rocket science.
+The bigger they are the average per kilowatt per month operating expenses is lower.
+Taking the management fee which is base rent putting it in the base rent category will outline more clearly how low on operating expenses we have had over the term of the properties.
+Research Division</strong> Okay.
+That's helpful.
+You talked a little bit about Open-IX and the opportunity there and you previously announced the M6 and the LINX relationships.
+Just to understand the economics of those relationships are you then providing the space for those guys to put their switch and equipment in for free and that's why you were highlighting what you've taken out of your portfolio to allocate to this project? Or are they separately paying you as customers and then you're building around that? What they are -- these -- both of those are going to take a couple of racks.
+So whatever we charge them or even if it's 0 it's so nominal it's irrelevant.
+What I was emphasizing is the availability of the switch which is a couple of racks in our data centers.
+And just to be clear they do have some free rent for the initial period but it's only on 2 racks enables us to be able to have a cabinet-based offering that is ancillary next to those switches.
+Research Division</strong> Okay.
+That's helpful.
+And then finally Jeff just to get a little bit of clarification.
+You talked about sort of seeing FFO and AFFO converge.
+And I wasn't sure if you were sort of telling us that we should think about those as sort of similar numbers as we look into '14? Or are you just talking about growth sort of being in lockstep between the 2 numbers? I'm talking in that context about 2013.
+But when you think about 2014 while we don't give specific AFFO guidance the one key number in AFFO is always been the straight line.
+And for the first time ever the cash base rent will exceed the GAAP base rent which means the straight line will add to FFO.
+And therefore AFFO should be higher.
+The next question comes from Dave Rodgers with Robert W.
+Baird.
+Research Division</strong> I just want to go back to the 3 projects you talked about in the development pipeline and I guess they'd be focusing on ACC7 and SC1 Phase 2a.
+I guess first can you remind me of the timing of the move-ins at 2a in terms of when they start paying rent and when they move and are committed to the space? Then I guess second tying out to your comments earlier Hossein about no real pressure anymore on rents.
+Are the negotiations that you're hearing in these discussions for these spaces in these developments consistent with your most recent rents? I mean on the bigger spaces are you continuing to see any pressure? Any color on that would be helpful.
+I'll let Jeff answer the first question.
+I believe it's May Jeff? Yes.
+We have modeled it late May early June for the move-in date at Santa Clara when the lease will commence.
+And then the second part of your question the -- we are in our Ashburn campus except for this 0.5 megawatt of available space 100% full and the 0.5 megawatt is what we're dedicating to this cabinet-based offering so we're essentially 100% full.
+Where we are is we don't see any real downward pressure on rents it's on the deals that we're negotiating.
+We are certainly getting the returns we expected or higher and those are the RFPs and really the negotiations we're at on ACC7.
+Research Division</strong> And for Santa Clara? And for Santa Clara yes.
+Similar to our -- the rents that we're seeing is similar to the rents in Phase 1 and the recent deals we've done on super wholesale deals.
+The next question comes from Young Ku of Wells Fargo.
+LLC Research Division</strong> Great.
+Maybe this is for Hossein.
+I just want to go back to your 2015 expiration for roughly 10 megawatts that's going to renew or is going to expire.
+Have you gotten any indication one way or another on what you thought the tenant would do do you think they would likely renew? You're talking about the ACC2 correct? LLC Research Division</strong> Yes.
+2015 with...
+Yes.
+It's in September of 2000 -- that's a good question September of 2015.
+Now we -- our discussions have been that we've asked for the space back and they -- although they're not really using the space we've asked for it back early because we did have a customer for it.
+They refused to give us the space back.
+We have not had a formal notice whether they are renewing or not but I can diverge that I do expect to -- although we have not had any formal notice I can tell you they're not using a big part of their load and so that means they may give it back but we've not had a formal notice.
+LLC Research Division</strong> So if you were to get that space back how long do you think it would take it to back-fill that space? I think it depends but we have said the space works very well for super wholesale tenants.
+And I've also indicated in my prepared remarks that super wholesale rents are about 20% less then this tenant is in there at the end of the term of that lease.
+LLC Research Division</strong> Okay.
+That's helpful.
+And just going back to your retail offering a little bit.
+What kind of rent rate differences are there between retail base and larger wholesale type of customers? We're still working through.
+I don't want to quote those numbers yet on the call.
+We're still working through our offering.
+But what has been indicated -- when we see some of our competitors we see that the net-net rent we can achieve from the retail offering even with the greater G&amp;A and the lower margins than we have typically our margins are in the 60 percentile.
+The retail margins are in the 40 percentile.
+Even with the lower margins what we see is that some of the guys in the retail world are getting higher net rent than wholesale space which would mean if we can achieve that as well for some of the space coming in in ACC4 we'll be able to achieve higher same-store sales for the same amount of space.
+LLC Research Division</strong> Okay.
+So that's a little bit higher.
+Just maybe you can just educate us a little bit.
+I'm not too familiar with the retail space.
+The super wholesale rents has to come down pretty meaningfully over the past couple years.
+How have the retailers held up? It's not retail.
+I think what you mean is the -- our wholesale rents right? LLC Research Division</strong> The wholesale rents have come down but in terms of the market cabinet-based space offerings you have an indication on how much rent have come down over the past couple years? I do believe they're going to continue to come down with us and some of the REIT going into the space.
+There's more and more competition to the incumbents in that space.
+But we still see a healthy margin for us because our cost to build the data centers is -- per megawatt is lower than the incumbents in that space.
+Our next question comes from Jon Petersen with MLV &amp; Company.
+Research Division</strong> In terms of -- I realize the retail platform is extremely small at this point and the plan is for it to be very small but as part of the G&amp;A are you going to hire sales people in most of the co-location companies have pretty robust sales forces or can you rely on the broker community to bring potential? No.
+We would have to have a hire a couple of sales rep.
+Research Division</strong> Okay.
+And then just in terms of the dividend payout I mean it's still low as relative to whether you look at FFO or AFFO.
+I mean how should we expect that to trend over time? I know taxable income tends to be a little bit of a black box for REIT.
+But do you expect if you look forward 3 5 years for that percentage to increase over time just based on how the accounting and taxes work? Yes.
+This is Jeff.
+On the taxable income it does increase as our cash revenues increase.
+So as we've seen in the last year our cash revenues have increased quite a bit with AFFO going up and we would expect that trend to continue in the future.
+The other point I'd like to add here that I'm particularly proud of is that our dividend payout is as Jeff pointed out in his prepared remarks only 60% of our FFO and Jeff indicated that AFFO is slightly higher.
+So it would be a lower percentage than 60% on our AFFO.
+And even after our dividend payout we have $90 million of cash.
+So essentially we can build more than 9 megawatts just with our free cash flow.
+Research Division</strong> So I guess if I'm hearing you right you expect it to grow with your AFFO but the percentage the 60% you expect to remain relatively constant over the next few years? Well the percentage has gone up.
+So as taxable income increases the percentages will go up also.
+It's just a function of how the 2 interact.
+So we don't really get a lot of specific guidance on our dividend other than the state it's currently at $0.35 and we expect it will go up as our taxable income increases.
+The next question comes from David Shamis with Jefferies.
+Research Division</strong> Just wondering what you guys are hearing about Facebook and their subleasing progress in Santa Clara if that's having any impact on your leasing negotiations for Phase 2? We really haven't.
+We've heard they've had some marginal success in subleasing.
+In my opinion subleasing data center space is extremely difficult especially if it's a shorter term lease.
+You almost always need a tri-party agreement between landlord old tenants and new tenants.
+This is mission-critical space.
+So I'm not sure how you would do it without a tri-party agreement or without the landlord's complete buy-in.
+Almost always the new tenant needs something from the landlord.
+So we don't have any Facebook space on the West Coast and we're currently -- for whatever the amount that we've built we're 100% full.
+On the -- I just also want to point out that it’s a good opportunity.
+There were some analyst reports that Facebook is subleasing space in Northern Virginia and I want to confirm on this call that that is not true.
+We've had discussions with them and they have said it is not true we're not subleasing our space.
+And from what we see they're actually utilizing pretty much all their space.
+Research Division</strong> Great.
+And then just also wondering what you're hearing from your tenants the potential tenants with respect to cloud and kind of how they're thinking about their data center needs overall be it wholesale or co-location or using something like AWS or Google cloud.
+Cloud is a complete additive to our business.
+I see DFT as being a provider for the cloud.
+It's -- AWS is a very successful cloud operator but they are one part of the cloud.
+Almost all of our customers are using cloud-virtualized platforms.
+So whether it is Salesforce.com whether it's Microsoft all of these guys are providing different forms of cloud and in a virtualized platform.
+Now what really makes sense what I see often if it's a game operator when a game is successful they use private cloud either with us or one of our competitors and have their own data centers.
+And then when they have spikes in demand they may use a Rackspace or an Amazon for that spike in demand of a new game or on when their games outgrow their own functionality.
+But we see the cloud only helping the wholesale data center providers.
+Research Division</strong> That's helpful.
+And then just one more for Jeff.
+I guess a little bit more detail on the guidance and I know you said the low end of guidance doesn't include any additional leasing and guidance overall doesn't include additional leasing at NJ1.
+Just wondering kind of what gets you to the high end from the low end? Yes.
+David to get to the high end we need to do some leasing in our existing space and in the 2 developments that we'll be putting online this year.
+Our range this year is pretty tight at $0.10 and that reflects that our 2 main chunks of space that we're going to put online this year 21 megawatts of which we've pre-leased about 4.5 of that don't come on until the middle of the year.
+So the opportunity to gain additional leasing there is only for the second half of the year.
+For the first half of the year as Hossein mentioned we had 13 megawatts available in our current data centers.
+So the $0.10 reflects that we could lease up some of that 13 megawatts and give some new leases at our development that will be coming online.
+The next question comes from Michael Knott with Green Street Advisors.
+John Mischani [ph] here.
+I have a quick question on your share repurchase plan that you guys put in place late last year.
+So last year you were repurchasing stock at about $23 a share.
+Since then you've done a lot of leasing you've increased the value of your portfolio.
+So at this point how do you and the board look at share repurchases as the capital allocation option? Well we still have that as an option.
+The board renewed our share repurchase plan.
+We have about $120 million available this year.
+We look at the stock price and we look at our other potential uses of cash and this year we're looking at around $250 million of development spend.
+So we have to balance those 2 together based on where our stock price is at and what our internal cash needs are.
+[Operator Instructions] The next question comes from Emmanuel Korchman with Citi.
+Research Division</strong> Jeff maybe I missed this but in October you guys had given 4Q guidance of $0.54 to $0.56 and it came in at $0.57.
+In that sort of short 2 months what change do you guys were able to get another $0.02 or $0.025 of FFO out of the quarter? Well when we gave that guidance we thought we might trend towards high end of that guidance the $0.56.
+The extra $0.01 was for some compensation that we did have to pay to my predecessor when he departed.
+The next question comes from Jon Petersen with MLV &amp; Company.
+Research Division</strong> You talked about the London Internet Exchange in Northern Virginia and Amsterdam and New Jersey and how it's kind of positive for retail.
+I imagine that you're going to have a lot of your wholesale tenants that would want to connect to those exchanges as well too.
+Do you have any sense of kind of what percentage of your current wholesale tenants would take advantage of the opportunity of having those guys there? I think they will and I believe they'll connect.
+But most of the -- I just think I believe that they'll connect as an ancillary or as a redundancy.
+Don't forget we only have 38 customers.
+And most of them are so large that they buy a big pipe or dark fiber and do their connectivity themselves.
+What has happened is because of the dominance in one or more of the peering fabric what the customers really want is redundancy in peering.
+So I believe our larger customers will connect to the switch certainly for redundancy.
+But I don't think there's going to be a major move away from the incumbent.
+That's going to be over a long term.
+As we have no further questions this does conclude our question-and-answer session.
+I would like to turn the conference back over to Hossein Fateh for any closing remarks.
+Thank you for joining us today.
+We look forward to updating you in the next quarter.
+The conference is now concluded.
+Thank you for attending today's presentation.
+You may now disconnect.

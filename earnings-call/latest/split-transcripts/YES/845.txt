@@ -1,0 +1,410 @@
+Good morning and welcome to the Rockwell Collins' Second Quarter Fiscal Year 2013 Earnings Conference Call.
+Today's call is being recorded.
+For opening remarks and management introductions I would like to turn the call over to Rockwell Collins' Vice President of Investor Relations Steve Buesing.
+Please go ahead sir.
+Thank you Bonnie.
+Good morning to all of you on the call.
+With me this morning are Rockwell Collins' Chairman and Chief Executive Officer Clay Jones; and Senior Vice President and Chief Financial Officer Patrick Allen.
+Today's call is being webcast and you can view the slides we will be presenting today on our website at www.rockwellcollins.com under the Investor Relations tab.
+Please note today's presentation and webcast will include certain projections and statements that are forward-looking.
+Actual results may differ materially from those projected due to certain risks and uncertainties included but not limited to those detailed on Slide 2 of this webcast presentation and from time to time in the company's Securities and Exchange Commission filings.
+These forward-looking statements are made as of today and the company assumes no obligation to update any forward-looking statements.
+So with that I'll turn the call over to Clay Thanks Steve and good morning everybody.
+As you all may recall and when we established our 2013 guidance we made some assumptions that may have been perceived as questionable at the time like incorporating sequestration in our defense forecast and a lack of recovery for light and business jets in our commercial markets.
+As I look at what happened through the first half of the year with only a few exceptions things played out pretty much as we thought they would.
+So you can understand why I am pleased to report that for our second quarter in a row results are on track with our expectations.
+Let's review some of the highlights.
+Once again our balanced business proved beneficial as the headwinds in defense were partially offset by growth in Commercial Systems.
+However through a continued focus on operating efficiency and returning capital to share owners we delivered a 7% increase in earnings per share and expanded our core operating margins by 100 basis points despite lower revenue.
+Additionally our improved inventory performance along with lower compensation and tax payments contributed to an increase in operating cash flow of nearly 300%.
+I believe these results demonstrate the financial management you've come to expect from Rockwell Collins even in dynamic market conditions.
+In fact looking back over the first half of the year we were able to either anticipate accurately or where we did not compensate for some softness in the market to achieve these results.
+I think that speaks to our focus on cutting costs early being watchful of headcount and driving operational efficiency through lean improvements.
+These actions have delivered early operational benefits that should set us up for even more significant margin improvements in the second half.
+Despite the uncertainties related to U.S.
+defense budgets and low-end business jet market recovery over the balance of the year I remain confident we've accommodated them in our guidance.
+And if circumstances go our way we may even have some opportunity to do a bit better.
+We still anticipate second half revenue growth to improve compared to first half.
+However based on these first half results we are forecasting a shift of about one point of growth between our 2 segments.
+We now project Government Systems to be down approximately 9% while our Commercial Systems growth is expected to be 6%.
+So let me describe the market dynamics that are driving those changes.
+In defense particularly in the United States budgetary issues make it extremely difficult to forecast.
+While we still lack full clarity into the U.S.
+DoD's outlook we now have some visibility in the priorities with the President's fiscal year 2014 budget being released.
+The request did provide some insight into areas that the administration has continued to support including avionics for tankers rotary wing fighters and transports.
+We're also pleased to see JTRS funding for programs that we're involved with come in as expected along with a continued focus on GPS modernization and a higher quantity of JDAMs than we expected to replenish stocks used in Afghanistan.
+As you recall we originally modeled $120 million in our original guidance last September as a projected impact from sequestration.
+To date there have been no material impacts from sequestration in our results and most importantly we've experienced no program cancellations.
+The expected second half sequestration impacts will likely come in areas like service and support delays in order timing and reductions to short-cycle products.
+We'll have to wait and see how things play out for the balance of the year but I still believe we have ample headroom in the $120 million projection to accommodate sequestration impacts that may come our way.
+Meanwhile we've seen a few areas actually strengthen across our military business specifically in international markets.
+Surface Solutions have stabilized sooner than we would have thought as the benefits of our portfolio-shaping actions and international growth opportunities are now expected to deliver incremental growth in this portfolio over the remainder of the year.
+Additionally we continue to see increased demand for international tanker and transport avionics products and increased scope on those programs.
+The combination of these conditions support our somewhat improved outlook for Government Systems.
+In Commercial Systems we expect revenue in the second half of the year to grow 8% led by mid-teen sales growth in the aftermarket resulting from favorable comparables for spares increased cockpit and cabin retrofits and initial mandate-related sales.
+However as a result of more modest aircraft utilization in the first half across our commercial businesses we're revising our full year aftermarket guidance down to mid to high single digits and our total Commercial Systems revenues growth forecasts down one point to 6%.
+Except for this MRO aftermarket component our expectations for Commercial Systems remain unchanged.
+In air transport OEM backlogs are still robust.
+The resulting increase in demand for aircraft production combined with new aircraft entering into service makes this the most stable market segment we serve.
+Similarly the business and regional OE market is playing out much as we expected with some growth of larger long-range aircraft and not much happening at the light end.
+With the first half of the year behind us I feel pretty good that we have seen results in line with our expectations during a period of very high uncertainty.
+Our teams' continued focus on taking swift action to address these things within our control drove improved operating profits and set us up for improvements in the second half of the year.
+I remain confident we can meet or exceed our full year guidance which positions us well to exit this year of transition and enjoy expanded opportunities ahead.
+So with that let me now turn the call over to Patrick.
+Thanks Clay and good morning to everyone as well.
+I'd like to walk you through today's presentation slides that summarize our results for the second quarter of 2013.
+I'll begin on Slide 3 where we highlight our total company's second quarter sales EPS net income and shares.
+Total company sales for the quarter decreased $30 million or 3% compared to last year's sales while net income remained flat at $161 million.
+As a result of our continued focus on returning capital to share owners earnings per share in the quarter increased $0.08 to $1.17 even with the flat net income as a result of a 7% decrease in average diluted shares compared to the second quarter last year.
+Net income and earnings per share for both fiscal years included benefit from tax-related items that essentially offset.
+This quarter we realized the retroactive reinstatement of the Federal Research and Development Tax Credit of about $31 million.
+But after you net out the incremental compensation cost of $12 million after tax this net benefit is offset by the absence of a favorable tax adjustment we recorded in the second quarter of last year relating to the completion of certain IRS tax audits.
+Turning to Slide 4 we have the second quarter results of Commercial Systems which achieved revenue of $553 million in 2013 up 4% from $533 million in 2012.
+Sales related to aircraft OEMs increased $23 million or 8% to $312 million primarily from increased deliveries for the Boeing 787 and 737 and the Bombardier and Global -- Bombardier Global and Challenger aircraft.
+Aftermarket sales increased $3 million to $223 million due to higher business jet retrofits partially offset by lower transport air transport service and support and the absence of spare sales that occurred last year as aircraft entered into service.
+Commercial Systems' operating earnings increased 4% to $117 million in 2013 with operating margins expanding 20 basis points to 21.2%.
+The increase in operating earnings and margin was primarily due to the higher sales volume.
+Lower company-funded R&amp;D expense was offset by an increase in compensation costs that resulted from the Federal R&amp;D Tax Credit extension.
+Moving on to Slide 5.
+Government Systems revenue decreased by 8% to $578 million in 2013 driven by the completion of development programs lower fighter jet-related sales and the reduction in GPS product sales.
+These headwinds were partially offset by increased sales in areas such as network communications and international sales.
+Looking specifically at our product categories sales of Avionics decreased as expected $41 million or 11% driven by headwinds from development program's transition to production including the E-6 and lower sales for Eurofighter and helmet-mounted displays for fixed wing aircraft.
+Communication Products declined $2 million or 1% primarily due to fewer deliveries of satellite communication products which was mostly offset by increased deliveries of JTRS Manpack radios.
+Surface Solutions decreased $1 million or 2% as a result of completing multiple development programs almost entirely offset by increased international sales of FireStorm targeting systems.
+Finally sales of Navigation Products declined by $6 million or 12% resulting from fewer deliveries of our handheld GPS receivers.
+Government Systems' second quarter operating earnings decreased $16 million to $112 million resulting in operating margins of 19.4%.
+The decrease in operating earnings resulted from lower sales volume the absence of a favorable warranty adjustment recorded in the prior year and higher employee-incentive compensation costs.
+These headwinds were partially offset by lower company-funded research and development as well as the benefit from cost-reduction actions taken over the past year.
+Looking next to Page 6 we show our year-to-date results for revenue net income earnings per share and operating cash flow.
+Through the second quarter we generated $179 million of cash compared to $45 million last year.
+The increased cash generation resulted from lower incentive compensation payments improved inventory performance and lower tax payments.
+Moving to Slide 7.
+We show the status of our capital structure as of the end of the second quarter compared to the end of last year.
+In addition to $570 million long-term debt we had $588 million of short-term debt outstanding at the end of the quarter.
+The increase in short-term debt came from the issuance of commercial paper to fund share repurchases as well as the reclassification of long-term debt that is due within the next 12 months.
+We ended the quarter with a debt-to-total-capital ratio of 51% and debt-to-EBITDA of approximately 1.1.
+I feel this level of debt still provides us the necessary cost-effective access to fund our capital needs and I expect it to come down over the balance of the year as a larger portion of our cash flow traditionally results later in the year and we pay down a portion of that short-term debt.
+Slide 8 provides an update of our total R&amp;D investment through the second quarter of the year.
+Total spend remained consistent at 21.2% of sales.
+Customer and company-funded R&amp;D expense declined as we completed certain development programs.
+Meanwhile we increased our investment in preproduction engineering programs predominantly in the Commercial Systems business including the Boeing 737 MAX Bombardier CSeries and Airbus A350.
+The updated status of our share repurchase program as of the end of the second quarter is detailed on Slide 9.
+During the second quarter we repurchased 1.4 million shares at an average cost of $59.72 per share and we have reduced the outstanding share count by 7% compared to the same period last year.
+This brings our total repurchase activity since 2002 to about 84 million shares or $4.1 billion return to shareholders through maintaining an active share repurchase program.
+During the quarter we announced an increase in our share repurchase authority of $500 million.
+And as of the end of the quarter we have $564 million of total authorization remaining.
+We expect this authorization to fund our repurchases for the rest of 2013 and into 2014.
+Now under our final slide Slide 10 where we provided details of our fiscal year 2013 financial guidance.
+As Clay outlined before we are holding our total sales guidance at $4.6 billion to $4.7 billion for the year but we now expect Commercial Systems to be up 6% and Government Systems to be down 9%.
+Additionally we now expect total research and development investment to be at $950 million with most of the improvement coming in lower preproduction investments.
+At the beginning of the year we've made certain assumptions regarding the successful capture and the approximate schedule of certain preproduction engineering programs.
+As we have now updated and aligned our investment schedule for these programs we feel that the spend profile will increase at a slower pace and therefore have moved a portion of the capitalized cost forecast out of our fiscal year.
+That guidance now reflects an expected increase in preproduction R&amp;D for 2013 of about $170 million.
+All other aspects of our financial guidance remain unchanged.
+That completes my review of the financial results and projections.
+So Steve back to you to kick off the Q&amp;A session Thank you Patrick.
+[Operator Instructions] Bonnie we're now ready to open the lines.
+[Operator Instructions] Our first question comes from Robert Spingarn of Crédit Suisse.
+Research Division</strong> Just on sequestration and you were one of the only companies to embed this in the guidance but what I wanted to ask you is given that that outlook is a little better or allowing for better Government Systems results and you're offsetting that a little bit on the Commercial side if sequestration comes to fruition it's possible that the full effect of it would be compressed into the back end of the government fiscal year which matches your fiscal year so might you not still see the full $120 million? That is possible.
+We could see that Rob.
+But the reason we -- I only adjusted the Government Systems one point is really because the first half of the year was a little stronger than we would have said.
+Remember when we first gave guidance we thought that the average reduction in Government Systems sales would be about 10% a quarter and obviously we've done better than that in the first 2 quarters.
+The back half of the year was loaded primarily with the sequestration impact that drove that back down as we're seeing lift from international programs and development programs that are actually picking up such as our Surface Solutions I mentioned earlier.
+So the adjustment is just because of the first half results and we still are waiting to see what that back half guidance is.
+So you are correct.
+If we see the full $120 million impact we'll still be on our current guidance.
+If we see less than that that's the improvement I alluded to that we possibly could see.
+Our next question comes from Cai Von Rumohr of Cowen &amp; Company.
+LLC Research Division</strong> Okay.
+So a quick one.
+You've said that R&amp;D is down $50 million but my number's about 3 -- $30 million of that is deferred engineering.
+How much of the rest is company R&amp;D? And are you still looking -- because that was an offset to incentive comp are you still looking for $110 million of incentive comp for the year? What I would say Cai is that about $40 million of the $50 million drop is related to deferred engineering and the rest is a mix of company and customer funded.
+And as for incentive compensation we really haven't changed our targeted payout this quarter because we haven't changed our guidance.
+Our next question comes from Howard Rubel of Jefferies.
+Inc.
+Research Division</strong> But anyhow to talk a little bit more about the R&amp;D programs could you sort of update us a little bit on the progress you've been making whether it's with the MAX or with the 78 and some of the other programs? Well most of them are on pretty much on track.
+Where the 78 is concerned obviously we're pretty much through all the R&amp;D there.
+We're in the production and we only expect just a sustaining level as Boeing looks to add any capability there.
+We're obviously just beginning on the MAX on the other side of that.
+So we're just doing some scope and scaling of that.
+And some of the realignment that Patrick referred to was just -- now that we've gotten them into it and gotten the contract we've paced that with what the contract is saying versus what our expectation was at the beginning of the year when we did not have yet that contract.
+So that is beginning to ramp up and we'll see much more activity over the balance of this year and into next year as we get that going.
+And then everything else is in I'll say a sort of a transitory state of completion.
+Obviously a lot of focus right now is on the A350 as we bring that close to first flight also a focus on the CSeries as we approach the first flight of that aircraft.
+Both of those will happen as you know this summer.
+And so a lot of activity to get the -- to help them get to the finish line there.
+And then I guess the other thing that we're involved in that's a big-time effort around here is the completion of Pro Line Fusion EDS.
+The fusion itself as you know has already been certified and we're working on applications of about 15 platforms there.
+But we are working toward completing the EDS version Embedded Display System version of that which should be certified here within the next year.
+So all those are going well.
+And our folks especially in Commercial Systems where most of this discretionary development is going are doing just a superb job of managing those R&amp;D programs on cost and schedule.
+Our next question comes from Michael Ciarmoli of KeyBanc Capital Markets.
+Research Division</strong> If I can looking at the second half growth forecast for aftermarket MRO Americas Conference was this week.
+It seemed like there was a more -- definitely more cautious tone regarding growth expectations for the back half of the year.
+The influx of surplus parts really creating some complications.
+I mean can you sort of just discuss the puts and takes around your aftermarket growth? I mean right off the bat here it feels like it might be a little bit aggressive.
+Yes Michael.
+I'm actually glad you asked that question because I'd like to put some light on that in light of a lot of those reports I read from the conference last week which I think were all very good.
+First let me remind you maybe every company likes to think I think we're different relative to the aftermarket compared to many other aerospace companies.
+Most of the ones let's say the big engine companies which obviously where the big bucks are and many of you follow make an awful lot of their aftermarket revenue from just MRO.
+And so as brake fix happens and as warranties run out that's the big component of theirs.
+That's only half of our aftermarket.
+The other half of our aftermarket are spares and retrofits and retrofits are the ones that make us unique because as electronic products go we have the opportunity because of the technology movement and the software base of so much of our product to insert these retrofits over the life of our product and usually at a much faster pace.
+So when we break it down into I'll say the 3 segments there of MRO and then the 2 components of the rest of it spares and retrofit here's what we're seeing.
+We are seeing -- we are definitely seeing that cautious tone or that slowdown that you alluded to in MRO.
+And in fact the adjustment we made to Commercial Systems this year is specifically related into that.
+In the first half we just did not see the traffic volume and the amount of returns to our service centers that we would have expected in a market that typically was going to -- expected to grow 5% in traffic.
+And that's -- and the reason we didn't see it is it didn't grow 5% in worldwide traffic.
+It was out about 1 point to 4%.
+Moreover the other impact we saw is that the airlines are being far more efficient and load factors has -- have gone up about 1 to 2 points.
+And that's another higher utilization of the existing airplanes and a lower overall utilization of time on the airplane.
+And so as a result of that we were basically flat in the first half and we're only expecting very low single-digit growth of MRO in the second half.
+So our expectations have been diminished and that's what affected our guidance change.
+Now let's look at the other side.
+In that case we're seeing a lot of benefit in the second half.
+So on the second half as we mentioned you can compute about roughly mid-double-digit growth around 15% growth in the aftermarket all of which is really going to come in spares and retrofits.
+And if you think about that growth rate it's really going to come in 3 sections.
+The first and the largest group or about half of that growth is going to come from retrofits and upgrades.
+And we have a cockpit retrofit that's just about to be certified where we have a host of orders that we're going to satisfy after that.
+We have TV product.
+We have Cabin Venue updates.
+We have heads-up display programs all of which are known and in backlog which is going to be the biggest part of that growth.
+About 1/4 of that growth is going to come from the mandates that we've been talking about mostly in Europe for data link and collision avoidance.
+We've got about 1/3 of that growth already in backlog.
+We do have to go close the balance of those orders.
+But we talked to our customers and we know that they want to pre-prepare their fleets as they go into the 2015 mandate time for that initial order slugs.
+So we have some good visibility there.
+And then the balance the last quarter is really spares flying into a half of better comparability.
+A year ago we had a real front-loaded 787 initial spares and almost nothing in the back end.
+This year we're going to see that back-end comparability give us some tailwind.
+So if you combine those 3 things that's the visibility we have into the aftermarket and that is the summary reason we feel good about that aftermarket growth in the second half.
+Our next question comes from Sam Pearlstein of Wells Fargo.
+LLC Research Division</strong> I guess it's more for Pat.
+But if your deferred engineering was going down by call it $40 million or so why are were aren't we seeing the operating cash flow number bumping up? Well I certainly think there's opportunity to the operating cash flow number.
+And I -- what I would say is we're still halfway into the year.
+We've only generated $180 million to date.
+But if I was to -- to be honest with you I do think there's opportunity to cash flow for the balance of the year.
+And likely we'll update our guidance in the end of the third quarter.
+Our next question comes from David Strauss of UBS.
+Research Division</strong> On the aftermarket Clay specifically 787 have you seen any change in the provisioning patterns you would have expected to see given that the plane's been down here for 4 months? And also can you just explain or flesh out exactly what's going on with 787 relative to your revenue growth you're seeing there as compared to your actual production rate? Because I know your production rate isn't growing but you're obviously still seeing what it looks like to be pretty good revenue growth out of the 87? Sure David.
+First of all relative to your first question we're really seeing no change from the airlines relative to their spares provisioning because they're still anticipating they're going to get a slug of these airplanes hopefully when the -- a certification gets approved that we all hope today but very soon.
+And I think Boeing has been very clear that they've got a plan to get those aircraft modified extremely quickly.
+And when they do they realized -- they the airlines realized they're going to need those spares to operate the aircraft.
+So there's been really no slowdown at all.
+And in fact relative to 787 spares I think as we sit here halfway through the year we have all the orders we expect to get except one chipset.
+So we're pretty much fully booked for the rest of the year there so we feel very confident we're going to get that.
+Relative to what we're seeing our guys are scary good because we're seeing almost an exact 50-50 split between those airlines that are purchasing spares and those airlines that are selecting our Dispatch 100 or what you all mostly call power by the hour.
+And even as we are already having conversations going into 2014 that's kind of how we see it next year as well.
+So I think that's a good model to look at as the 787 begins to ramp up and build out that we're on track for that 50-50 split.
+Relative to your question about the revenue rate we always have to remind ourselves again comparably when we go back to last year remember we were at a higher production rate about 2.5 going to 3 when there was that -- it was last year's glitch and we were actually reduced to 2 per month.
+And so the reason you're seeing a year-over-year improvement in revenue for 787 is because we're comparing last year's 2 per month each quarter to this year's 4 per month even though 4 per month is stagnant.
+So you're seeing not only an improvement year-over-year but a little bit of a sequential move because of that dip down last year.
+We still believe the second half of the year is when we're going to ramp up from our current 4 up to 7.
+We're anticipating that.
+We're in discussions right now with Boeing as we synchronize our -- their inventory to our production rates.
+So I believe we're pretty much on track to be able to see that either this quarter or next.
+Just -- and right now I can't quite call it exactly.
+But I would say that's on track for the second half as we've always said.
+Our next question comes from Joe Nadol of JPMorgan.
+Research Division</strong> Clay I was wondering if we could drill down a little bit into the Avionics piece of Government.
+I hear you on the improvement in the outlook mostly on Surface which really played to last year getting a little better and some things working out there.
+Avionics as I'm sure as I know you expected that the year-on-year comps outlook are getting worse.
+And I just -- I was wondering if you could drill down there and give us a better feel for what's ramping down.
+I know as you've expected but still what's going down and where you are on the pieces that are going to be going up like tanker et cetera? Yes.
+Well you're right.
+It's kind of across-the-board thing Joe.
+I would say the biggest component that is reducing that year-over-year revenue as what we talked about I think for several quarters now and have been very transparent on is this transition of production programs -- I'm sorry of development programs into production and the sort of gap year you always have when you're going through that transition.
+Typically what happens is you spend all your money on R&amp;D and then they test the program for about a year and go through all the bureaucracy in the Pentagon to get it approved to go into production and it's that gap year that creates the downer.
+And we have 2 programs -- we actually have like 4 programs going through that right now.
+But the 2 big drivers are: the E-6 which is by far and away the biggest part of it I think we'd even quantify that as about $50 million of deficit this year; and also the E-2 program where we've got some simulation work that we're doing on it both on the avionics and the maintenance terminal is also going through that.
+Those are by far and away the larger impacts.
+Now there are other impacts too.
+For example CH-47 as we're waiting for multiyear authorization we saw a dip down there because actually we delivered ahead on CH-47 and we had to slow down waiting for that.
+Our JHMCS the Joint Helmet Mounted Cueing Systems that goes into airplanes like Eurofighter are seeing a reduction because Eurofighter is coming down.
+I think we referred to that in there as well.
+The Saudi F-15 program again that's a development program where we have done some predevelopment work for Boeing and now we're seeing that come down a little bit just as we're kind of approaching I'll say the end of that development program and then as we approach production here in a year or so.
+Those I believe are the sort of largest ones that are the downer.
+Now I think those will convert to tailwind beginning next year as we see E-6 E-2 move from this gap year to development as we see the Saudi programs go into production.
+We're still getting good lift from the F-35 and it looks like the numbers of tails there have remained the same in the budget.
+So we'll still get some helmet systems there.
+So we do have some opportunities going forward but we do have -- the biggest issue is getting through this gap year.
+Our next question comes from Carter Leake of BB&amp;T Capital Markets.
+Research Division</strong> Clay I was wondering if you could help us out on the European mandates TCAS 7.2 and data link how we should look at that on a longer-term growth perspective.
+Is it going to be lumpy? Will it be smooth? Will most of it be sort of in 15-and-out years? Any color would be helpful.
+Yes.
+Well first thing there will be some lumpiness to it because retrofit programs are always lumpy and it kind of depends on which airlines choose to do which mod in which quarter.
+Also there's a business aviation component to that.
+It's a smaller component but it's a component nevertheless.
+What I would say as we build toward 2015 you'll see the volume ramp up almost deniably.
+As much as we'd like to get some of these folks thinking ahead of the game which is what the lift we expect in the half of this year let's face it most people wait to study for the test the night before.
+And I think you're still going to see an accelerating impact of this as we go into '14.
+And then probably '15 there'll be a flurry of activity as we go toward that mandated date.
+Now the couple of things we're watching for that also could diminish the opportunity and these things are typically legendary as an example some aircraft will get waivers to the modification because they can choose not to do this in certain instance where they're willing to pay the performance penalty.
+So for example some older business jets where it doesn't make any sense to spend the money to do this because their service life is not very long we'll typically go in for a waiver and they'll be granted to not have to do it because it's not going to be around that long.
+The other thing that'll happen -- that could happen is that this relies on the ground equipment to be in place to utilize these onboard units.
+And if EUROCONTROL doesn't get all of that done in Europe in time they typically will slip the implementation.
+And then as we go between now and '15 they'll say "Well we're just kidding about '15.
+It's really '16 or '17." And in that case it could stretch us out a little bit.
+So those are the dynamics that we're looking at.
+But in general we expect this to be again a nice complement to our aftermarket revenue for the next 2 or 3 years.
+Our next question comes from Jason Gursky of Citi Investment Research.
+Stephen [ph] for Jason.
+Just a question on your biz jet OE and specifically on light biz jets.
+I know you would talk about being conservative on that not expecting much improvement at all this year really stagnation.
+But what are your -- what's your commentary on Textron's -- on Textron cutting production rates this year on these lights? And how does that build into your expectations for this year and going forward? Well obviously we were disappointed in that announcement but we're not surprised by it.
+We obviously build ahead to Cessna and we had seen the volumes declining even before the announcement yesterday because of that component of the supply chain that we're doing.
+And in fact even though directionally all the business jets are on -- directionally on track to what we would project at the beginning of the year I'd say there is some tweaking.
+What we have seen is that we've seen even more weakness than we expected at the light end.
+I think that's what you saw -- heard yesterday from Textron.
+But we -- that has been made up for by even better strength at the high end.
+With the highs and the mids we're seeing surprising strength at the mid level especially with the CL300 at Bombardier and then the Globals have been selling very well.
+And so if you think about it our strategy some years ago to more -- be more diversified across the business jets and to capture the Global and put more work into some of the mids like the 605 and the 300 are serving us extremely well right now.
+And that's really compensating for this weakness at the low end.
+We're obviously watching to see what Cessna is going to do now as they align their production rates to the rest of the year.
+But what I can tell you -- I mean let's take an absolute worst-case scenario which by the way we don't think is going to happen.
+And that is if Cessna were to shut down their entire production line for the balance of the year that would impact us at only about 1 point of growth in Commercial Systems or about 0.5 point of corporate growth.
+Again let me reiterate I don't expect them to do that but that gives you a sense of the relative impact to our total business.
+We're well diversified in that area and more importantly we're well positioned in the areas of growth.
+Our next question comes from Carter Copeland of Barclays.
+Research Division</strong> Congratulations Clay on the transition.
+I wanted to ask specifically about that.
+So Kelly was named President late last year.
+The transition will be a little bit less than a year.
+And I know these things have sort of uncertain timelines and there's a lot that goes into the evaluation of when it's time or when the right time to make the handoff is.
+And I wondered if you might speak to how that evaluation went and how you feel the company is positioned given not only the challenges you've come through over the past couple of years but some of the end-market uncertainties you face and how ultimately you came to the decision that now was the right time? Well Carter thanks for asking the question.
+Again everybody wants to know about palace intrigue and how all these things happen.
+And now that we know what's going to happen I can be a little bit more transparent on that.
+Well first I would say that in terms of the process this has been an extraordinarily well-laid out well-orchestrated diligent process that I began with my board over 2 years ago.
+I knew that it was going to be the time.
+In my view a current CEO and our Board of Directors there's no more important job than they have that is to ensure seamless leadership transitions especially at the top and so we took that very seriously.
+I think the process that we went through I want to give very high compliments to my board for the advice the counsel and the collaboration that they did with me to go through this process.
+I would also say we're very fortunate in this company to have a number of candidates that we considered that were experienced well prepared and could have fit into this role.
+I think we're very fortunate that Kelly Ortberg as the guy that's going to do it.
+He's run Commercial businesses he's run Government business he won big programs.
+He's been through some really tough market conditions and he's performed exemplary through that whole thing.
+Our customers know him and he knows our customers.
+He's been part of the system.
+I expect a seamless transition.
+And if there's any reason why and there's no rule book for how long this should last the reason we picked this time in July is because Kelly is so darn ready.
+He's ready to go and I'm ready to get out of the way and let him do that but also I would say because of my confidence in the position of this company and the way ahead.
+You obviously never want to leave a job until you feel the task is fairly well in hand and not only is your successor ready but the company is in really good shape.
+And I think both conditions are in play here.
+I think the work we've done through these very tough market environments the amount of market share we've won and the business I see ahead of us are going to set this company up for years and years of success and prosperity regardless to what the market conditions are.
+And I think Kelly and the team around him here at Rockwell Collins is very well prepared to mine those opportunities and to provide the share owner returns that all of you expect over time.
+I'm very confident of that.
+And this allows Kelly to really move into 2014 with the annual operating plan and the guidance in hand that that will be his own.
+So I feel really really good if not a little bittersweet I would tell you about stepping aside now but I believe it's time.
+Our next question comes from George Shapiro of Shapiro Research.
+My question is in the aftermarket for business jets you're actually up 8% year-over-year after being down in the first quarter and up sequentially like 11%.
+Now is there anything more to read into that about your prior comments or it just reflects the strengthening in large end and the mid end and the low end doesn't matter as much to you? I think if you look at just that Q1 Q2 we had a little spares headwind in Q1 and then got a lot of retrofit growth that kicked in in Q2.
+Remember it's always a little lumpy as I mentioned.
+But there's another dynamic that I think I would point to that again gives us confidence for some of the strength in the aftermarket.
+And that is typically in periods where we don't see a real rebound or robust OEM recovery we do usually see good aftermarket and retrofit uptick.
+And it's a little bit like your house again.
+If you're not going to sell your house and move into that new house you're going to maintain and upgrade and keep your current house as comfortable as you can.
+And the same thing goes for these older aircraft that are not being replaced driving the upturn in the OE rate.
+We're seeing them come in and use some of these efficiency improvements and safety improvements that we're now offering.
+And fortunately we have a number of those that we've transitioned from our OE development programs that we've used to win share into a retrofit program now that can be used to improve the maintenance lower the cost of operation of the existing business jets.
+So there's a macro dynamic help in this too.
+Our next question comes from Yair Reiner of Oppenheimer.
+Research Division</strong> Actually I have a quick follow-up on the preproduction engineering investment.
+Is the reduction there tied to one specific program or is it several programs? And then is this a shift of spending for next year? And if so how should we see preproduction spending the balance going up or moving next year? Yes.
+Well I would say it is several programs probably most notably the 737 MAX.
+And we had just projected a slightly earlier start than we experienced.
+And yes I think it is -- you can characterize it as a shift of spending from this year into next year.
+And so what I've been saying is that our peak year of addition to the deferred engineering balance was going to be this year.
+I still think that's true but I think it's going to be -- I think FY '13 or '14 it'd be much closer to flat than I would've previously indicated.
+Our next question comes from Noah Poponak of Goldman Sachs.
+Research Division</strong> I wanted to ask with regard to the government segment and sort of the timing of sequestration.
+Does the timing of the delay between authority and outlays make sequestration have more of a calendar '14 than calendar '13 impact on the industry in general? And then given your fiscal year end is September does sequestration have a greater impact on your '14 than what we're seeing in '13? How do you think about that? Well first thing Noah I would say that we're all waiting to answer that question.
+We're a bit as curious as you are because it is -- that's part of the residual uncertainty that we're all not aware of.
+Here we are sitting pretty close to the end of April sequestration has been known in effect here for over a month.
+And while we're beginning to see some early indications of reductions that are coming through those areas I talked about service and support we're seeing some of those contracts be either diminished or reduced.
+We're seeing some -- fewer flight hours affect some of our PBL contracts.
+We're seeing delays in some time and material repairs we would've done.
+We think some obligation of funds for certain new programs are being delayed.
+So we're beginning to see it now but it's hard to say what the full manifestation of it is because we don't have the master playbook that DoD is going by.
+So I would say that's why we're being a bit cautious about the balance of this year and I think it would be premature until we see that right now to really see what the effect is going to be next year.
+But again I think if there's anything we can say that we feel good about in the midst of all that uncertainty is I still feel very confident we've accommodated it in these numbers.
+So of all the things you all have to worry about I hope you're not worried about Rockwell Collins getting worse because of sequestration.
+My guess is that's on your mind in a few other places but hopefully not here.
+But we'll -- it's not a satisfying answer to you Noah but I don't have a good answer to exactly how it's going to play out.
+Our next question comes from Ken Herbert of Imperial Capital.
+LLC Research Division</strong> I just wanted to Clay dig a little deeper into the Commercial aftermarket on the MRO side in particular.
+Can you talk geographically if you're seeing surprisingly any areas of weakness or strength in the quarter relative to what you were expecting? And as you look out for the remainder of this year it sounds like you're talking about a sort of a relatively flat market there.
+Do you see any risk to that? I mean any continuation maybe of some of the headwinds we've seen in the second quarter here perhaps continuing through the rest of the year? I think geographically the -- probably the biggest areas where we see that impact is North America and Europe which is not surprisingly.
+In Europe because of economic conditions; in North America because of the efficiency by which the airlines are operating.
+I saw a quick flash of the load factors of the U.S.
+airlines just in March and I think the average is something like 83% 84%.
+I mean these are unprecedented levels of efficient management of how they operate the airplanes.
+So I think that those are the areas we're seeing it relative to the risk factor.
+I really don't see a lot -- just given the trends we've seen so far.
+We think we've got it pretty much determined.
+In fact if there's anything I think there's more opportunity than risk because I -- but as I think everyone is already sort of factoring down and tightening up for their I'd say anxiety about the direction of the economy.
+And so having pre-prepared for a sort of soft economy I think that's why they are where they are.
+And we've been sort of taken the optimism out of what we would have thought 6 months ago and we put that now into our plan.
+If anything if we see a little bit better traffic growth we see a little bit better economic improvement then we actually could see opportunity.
+Our next question comes from Josh Sullivan of Sterne Agee &amp; Leach.
+Research Division</strong> This is Josh for Peter.
+Your outlook for the Government business flattens out or begins to flatten out by 2015.
+How does that look if you break it into domestic versus international? And assuming there's an offset here what are you assuming for growth in the out-years for the international military? And does the domestic budget mirror what's going on? Well we've said Josh quite sometime ago that we're expecting higher growth in our international markets across-the-board and we've talked about specific programs that we've won and more that we're pursuing to do that.
+In general what we've said over the 5-year period is the international component of the defense is going to grow about 6% and obviously it's very much higher than we're growing currently.
+In fact I'd say we're at that rate right now.
+We'll see our international business component Government Systems pick up about 6% this year and we think we can continue that with the programs we've got locked in.
+I think the return to growth that we're -- return to stability that we're talking about in 2015 occurs as a result of the stabilization of the largest defense market we serve which is the United States.
+And interestingly enough I think sequestration actually gives me more confidence we'll get to that point because it drives the reset to the lower budget levels which we think will occur this year and next.
+It just depend on those obligations that Noah asked earlier and how they flop whether they're taken into this year and flat next year or whether they go down a little bit next year which is I think what most of us are assuming it's going to happen.
+So for budgetary concerns next year could be the low watermark.
+And then after that the savings from defense are reset and then the area under the curve is established.
+And actually we'll -- we believe we'll see no further declines and maybe even growth via inflation if the curve works like it's supposed to.
+I've said also that I think as a result of sequestration maybe I am being overly optimistic but I believe defense should be bulletproof now because of the roughly $2.3 trillion of savings that we've realized out of the budget action of sequestration.
+$1 trillion of that is coming from defense.
+So I think it's high time that we look at the real problems we have in the federal government which is the entitlement spending and start addressing that because I think defense gave at the office.
+And so if that plays out that way that gives me confidence we'll be back to that flat by 2015.
+Our next question comes from Robert Stallard of Royal Bank of Canada.
+LLC Research Division</strong> I thought I'd follow up on the same theme actually Clay.
+If we do see some stability in the defense budget over the next couple of years is it your expectation we'll see some consolidation in the defense industry? I think in times of lower budgets especially kind of long-term lower budgets like this you will always see some consolidation Rob.
+The difference in this versus the period we went through in the early 90s is in the Cold War as you'll see far less consolidation at the major prime level.
+The Defense Department has made it abundantly clear they believe that to have any kind of competition they think they've got this sort of big 5 and the rough order prime capabilities where they need it.
+And at least currently they're not very keen on either approving or even considering consolidation at level.
+So what you're probably going to see is more at the second and third tier level.
+And you may see that out of necessity because there are going to be some of these smaller companies that are probably either going to exit the business or go out of business because there's not enough there to sustain them.
+And so I think that's more likely where you're going to see it.
+LLC Research Division</strong> But do you see Rockwell Collins as potentially acquiring or disposing in this situation? I think that there's a time where we'll do both.
+I think there are going to be a large amount of sort of rationalization of portfolios in this sort of austere period.
+And a number of companies are probably looking hard at pieces of their business that were enjoying nice P/E multiples 2 3 years ago that are not doing so well.
+And so I'd -- I have said that there's -- we're looking at taking a hard look at all of our portfolios to see if they really do fit in the Rockwell Collins 5 years from now.
+And if we find that they're not then we can see ourselves exiting a couple of businesses.
+But likewise I think there will be other companies that see that maybe that they're not getting full value and they maybe a better fit for Rockwell Collins.
+What we've got to do is get to a period of stability in the industry where everybody at least knows what the future is going to be so they can rationally put together a business plan.
+And one of the reasons you've seen so little M&amp;A in this sector over the last couple of years is because you can't do that.
+I think that they could be coming sooner now that we hopefully have a little bit more visibility into the future.
+Our next question comes from Cai Von Rumohr of Cowen &amp; Company.
+LLC Research Division</strong> A follow-up.
+You mentioned the strength in '15 to '17.
+And you mentioned by '15 the defense business could be flattish kind of implying further decline probably at a lower rate next year.
+And you've also seen 3 important programs the CSeries the Lear 85 and the Legacy have a 6 months slip so they'll still be there but they'll be there later.
+And you're facing a higher tax rate next year.
+Can you give us some notional sense as we look at next year? Is that another transitional year before we start to grow again at a nice clip in '15? Well Cai obviously we don't want to give too much granular guidance till we get to the point where we do.
+But I think if you look at a macro level a lot of what you've laid out there is a reasonable scenario.
+First of all we do think that -- we haven't called us being back to flat by '14 in defense so you can assume there still could be some decline especially as the residual impact of sequestration is what Noah mentioned before falls over into '14 if we're not sure about.
+So I think that's not an unreasonable scenario.
+And while I think our Commercial business will still be good next year as we've always said we're largely dependent on our customers and our OEMs finishing those development programs on time and getting them the market when we'd hope they would for us to realize that benefit.
+We have no control over that so long as obviously our development is going according to plan and we project and expect it to.
+And so we'll be watching very closely those schedules for things like the CSeries and the A350 both of which are flying here this year.
+And hopefully we'll go and develop next year but we're not sure when they will.
+I think we'll have a better look at that later in the year.
+And so that could be the one anomaly that we have to watch that could potentially erode some of the opportunity we thought we would have had next year.
+I would also say very quickly though that opportunity is not going to go away just as we will enjoy over the next 2 years finally the benefit of the 787 ramp-up.
+Those things are going to happen.
+It's just a matter of when.
+And so we'll be looking very closely at that over the next few years.
+And I know Kelly in his new role will work his magic to make sure that when we come out in September you'll know exactly what we think is going to happen.
+This concludes the question-and-answer session.
+I'd now like to turn the call back over to Steve Buesing for any closing remarks.
+Thank you Bonnie.
+We plan to file our Form 10-Q later today so please see that document for additional notes and disclosures.
+I want to thank you all for joining us and participating on today's conference call.
+Thank you.
+This concludes today's conference call.
+You may now disconnect.

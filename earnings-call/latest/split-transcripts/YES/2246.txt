@@ -1,0 +1,375 @@
+Ladies and gentlemen thank you for standing by and welcome to the Level 3 First Quarter 2014 Earnings Conference Call.
+[Operator Instructions] As a reminder this conference is being recorded Wednesday April 30 2014.
+I would now like to turn the conference over to Ms.
+Valerie Finberg Vice President of Investor Relations.
+Please go ahead.
+Thank you Frank.
+Good morning everyone and thank you for joining us for the Level 3 Communications first quarter 2014 earnings call.
+With us on the call today are Jeff Storey President and Chief Executive Officer; and Sunit Patel Executive Vice President and Chief Financial Officer.
+Our earnings materials that accompany this call can be found in the Investor Relations section of the Level 3 website at www.level3.com.
+Growth rates disclosed in our presentation and remarks are on a year-over-year basis unless otherwise noted.
+Also revenue comparisons to prior period are provided on a constant currency basis unless otherwise noted.
+Our Safe Harbor statement can be found on Page 2 of our 1Q '14 earnings presentation.
+This presentation and remarks contain forward-looking statements that are subject to risks and uncertainties.
+Results may vary significantly from those statements.
+A discussion of factors that may affect future results can be found in Level 3's filings with the Securities and Exchange Commission.
+We will also be referring to certain non-GAAP financial measures.
+Reconciliations of these non-GAAP financial -- measures to the most comparable GAAP measures are available in the earnings presentation as well as on our website.
+With that I'll turn the call over to Jeff.
+Thanks Valerie.
+Good morning everyone and thank you for joining us.
+We're off to a good start this year delivering another quarter of growth.
+Historically our revenues declined in the first quarter because of end-of-year re-rates and seasonality.
+We saw those factors this year as well but we're able to offset the declines with continued growth from our enterprise customers particularly in North America.
+Across the company we remain focused on developing and delivering the right products and services to meet enterprise customers' needs enhancing our operational efficiency and continually improving the customer experience all as a part of our objective to drive profitable growth.
+The enterprise business continues to be the growth engine for the company.
+We believe we have an opportunity to position Level 3 as the clear choice versus our competitors by providing an easy migration path for enterprises to achieve the savings of technology transitions such as cloud and Voice over IP.
+In a reliable secure and efficient way we enable enterprises to improve their capabilities reduce their costs and migrate to more scalable technologies.
+This approach is clearly resonating with customers and I'm pleased with the progress we're making.
+As I've said many times before our ability to grow is based upon our continued execution and we remain disciplined and focused.
+Sunit will provide the details but as noted in our press release given our performance in the first quarter and the strong momentum we're seeing we are raising our outlook for adjusted EBITDA growth and free cash flow for the full year.
+For the call today we will follow the usual process.
+Sunit will provide remarks on our financial results for the quarter.
+After that I'll talk for a few minutes about our products and what we're seeing in the marketplace and then we will open it up for questions.
+With that I'll turn the call over to Sunit.
+Thank you Jeff and good morning everyone.
+We had a strong start to this year.
+We saw ninth consecutive quarter of growth in enterprise Core Network Services revenue which grew 11% compared to the year-ago quarter.
+Overall CNS revenue grew 6.6% while total revenue grew 2.4%.
+Given the strong revenue growth and continued performance in managing expenses adjusted EBITDA grew to $458 million in the first quarter.
+The results provide a good foundation for the remainder of the year and we are raising our outlook for adjusted EBITDA and free cash flow for the full year 2014.
+Turning to revenue on Slide 4 CNS revenue grew 6.6% to $1.457 billion.
+While we often see a little softness in our first quarter sequential revenue growth this quarter was an exception.
+We saw strength in usage across a number of our products and also benefited from earlier-than-anticipated revenue recognition from a U.S.
+government contract.
+I'll talk more about the specifics in a moment.
+Enterprise CNS revenue grew 11% in the first quarter as we continue to see strong demand for our full portfolio of services.
+Wholesale CNS revenue declined 1.4% in the quarter.
+As we've indicated previously we generally expect slight declines in wholesale CNS revenue given continued industry consolidation.
+Our enterprise revenue is now 66% of our CNS revenue.
+On a regional basis North America saw strong performance as CNS revenues grew 7.8% and enterprise CNS revenue grew 14% for the first quarter of 2014 compared to the first quarter of 2013.
+Enterprise CNS revenue benefited from turning up services earlier than anticipated on certain contracts including services for a U.S.
+government contract.
+We said before that revenue from the government channel is lumpy which helped our results this quarter.
+We also saw strong performance in usage revenue across a number of our products.
+The nonrecurring portion of these items sum up to roughly high single-digit millions of dollars.
+EMEA CNS revenue declined 2.8% while EMEA enterprise CNS revenue declined 0.8%.
+As a reminder EMEA enterprise results now include U.K.
+government revenue.
+Excluding the U.K.
+government revenue enterprise CNS revenues grew 10%.
+Generally we believe that overall CNS revenue in EMEA is stabilizing on a sequential basis.
+Let me give you a quick summary from the last 3 months leading the EMEA region.
+From a profitability perspective we're on a firm pathway for improved EBITDA performance every quarter through the end of the year.
+That is primarily being driven by network optimization and non-headcount expense reductions.
+We've taken several actions on accelerating key product initiatives improving the customer experience and operational performance.
+We will also focus on improving our engagement with key customers and prospects.
+From a revenue perspective these actions should drive CNS revenue growth late this year.
+Revenue now in Latin America region continues to grow nicely.
+CNS revenue grew 12% while enterprise CNS in the region grew 13%.
+We continue to pay close attention to the economic situation in several countries in the region but for now we see continued demand for bandwidth in the region.
+Wholesale Voice Services in other or WVS revenue declined $252 million in the first quarter of 2014 compared to $205 million in the first quarter of 2013.
+As we have indicated we expect double-digit declines in WVS revenue for the full year 2014 compared to 2013 as we manage the business for margin contribution.
+Turning to revenue results by product group.
+On an as-reported basis the strongest growth came from IP and data services which grew 11% year-over-year led by growth in VPN high-speed IP CDN and managed services.
+CDN revenue grew 14% year-over-year and we expect strong growth in the coming quarters.
+As we continue to be more disciplined with pricing and customers we target we saw our high-speed IP revenues grow 7.8% this quarter.
+At the bottom of Slide 4 for the first quarter 2014 CNS revenue churn was approximately 1.5% and better than the 1.6% in the first quarter 2013.
+Typically we see higher churn at the beginning of the year as companies focus on managing their network expenses to get the benefit of a full year run rate.
+Turning to Slide 5 our gross margin expanded to 61.8% compared to 60.1% in the first quarter 2013.
+The improvement in gross margin was driven by the mix shift from higher -- with higher CNS revenue growth and WVS revenue declines as well as our continued initiatives around network cost optimization.
+Turning to SG&amp;A on Slide 5 excluding noncash compensation expense and noncash impairment costs SG&amp;A expenses declined $40 million to $537 million for the first quarter 2014 from $577 million for the first quarter 2013.
+3/4 of this improvement is from reductions in headcount-related expenses and the rest was from improvement in non-headcount-related expenses driven by reductions in spend with vendors and real estate leases.
+On Slide 6 adjusted EBITDA was $458 million in the first quarter 2014.
+This compared to adjusted EBITDA on a pro forma basis of $371 million in the first quarter 2013.
+This growth in adjusted EBITDA was a result of several factors including high-margin CNS revenue growth including the items that are onetime in nature that I mentioned the benefit of the 2013 headcount reductions and ongoing cost reduction initiatives.
+Adjusted EBITDA margin improved to 28.5% compared to 23.5% on a pro forma basis for the first quarter 2013.
+Capital expenditures were $163 million in the first quarter of 2014 compared to $169 million in the first quarter 2013.
+We continue to see steady improvement in free cash flow.
+As you can see on Slide 7 on a rolling 4-quarter basis we now transitioned from negative free cash flow to firmly positive.
+Free cash flow for the rolling 4 quarters ended March 31 2014 was $93 million.
+Turning to Slide 8 as a result of growth in adjusted EBITDA we exited the quarter with our net debt to adjusted EBITDA ratio at 4.6x.
+This compares to 4.8x at the end of last quarter and 5.3x at the end of the first quarter of 2013.
+We remain focused on getting to the lower end of our target leverage range of 3 to 5x and we will continue to be opportunistic in managing our balance sheet.
+Moving on to our outlook on Slide 9.
+With the performance in CNS revenue and adjusted EBITDA this quarter we are updating our full year 2014 outlook.
+We now expect adjusted EBITDA to grow 14% to 18% for the full year 2014 compared to our prior guidance of 11% to 14%.
+In addition we expect to generate free cash flow of $250 million to $300 million for the full year 2014 up from our prior guidance of $225 million to $275 million.
+All of our other guidance measures which are listed here are unchanged from last quarter.
+As I mentioned we are watching the situation in Latin America very closely particularly in Venezuela.
+We're still using the official exchange rate which is at VEF 6.3 to the U.S.
+dollar.
+The Venezuelan government has also published an alternative rate called Sicad 1 rate which was at VEF 10.7 per U.S.
+dollar as of March 31 2014 and 41% lower than the official rate.
+While we cannot predict future exchange rate changes given our $68 million cash balance denominated in bolivars a 41% devaluation would indicate a charge of roughly $30 million or $0.13 per share.
+We will continue to evaluate the situation and we'll try to make a determination before we report second quarter earnings.
+As a reminder our revenue in bolivar-denominated revenue is less than 1% of CNS revenue -- of total revenues and whatever change in currency is factored into our guidance.
+Looking at the rest of the year as I mentioned earlier while we expected revenue to be flat as is typical for the first quarter we did better than expected including turning up service on a couple of contracts earlier than expected and stronger-than-usual usage revenue.
+From a cost perspective we do have some cost increases in the coming quarters.
+In the second quarter we'll see company-wide merit increases of approximately $6 million kick in.
+We did not have merit increases last year.
+In the third quarter we'll see a typical increase in utility cost as a result of the summer cooling requirements generally increasing the high single-digit millions of dollars.
+While we continue to be disciplined in managing costs we are also investing in initiatives to improve our operational efficiency as well as in key products and services to drive future revenue growth.
+In summary we continue to focus our attention to profitable growth driving adjusted EBITDA and generating free cash flow.
+With our first quarter results we've had a good start to 2014.
+With that I'll turn the call over to Jeff.
+Thank you Sunit.
+This quarter we continued to show good momentum capturing market share within the enterprise channel while maintaining focus in serving the wholesale channel.
+On the wholesale side we've seen the ongoing effects of network grooming and certainly expect to see some pressure as a result of industry consolidation but we're continuing to leverage our leadership position in that market.
+On the enterprise side we believe we can continue to increase market share globally.
+Even with the growth we've seen in the enterprise business we still only have low single-digit market share of the addressable market for our products and services.
+Despite economic challenges that exist in any region at any given time enterprises need to invest to move to newer more scalable technologies with greater capabilities and lower overall cost structures.
+That dynamic creates an opportunity for Level 3 and we are focused on taking advantage of those opportunities.
+Given our full portfolio of IP optical services along with our ongoing focus on the customer experience we are already well positioned for growth.
+At the same time as we look to 2015 and beyond we continue investing to improve our growth trajectory and profitability.
+Enhancing our product portfolio is central to our growth.
+We believe we can drive profitability by adding adjacent high-growth products to our existing portfolio.
+A great example is the continued expansion of the Level 3 Cloud Connect Solutions ecosystem.
+We've discussed in the past our extensive infrastructure supporting and interconnecting with Amazon Web Services.
+Earlier in the quarter we announced a strategic relationship with Microsoft to deliver private direct connect -- direct connections to Microsoft Windows Azure.
+Yesterday we announced that we will connect Digital Realty Trust customers in 14 major markets in the U.S.
+and Europe.
+As a result of the relationship with DRT leveraging Level 3's virtual private network services Digital Realty customers can dynamically scale their bandwidth and only pay for what they can consume as they access services from the members of our Cloud Connect ecosystem.
+More generally as a result of these types of relationships we make it easier for enterprises to migrate and operate business-critical applications in either a public cloud environment a private cloud environment or in a hybrid public-private cloud.
+Our philosophy of tailoring our solutions to meet the variety of challenges enterprises face is key to our strategy.
+The flexibility to provide that array of solutions comes from owning and operating a global IT optical network that is the base delivery system for those services.
+During the quarter we also announced the introduction of our Video Cloud offer.
+Aimed at content companies and broadcasters this solution combines our content delivery our video broadcasting our cloud storage capabilities to creating more scalable secure and streamlined approach to global content distribution.
+Cloud is certainly not the only product area in which we're investing.
+One of our fastest growing products is IP VPN.
+As network connectivity is the foundation of a customers' telecommunications need we've seen success using IP VPN as a wedge service getting our foot in the door often on a global basis.
+Once we've demonstrated our capabilities with that connectivity we have the opportunity to upsell and cross-sell other services like Unified Threat Management to help customers deal with security threats Voice Complete professional services and more.
+We believe we have great cross synergies with the products and services that comprise our portfolio.
+As an example Pall Corporation is a leading supplier of filtration separation and purification technologies.
+They serve customers through 2 business units globally life sciences and industrial.
+Their products are used to remove contaminants from a variety of liquids and gases.
+They had a more than 60-year history commercializing innovative products and continuing to develop new materials and technologies for their customers.
+Pall had a goal to replace their current global WAN infrastructure with a new solution to meet today's needs while providing scalability for long-term growth.
+They have several design and financial requirements for the reengineered network plan and Level 3 is delivering on all of those requirements.
+Pall is deploying Level 3 Cloud Connect Solutions directly into our technology partner AWS with MPLS connections in Ashburn Virginia and Dublin Ireland.
+Pall awarded us this project because of our solution design our accounting support and our diligence in helping them proactively address their multiple and complex business challenges.
+These types of solutions make a difference for our customers.
+As a result we saw growth in enterprise CNS sales this quarter in all regions with March being one of the best sales months in recent history.
+At the same time we still need to do more to simplify the operating environment.
+We have a number of initiatives underway to improve our operating platforms and our interactions with customers.
+We are focused on ensuring consistency across all regions implementing global standards while enabling the unique characteristics of each region to satisfy their local customers.
+With 10 000 employees doing business in more than 60 countries it's a large initiative for us and we're working diligently to implement everything from global operating policies to new systems to equipment stocking processes.
+We also continue to expand our network footprint.
+We announced the construction of a new subsea cable landing in Colombia to enable us to meet growing demand.
+Also adding customers' locations directly to our network remains a key part of our strategy as we believe that directly connecting customers to the Level 3 network allows us to deliver a better experience drive profitability and easily add new solutions to their existing services.
+With that we will open it up for questions.
+Operator would you explain the process? [Operator Instructions] Our first question comes from the line of Colby Synesael with Cowen and Company.
+LLC Research Division</strong> I have 2 questions for you guys.
+So the first one has to do with the revenue guidance.
+You raised -- you took the opportunity to raise your EBITDA and your free cash flow.
+You left the revenue which is greater than 2.9% where it was but obviously just had a very strong first quarter.
+Just trying to get some understanding as to why you may be doing that.
+And then the second question I was wondering if you could just talk about what's happening as it relates to your interconnection business or IP transit business.
+As you think about the deal Netflix signed with Comcast and I guess more recently with Verizon just trying to understand with some of the changes happening in that part of the industry how you think that that could impact you? And I realize you guys have always argued that you care less about what service the provider -- the customer buys from you whether it's dark fiber lit services et cetera you'll effectively just want to be able to help them.
+But explicitly as it relates to your IP transit business what are you expecting to potentially happen there? I'll get the questions on revenue and Jeff can talk about interconnection.
+So with revenue I think that we're really more focused on EBITDA growth and free cash flow.
+Obviously we had a strong start to the revenue growth.
+I think that our performance continues to improve from a revenue growth perspective.
+We've been focused on that for a while.
+I will just see our trend line performance and go from there on revenue.
+And we talked about what some of the onetime items during the quarter.
+So that's all we have to say on revenue guidance.
+We haven't provided specific revenue guidance for quite some time now.
+So I mean our overall message was revenue growth this year is going to be better than last.
+LLC Research Division</strong> Your point being is that -- your point being on that then is don't get too married to the 2.9%.
+It's obviously a very -- it's effectively anything above that.
+And certainly with the trends that we saw in the first quarter it could be above that? Yes of course.
+Yes I mean I think you just look at the trend line performance and we'll call out onetime items as we see them in future periods.
+But that's I think the best indication.
+The high-speed IP before Jeff gets into Netflix in particular as we said we've been saying now for a few quarters we continue to be pretty disciplined in pricing and continue -- and target the right kind of customers that those results the efforts of that are paying off.
+And as we reported our IP revenues grew nicely 8-plus percent year-over-year.
+Colby as you alluded in your question with respect to Netflix specifically our customers we see a natural evolution of many of our customers.
+They start out buying IP transit from us.
+And when they get to a certain size they decide they need to buy content distribution services from us content networking.
+And then at some point maybe they go to waves or private lines or other types of services from us.
+And we see that with Netflix.
+With respect to them as a particular customer they're an important customer of ours.
+They've helped us build our CDN capabilities globally.
+They're less -- they're not even in our top 30 customers so the revenue impact is relatively small.
+But we also see lots of opportunities to sell them the new services that you alluded to in higher-speed and higher capacity services.
+With respect to just broader interconnection and how we will use the infrastructure that we have we have a number of customers who continue to use our IP services and the capabilities that we've built.
+There's a new Netflix coming along.
+I don't know what the next one will be but there are other companies out there trying to grow and trying to have the success that they've had.
+We will continue to serve those customers use our infrastructure.
+And we -- it's just part of the natural evolution of our business.
+LLC Research Division</strong> So effectively even if customers like a Netflix start to connect directly with the last-mile ISPs your argument would be that there's a whole host of companies right behind them coming up that will continue to provide a growth opportunity for that specific segment of your business? Absolutely.
+And if you look at Netflix I think they're a uniquely positioned company.
+There aren't very many companies of that size that have the clout to negotiate with the big ISPs.
+And we serve the entire industry.
+Our next question comes from the line of Simon Flannery with Morgan Stanley.
+Research Division</strong> Sunit you talked a little bit about strong usage trends.
+Can you provide us a little bit more color about what's going on there and sustainability and sort of go back to 30 000 looking and what the exposure of your revenue stream is to usage versus sort of fixed price monthly contracts? And then just coming back to the revenues.
+As we think about Q2 revenues versus Q1 are we still going to see that sort of 1% sequential growth or is there going to be a little bit of a headwind from the onetime this quarter? Thanks Simon.
+So on the usage I think we first saw that in the fourth quarter that has continued in the first quarter.
+Where is it coming from? So CDN high-speed IP enterprise CNS voice to some extent.
+These are the main usage services we have.
+The call operation is another one conferencing or collaboration as we call it.
+So we saw it across the board.
+Now one of the items that's worth mentioning we talk about how we cross-sell our services.
+Usually when -- as you know the biggest growth driver for us has been our IP VPN business.
+Typically after we turn up a customer's IP VPN network we do have the opportunity to then sell whether it's CDN voice or CNS voice.
+So the classic cross-sell collaboration or conferencing.
+Those are classic cross-sell opportunities.
+So we're also seeing the benefit of follow-on sale opportunities with customers once we turn them up an IP VPN solution for that.
+Some of it -- I mean I think that's a good quick summary and Jeff might have something to add.
+With respect to Q2 yes I mean in general as I said based on trend line performance we continue to see growth in Q2.
+I think the growth was a little stronger than we usually see in first quarter.
+But even after you consider the onetime items I talk about we generally expect the business to be growing.
+And as Jeff said we had good sales in the first quarter.
+Yes.
+Research Division</strong> Great.
+And percent of revenues that are coming from these usage-based services? I would say about 15% in that range roughly.
+I mean if you look at high-speed IP and CDN from the bulk of them and then collaboration and CNS voice smaller in the scheme of things.
+Our next question comes from the line of Mike McCormack with Jefferies.
+Research Division</strong> Just maybe Sunit on the capital spending that's a little bit light versus the full-year guiding if you said you had sort of maybe pulled some revenue forward had some lumpy government stuff in there.
+Just trying to get a sense for how comfortable we should be on the capital spending guide? And then secondly continued weakness and then down sequentially on colo and data center.
+Can you just make a comment there regarding the competitive landscape and then maybe also on the pricing side? Sure.
+So with respect to capital spending I think we continue to feel very comfortable with the 12% to 13% guidance we have given.
+And as we've indicated in the past to the extent we see stronger revenue performance could be in the high end of the range but it's in that range.
+And capital spending is a little lumpy.
+First quarter is usually a little slower.
+So I think we will be in that range.
+As I mentioned in my notes we are continuing to invest on a whole bunch of initiatives.
+Jeff mentioned that too.
+On the colo revenue yes we did see sequentially down some of it -- most of it related to the fact that we had some back bills and dispute settlements on some colo customers in the fourth quarter.
+So fourth quarter was a little lumpy.
+If you look at the trend over several quarters you will see the fourth quarter jumped up a lot.
+So I think if I were to exclude those I think the performance for colo has been steady the last couple of quarters.
+In LatAm it was a little weaker.
+We had one small disconnect in LatAm.
+But in overall I think the LatAm business continues to do well.
+So that doesn't worry us.
+So yes if you pull out some of the lumpiness onetime items we had in the fourth quarter the business is steady which is why I think we were focused on year-over-year rates.
+From a pricing and a competitive perspective I think that our thesis has always been that we don't typically sell colo on a standalone basis typically bundled with transport and other services we provide.
+People buy usually about at least 3x more in bandwidth services compared to what they buy in colo services whenever we do that bundling.
+So while there has been quite a bit of extra investment whether it's AWS or a bunch of other players I think we've been less susceptible to some of that.
+And also our product has always been a lower-end colo product as opposed to a super-high premium much higher-priced dollar per kilowatt products.
+So we're less susceptible to the pricing pressures that you might hear or see from other players.
+Research Division</strong> So then maybe you can just think a quick comment also on the enterprise pricing.
+Some of the bigger competitors out there have been calling out continued demand weakness because of the economy but also one of them was pointing out significant pricing pressures as well on enterprise.
+Are you guys seeing the same thing? No we're not seeing pricing pressure in the enterprise business because I think what's happening is from an incumbent perspective as Jeff pointed as our customers look to more cloud-based services they're doing it because they are saving money and it gives them more bandwidth better communications solution than some of the legacy solutions they have.
+And I think as they move towards that that's what they are saving money on.
+So as Jeff pointed out our market share is so low for us.
+On an incremental basis it's very profitable business good returns.
+And the pricing compared to how we might have priced the same services a year ago hasn't really changed much.
+So we like the pricing environment.
+That's right.
+And we don't ever see the macro environment at this point in our company really being a driver.
+I've said it for many many quarters that our ability to grow is based on our ability to execute.
+And we continue to execute.
+We continue to grow.
+And pricing is good for the products and services that we sell.
+Our next question comes from the line of Frank Louthan with Raymond James.
+Inc.
+Research Division</strong> Talk to us a little bit about some of the non-headcount expenses.
+Can you give us a little bit more color on what that is? And then you -- so you mentioned some of the cross-sell opportunities that you're getting.
+What's different now versus in the past? It seems like that opportunity would have been around in the past.
+Is there a change in how you directed the sales force or different management focus? I mean what's allowing you to get those upsides cross-sells now versus historically? Take the first? Yes I'll take the first question.
+On the non-headcount stuff I think that we have continued to be fairly aggressive working between our procurement organization and all -- the rest of the operations organization in being more proactive around vendor management and how we do that.
+So we're squeezing in a lot of the outside vendors.
+The other area that we have stepped up investment in is to buy out some of our key locations where we are paying rent expenses to and typically historically have been subject to high increases whenever those leases come up.
+So we've spent several tens of millions of dollars a year buying out facilities.
+So that is helping reduce our lease expense.
+We're also closing down duplicate facilities as a result of all the various acquisitions we've done.
+Typically in a city we might have several facilities and consolidating that saves rent power property taxes.
+So those are the 2 big drivers on the non-headcount-related expenses.
+And then Frank with respect to your question on cross-sell upsell we and other companies can get distracted by focusing on salespeople numbers.
+And what we've really tried to do over the last year 1.5 years is focus on productivity coming out of the sales force that we have.
+We want to continue to grow our sales force.
+We will continue to focus on that but we want to increase the productivity.
+When you change that mindset you start thinking about what can we do how can we combine our products and services together to come up with solutions that solve our customers' challenges? I mentioned in my comments earlier our Video Cloud offer.
+That's really a combination of 3 of our individual products and services to meet a solution for global content distribution.
+And that creates great cross-sell and upsell.
+And as we perform as we get a good experience as we sell IP VPN services then there's the natural follow-ons that Sunit and I both mentioned Voice Complete which is SIP-based product unified threat management.
+They're natural extensions of those based services and we're trying to take advantage of that.
+And organizing our marketing efforts our targeting efforts our product development efforts our sales force execution organizing all of those different pieces around really growing profitable growth.
+Our next question comes from the line of Donna Jaegers with D.A.
+Davidson.
+Research Division</strong> So 2 quick questions.
+Sunit on the contract -- or the contract the one-timers those are -- it's still monthly recurring revenue right? So you just sort of pulled it forward but it's not like it's going to drop out of the next quarter or anything like that is that correct? That's correct.
+These are recurring revenues but on some of these contracts days there are nonrecurring upfront portion.
+So there's a little bit of that.
+So they are recurring you're absolutely right.
+And then the other thing...
+Research Division</strong> And that was the high single-digits was the installation piece? Well there's some of that and the strong usage growth that we saw in the quarter.
+So I mean again it's a rough estimate.
+These things are tough to say.
+You don't -- we don't know if usage goes down or what happens just pointing it out because it was unusual compared to other first quarters that we've reported in the past.
+So we just want to point that out.
+But certainly the earlier-than-expected revenue recognition on the government contracts is recurring revenue.
+But there was an upfront portion and so the 2 things I highlighted add up to that high single-digit earnings of ours.
+Research Division</strong> Okay.
+And then just a question for both of you and Jeff I guess.
+On the wholesale grooming obviously with AT&amp;T closing on the Leap transaction now they could groom off -- Leap could groom off your network in the second half.
+How much visibility do you have as far as timing on grooming? And can you talk a little bit -- obviously you're expecting -- I think you built into expectations that wholesale will continue to decline sort of at this pace going forward.
+Is that the correct assumption? Yes it is.
+And if you look at visibility we manage churn with some of those customers as aggressively as we manage sales.
+We don't always have great visibility but if you look historically things shift off slower than most people expect.
+And we do a good job to make sure that we do that that we work with the customers help them do the migrations but also make it easy for them to continue to do services with us and augment their capabilities.
+Oftentimes they will need more capabilities in a certain area than they had before because of the acquisition.
+So we work with them on both sides both in managing the churn which typically moves off slower than we expect and then also managing the new sales opportunities with them.
+That wholesale we see is flat to slightly declining and the trend that we've been talking about for the last few quarters.
+Our next question comes from the line of Michael Rollins with Citi Investment Group.
+Research Division</strong> I was curious just following up on some of the questions around volume and revenue performance.
+In the enterprise segment I was wondering if you can give us some more specificity on how much revenue growth whether you want to look at it sequentially or year-over-year came from new customers versus what may have come from existing customers spending more with you? Yes that's always -- let me give you -- Sunit can maybe speak to specific numbers but I'll give you a little context.
+Generally most of our revenue comes from existing customers.
+And that's part of our strategy right? We sell them a little bit we prove our capabilities we get a wedge into their business and then we grow with them.
+And so we add new logos every single quarter.
+We're focused on adding new logos because we know that's our growth engine as the leading indicator of our ability to grow.
+But generally most come from existing customers.
+Yes Jeff's correct.
+I would say probably 80% of our revenues come from existing customers.
+And in -- with the existing customers our market share is pretty low.
+We typically add hundreds of new logos every quarter in terms of new customers.
+But the first business we win with the new customer is typically smaller.
+And as they get to know us and have confidence in us and we get bigger opportunities we can go after.
+So I think that will continue to be the case.
+But the overall message is our market share whether it's existing customers is still pretty low.
+So we see plenty of opportunity to grow even within the existing customer base and while at the same time adding new logos that provide that fuel -- continue to provide fuel for future growth.
+Research Division</strong> And just a follow-up above and beyond what you're doing organically can you describe some of the opportunities that Level 3 has to scale up the business through acquisition? Is that still a significant opportunity for you? Are you large enough now where it's just much more about the organic revenue growth going forward? Sure.
+We are certainly focused on organic revenue growth.
+If you look at our company there've been $40 billion worth of investment in the assets that now make up Level 3.
+We think that gives us great scope and scale globally.
+I think it gives us deep penetration in the markets that we serve.
+And so we're very focused on organic growth.
+Having said that there are always inorganic opportunities as well to sell out our networks to expand our networks to add products to add customers to capture synergies for multiple companies doing the same thing.
+And we will continue to be opportunistic about inorganic growth as well.
+But we're clearly focused on organic growth and delivering for our customers a unique customer experience so they continue to buy more and more services from us.
+And we're pleased with the progress we're making on that.
+Our next question comes from the line of Michael Funk with Bank of America Merrill Lynch.
+Research Division</strong> I just had a couple.
+First you commented on some initiatives to improve operating platforms.
+Related to that maybe you can comment on incremental streamlining opportunities both on the -- maybe on the platform and the headcount side if you continue to evaluate the business.
+And then second maybe an update on the timing of utilization of the NOL that'd be helpful.
+Okay on the platform side well there are -- we're a complicated business.
+Telecommunications is a complicated business.
+And we work on our platforms and want to continue to evolve our platforms to match the changing environment of our customers and the changing product mix and service mix that we sell.
+And so it's everything from billing to provisioning to inventory to quoting.
+It's the whole array of processes and systems that we look at and that we're trying to make sure that we're effectively streamlined.
+My goal is for us to be able to continue our growth in revenue and continue our growth serving our customers without having to continually expand our workforce see if we can improve our productivity to where we can grow revenue and top line at one rate that drive EBITDA and free cash flow at a different rate and really use our leverage.
+And we've talked about our operating leverage for a very long time and it's something that certainly works in our favor when it comes to growth.
+Okay.
+And Michael on NOL utilization we certainly don't expect to utilize our NOL this year.
+It'll probably be sometime next year that we'll start utilizing our U.S.
+net operating loss carryforwards which is as we mentioned in the 10-K over $9 billion.
+So thank you all for your questions.
+I think we don't have any other questions in the queue.
+So before we end the call though I'd like to leave you with a few thoughts.
+Level 3 is a growth company.
+As part of our 3-year operating plan we have a number of initiatives to drive profitable growth.
+We're focused on adding product and service capabilities to meet the complex needs of enterprises.
+We're focused on expanding on the network to broaden our addressable market.
+Behind the scenes we're focused on a number of projects to improve our operational efficiency making it easier for our customers to interact with us making it easier for our employees to serve those customers overall reducing our costs and improving our customer experience.
+I'd like to sum it up by saying that we started the year on a good note but we still have a lot of work to do.
+The strategy that we've developed is working and our focus on execution across the business will enable us to meet our financial goals.
+As I've mentioned we continue to focus on driving free cash flow growth on a per share basis.
+As always we appreciate your interest in Level 3.
+And operator that concludes the call.
+Ladies and gentlemen that does conclude the conference call for today.
+We thank you for your participation and ask that you please disconnect your lines.
+Have a great day everyone.

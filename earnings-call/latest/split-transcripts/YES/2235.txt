@@ -1,0 +1,439 @@
+Good day and welcome to the Level 3 Communications Inc.
+Second Quarter 2011 Earnings Conference Call.
+Today's call is being recorded.
+At this time I'd like to turn the conference over to Valerie Finberg Vice President of Investor Relations.
+Please go ahead.
+Thank you Jessica.
+Good morning everyone and thank you for joining us for the Level 3 Communications Second Quarter 2011 Earnings Call.
+With us on the call today are Jim Crowe Chief Executive Officer; Jeff Storey President and Chief Operating Officer; and Sunit Patel Executive Vice President and Chief Financial Officer.
+Before we get started as a reminder our press release supplementary information and the presentation slides that accompany this call are all available on the Level 3 website at www.level3.com in the Investor Relations section on the Quarterly Financials page.
+I need to cover our Safe Harbor statement which can be found on Page 2 of our 2Q '11 earnings presentation and that says that information on this call and in the presentation contains financial estimates and other forward-looking statements that are subject to risks and uncertainties.
+Actual results may vary significantly from those statements.
+A discussion of factors that may affect future results is contained in Level 3's filings with the Securities and Exchange Commission.
+As today's presentation will discuss the business combination transaction the following information is required by the SEC's rules and regulations in the context of the business combination transaction.
+This presentation shall not constitute an offer to sell or the solicitation of an offer to buy any securities or solicitation of any vote or approval.
+In connection with seeking approval for the transaction from their respective stockholders Level 3 and Global Crossing filed registration statements on Form S-4 a joint proxy statement prospectus and other relevant documents concerning the proposed transaction with the SEC.
+Investors and security holders are urged to read the registration statement and the final joint proxy statement prospectus and any other relevant documents filed with the SEC.
+Investors and security holders will be able to obtain a copy of the registration statement and joint proxy statement prospectus as well as other filings containing information about Level 3 and Global Crossing free of charge at the SEC's website at www.sec.gov or from Level 3 or Global Crossing's corporate websites.
+Level 3 Global Crossing and their respective directors executive officers and certain other members of management and employees may be deemed to be participants in the solicitation of proxies in favor of the proposed transaction.
+Information about Level 3's directors and executive officers is contained in the proxy statement for its 2011 annual meeting and information about Global Crossing's directors and executive officers is contained in the proxy statement for its annual meeting.
+Additional information regarding participants in the proxy solicitation may be obtained by reading the joint proxy statement prospectus.
+Finally please note that on today's call we will be referring to certain non-GAAP financial measures.
+Reconciliations between the non-GAAP financial measures and the most comparable GAAP financial measures are available in the press release which is posted on our website.
+I will now turn the call over to Jim.
+Jim? Thanks Valerie.
+As is our normal practice we'll start with a financial summary from our Chief Financial Officer Sunit Patel.
+He'll also provide some thoughts about the balance of the year.
+Jeff Storey will then pick up the conversation.
+He'll discuss operational matters including segment results and provide an update on Global Crossing integration planning and status.
+I'll provide some contextual remarks and then we'll open it up to questions.
+Sunit? Thank you Jim and good morning everyone.
+I'd like to begin with some of the highlights for the quarter which can be found on Slide 3 of our presentation.
+We saw a further improvement this quarter in Core Network Services revenue growth with 2% sequential revenue growth.
+Communications adjusted EBITDA increased to $234 million excluding $8 million in costs associated with the Global Crossing transaction up from $225 million last quarter.
+Additionally we generated positive free cash flow during the quarter.
+Finally we raised $1.2 billion in unsecured notes for the Global Crossing acquisition and this morning we launched a $650 million senior secured term loan transaction to complete the financings necessary for the Global Crossing transaction.
+Revenue.
+Turning to the detailed results for the second quarter on Slide 4 CNS revenues grew 2% sequentially as reported and 1.7% on a constant currency basis.
+Notably our sales and installs were also up sequentially from the prior quarter.
+Moving to our customer channels Core Network Services revenue from wholesale was up 2% sequentially.
+We saw particularly strong revenue performance from our wireless and content customers during the quarter.
+Large Enterprise and Federal posted 3% sequential growth Mid-Market Core Network Services revenue increased by 2% sequentially.
+European Core Network Services revenue declined by 1% sequentially on a constant currency basis and increased 1% as reported.
+Year-over-year Core Network Services revenue growth for Europe was 6% on a constant currency basis and 16% on an as reported basis.
+From a services perspective CDN revenue grew 13% sequentially.
+Year-over-year CDN revenue increased 115% and it now represents over 2% of our CNS revenue.
+Wholesale Voice Services revenue declined to $151 million this quarter from $164 million in the second quarter.
+Wholesale Voice Services revenues were down this quarter due to declines in usage.
+We expect continued volatility in Wholesale Voice Services since we manage these services for margin contribution versus revenue growth.
+At the bottom of Slide 4 for the second quarter of 2011 our total CNS revenue churn was approximately 1.5% compared to 1.3% in the first quarter of 2011.
+The sequential increase was primarily from one wireless customer disconnect during the quarter and even with this disconnect revenue from our wireless segment grew 4% quarter-over-quarter.
+For our Mid-Markets group CNS revenue churn for the second quarter was 2% compared to 1.6% in the prior quarter.
+Even though churn picked up a bit in the second quarter we still expect overall and Mid-Market churn in 2011 to be lower than 2010.
+Turning to Slide 5 gross margin as a percent of revenue improved to 62% compared to 60.9% in the first quarter of 2011.
+The growth in high margin CNS revenue and the decline in lower margin Wholesale Voice Services revenue contributed to the improvement in overall gross margin percentage.
+The gross margin contribution from growth in high margin CNS revenue more than offset the decline in lower margin Wholesale Voice Services revenue.
+Gross margin dollars increased from $557 million in the first quarter to $566 million in the second quarter.
+SG&amp;A.
+Communications SG&amp;A expense excluding costs associated with the Global Crossing transaction were flat compared to the prior quarter.
+We continue to add sales people and manage expenses tightly.
+We incurred approximately $8 million in expenses associated with the Global Crossing transaction primarily for upfront legal and professional services fees incurred as part of signing the transaction.
+We will continue to provide updates on transaction and integration costs as they are incurred.
+Turning to Slide 6.
+Communications adjusted EBITDA was $226 million for the second quarter of 2011 or $234 million excluding the $8 million of expenses associated with the Global Crossing transaction.
+Communications adjusted EBITDA was $225 million for the first quarter of 2011 and $209 million for the second quarter of 2010.
+Excluding expenses associated with the Global Crossing transaction Communications adjusted EBITDA increased 4% sequentially and 12% year-over-year and remains on pace for double-digit year-over-year growth.
+Communications adjusted EBITDA margin increased to 24.8% in the second quarter of 2011 or 25.6% excluding Global Crossing related expenses up from 24.6% in the first quarter of 2011.
+At the bottom of Slide 6 capital expenditures increased to $125 million in the second quarter of 2011 compared to $115 million in the first quarter of 2011 as we continue to invest CapEx for revenue growth opportunities.
+Turning to Slide 7 given strong execution around working capital free cash flow is a positive $6 million for the second quarter of 2011 compared to a negative $115 million for the first quarter of 2011 and negative $19 million for the second quarter of 2010.
+As of June 30 2011 we had $584 million of unrestricted cash on the balance sheet.
+On Slide 8 in 2 separate transactions we've raised $1.2 billion of unsecured senior notes to fund the Global Crossing transaction.
+In July certain orders converted approximately $128 million of our 15% convertible senior notes due 2013 into equity.
+Approximately $272 million of the original $400 million of these notes remain outstanding.
+We expect to recognize $29 million of other expenses in the third quarter associated with this transaction.
+The Global Crossing related financings will result in an estimated incremental GAAP interest expense of $26 million in the third quarter and resulted in incremental GAAP interest expense of $6 million in the second quarter.
+With the progress we've made on liability management over the past few years we are very comfortable with our debt maturities and believe we'll continue to improve our credit profile.
+We remain focused on reducing our leverage ratio or debt-to-adjusted EBITDA to our target of 3x to 5x.
+Turning to our business outlook for the rest of 2011 on Slide 9 we continue to expect CNS revenue growth for the rest of 2011 and low double-digit consolidated EBITDA growth in 2011 versus 2010.
+Capital expenditures are expected to be approximately 12% of Communications revenue for the full year 2011.
+Free cash flow is expected to be roughly break-even for the last 3 quarters of 2011 in aggregate.
+This outlook excludes any effect from the pending Global Crossing acquisition.
+We feel very good about the progress we've made this year towards our financial objectives and look forward to a good second half of 2011.
+With that I'll turn the call over to Jeff.
+Thank you Sunit.
+Good morning everyone.
+I'd like to start out with a summary of the quarter.
+We saw nice growth in Core Network Services revenue sequential growth in Core Network Services sales and we continue to make progress as we prepare for the Global Crossing acquisition.
+Turning to the results by market group Wholesale revenues were up 2% quarter-over-quarter.
+We saw continued growth from our wireless customers even with the disconnect Sunit mentioned which was a planned disconnect resulting from a network upgrade we completed with the customer last year.
+We also saw growth from our Content customers both from existing customers and new logos.
+Revenue for Large Enterprise and Federal were up 3% quarter-over-quarter and Core Network Services sales increased nicely during the quarter.
+In fact the Federal group recorded its best sales month ever in June.
+We're pleased with the progress we've made with the federal government and the various research and education networks we support.
+Within our Mid-Market group revenues grew 2% compared to the prior quarter.
+Through our local sales force we continue to look for opportunities to more effectively utilize and grow our deep metro networks.
+Our Mid-Market operating model utilizing a direct and local sales force combined with our extensive metro and long haul networks and a robust product portfolio make us an excellent choice for Enterprise customers.
+As a recent example Denbury Resources Inc.
+the largest oil and natural gas provider in both Mississippi and Montana selected Level 3 as their primary provider of IP VPN service connecting their 60-plus company field offices.
+Level 3 also provides SIP Trunking local voice private lines and high-speed IP in some of their locations.
+Denbury Resources chose Level 3 based on our ability to deliver service in their off and remote field offices and because of the local sales support they received both helping them remain on the leading edge of technology within their industry.
+The results with our Large Enterprise and Mid-Market customer groups validate our efforts and our approach in serving these important customer segments.
+For our European group on a constant currency basis revenue declined by 1% quarter-over-quarter but was up 6% year-over-year.
+In addition to our core carrier business we continue to see growth opportunities in the broadcasting finance and gaming sectors somewhat offset by pricing pressure in high-speed IP.
+We saw strong growth in CNS sales for Europe in the second quarter compared to the first.
+We also continued to expand our network adding more locations on net to take advantage of growth opportunities.
+This quarter we added transport PoPs in Dresden and Leipzig and new IP PoPs in Slovakia and Croatia.
+From a product perspective we saw revenue growth across our 4 broad product families: infrastructure transport data services and local and Enterprise Voice.
+Data services continues to show strong growth not only from CDN revenue but also from business-grade IP services ethernet-based services and managed.
+Turning to pricing we see little change across our product portfolio from last quarter.
+As we've mentioned previously we see relatively stable pricing for transport and infrastructure services particularly for metro services with more aggressive pricing for point-to-point wavelengths and usage-based services such as high-speed IP and CDN.
+We continue to make the customer experience a priority.
+We were recognized last month with 5 awards from ATLANTIC-ACM in their North American Business Services Study which recognized Level 3's leadership in delivering voice and data services to Enterprise customers.
+We won best-in-class awards in the ILEC/IXC category for best brand network performance voice quality voice value and data value.
+We have a number of initiatives currently underway to continue to improve the experience we provide our customers and further separate us from the competition.
+I'd like to give you a brief update on the Global Crossing acquisition.
+When we announced the Global Crossing transaction in April we stated that we expected to obtain regulatory approvals and close the acquisition before the end of the year.
+Although we have a number of regulatory approvals left to obtain we still have that same expectation.
+More specifically I'm pleased to tell you that as of today we received regulatory approvals from 21 of the 23 state public utility commissions that must approve the transaction and related financing.
+We've also received approvals in some but not all of the foreign jurisdictions where approval is required.
+At the U.S.
+federal level we are working with the Department of Justice to respond to its request for additional information in the Hart-Scott-Rodino proceeding as we announced 2 weeks ago.
+This week brings a close to the comments cycle with the FCC for the approvals required in that jurisdiction.
+We'll be working with the commission staff to prepare appropriate approval orders.
+In short our regulatory approval process is proceeding well with some matters being closed out more quickly than we predicted and others taking a bit longer.
+We'll make further announcements on this as warranted.
+Our integration planning efforts are progressing well and we remain committed to minimizing any disruption to our customer during the filing process or the implementation after the acquisition closes.
+It is imperative that our customers continue to have a positive consistent experience with us throughout this transition while also taking advantage of what will be our combined global assets and service portfolio.
+For example our operations teams are evaluating the processes that need to be put in place on the day of closing to enable ordering and provisioning and to make that process as seamless as possible for the customer.
+Post-closing we'll maintain our focus on the customer and move toward the long-term processes outlined by the teams.
+We've already begun developing our 2012 operating plan which will align with the combined companies' long-term global strategy.
+In summary we're pleased with the progress we've made in growing Core Network Services revenue and sales.
+We remain focused on the opportunities in front of us from continually improving the customer experience to executing on sales opportunities in order to achieve continued revenue growth.
+Additionally through our ongoing planning efforts we're focused on making the Global Crossing acquisition a success.
+With that I'll turn the call back over to Jim.
+Thanks Jeff.
+As usual Sunit and Jeff have done a good job summarizing the quarter and the outlook for the balance of the year.
+For my part I'd like to emphasize 3 points.
+First our improving revenue growth rate together with the very high operating margins we've enjoyed puts us squarely on track for the double-digit adjusted EBITDA growth we projected at the beginning of the year.
+We believe this kind of performance is industry-leading for larger wireline communications companies.
+And importantly given the overall low market share we have in our various addressable markets we think we can continue to accelerate this growth rate over time.
+Next as Jeff said we're making good progress in the Global Crossing integration planning and I'd like to add we continue to see opportunities to improve the economics of what we think is already a great transaction.
+As Jeff said we still expect to close by the end of the year.
+And finally on a related point I'd like to congratulate John Legere the CEO of Global Crossing and his entire team for a very solid quarter with impressive growth particularly in Latin America.
+Global Crossing and Level 3's performance jointly provides evidence to the power of the combined companies' very broad and deep portfolio of optical IP services their broad geographic diversity including fast-growing emerging markets and particularly our joint dedication to customer service.
+All 3 together create the opportunity to provide superior value for our investors.
+Operator that ends our prepared remarks if you'd please discuss the Q&amp;A process.
+[Operator Instructions] Our first question comes from Ana Goshko with Bank of America Merrill Lynch.
+On the revenue outlook for the rest of the year so you guided to sequential growth but I noticed that the language is a little bit different than it was in the prior release and you don't talk about sort of an increased pace of sequential growth.
+So wondering what kind of trends you expect to see for the next 2 quarters.
+And generally other than when we're in a pretty serious economic decline on a macro basis the fourth quarter does tend to be the strongest quarter of the year.
+I'm wondering if that's a seasonal impact you expect to see this year.
+Yes let me take that Ana.
+I think on the revenues front last year we established a firm 1%-type growth base.
+I think if you look at the average for the first half of the year 1.3% and 1.7% it puts us in a 1.5% pace.
+I think that -- as we've indicated in the past we are shooting for 2% sequential growth -- and I think that the momentum you see in the second quarter should continue in the second half of the year.
+We feel pretty good about the business as Jeff and I indicated.
+Our sales were up in the second quarter.
+Sales funnels up also.
+So we feel good about the second half of the year and our objective is to keep increasing the pace of -- and keep working towards our 2% objective.
+The question on the fourth quarter yes we do see -- we have historically seen seasonal strength in the fourth quarter.
+Some of that's driven by our Vyvx business given all the football season in the fourth quarter.
+So this year should be no different given recent news so I think that will also be there.
+Okay and then a second question is on the revenue churn being up.
+I just wanted to ask Jeff to clarify.
+So it sounds like that wasn't really like a lost customer.
+It was really sort of an upgrade of service so there really wasn't a net revenue loss.
+It was just part of the methodology of how you calculate churn.
+Is that accurate? With respect to the one wireless customer that Sunit and I both mentioned they went through a major upgrade of their network last year and as a result some of those services that they were using in the prior network were turned down and that's the churn that we're talking about.
+But you're right it was replaced with other revenue from last year.
+Okay so the net revenue from that customer has not declined as a result of this upgrade? No.
+If you take at Slide 4 in Sunit's deck there's a footnote that goes to your point Ana.
+That is the way we measure churn includes disconnects associated with upgrades of service.
+So that is maybe different from how certain other companies report their churn.
+We'll take a question now from Simon Flannery with Morgan Stanley.
+Jeff I wonder if you could just dive a little deeper into the demand drivers sort of break out what's really coming from increased volumes versus any change in the competitive environment or the pricing intensity.
+I think you did talk a little bit about some pricing pressure in CDN and high-speed IP but overall are you seeing pricing fairly consistent with prior trends? Any big changes there? And on Europe the weakness there is that something that's really one quarter and we'll start to see a return to sequential growth later in the year? Or are we seeing some of the macro pressures that we're reading about starting to impact demand? Sure.
+The second question first with Europe I do believe it's a one-quarter thing and that we had a good sales in the second quarter have a strong sales funnel have an excellent team and an excellent network excellent products.
+And so I do think that's just a one-quarter issue.
+As far as demand drivers on the wholesale side demand drivers are data usage and the same things that we've talked about over the past few years.
+That the increasing amount of bandwidth required by our wholesale providers continues to grow and as they serve the needs of their customers so that will continue.
+On the Enterprise side we're taking share.
+We have great products and a great footprint and are beginning to execute on our sales plan and our customer experience plan.
+As a result we're winning more and more business.
+I'll add to Jeff's remarks.
+He underlined that we've seen very little difference in the pricing environment.
+When he said that everything but CDN and IP continued as in the past we mean as we've said before plus or minus 10%.
+CDN and IP have higher declines.
+They have for quite some time but they're offset by much higher unit increases.
+So all in all I think we find the pricing environment fine.
+I mean obviously we like many others would like to raise prices but we're happy with the pricing environment.
+Now just on the lines Simon and I think the European business continues to be pretty healthy.
+So this is a one-quarter phenomenon.
+We expect them to keep growing quite nicely.
+And as everything that Jeff mentioned points to continued sustained growth.
+We'll hear now from David Dixon with FBR Capital Markets.
+I wonder if you could first of all help me with the extent to which there's been any products product mix shifts within the data segment across the board there? Yes it's Jim.
+We continue to see CDN grow relative to other data products.
+IP VPNs and ethernet-based services are substituting for other types of protocols.
+I think that would be consistent with many other companies.
+In general we have said and repeat video is in its various forms the visual Internet if you would is an enormous driver.
+It's clear that's true in landline networks and we are beginning to see more and more demand from the wireless side still small in absolute terms but growing very rapidly.
+And announcements like our recent HBO GO win where HBO's announced their intent to put most if not all of their library online and it's formatted in part for consumption on mobile devices.
+Those kinds of trends we don't see changing.
+So video expressed in all of its forms on all of the platforms that we all have on our hip on our laptops and on our TVs is a huge driver Enterprise it's IP VPNs.
+And Jim what about these solutions that's up between MPLS and VPN IP sectors that sell VPN are you seeing any shifts there? I wonder if you could comment on the relative profitability of both of those solutions? I'll let Sunit talk about the profitability.
+With respect to the trends I think we see ethernet as a major player in the future both as a transport product and as an access product.
+The reason is math -- the economics I should say the industry.
+The last I looked this metric isn't fresh but it's directionally correct.
+There were millions of the ethernet chipsets sold -- they're obviously in most every device -- versus a few hundred thousand SONET chipsets sold in other competing technology.
+So like much of our business consumers and their demands and the underlying technologies are driving changes in Enterprise.
+That's a shift from 20 years ago.
+So we think ethernet's a big deal and ethernet VPNs are increasingly important.
+Sunit you want to talk about relative pricing or margin -- across the products? Yes I think margins generally for CNS products are pretty high as you've said historically and we are seeing today better than the incremental 80% margins on new revenue gross margins and about $0.20 to the SG&amp;A line.
+But the point that Jim mentioned on ethernet is important.
+It's been a big big driver for CapEx remaining very cost-effective because the cost on the CapEx per bit for ethernet-based technologies is substantially below for example what we had seen in big fab drivers and then that is continuing to drive a lot of -- stimulates a lot of demand growth like video for example.
+I'd add one last comment that about every couple of quarters we point out.
+We view margin as the output of our selection of services our selection of the geography into which we sell those services and the customers to whom we sell.
+That is we don't view margin as something like the weather that just happens.
+We work hard at selling the right services in the right locations largely on our own networks to the right set of customers.
+And that's the reason we have 80% incremental gross margins and 60% 65% incremental EBITDA margins.
+That's a managed number.
+So it shouldn't surprise anyone that when we add new services that's the output.
+That's what we manage to.
+And then maybe just lastly if I could.
+In terms of your peering arrangements I'm curious to know if you could provide any details of the contractual terms if any there? And whether the traffic ratio trends are expected to change post the Global Crossing's merger? Well you've asked a question that could consume a good portion of the amount of time we have left.
+I'll summarize it this way.
+The economics and the contractual arrangements associated with interconnection among IP networks is influx.
+The old arrangements were struck at a time when IP and IP networks were dominated by quasi-governmental entities.
+And we didn't have the kind of growth rates nor the importance that current IP optical networks have.
+There is a lengthy discussion of these issues and the various filings made and the -- what's now referred to as the Comcast-Level 3 dispute.
+There will be more.
+We simply say equity and fairness ought to be the goal.
+If there is a market on both sides of the interconnection let the market set it.
+You want to give it away for free and support your business by putting ads on the side of your trucks? Fine.
+If there's no market that is if one side or the other has a dominant position then the last person that gets to decide what the terms of the interconnection are is the individual with a dominant or monopoly position.
+In that case there's a role for government.
+We as a generality prefer market-based solutions bend over backwards to look for market-based solutions.
+But let's face it in parts of our industry certain parts -- certain of the players have dominant positions as a result of previous government-granted exclusive franchises.
+If you want more on the topic I'd suggest getting in touch with our IR group who can point you to probably more information than you may wish to read.
+We'll move now to Frank Louthan with Raymond James.
+Inc.</strong> To what extent is the CDN business driving additional network sales? Can you give us an idea of what's sort of the total impact of getting larger in that space? And then have you -- I apologize if you covered this earlier but have you seen much of a competitive response going into the merger? I know you've said that you do expect to lose some customers that maybe were using Level 3 or Global Crossing as a primary or redundant route that may go to another carrier.
+Have you seen much of an impact from that at this point? I'm going to let Jeff handle that second question.
+With regard to the first CDN has a couple of benefits.
+Obviously if you believe as we do very strongly and we have lots and lots of company and lots and lots of data to support our belief that the future is all about a visual Internet then CDN changes from a unique separate distinct technology to part of your ability to provide a Network Services.
+We've said before we'll repeat if you're not in the CDN business you're going to have a hard time being in  the communications business in the future.
+And we are taking share because we think the combination of a network and the CDN technology that is having both a bandwidth and the CDN technology puts you in a strong competitive position.
+That has led to pretty rapid growth in CDN sales as Sunit mentioned.
+Less easy to point to but nonetheless real is the value of CDN as an introductory service to a broad and increasing number of customers.
+Large Enterprise is a good example.
+We had a strong quarter in Large Enterprise and at least part of it because we uniquely I think are able to serve a broad range of services including CDN that becomes increasingly important to folks across Enterprise.
+More and more -- all you have to do is log on to about any Large Enterprise's website and look at the video content in their web pages.
+Look at the importance of a rapid web page load.
+I looked at a statistic where about beginning of this decade an 11% page -- or an 11 second page load was acceptable.
+Today if you're not under 2 you lose customers.
+That's CDN.
+Being able to offer that kind of service along with Transport Services Voice Services IP or ethernet VPNs is a powerful combination.
+And we're seeing real benefits across the whole company.
+Jeff you want to take that second? Sure with respect to the -- have we seen any loss of customers as a result of the announcement of the transaction? Customer-specific stuff is one of the things we do not discuss with Global Crossing until after the close so I'm going to answer the question but I'm only answering for Level 3 side.
+I spend a lot of time with our customers and talk to a lot of them and across the board we've seen support.
+We think our customers think this is a good transaction giving us the scope and scale and breadth of services that they desire from their providers.
+And so across the board we see support.
+We do expect that there'll be some cases where a customer may need diversity but there are relatively few places where we believe Level 3 and Global Crossing are the only providers for those customers.
+And so we don't -- while we think there could be some of that we think the upside is far greater.
+That what we bring to our customers from the ability to deliver from a local metro network in the U.S.
+to deep within Latin America creates far greater opportunities than the downside.
+We'll move now to Cowen and Company's Colby Synesael.
+LLC</strong> Great I just have 2 quick questions.
+First off as it relates to the acquisition costs that we saw this quarter the $8 million that you called out do we expect any more of those either in the third or fourth quarter? And I was wondering if you could help quantify those.
+And then my second question we did see the communications cost of goods sold decrease I think about $10 million on a sequential basis this quarter.
+Curious if you could just talk about what's driving that and how much more opportunity there is to actually see cost of goods sold come down versus just simply remaining flat? I'll take the second.
+Sunit you want to take the first? The acquisition cost -- first of all in the second quarter more than half or the majority of the costs related to legal fees and advisory-type fees that led to the announcement of the transaction.
+We do have some amount of ongoing fees what I would describe as professional fees for integration planning.
+Some of those will continue in the third quarter and I would say that they are small and we'll talk about them but they will continue in the third quarter.
+The biggest chunk of expense is what I talked about in my remarks which is the interest cost GAAP interest expense associated with the borrowings.
+But obviously post-transaction some of that will be offset by debt paydowns also.
+With respect to cost of goods sold or using industry parlance gross margin network revenue minus network expense.
+And in our case to make sure we are clear that's a pure network expense.
+That is the cost of third-party connections to customers we don't connect directly to with our own network or to locations we don't connect directly to with our own network.
+The answer to your question is yes.
+We think we can continue to improve our gross margin percentages.
+Absolute dollar declines are another matter.
+As we grow revenue as Sunit mentioned to you we expect a 20% give or take gross margin.
+We manage to 20%.
+So if you want to oversimplify you'd say for every 4 connections we provide on our own network we expect to provide one equivalent connection 1 out of 5 that is on someone else's network.
+But why not 1 out of 10 or 1 out of 3? The answer is that's our best judgment about the way we maximize cash flow.
+If we said we only want to sell on our own network we would limit our ability to sell and it would be too narrow.
+We said to our sales folks sell anywhere you want anytime you want with any services you want.
+We might up our growth rate but we wouldn't be happy with the cash flow impact.
+LLC</strong> To your point though I mean it's unique that in a recurring earning-based business model that your actual costs on an absolute basis come down and that is obviously what we saw this quarter.
+I understand that the contribution margin associated to business.
+I'm just trying to get at what actually led to the absolute decrease and if there's more opportunity to actually see that happen.
+Yes I mean I think the biggest thing keep in mind is that the incremental margin on Wholesale Voice is like 30%.
+So obviously Wholesale Voice revenues goes down for every $1.
+That revenue goes down you have more than a 70% decrease in cost of sales.
+So that's a big driver.
+And the other one as I've said is we're adding new revenues at more than 80% gross margins.
+So it's a combination of those 2 and as Jim mentioned we continue to manage expenses tightly everywhere not just in SG&amp;A but in network expense.
+So there's some amount of grooming.
+But the biggest driver is the fact that what is coming down the $0.70 of expense coming down for every $1 of reduction our Wholesale Voice revenues is a big big driver of that reduction.
+Which is why we encourage investors to separate those 2 revenues when you assess our company.
+One is CNS which is what percentage of our gross margin dollars Sunit over 90%? More than 90%.
+We separate that and then take a look at that and then Wholesale Voice separately.
+We'll hear now from Chris Larsen with Piper Jaffray.
+First Sunit could you just give us the terms of the $650 million term facility? You've been taking down your interest expenses quite well.
+I just wonder what the terms were there.
+Secondly you mentioned pricing pressure in High Speed IP.
+Is that in data centers? Is it one specific carrier that's doing that or is that just across the board? And then third we've have a number of tech companies like Cisco Juniper F5 Linear Technologies Riverbed all have somewhat disappointing results.
+But you guys are talking about a very robust environment.
+You posted robust numbers in terms of good sequential growth.
+Is there a disconnect here or are those guys losing share? What is it that you think you're seeing that maybe some equipment companies necessarily aren't? Sunit while you're thinking about that first I've got a couple of comments.
+With respect to equipment companies obviously you covered a lot of ground when you take somebody as large as Cisco with all of their various services Juniper et cetera et cetera.
+There's a broad range of markets and a broad range of results.
+What we would say is what we've said for a period of time Jeff said it I've said it Sunit said it.
+20 years ago when you bought equipment for a communications network you bought industrial grade DC Telco central office grade equipment.
+It might have a 386 processor in it and a central office switch would cost $10 million.
+We watched that whole market change and be disrupted by consumer grade equipment servers running general-purpose operating systems Linux with software loads that mimic a central office switch.
+From our perspective that same process continues.
+When we build CDN clusters for instance we like others buy low-cost storage and disk drives lots of them.
+And we write software to make sure we have the level of reliability.
+We're watching now in Transport the same thing happen in routing where in Transport we're seeing ethernet-based services.
+In routing we're seeing more and more ethernet with overlay software.
+We've written our own to provide switching and reliability.
+That's a huge shift.
+Some win some lose some get out ahead out of this shift to consumer-grade equipment with smart software on top.
+Some will struggle.
+But it's one of the reasons to your second point why we don't think IP and CDN pricing is bad.
+It's just dropping more rapidly than Transport.
+In fact Jeff said last quarter and I think we would repeat we've seen an improvement in CDN pricing versus unit growth.
+A year ago we said CDN -- or not CDN IP pricing was unhealthy.
+Today we'd say it's very healthy and the same with CDN.
+And the part of the reason is we use a different set of technologies.
+We're watching our underlying costs drop and folks like -- and we're watching more and more uptake more and more video because as price dropped demand goes up even faster.
+Sunit do you want to..? Yes the $650 million senior secured term loan that was launched this morning was at a price of LIBOR plus 425.
+There will be a LIBOR floor of 125 to 150 range.
+We'll see how that gets finalized.
+So we're looking at roughly a cost of 5.5% to 5.75% for that financing.
+Bank of America Merrill Lynch's Michael Funk has our next question.
+We've heard from some of the incumbent carriers this quarter and they've talked about negative business formation creeping back up and that pressuring some of their revenue stream.
+And I wonder if you can you just compare and contrast what you're seeing right now in the market with regard to demand from the business customers with what you were seeing a couple of years ago in 2008.
+I'll repeat what Jeff said in his remarks -- or excuse me in answer to a previous question.
+If you have 90% of the market macro growth or shrinkage whether a business formation increases or we see a reduction in the absolute number of businesses you're directly affected.
+The incumbents are directly affected by those macro wins.
+When you have 2% or 3% of the market and you're taking share that's far less important far less important.
+And we're in that latter category.
+In fact who knows about the future? But in the past and again we've said this a number of times when times get a little tougher sometimes the propensity to switch on the part of Enterprises goes up.
+When times get tougher people sharpen their pen or pencil and say now is the time to look at all our expenses let's see if we can do better let's see if we can shift for instance from traditional voice to a VoIP-based solution let's see if we can have an integrated access product where all our voice data and videos are with the same set of services.
+That's when often the propensity to switch goes up.
+So if anything we tend to think when you have 2% 3% market share when the economy maybe is a little rockier we see opportunity.
+Yes and to be clear we're not seeing anything close to what we saw late in '08 when the economy completely fell off and we saw a big sharp change.
+So we're not seeing anything like that.
+I think to Jim's point in this kind of environment what people are looking to save cost and underlying demand for our services in terms of big consumption both at the Enterprise and the home is growing I think we are favorably leveraged.
+Let me just add that if you talk to our Enterprise customers and you ask them what they want from their providers they want a local sales team dedicated sales team that they know the name.
+They don't want to call into a call center.
+They want a customer care team that works with them daily and weekly and regularly that they know the name and can rely on and trust where they have a face into the company not just be one of millions of millions of nameless customers.
+And they want solutions.
+They want us coming in with solutions to solve the problems in their network.
+They want us to be flexible and responsive.
+Those are the things we win on.
+When we have such a low market share the business formation is less of an issue for us and if we deliver on those things that's why we grow.
+And then in a recent filing I think you noted that about 4% of your and Global's customers are dual-homed with the 2 companies.
+I mean is that where you see most of the revenue risk post-merger? And then what's the corresponding revenue number to that 4% of customers? Jeff or Sunit are you familiar with that statistic? I believe I know but I'm a little bit speculating so...
+I think we need to get back to you on that one because 4% of all customers sounds to me high.
+I mean 4% of a certain class of customers sounds more correct.
+But Michael I think what you're hearing is we need to check that number.
+I'll repeat though what Sunit or what Jeff said earlier.
+In our merger model we think we were pretty conservative about the revenue that we would lose with respect to customers who may want diversity.
+It's built into all of the numbers that we provided at the time of the announcement.
+It's built into our level of confidence about synergies.
+And we believe pretty strongly for all the reasons we've talked about at length there's more upside than there is downside to the combination far more.
+Okay and by -- it came from your filing with the SEC from Nicholas Cliche [ph] right 2% to 4% was the number? I think that may be trends that -- or that may be DIA or a specific class of customer.
+In fact I'm almost certain of it.
+How many total customers we've got today? We each have about 15 000 there.
+So I don't think it's 4% of total customer count.
+I think it's 4% of a particular class of customers who are affected but I'll label that as preliminary.
+We will come back to you.
+Okay now that's it's very helpful.
+There's one more like quick one here then -- you kind of walked through the regulatory process and what you've gotten for approvals and where you still are.
+I didn't hear you mention Vesuvius.
+Where are we in that process? That's not a public process.
+We'd simply say it's proceeding as expected and we still continue to expect to close before the end of the year.
+We'll take a question now from Donna Jaegers with D.A.
+Davidson.
+Just 2 quick ones if you would.
+Jim or Jeff on CDN pricing the talk in the market's been that pricing has been down 20% 25%.
+Are you seeing anything more aggressive recently? No.
+Our CDN pricing is consistent kind of quarter-over-quarter and we see declines in CDN pricing.
+But to Jim's point earlier we see volume growth that -- the doors to the decline in pricing.
+And so on the balance it's going roughly as we expect.
+Yes I think the number you just mentioned on an annualized basis is in the right ballpark.
+And I'd add for High Speed IP it isn't a lot different either.
+We said last year that at one point it got up into the 35-plus percent for High Speed IP and we didn't think that was too healthy.
+It's much better today.
+With respect to CDN the unit growth rates are staggering.
+Yes I mean on both -- I mean High Speed IP and CDN revenues are growing.
+Yes and then on peering I think people are concerned about -- obviously you guys ended up paying Comcast sort of a last-mile toll just to put some language around it to terminate CDN revenue.
+Are you seeing any change in the level of that last-mile charge besides just being linked to volume? Let me make sure I understand your question.
+Are you saying have we -- are we seeing a change with respect to Comcast or in general across the industry? Both I guess.
+Is Comcast trying to charge higher rates and then are other last-mile ISPs also joining in to charge sort of last-mile tolling rates? Well I'd point you to the press release we made with respect to Cox.
+I think it stands on its own and I have nothing other to add other than read the quotes and it will give you some insight.
+I think Cox said they were happy and we said we're happy and consistent with our principles.
+With respect to Comcast the dispute is not over.
+We feel just as strongly as we always have.
+And as I said earlier in this call if you have -- the threshold question is do you have a dominant position.
+If you read the FCC's Open Internet Order in some -- several markets the cable provider has over a 70% market share of the home broadband market capable of supporting video.
+Over 70%.
+Last time I talked to anyone that's a clear definition of those in the antitrust business.
+That's clear definition of dominant.
+It isn't finished.
+It's a huge battle as you know Donna.
+It's not going to be settled in a day or a week.
+But we've said all along customers are going to get what they want.
+With respect to Level 3 it's not material.
+We'll adjust.
+If for whatever reason that those charges remain in place we'll adjust.
+We're able to adjust better than most because we have a complete network our own data centers our own server clusters and our own CDN.
+Yes and I mean financially as we've said in the past these charges are very small.
+Obviously you can see these really had no impact on our margins or anything like that.
+They're insignificant in the scheme of things.
+But overall over the next 10 years we clearly are in favor of something that supports growth and allowing customers to get what they want.
+Understood great.
+And then one last question on obviously you redeemed some of the in-the-money converts a little early.
+If other owners of those converts would want early redemption would you guys be open to that? Well it's tough to really comment on that.
+These are pretty much reverse inquiries that are executed under the SEC 3-09 rules.
+So it's tough to comment on it but I think what we have said and we have continued to say is that we are focused on reducing our leverage until we get down to our target debt-to-EBITDA ratio.
+And our final question today comes from David Sharret with Barclays Capital.
+I was going to ask on the convert.
+Maybe just one other -- with respect to the secured financing that you're launching today the $650 million.
+I think Sunit previously you've said you have the flexibility under your commitments there to flex that up from $650 million.
+Just -- I know you're out with $650 million today.
+I guess depending on demand of the market is that something that you would consider increasing from $650 million? And if you can you give us any update on how much capacity how to increase that based on covenants above $650 million? Well I mean when we announced the transaction we had lined up bridge commitments for $650 million which is what we've launched this morning.
+So we just remain focused on getting that done.
+Tough to see -- market's pretty volatile so it's tough for us to gauge what happens over the next few days.
+But we are focused on $650 million.
+And then certainly over time we do have debt coming up that we can finance and we certainly have plenty of flexibility to refinance existing debt obligations.
+So where it makes sense and where we can save interest expense we would look at that.
+But right now we are focused on getting $650 million done.
+Well thanks to everyone for participating in the call and operator that's the end of this conference call.
+And this concludes today's Level 3 Communications Inc.
+Second Quarter 2011 Earnings Conference Call.
+Thank you for attending and have a good day.

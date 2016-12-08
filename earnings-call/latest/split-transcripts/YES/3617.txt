@@ -1,0 +1,470 @@
+Welcome to the SunTrust First Quarter Earnings Conference Call.
+[Operator Instructions] Today's conference is being recorded.
+If you have any objections please disconnect at this time.
+I would now like to turn the conference over to Mr.
+Kris Dickson Director of Investor Relations.
+You may begin.
+Thanks Wendy.
+Good morning everyone.
+Thanks for joining SunTrust's First Quarter Earnings Conference Call.
+In addition to the press release we've also provided a presentation that covers the topics we plan to address today during our call.
+The press release presentation and detailed financial schedules are available on our website www.suntrust.com.
+This information can be accessed by going to the Investor Relations section of the website.
+With me today among other members of our executive management team are Bill Rogers our Chairman and Chief Executive Officer; Aleem Gillani our Chief Financial Officer; and Tom Freeman our Chief Risk Officer.
+Before we get started I need to remind you that our comments today may include forward-looking statements.
+These statements are subject to risk and uncertainty and actual results could differ materially.
+We list the factors that might cause actual results to differ materially in our press release and SEC filings which are available on our website.
+During this call we will discuss non-GAAP financial measures in talking about the company's performance.
+You can find the reconciliation of these measures to GAAP financial measures in our press release and on our website.
+Finally SunTrust is not responsible for and does not edit nor guarantee the accuracy of earnings teleconference transcripts provided by third parties.
+The only authorized live and archived webcasts are located on the website.
+With that I'll turn the call over to Bill.
+Okay Kris thanks.
+And I'll begin today's call with some brief comments on the first quarter and then I'm going to pass it over to Aleem to provide the details on the results.
+We'll start on Slide 3 of our presentation where we hit the high-level points.
+Net income for the quarter was $245 million and earnings per share was $0.46 which was $0.33 increase over last quarter and a $0.38 increase over the prior year.
+Growth in revenue and continued favorable loan deposit and asset quality trends drove the improved results.
+Both net interest income and noninterest income were up over last quarter.
+On the net interest income side we benefited from higher loan balances lower cost deposit growth and a reduction in funding costs such that our net interest margin expanded 3 basis points.
+Sequential quarter fee income was up sharply and most notably in mortgage production as low interest rates and HARP 2 drove significant refinance activity.
+On a year-over-year basis fee income was stable as high mortgage revenue this quarter offset the lost income due to debit interchange changes and lower security gains.
+Expenses declined from prior quarter and we've made significant progress against our Playbook for Profitable Growth expense savings goal.
+Today we've put in place annualized savings of $190 million and as such we're on track to achieve the $300 million goal for the program.
+So while I'm pleased with the progress this is ultimately about establishing an efficiency-minded culture which will allow us to exceed our goal without a bounce-back.
+Now moving to the balance sheet.
+Favorable loan and deposit trends continued this quarter.
+Performing loans were up 3% with growth in targeted categories and declines in high-risk loans.
+We also saw sustained lower-cost deposit growth.
+Credit quality also continued to improve with marked decreases in all primary credit metrics.
+Nonperforming loans were down another 9% this quarter and net charge-offs were down 11% sequentially.
+Lastly we generated positive capital growth and our capital ratios remained strong and well in excess of our current and proposed regulatory requirements.
+Now that being said however let me take a moment to proactively address CCAR.
+As part of the process moving forward we'll be resubmitting our capital plan.
+We're required to submit the revised plan by mid-June and then expect to hear back by the end of the third quarter.
+First quarter results will be included in our submission and we'll be running another full stress test.
+This new submission will only cover any proposed capital actions for the fourth quarter of this year and first quarter of 2013 as anything beyond that will be incorporated in the next year's CCAR process.
+So we're still in the process of learning all the variables.
+There's not much to report at this time.
+We're going to be working closely with our board as we decide what to include in our revised submission.
+So with that Aleem let me turn it over to you.
+Thanks Bill.
+Good morning everybody.
+Thank you for joining us.
+I'll begin my comments this morning on Slide 4 with a high-level overview of the income statement.
+Earnings per share this quarter were $0.46 which compares favorably to the $0.13 per shares -- $0.13 per share reported last quarter and the $0.08 per share from last year.
+The $0.33 sequential quarter increase was driven by both higher revenue and lower expenses.
+Revenue increased by $171 million with growth in both net interest income and noninterest income the latter of which was largely mortgage-related.
+Expenses declined by $126 million primarily the result of the $120 million fourth quarter accrual for the potential mortgage servicing settlement.
+Relative to the prior year the $0.38 earnings per share increase was driven by higher net interest income a lower provision resulting from improved credit quality and the elimination of the TARP dividend drag.
+In addition to the preferred dividend payments made that quarter we also incurred a $74 million noncash charge related to the unamortized discount upon the redemption of the TARP shares.
+Let's now delve deeper into each of the major income statement categories beginning with net interest income on Slide 5.
+Net interest income increased sequentially by $18 million or 1%.
+This was driven by higher average loan balances and favorable liability trends including reduced rates paid on deposits strong DDA growth and lower average long-term debt.
+This combination of actions drove a 9 basis point decline in our liability costs this quarter which more than offset a 5 basis point decrease in our interest-earning asset yield leading to the 3 basis point increase in net interest margin.
+This increase exceeded our expectations due primarily to better-than-forecasted deposit trends.
+Relative to the prior year net interest income grew $65 million or 5%.
+This increase was driven by a $7 billion increase in average loan balances improvements in deposit mix and pricing including a 25% increase in DDA and $5 billion of combined reductions in longer-term debt and CD balances.
+As you're aware part of our overall interest rate risk management strategy includes hedging certain floating rate commercial loans with received fixed swaps.
+The swaps effectively convert these loans from floating to fixed rate.
+Net interest income attributable to the commercial loan swap position was approximately $150 million during the first quarter of 2012.
+And as previously disclosed we will see about a $35 million decline from this amount in the second quarter.
+Effectively some of our previously fixed rate commercial loans are converting back to floating.
+This $35 million decline will equate to about 10 basis points of net interest margin compression.
+Assuming no major changes to LIBOR commercial loan swap income is expected to remain relatively stable at this new run rate for the remainder of the year.
+Let's turn to noninterest income on Slide 6.
+Noninterest income increased by $153 million from the fourth quarter driven by higher mortgage-related revenue which was up by $125 million.
+Excluding the $40 million decline in the mortgage repurchase provision core mortgage production income was up by $85 million or more than 50%.
+Production volume this quarter was $7.7 billion 12% increase from the fourth quarter.
+Locked volume increased more than 30% and we also saw wider gains on sale.
+About 3/4 of this quarter's volume was refinance related and we began to take HARP 2.0 applications.
+Borrowers are taking advantage of this program and we're being proactive about helping them as we think this program is a beneficial one for our clients and our country.
+Mortgage servicing income also increased from the prior quarter up by $59 million.
+This was due in part to the $38 million MSR write-down we took during the fourth quarter in anticipation of increased prepayment volume from HARP refinancings.
+Third quarter results also benefited from favorable net hedge performance.
+While mortgage income was strong this quarter certain fee categories exhibited seasonal weakness such as deposit service charges and investment banking which declined by $12 million and $16 million respectively.
+Relative to last year fee income was stable on a reported basis and up 7% on an adjusted basis.
+The primary puts and takes were higher mortgage production income due to both increased volume and margins and lower card fees due to the impact of the new debit interchange regulations.
+Turn to Slide 7 to discuss mortgage repurchases.
+As shown in the top left portion of this slide the purchase demands were $448 million this quarter down by about $190 million from the high level experienced during the fourth quarter.
+The timing of demands continues to be variable and this quarter's decline was the result of lower demand volume from Fannie Mae.
+Consistent with what we expressed last quarter we believe the trends suggest that the agencies are making progress and working through the backlog of potential demands from prior years.
+Specifically the composition of the demands this quarter remained concentrated in loans that have already been through the foreclosure process while the requests for full loan files the precursor to future demands continue to become more skewed toward loans that are delinquent but not yet in foreclosure.
+Pending population shown in the top right portion of this slide declined by about $25 million ending this quarter at $564 million.
+This was primarily the result of fewer new demands.
+Bottom left portion of the page shows the changes in the mortgage repurchase reserve.
+Mortgage repurchase provision this quarter was $175 million which exceeded the $113 million in net charge-offs.
+The resulting $63 million increase in the reserve was made in light of our expectation for continued high levels of future demands as well as the belief that the decline in net charge-offs could be timing related.
+Some summary statistics of our sold mortgages are displayed in the bottom right of the page and we've also provided for you in the appendix the same level of additional detail on the 2006 to 2008 vintages that we shared last quarter.
+Overall I'd note that our expectations around mortgage repurchases remain similar to a quarter ago.
+We foresee demand volume remaining high and variable in the coming quarters.
+However if the patterns and full file requests and demands continue to play themselves out as expected we continue to believe we will experience a reduced income statement impact toward the latter part of the year.
+Let's move on to expenses on Slide 8.
+On a reported basis expenses declined by $126 million from the fourth quarter.
+This was largely the result of the $120 million accrual taken in the fourth quarter for the potential mortgage servicing settlement.
+We also saw a decline in credit-related expenses and operating losses.
+As usual we provide some additional information on these expenses in our appendix.
+You'll see that collectively they were down by $91 million with the primary drivers being seasonally lower credit and collections expenses lower losses from other real estate owned and lower legal and mortgage servicing-related accruals.
+Employee compensation and benefits increased by $173 million this quarter.
+You'll recall this line item was abnormally low in the fourth quarter as we curtailed our pension plan and made reductions to our 2011 incentive compensation pools.
+After you adjust for these 2 items the increase this quarter was primarily related to the normal seasonal increase in employee benefits costs.
+Relative to the prior year expenses were up by $76 million.
+Employee compensation and benefits increased by $43 million in light of improved performance and modest annual salary increases.
+Operating losses were also higher up $33 million as a result of specific legal and mortgage servicing accruals.
+Conversely marketing and FDIC premiums and regulatory assessments were down by a combined $30 million.
+Before we turn to the balance sheet sliding on slide -- starting on Slide 9 I'll summarize the income statement this quarter by noting that we benefited from many of the favorable trends that began to develop in the second half of 2011 and we were pleased to begin 2012 with a quarter of solid core performance.
+Average performing loans grew by a healthy $3.3 billion or 3% from the fourth quarter and were up by $8.6 billion or 8% from the prior year.
+The sequential quarter increase was relatively evenly split between the commercial residential and consumer loan categories.
+Within the commercial book C&amp;I was again the primary driver up $1.1 billion or 2%.
+Similar to recent quarters the growth was primarily concentrated in our large corporate and middle market segments.
+Large corporate growth occurred in most industry verticals most notably media healthcare and energy.
+And momentum within the middle market segment continued to build as it was up by about 10% sequentially.
+Residential loan growth was driven by guaranteed loans which increased by $1.2 billion and was partially offset by a decline in home equity.
+All consumer category loans increased led by student loans which was up primarily due to the full benefit of loans acquired during the prior quarter.
+The growth from last year was driven entirely by targeted categories specifically C&amp;I guaranteed mortgage and consumer loans.
+C&amp;I increased by $5.4 billion or 12%.
+Similar to the sequential quarter story loan growth was widespread across large corporate industry verticals as well as our middle market segment.
+Guaranteed mortgages were up $2.2 billion and consumer loans grew by $4 billion led by student and auto.
+Conversely CRE construction home equity and non-guaranteed mortgage balances all were managed down by about $3 billion in total.
+This contributed to a continued derisking of the loan portfolio which you see on Slide 10.
+The portfolios that we've categorized as higher risk declined by $13.6 billion or 58% over the past few years and they were down by another $400 million this quarter with the declines evenly distributed across the 3 major categories.
+Higher-risk balances were managed down by $2.4 billion or 20% over the prior year.
+Commercial construction comprised $1 billion of the decline while higher risk home equity and mortgage balances both declined by $700 million.
+As can be seen at the bottom of the page the overall decline in the higher-risk balances has essentially been offset by increases in government-guaranteed loans which has helped to significantly alter the risk profile of the portfolio in a relatively short period of time.
+This improved risk profile becomes evident in our credit trends which you see on Slide 11.
+Credit quality continued to trend favorably this quarter with meaningful declines in delinquencies nonperforming assets and loans and net charge-offs.
+Early-stage delinquencies excluding government-guaranteed loans were down by 9 basis points this quarter.
+The accelerated rate of improvement from prior quarters is attributable to normal seasonality of delinquency trends coupled with continued improvements in the loan portfolio.
+We're happy to report a 29 basis point decline in indirect a 19 basis point improvement in home equity and an 11 basis point decline in non-guaranteed mortgages.
+Nonperforming assets and nonperforming loans both declined by approximately $250 million this quarter.
+The 9% sequential quarter reduction in nonperforming loans is primarily driven by declines in commercial construction and residential mortgages.
+A portion of the residential mortgage decline was the result of our decision to move $86 million of nonperforming loans to held for sale and we expect to complete the sale of these loans during the second quarter.
+Relative to the prior year nonperforming loans declined about $1.3 billion or 33% with commercial construction C&amp;I CRE and residential mortgage the largest contributors.
+Several banks this quarter reclassified into NPL performing home equity lines that are behind delinquent first mortgages.
+Based upon our existing accounting policies and practices we did not believe it was necessary for us to make a similar reclassification.
+However I will point out that our reserving methodology takes this issue into account either by the direct knowledge we have from servicing the first mortgage or via the regular refreshing of FICO scores which quickly respond to borrower delinquencies.
+Therefore if we are ever required to reclassify this small population of performing loans as nonperforming we would expect the income statement impact to be immaterial.
+Net charge-offs were down by $50 million or 11% sequentially which was better than our expectations.
+Declines came from most loan categories most notably C&amp;I CRE and residential construction.
+These declines were partially offset by a $10 million increase in residential mortgage charge-offs the result of the aforementioned move of certain nonperforming loans to held for sale.
+Relative to the prior year net charge-offs were lower by about $150 million driven by commercial construction residential mortgages and home equity.
+In light of the continued improvement in credit quality the allowance for loan and lease loss ratio declined by 9 basis points to 1.92%.
+Excluding government-guaranteed loans from the denominator of the calculation the ratio at quarter end stood at 2.16%.
+Overall we're pleased with the continued improvement in credit trends.
+As we look to the second quarter we currently expect to see additional declines in nonperforming loans and relatively stable to down net charge-offs.
+Let's take a look at our deposit performance.
+This quarter we again benefited from favorable deposit trends.
+Average client deposits grew $800 million with all of that coming from lower-cost categories.
+DDA was the primary driver up $1.3 billion or 4% with growth from both consumer and commercial clients.
+Conversely higher-cost time deposit balances continued their decline by $700 million or 4%.
+Compared to a year ago client deposits grew by about $5 billion or 4%.
+DDA increased by over $7 billion or 25%.
+Savings was up by $600 million or 14% while time deposits declined by $2.4 billion or about 12%.
+We've been able to achieve this deposit growth while also closely managing pricing demonstrated by interest-bearing deposit costs coming down 17 basis points from last year.
+Another benefit of our strong liquidity position and DDA growth is that we reduced our average long-term debt by $2.5 billion from last year.
+Collectively these favorable liability trends have resulted in an $82 million or 27% year-over-year decline in our overall interest expense which has been a major driver of our net interest income growth.
+Slide 13 provides information on our capital metrics.
+Tier 1 common capital increased for the seventh consecutive quarter up sequentially by another $200 million as a result of retained earnings.
+Tier 1 common ratio ended the quarter at an estimated 9.3% up from 9.22% at year end.
+The tangible common equity ratio increased by 5 basis points due to higher earnings which also led to the increased tangible book value per share shown in the bottom right of the page.
+Let's turn to Slide 14 for a discussion of our Playbook for Profitable Growth Expense program.
+As you know our PPG Expense program's ultimate goal is the removal of $300 million from our run rate expenses by the end of next year.
+To date we've achieved $190 million of these savings on an annualized basis.
+This program is comprised of several fundamental expense-savings initiatives.
+They're broken into 3 main buckets: strategic supply management consumer bank efficiencies and operations and support staff.
+You can see on the bottom of the slide that many of our programs are well underway and we've clearly attained some good initial results.
+Our strategic supply management initiatives have lowered costs with our suppliers as well as reduced our own demands for such services.
+In addition to contract renegotiations savings are being realized through markedly reduced travel and lower usage of temporary labor courier and print services.
+In the consumer bank efficiencies category savings have come through branch staff and location efficiencies that we achieved via technological advancements and strategic investment in lower cost channels.
+This is a win-win as our clients value the enhanced conveniences and adoption rates of the new technology have been high.
+Further we garnered savings on our rewards check card program by renegotiating what we pay for the rewards and restructuring the rewards earnings rate.
+Several initiatives have driven our operations and support staff savings.
+We further reduced spend in layers in the organization and initiated Lean process design efforts to streamline key business processes generate measurable savings and enhance client experiences.
+Furthermore we made significant progress in our efforts to leverage digital technology reducing paper statements by hundreds of thousands.
+These items coupled with the progress we made last year put us in a good position relative to our stated expense savings goal.
+Taking the broader view and looking over the longer term we are acutely focused on improving our overall efficiency ratio.
+We've previously articulated our longer-term goal for a sub-60% efficiency ratio upon the abatement of elevated credit- and mortgage-related expenses and that is what we're actively working toward.
+This program is the start and is providing the impetus for us to become a more efficiently run organization.
+I'll conclude today with an overview of some changes that we've made to our segment reporting structure.
+You will recall that we previously reported results for 6 primary lines of business: Retail Banking Diversified Commercial Banking Corporate and Investment Banking Wealth and Investment Management Mortgage and Commercial Real Estate with the remainder in Corporate Other.
+Starting in 2012 our results are being reported via the 4 segments that you see here: Consumer Banking and Private Wealth Management Wholesale Banking Mortgage Banking and Corporate Other.
+Mortgage and Corporate Other are largely unchanged but there are notable changes in the other 2 segments.
+First we formed Consumer Banking and Private Wealth Management by combining our legacy Retail line of business with the private wealth portion of our former Wealth and Investment Management line of business.
+Second we created Wholesale Banking by combining our previous Corporate and Investment Banking Diversified Commercial and CRE lines of business.
+Business Banking our small business banking unit which was previously included in Retail is also now part of Wholesale.
+Additionally the other major units of our former Wealth and Investment Management unit GenSpring our family office and RidgeWorth our mutual fund complex also roll up into the new Wholesale reporting segment.
+These changes were made in light of how our clients want to bank with us and how we manage our business.
+For example when a business client has cash management lending real estate and capital markets needs we serve this client by delivering SunTrust's full set of capabilities via our Wholesale Banking line of business and this reporting structure facilitates that delivery approach.
+Similarly when a consumer client has traditional banking and wealth management needs our Consumer Banking and Private Wealth Management line of business is able to seamlessly offer these capabilities.
+To best serve our client needs we reorganized our management structure last year and appointed an executive to run each of our major segments.
+Brad Dinsmore is in charge of Consumer Banking and Private Wealth Management.
+Mark Chancy runs Wholesale Banking and Jerome Lienhard leads Mortgage Banking.
+With that I'll turn the call back over to Bill to wrap us up before we go to Q&amp;A.
+Okay thanks Aleem.
+Before we move on let me briefly share with you a few comments about our business line performance to help reiterate the improvement we're seeing in our underlying core performance.
+During the quarter Consumer and Private Wealth Management completed our deposit transformation away from free checking.
+We retained 98% of our balances through this process and the average deposit size of a new checking account is up almost 50% in our Everyday Checking product relative to what it was under free checking.
+Loyalty as you might expect took an early dip during the transition but I'm pleased to say it has rebounded and it now exceeds where we were before the transformation and maybe most importantly total deposits have continued the favorable trend.
+Now another good sign of early recovery and our execution is evidenced in consumer lending overall where production has been very strong.
+It's up 24% on a year-over-year basis and that's totally organic not from purchased assets.
+Our Wholesale business continues to perform well.
+Net income is up 60% from the prior year.
+Our Corporate Investment Banking business continues to build momentum and this unit posted its second-highest quarterly profit ever.
+C&amp;I loan growth overall remains solid though still more concentrated in larger corporate and middle market.
+Deposits are strong and the Wholesale line of business is generating positive operating leverage.
+While we continue to manage through the legacy issues in Mortgage origination activity was a bright spot this quarter.
+Production was up by 1/3 from the prior year reaffirming our relationship-driven model.
+So our progress is steady.
+We're on the path to improved performance relative to our opportunity.
+I'll wrap up my comments on the quarter.
+I'd characterize our results as a solid start to the year that built upon improved momentum that we established and generated last year.
+We benefited from the mortgage refinance tailwind this quarter helping us overcome some of the fee income headwinds on the consumer side.
+More broadly though we see good underlying improving core performance in virtually all of our businesses.
+So with that said Kris I'll turn it over to Q&amp;A.
+Right Wendy we're ready to begin the Q&amp;A.
+[Operator Instructions] [Operator Instructions] Our first question today is from Kevin Fitzsimmons from Sandler O'Neill.
+L.P.
+Research Division</strong> Was wondering Mortgage was definitely the main bright spot this quarter.
+You mentioned it as a tailwind.
+Can you just give us a little sense for how to look at that going forward? I know the MBA forecast is for the refinancing to peak -- have peaked in fourth quarter and for that to flow through but you also mentioned the HARP program.
+So just how should we think of that? Should we think of it as kind of falling off a little bit in the next few quarters or does it remain at this level for a quarter or 2? Kevin it's Bill.
+I'll take a crack at starting that and it depends on a lot of variables.
+I mean clearly refinance -- I mean we were -- 3/4 of our business was refinanced and 1/3 of that was HARP.
+So HARP was big for us.
+If you think about our markets the amount of homes underwater it’s still a significant opportunity for us.
+So I think HARP as an individual unit probably has more legs than maybe we would have anticipated a quarter ago and we got off to an early start at HARP.
+We have to eventually see some purchase volume though to sort of keep the momentum up.
+And while we see sort of glimpses of it and we'll see a week to week or slight improvement it still is not the big driver and refinance eventually runs its course.
+That being said I think it probably has a few more legs than it did and we need to see that purchase volume.
+Does that make sense? L.P.
+Research Division</strong> Yes.
+Yes it does.
+One quick follow-up.
+You mentioned early on in the call about the impact of the swaps rolling off and I think you said that would be roughly a 10 basis point impact to the margin.
+Should we look at that as the total hit to the margin or are there other offsets that could lessen that impact on the consolidated margin? Well that 10 basis point impact Kevin was just for the swaps alone.
+In addition to that of course we’ve just got the regular overall drift of lower interest income and lower margins as a result of the interest rate environment we're in.
+So I think you'd already seen some of that happening around the industry this quarter and for the last several quarters.
+The 10 basis point will be in addition to what you're already assuming for us as lower margin and drift-down.
+Having said that you see some of the actions that we've already taken and already been taking over the last year to try and offset the impact of the rate environment.
+We're grinding down on deposit rates.
+We're looking at how we can manage our overall debt.
+One of the levers we have yet to pull is the ability to call our high-cost TruPs at some point.
+So all of those things will end up being offsets to the declining rate environment.
+Our next question is from Matt Burnell with Wells Fargo Securities.
+LLC Research Division</strong> Just staying on the theme of interest cost.
+I'm just curious Aleem where you think you might be able to get the deposit costs down to over the course of the next couple of quarters.
+It was 55 basis points in the first quarter down about 4 basis points.
+I'm just curious as to how you were thinking about getting that number down over the next couple of quarters.
+Matt that's a great question.
+If you'd asked me this a year ago I would not have said we could get them down another 17 basis points in the next [indiscernible].
+So rates have come down more than we expected.
+The ability to move rates down has been greater than we expected.
+And it looks like from what we can see that we still have the ability to do more of that and more than I would have thought a few months or quarters ago.
+So we continue to test markets.
+We continue to see what we can do how we can work with our clients to provide them the best product and service that we can at a fair rate and what the market is able to take.
+So I think you'll see us continue to work this down as much as we can over the course of the next several quarters in this rate environment.
+LLC Research Division</strong> And then just following up on your comment on the TruPS and I appreciate there's some timing issues with this.
+But in terms of the focus of what you could potentially repurchase over the course of this year it looks like you've got one fixed rate issue and a couple of others -- couple of other smaller floating rate issues.
+I'm presuming that you're going to look first to repurchase the higher cost fixed rate TruPS or is there something other than the regulatory call that prohibits you from doing that? No.
+We're primarily waiting on the regulatory issue and you're aware that what we're waiting for here is for the Federal Reserve to issue a Notice of Proposed Rulemaking that formally designates TruPS as no longer qualifying as Tier 1 capital.
+And as soon as they do that that's a change in the structure of the product for us and where -- we can then call them.
+The total amount of TruPS we've got outstanding is $1.9 billion.
+Of the $1.9 billion about $700 million are floating rate and we may end up keeping those just as regular Tier 2 capital.
+There's $1.2 billion that's at a relatively higher rate.
+And actually both -- the $1.2 billion is composed of 2 issues both of which are fixed rate.
+So it would be a reasonable assumption to make that we would focus on that $1.2 billion first.
+Our next question is from Betsy Graseck with Morgan Stanley.
+Research Division</strong> Two questions one on liquidity.
+Could you just give us a sense as to how you define your excess liquidity and how much more you could shift into either securities or loans? I know it has a function of deposit growth so assuming deposits are flat? Well we don't really think about liquidity as being excess liquidity.
+We don’t always define liquidity as having -- from that perspective.
+As you know Betsy we've got a big store of liquidity in our securities portfolio.
+So we've got about $25 billion in our securities portfolio $22 billion of which is composed basically of U.S.
+treasuries and agencies and agency MBS.
+That's a big store of liquidity.
+The way we think about it is our first call on liquidity is always client business.
+So we've got the store of liquidity always available in order to support any client requirements.
+That's number one.
+Second store of liquidity is in case we need it for liability management purposes.
+From that perspective we've got lots of capacity but we don't really think about liquidity from a sort of required and excess perspective.
+Research Division</strong> Okay.
+And then the follow-up is just on HARP 2.
+Could you just give us a sense of the potential HARPs that you think you have in your portfolio and how much you've got done this quarter? If that rate change persisted how many more quarters we could have HARP 2 impact your numbers? Yes.
+It's a -- there's a lot of capacity within the portfolio.
+So if you were just to sort of do that as analysis you'd have a multi-quarter opportunity.
+But we do a lot of outreach.
+It's sort of hard to project and predict how a client will respond.
+We've been pretty happy with their response today.
+But if you just did a pure calculation it's a multiple of what we did in this first quarter.
+Research Division</strong> So it could take you through 2012 into 2013? Well yes.
+I just want to be careful about sort of going through and saying we'd have this level of HARP all the way through 2012 to 2013 because we just sort of really have to anticipate will the program continue how does it go and what client responses are.
+But as I said earlier it has more running room than we thought initially and the response has been very good and uniquely in our market there are a lot of -- unfortunately a lot of opportunities.
+Our next question is from Ken Usdin with Jefferies.
+Inc.
+Research Division</strong> My first question is regard to the NII outlook again.
+I just want to get your thoughts about future loan growth and the pace of the growing areas.
+And can they kind of offset the runoff and can loan growth offset -- or can earning asset growth offset the NIM compression as we look into the second half of the year from an NII perspective? That's a great question Ken.
+When you look at the loan growth that we got over the last couple of years I think it was very good and probably somewhat surprising in the context of the lack of economic growth that we saw throughout the country.
+So I think you can see over the last couple of years we probably outperformed the average bank in terms of loan growth.
+We've built solid client-facing businesses.
+I think we're pretty close to our clients.
+We understand what their needs are.
+And if there is any type of economic recovery that's anything above sort of the anemic 1% 2% GDP growth we'll be there to capitalize on that.
+As you heard from our previous answer to Betsy we've certainly got a store of liquidity available to support that loan growth.
+So we expect and we hope that in this part of the country where our footprint is if there's any type of economic growth we'll be able to leverage that and we'll be able to leverage that more positively than you've seen in the past.
+And maybe I'll add to that just on the loan growth side.
+Our production numbers are good so we're continuing to see positive increases in production.
+I talked about the consumer side being up 24% over last year.
+First quarter is always lower than the fourth quarter but production is up.
+Pipelines in the commercial and large corporate side look good.
+But to Aleem's point the real leverage is in utilization.
+Utilization is basically flat and has continued to be flat multi-quarter.
+Given sort of our concentration in this business the nature of the type of commitments we make the loyalty that we have from our client base any economic recovery where utilization starts to increase we get I think sort of a disproportionate impact of that on the positive side.
+Inc.
+Research Division</strong> Okay great.
+My follow-up question is just related to PPG and the program outlook.
+You mentioned you're about 2/3 of the way through the annualized run rate.
+I'm just wondering if you can help us understand where that is showing up underneath it.
+It looked like salaries were still a little bit high.
+And how confident do you feel in obtaining if not exceeding the $300 million number given how close -- how far through you already are on the realization? Well Ken let me start that off and Bill may kick me under the table here.
+I expect that we're going -- I'm very confident we're going to attain that number.
+And actually I'm pretty confident we're going to exceed that number.
+The key with the PPG program is it was a good start to move us toward really thinking like a more efficient company.
+So the program in and of itself is important.
+We're very focused on it.
+We're going to make sure we hit and beat that target and probably earlier than we had anticipated when we kicked the program off.
+But the program itself is not the be-all and end-all of where we're going.
+Where we're really headed is to turn this company into a more efficient organization and try and hit that sub-60% efficiency ratio target.
+So this is a start for us.
+It's the impetus to get that thought process changed.
+So we'll hit this and we'll beat it and we'll keep going.
+Did that get all your question? Our next question is from Kevin St.
+Pierre with Sanford Bernstein.
+LLC.
+Research Division</strong> Wondering if we could just dig a little bit more into the credit-related expenses where you saw a nice sequential decline in the quarter.
+I know in the back half of '11 particularly on the operating losses you were a little bit inflated with catch-up charges.
+Do you anticipate the credit-related expenses declining over the balance of the year? And if so what do you consider a more normal range? Some of that decline this quarter Kevin was as a result of the inflated numbers you saw on the fourth quarter.
+You'll recall fourth quarter of every year there's a seasonal increase in costs in credit and collections for example for taxes and that sort of thing.
+So some of the decline this quarter was just as a result of reversing that.
+However having said that we're very very focused on this number.
+You know we are.
+And we're going to be continuing to try and push this number lower year-over-year maybe not quarter-over-quarter but year-over-year from what you see.
+LLC.
+Research Division</strong> Great.
+And then on the mortgage repurchase provisions.
+In the K you've put a range of between 0 and $700 million in terms of remaining accruals.
+Are you still comfortable with that range? And can we assume now that we're talking about 0 and $525 million? We're still comfortable with the overall range.
+I don't know that we're going to get an exact dollar-for-dollar match.
+But I think what you'll see is something that's directionally correct and that overall range generally will continue to hold.
+Your next question is from Brian Foran with Nomura.
+Research Division</strong> I guess just following along the lines of the cost-save program when we try to benchmark how much opportunity is left kind of on the face of the income statement.
+So you talk about getting the core efficiency ratio sub-60% adjusted for all the credit-related items.
+Can you just give us what you peg that number at in the current quarter just given there's enough moving parts that I can imagine different people would come up with different numbers? There were a lot of moving parts Brian.
+Here's a way to maybe think about it.
+When you look at Q4 versus Q1 our overall noninterest expenses were down $120 million.
+One way to think about that is that $120 million was really all the reduction of the fourth quarter accrual for mortgage servicing litigation.
+So that brings us about flat.
+Within that flat Q4 to Q1 there were lots of puts and takes.
+Generally here's the high-level numbers of what we saw Q4 to Q1.
+Employee comp and benefits was up about $170 million as I said.
+The pieces that went into that $170 million were the low pension number in the fourth quarter as a result of the curtailment the reduction in other incentive plans we put in place in the fourth quarter and the Q1 seasonal increase in FICA and employee benefits.
+So those are basically the components of the $170 million increase.
+And that $170 million was basically offset by reductions in marketing in operating losses litigation accruals in FDIC premium and in those credit and collection costs and other noninterest expenses like legal and consulting lower PPG severance et cetera.
+So net-net down $120 million but with a lot of puts and takes.
+Having said that most of those puts and takes were really a Q4 noise not Q1 noise.
+As I think about Q1 it was a relative -- it was a very clean noiseless quarter and most of the differences were really Q4 items from last year.
+And I'll just maybe add a little bit.
+And I know it's frustrating because we talk in terms of run rate.
+And we want to see it in every quarter and it just sort of doesn't have that perfect match.
+But we're confident in the things that we're putting in place that permanently get that run rate down.
+And you look sort of -- to some examples and maybe the other I'd give you is full-time equivalents were down 300 last quarter and down another 500 this quarter.
+And that's clearly another leading indicator of where you look at from a -- or what you need to look at from the expense side.
+Research Division</strong> And then just one other follow-up.
+I mean I guess the mortgage banking improvement in the revenue trends quarter-over-quarter as well as -- I'm assuming relative to your expectations what would be the kind of expense offset we should pencil into that just as we try to figure out that a couple more good quarters from HARP eventually that's going to normalize.
+And I'm assuming at least some of the maybe expense disappointment that investors feel this quarter might come from the mortgage upside but I'm not sure if that's the case.
+So some of it clearly does.
+Incentive expenses will all go up as a result of the increased production.
+However keep in mind there's a little bit of a timing difference between when we recognize income unlock and when we pay incentive expense on close.
+So some of the revenue from this quarter the incentive cost for that will actually show up 60 days out or so when we pay that out on close.
+But the answer overall to your assumption is correct is that the bulk -- other than sort of normal kind of merit increases again offset by sort of total reduction in FTEs is primarily centered in the things that are driving revenue.
+So think mortgage think Investment Banking revenue the things that we're accruing relative to where we see the opportunity.
+And on mortgage part of the offset of that also is just -- I think HARP 2 is a much more efficient loan done through a much more efficient channel.
+So it over time has a different efficiency dynamic and return dynamic than a traditional refinance or certainly a purchase loan.
+Your next question is from Craig Siegenthaler with Crédit Suisse.
+Research Division</strong> First just on the home equity book.
+Didn't look like there was any real impact from the kind of new change or the guidance valuation methodology put in place in January.
+But is there any expected future impact from this or in terms of changes in NPA balances or provisioning? Well I guess that depends on whether we're asked to make the changes that apparently some of the money centers were asked to do.
+It looks like from what the announcements we saw over the last week or so Craig that money centers were asked to make this change but regional banks generally weren't.
+But having said that let me sort of lead you through how we're looking at this now.
+So we've got a $15 billion home equity book.
+About 1/3 of that book are actually firsts not seconds.
+Of the remainder about 1/3 of those we already service the firsts.
+So we can see what's going on in the first and we have a good sense of what's going on in that book.
+Of the remainder where there are seconds and we don't service the firsts we actually do a FICO refresh every quarter.
+And if the first does go delinquent you know it has an immediate impact on FICO and we're able to see that immediate impact and adjust.
+So our reserving methodology already takes that into account.
+Where we can see that happen we built that into our reserving methodology.
+Therefore if we are ever requested to put a required -- to put what are currently performing loans into a nonperforming category we actually don't expect that the income statement impact would be material for us.
+Research Division</strong> Okay.
+So if we think about your home equity book out of the 2/3 that are seconds 1/3 of that you already service the firsts.
+So effectively it's the same valuation methodology the money center’s using now.
+And out of 2/3 of the 2/3 you refresh the FICO so the delta would be modest if anything.
+That's exactly right.
+Research Division</strong> Okay.
+And then just as a follow-up question.
+In your 10-K you gave an upper limit to mortgage repurchase provisions of $700 million.
+Given that you had $175 million this quarter is the kind of updated upper limit now effectively $525 million? Well Craig as I said earlier I don't think it's going to be an exact dollar-for-dollar match every quarter.
+But directionally we expect when we file our K and we update that range it'll be directionally correct.
+Our next question is from Ryan Nash with Goldman Sachs.
+Research Division</strong> Just one other follow-up on the HARP stuff.
+Where are you in terms of the capacity to increase production at this point? And are you actually refi-ing just out of your own servicing portfolio or are you looking outside? We're primarily within our own portfolio.
+And as I said earlier I mean the runway within our own portfolio is pretty long.
+And given sort of our capacity and our portfolio and quite frankly the desire to serve our clients and we're reaching out very specifically I don't see that changing short term.
+I think we've got plenty of runway there.
+And using our capacity I think we'll stay with our portfolio here in the short term.
+Research Division</strong> Okay.
+And then just on utilization.
+You talked about this being flat for multiple quarters.
+Are you seeing actually higher commitments? So is it more you just not seeing a ramp-up in utilization on the part of your borrowers? We're continuing to increase commitments.
+I mean as we grow our business and add relationships our commitments are continuing to go up.
+But we're just not seeing the utilization firm.
+So if you look multi-quarter over the last 3 or 4 quarters we sort of have a continual steady increase in commitments.
+Our final question today is from Greg Ketron with UBS.
+Research Division</strong> Question on Mortgage.
+It looks like your application volume's up about 30% over the last quarter.
+And just a couple of points there that I was looking at.
+One it looks like your correspondent volumes picked up and we know some people have downsized their correspondent business.
+So I guess one question would be the market share that you sense that you're picking up and then two would be the production spreads that you're seeing in this current pipeline compared to what we saw in the fourth quarter -- I'm sorry in the – yes in the fourth quarter that may -- or first quarter that may carry on to the second quarter.
+Yes.
+Greg I'll take a crack at both those.
+Correspondent was up and you know what's going on in the industry.
+But that being said our retail was also up and clear focus on our clients and clear focus on HARP.
+Could correspondent be up more if we didn't have HARP 2.0? Probably but we're trying to manage that fairly tightly and keep a focus on our clients and on HARP as using up a good portion of our capacity.
+On the spread standpoint spreads were better.
+I mean we know everybody's talked about that and that's the case.
+Spreads were better in the first quarter.
+Would they come in slightly over the second quarter? I would anticipate they would because they were at universally abnormally high in the first quarter and I don't imagine over time that's sustainable.
+So they'll come back at -- to a more normalized level over the next couple of quarters.
+Research Division</strong> Great.
+And one maybe bigger-picture question in terms of loan growth and deposit growth.
+And you guys are growing the balance sheet in these areas at rates that we haven't seen in a while and the industry is experiencing a much faster growth rate.
+But do you sense that you're gaining market share? And if so the strategy or what are the sources of that -- of the market share gains? Well you can look at the things you look at.
+So we talked about in the fourth quarter where we looked at FDIC data and from the deposit side and clearly looked at 8 of the 10 largest markets we had.
+You couldn't come up with the conclusion other than we've gained market share I think I mean from that data.
+As it relates to loans you just look at sort of the fed data and sort of industry growth and how we look relative to that.
+And I’d have to come up with a sort of a similar conclusion that there's some gain in share.
+Where that comes from specifically? I'd say everywhere.
+I mean it starts up -- there's a lot of disruption and things that are going on in our market that we all know about.
+On the small side we've had gosh I think 140 bank failures in Georgia and Florida since the beginning of this.
+So we're seeing reduced competition from that standpoint.
+So I don't think Greg it's any one place.
+I just think it's just good raw execution everywhere for us and picking up incrementally every opportunity that we have.
+Research Division</strong> And that's something you feel that's sustainable as we look forward? We've been on a good path.
+And I think as we continue to not only gain marginal share and probably more important is share of wallet and I think that's where our big opportunity is so not only within the market but even within our own client base we're really putting a lot of efforts to gain that share through share of wallet.
+Yes let me just take a minute to wrap up the call and just make a couple of comments.
+I hope that you've been able to conclude that momentum and intensity are building here at SunTrust as we continue to progress against our game plan to significantly improve our performance.
+We've seen evidence of this in our core performance coming out of last year and very positively continue in the first quarter.
+I believe we've prioritized appropriately.
+We're focused in areas that can best impact our future performance and we very much look forward to updating you on our progress throughout the year.
+And with that said I thank you.
+Thanks.
+Feel free to give the IR Department a call if you have any other questions.
+Thanks for joining us.

@@ -1,0 +1,451 @@
+Ladies and gentlemen thank you for standing by and welcome to the Thomson Reuters Second Quarter 2011 Earnings Call.
+[Operator Instructions] And as a reminder today's conference call is being recorded.
+I would now like to turn the conference over to Senior Vice President Investor Relations Mr.
+Frank Golden.
+Please go ahead.
+Good morning and thank you for joining us as we report our second quarter 2011 results.
+We'll begin today with our CEO Tom Glocer who will be followed by our CFO Bob Daleo.
+Following Tom's and Bob's presentations we'll open the call for questions.
+Please limit yourself to one question so we can get to as many as possible.
+Throughout today's presentation keep in mind that when we compare performance period on period we look at revenue growth rates before currency as we believe this provides the best basis to measure the underlying performance of the business.
+Let me point out that the second quarter results are for ongoing businesses and therefore exclude the Healthcare business which we announced on June 6 that we plan to divest.
+Earlier this month we posted on our website the restated financials for ongoing businesses for 2008 2009 2010 quarterly and the first quarter of 2011.
+Today's results should be measured against these financials.
+The planned divestiture of the Healthcare business and several other small disposals had a $0.02 dilutive impact on adjusted EPS in the quarter.
+Today's presentation contains forward-looking statements actual results may differ materially due to a number of risks and uncertainties discussed in reports and filings that we provide to regulatory agencies.
+You can access these documents on our website or by contacting our Investor Relations department.
+It's now my pleasure to introduce the CEO of Thomson Reuters Tom Glocer.
+Thank you Frank and thank you all for joining us.
+Typically when I speak to you each quarter I begin with the review of in-period performance using a slide like this.
+Today I want to do things a little bit differently.
+The numbers themselves are pretty good but they don't tell the whole story.
+So rather than just summarizing our results I'll leave that to Bob Daleo and I'll focus instead on the Markets division reorganization that we announced last week.
+So last Friday I announced a set of organizational changes intended to close the chapter on the Reuters integration and best position us for growth in our financial services businesses.
+These changes will simplify the business enhance sales effectiveness and allow us to call on the resources and talents of the entire company to serve our customers.
+To move with the urgency I felt was needed I also changed our various members of the senior management team including Devin Wenig.
+Our financial business will now be comprised of 2 operating units Financial Professionals &amp; Marketplaces and Enterprise Solutions reflecting our 2-platform strategy Eikon and Elektron respectively.
+Financial Professionals &amp; Marketplaces will focus on services for professionals delivered to screens combining the former Sales &amp; Trading and Investment &amp; Advisory units and includes our trading marketplaces the FX Dealing ones and Tradeweb.
+This unit will be led by Shanker Ramamurthy who joined the company earlier this year and has been running Sales &amp; Trading.
+Enterprise Solutions will focus on services and infrastructure for financial firms as a whole continuing and expanding the current Enterprise unit and will continue to be managed by John Robson.
+This structure will enable us to focus on our core strengths of content infrastructure trading communities distribution and joined-up workflow solutions.
+Eikon remains our flagship desktop offering but it will be sold as part of an integrated strategy.
+These changes not only simplify the Markets organization but also reflect how the financial markets are evolving and reconfiguring themselves becoming really a partnership of man and machine serving customers with the greatest capital efficiency possible.
+This is something we need to stay out in front of and drive.
+So why did we restructure the Markets division? It's no secret that I've been disappointed with the slow growth in Markets.
+I realized that the growth trajectory was not as strong as it needed to be nor was the customer experience universally as favorable as it should be.
+Much of the underperformance resulted from a poorly executed sales reorganization in Markets at the end of last year.
+We've now changed the leadership in Sales and a detailed fix is already underway.
+In addition I felt that we were not leveraging the strength of the entire financial business in the development and marketing of Eikon.
+Again there is new leadership in place and a robust development plan.
+Much of this work was actually already underway but when I saw the results were going to be slower we swung more quickly into action.
+I am disappointed in the overall performance of the Markets division but these week results overall masks some underlying positive trends built on our core strengths.
+So for example our Enterprise business which is now over $1.2 billion in annual revenues grew 10% in Q2 and is an increasingly important part of the Thomson Reuters market story.
+Our trading marketplaces business also grew 10% and our Commodities &amp; Energy and Asia businesses grew 5% each.
+Before I discuss what steps we're taking to improve performance let me say that I view my role as one of galvanizing and leading a strong Markets management team.
+This is not an interim arrangement.
+This is core to my performance as CEO of all of Thomson Reuters.
+In order to accomplish this there are several changes the management team and I have already begun to implement.
+First we've simplified the business structure.
+Second we're driving an accountable performance culture and nothing speaks more loudly to this than last week's changes themselves.
+Third we've begun to realign the sales force with markets customers and products.
+Fourth we're drawing in proven managers and resources from other parts of the company such as Professional to support our efforts.
+And last we will continue implementation of a 2-platform strategy Eikon and Elektron which I'm confident will enable us to drive growth and improve efficiency.
+These changes are all about performance putting proven managers into clear and accountable roles speeding decision-making and improving collaboration all of which together makes me confident that we'll take the company to the next level of performance.
+And with that let me now turn it over to Bob Daleo who'll review the second quarter results with you.
+Thank you Tom.
+And good morning and good afternoon to everyone.
+As in prior quarters I will speak to revenue growth before currency.
+Reported revenues are also highlighted on each slide.
+In addition for consistency and comparability with our previously reported results I'm going to be discussing today only results on an ongoing basis which exclude all of our [indiscernible] announced to date including the recently announced Healthcare business.
+For the consolidated businesses revenues in the second quarter up 4% versus the prior year 3% of that benefit coming from acquisitions.
+Adjusted EBITDA was up 26% and the underlying operating profit was up 17% in the quarter.
+Adjusted EBITDA growth and underlying operating profit across both divisions were due to flow-through from higher revenues integration savings timing benefits in Markets and the benefits of currency.
+The underlying operating profit margin expanded 140 basis points.
+Now moving on to the Professional division.
+As we had previously announced the divestiture of the healthcare unit results in a change within the Professional division.
+The Intellectual Property business has been moved from the Legal segment and combined with our Science business into a single operating unit named IP &amp; Science.
+We'll now be reporting results within Legal for -- we'll be reporting results within Professional for Legal Tax &amp; Accounting and IP &amp; Science.
+And within Legal we will focus on 3 segments which are shown here on the slide.
+US Law Firm Solutions which capture the results for businesses that sell into law firms such as Westlaw FindLaw and Elite.
+The second is Corporate Government &amp; Academic and Risk &amp; Compliance which serve the general counsel market key government customers and law schools and the GRC unit that services customers in a rapidly changing regulatory environments throughout the world.
+And lastly is our global businesses which include our Legal businesses in some of the fastest-growing markets across the world.
+Now as you can see from this chart growth has accelerated as Professional markets recover and we realized the benefits of the investments we made over the past 2 years.
+The second quarter marked the highest growth rate for Professional division since the third quarter of 2008.
+Revenue growth trends have been strong and have been driven by 3 primary factors.
+First growth in the launch of new product platforms such as WestlawNext and the ONESOURCE global tax workstation.
+We've never had a more advanced set of products delivered to our customers.
+Second the Legal services markets continued to improve but at a slower pace than we would like to see.
+Legal demand is up especially at small firms and in the corporate general counsel's office.
+Demand for client development services continues to grow.
+And law firms are now investing in their financial and practice management systems to improve efficiencies.
+We continue to see good acceptance of WestlawNext which is offsetting downward pressure in the core legal research market especially among large law firms.
+So our products are targeted the right markets and we are capturing that growth.
+And third acquisitions in global expansion have contributed to an acceleration of growth.
+Last year the Professional division entered Brazil through the acquisition of Revista dos Tribunais.
+And this year we launched Revista Online the first online legal research service in Brazil a market with over 600 000 attorneys.
+We also made several additional acquisitions in legal and tax accounting space.
+The acquisitions of Complinet and World-Check allow us to further expand our presence in the rapidly growing Governance Risk &amp; Compliance market where we will soon have a $200 million business.
+So overall we expect these trends will continue to the second half of this year.
+Now as noted on that previous slide the Professional divisions recorded 8% revenue growth in the quarter of which half was organic and half was acquisitions.
+And this has been driven by solid performance from each of the 3 business units.
+EBITDA increased 11% compared to the prior year and the corresponding margin was up with 35% up 10 basis points.
+Operating profit was up 10% compared to the prior year and the margin was flat at 26.3% but this also reflects absorbing 140 basis points of margin dilution from the acquisitions that I mentioned.
+Now I'll discuss the results in the segments within Professional.
+Legal's second quarter revenues were up 9% 3% on an organic basis with the balance coming from acquisitions.
+Law Firm Solutions revenue which includes Business of Law print and core legal research grew 2% 1% organic driven by FindLaw and Elite which were up a combined 12% partly offset by a 2% decline in revenues from U.S.
+law firms.
+Corporate Government &amp; Academic and Risk &amp; Compliance grew 16% of which 5% was organic.
+Now our global businesses were up 19% 5% organic with strong growth in Latin America and Canada.
+Revista Online continues to do very well with sales just starting to ramp up.
+We already have over 100 customers and over 1 500 active users.
+EBITDA increased 9% for the division compared to the prior year and the corresponding margin was 37.2% down 50 basis points.
+Operating profit increased 7% from revenue flow-through and savings from efficiency initiatives.
+The margins declined 90 basis points to 28% due to acquisitional dilution and product mix.
+Tax &amp; Accounting had a very strong second quarter from the top line to the bottom line.
+Revenues in the quarter grew 10% of which 7% was organic and this was driven by the Professional tax business related to electronic filing of tax returns strong growth in income tax provisions and indirect tax products and check point.
+Tax &amp; Accounting continues to show strong EBITDA growth up 29% the fourth conservative quarter of double-digit growth.
+Higher revenues and effective cost management led the increase.
+Operating profit increased 43% and the associated margin was up 430 basis points to 19.8% benefiting from revenue growth efficiency initiatives and the fall off of amortization software associated with acquired businesses over the past 3 years.
+This business is tracking exactly what we told you it would be doing a year ago.
+Now our newly formed IP &amp; Science unit is the most global business in Professional with over 30% of its $800 million of revenues and 70% of its employees outside North America.
+IP &amp; Science has strong relationship with the world's leading corporations universities law firms and governments.
+We serve over 5 000 academic research institutions.
+In the corporate market we have over 1 800 pharma and biotech customers 12 000 patent and trademark customers and serve over 10 000 law firms.
+We operate an attractive business model with 95% of revenues being electronic software services 70% of this is recurring.
+The business is also highly profitable with a 33% EBITDA margin and a 27% operating margin profit margin as was recorded in 2010.
+IP &amp; Science is a large global market that is growing particularly in the RDEs.
+The number of researchers grew 25% since 2002 while new patent filings grew at an average rate of 5% globally over the past 5 years.
+We believe there is significant opportunities to accelerate growth through geographic expansion cross-sell opportunities expansion into adjacent markets and in general putting a commercial scheme on what has heretofore been a largely academic business with very strong products and services.
+And we are excited about the prospects for this unit.
+Now turning to the financial results for IP &amp; Science.
+Revenues grew 4% in the quarter half of which was organic.
+Growth was driven by Scientific &amp; Scholarly Research revenues which were up 5% led by the Web of Knowledge subscriptions and the Life Sciences business which were up 11% due to strong demands for biology and disease analytic products.
+IP Solutions was up 2% driven by growth in patents and services.
+Now EBITDA increased 1% compared to the prior period and the margin was 33.6% which was down 190 basis points.
+Likewise operating profit was up only 2% and the corresponding margin declined to 27%.
+The decline in both EBITDA and operating margins was primarily due to product investments related to the launch of the Web of Knowledge 5.0 educational costs to expand our important Chinese patent database and technology costs related to the new product -- new pharma product which will be launched this quarter.
+Now before I turn to the Markets division results let me just spend a moment on the professional legal strategy in Latin America.
+A region that we believe has significant potential as professional markets develop in line with their economies and where we have made several acquisitions over the past 18 months.
+This is a region where our revenues in 2009 were less than $35 million and by the end of this year we expect they will exceed $130 million.
+Professional division has been focusing on growing our footprint in Latin America.
+The relative economic strength of Brazil and the rest of Latin America contrast with the low economic growth in developed economies.
+These countries are quite attractive given that they have a large and growing professional class the professional markets themselves are already developed there is a low level of spend for professional as compared to U.S.
+and European Markets and these professional's build at similar rates as these more developed markets.
+The firms have money to spend on new electronic products and services and these markets are predominantly print-based.
+So we've been capitalizing on this opportunity with the acquisition last year of the largest legal publisher in Brazil as I noted Revista dos Tribunais and last month we acquired Mastersaf one of the leading tax and accounting firms also in Brazil.
+We will soon integrate Mastersaf's tax and accounting content with Revista's tax-related content and we'll launch a new robust Tax &amp; Accounting service on our global ONESOURCE platform.
+So we believe we have the opportunity to quickly develop high-end online solutions by leveraging our content technology and infrastructure across the region which will lead to a much larger and faster growing set of businesses.
+Now I'd like to turn to the Markets division.
+In the second quarter Markets division revenues grew 1% compared to a 3% decline in the prior year.
+Excluding recoveries revenues grew 2%.
+Growth was driven by a 1% increase in recurring revenues which account for about 77% of the division's revenues.
+Transactions and outright revenues grew 7% and 19% respectively more than offsetting a 60% decline in recoveries.
+EBITDA was up 25% and the margin increased almost 400 basis points from the prior period to 28.1%.
+The segment's operating profits in the quarter grew 24% and the margin was up 280 basis points from the prior period to 20.5%.
+There were benefits from currency and expense timing during the quarter and believe this is the high watermark for both EBITDA and operating profit margins for the year for the division.
+Now I'll return to the results for the individual segments.
+Sales &amp; Trading revenues were up 1% driven by the growth of Tradeweb related to the company's increased ownership in the business and Tradeweb's core organic growth of 7%.
+Revenue growth was partly offset by a 10% decline in recoveries.
+Excluding recoveries Sales &amp; Trading revenues were up 4%.
+The Commodities &amp; Energy segment was up 5% primarily due to the acquisition of Point Carbon as the Treasury business was flat while Exchange Traded Instruments declined 7%.
+Planned shutdowns of low-margin products accounted for about half of this decline and the continued decline in recoveries accounted for about most of the balance.
+Now Eikon sales are now at 28 000 desktops.
+This is up 45% from the first quarter's 19 000.
+The 25 000 migrations represent about 15% of our premium desktops.
+The length of time -- I should point out that the length of time from purchase to activation varies and today we have approximately 6 000 active users.
+New sales can be up and running i as few as 10 days as we process the order install the product and train the end-user.
+For large customers the timetable can be several months as we coordinate communication lines and installation plans with the clients' rollout schedules train the end users build compliance rules and transfer the data and models.
+We are continuing to work on streamlining this process.
+Investment &amp; Advisory revenues declined 2% with Corporate Investment Banking and Wealth Management revenues all up.
+However Investment revenues declined 8%.
+Decline was driven by the U.S.
+business with the European business flat and the Asian business returning to consistent sales growth.
+Enterprise continued to perform very well growing 10% in the quarter which is all organic driven by a continued strong customer demand for its innovative data distribution platform.
+Eikon now has 12 hosting centers around the world.
+Real Time Solutions grew 9% and Enterprise Content was up 20% due to continued strong demand for both realtime data feeds and pricing and reference data.
+And finally Media's revenues declined by 1% in the quarter.
+Now moving on to the consolidated results.
+Underlying profit in the second quarter was $669 million as noted on this chart.
+And that the several adjustments which were reflected on the slide the net result is $429 million of adjusted earnings or $0.51 per diluted share.
+That's an increase of $0.10 per share versus the year ago.
+The increase was largely attributable to the higher underlying operating profit and lower integration costs.
+Currency accounted for about $0.03 of this increase.
+A complete reconciliation from net income to adjusted earnings is available in the press release issued this morning.
+Now turning to free cash flow.
+Year to date we reported free cash flow that's $573 million.
+Underlying free cash flow which removes $140 million of integration-related cash spending is $713 million.
+Reported free cash flow declined by $64 million versus the prior year primarily due to unfavorable working capital which is timing-related as we have discussed in the fourth quarter earnings call.
+For the full year we expect to generate strong levels of free cash flow.
+Let me also mention while not including our free cash flow we're also working closely to complete the disposal we previously announced.
+They're on track to close by the end of this year.
+We expect the sales we announced this year to generate net after-tax proceeds in excess of $2 billion.
+As we move through the year we will continue to consider the best use of proceeds including reinvesting our business and possible share repurchases.
+And let me remind you that we have in place a 15-million share Normal Course Issuer Bid facility that we renewed in May of this year and it is fully available.
+As Tom mentioned earlier we have affirmed our outlook for our expected performance this year before any currency impact.
+Year to date our revenues are up 4%.
+For the full year we continue to expect revenues to be in the mid-single-digit range.
+Year to date adjusted EBITDA margin was up 25% -- was 25.5%.
+And we're on track to achieve a 300 basis point plus increase over from last year's margin.
+Our year-to-date underlying operating margin was 19.1%.
+Again we believe we are on track to achieve 100 basis point plus increase from 2010's operating margin.
+And we continue to expect a strong EBITDA growth.
+This year will contribute to the 20% to 25% growth in reported free cash flow.
+So just to wrap as we look at the second half of the year we are focused on executing the action plan that Tom discussed accelerating revenue growth in the Markets division and across the company and driving efficiencies across the entire organization.
+Now let me turn it back over to Frank for Q&amp;A.
+Thanks very much Bob.
+Okay we'd like to open the call for questions so if we could have the first question please.
+[Operator Instructions] Our first question will come from the line of Drew McReynolds with RBC.
+LLC</strong> Just focusing in Tom on obviously the Markets performance 0% organic revenue growth versus 1% last quarter.
+Great detail in terms of the plan going forward.
+Just wondering if you could comment somewhat on -- do we take a couple of steps back before moving forward with respect to organic revenue growth? Or are you looking at kind of bumping along with at some point acceleration in 2012? Sure.
+I think there are 3 factors at work here.
+So the first one is that whenever you do this level of transformation there is some period of time where people are trying to get their sea legs.
+So we expect and have factored into our plans some level of disruption that is mitigated also in part by a re-energy on the new team to do a whole bunch of things and take the business forward so that's factor one.
+Factor two is obviously the overall health of the financial services Markets.
+And we're certainly heading the ship into a bit more of the way of headwinds given the cost-cutting posture certainly on the sell side.
+So three when I put it all together what it looks like to me is it may take us a quarter or so to get the thing really revving again.
+But I would expect by the fourth quarter that you would see a pickup in organic revenue absent Greece defaults.
+The U.S.
+decides it's not going to deal with the debt ceiling et cetera.
+Our next question comes from the line of Suzanne Stein from Morgan Stanley.
+Can you just talk a little more about your timeframe for turning around the Markets business? And Tom I just want to make sure that I understood that this is not an interim step for you as far as running Markets.
+Is that meant to be a permanent change? Well you know permanent is a long time right? I think I'm the ninth -- was the ninth Chief Executive in 160 years at Reuters before.
+But yes this is -- earlier in the year we didn't talk a huge amount about it but Jim Smith flattened out the organizational structure in the businesses that comprise the Professional unit took additional direct reports.
+And as you can see in the results not only didn't miss a beat but accelerated performance and really unleashed the creativity and capabilities of some very strong talents in the Professional division.
+So I had planned in any case probably not until next year to mirror that across the entire company in part because some of the opportunities we have require us to work more across different units right? When I saw -- when Bob and I looked at the growth trajectory in Markets and saw that we had hit an air pocket there for a variety of reasons I basically accelerated the plan.
+So it's permanently the way we're going to run more as a integrated operating company and less as sort of 2 monolithic divisions.
+And in terms of your first question about the timeframe I've got a 30 a 90 and a 1-year plus plan and there are things that we've already got done including obviously the reorganization getting people in the top team.
+There's a 30-day plan around the sales execution the real transmission between the business the product groups and sales that we're quite excited about.
+There's a 90-day plan which is more around sort of repositioning the product strategy making greater use of our incredible resources in Enterprise et cetera.
+And then there's a longer-term plan right? The 1-year plus which is more about the development plan forward for the 2 platforms and continuing that strategy.
+So that's -- I'm triaging it into short medium and long-term and we've got good plans for each.
+Okay.
+And if I could just follow up what are your expectations for Eikon adoption for the rest of the year? And can you update us on your plans for pricing of Eikon going forward? Right now we're not making any change in the pricing of Eikon.
+I think we have that right.
+By the way I think the 2-platform strategy is dead on.
+In fact so good that we've organized the firm to be as simple and straightforward as the platforms it takes to market.
+In terms of adoption Eikon will continue to sell.
+It's met a really good customer reaction.
+So I think you'll see a moderate continuation of the same pattern.
+We are taking a look at the development roadmap from here and we may re-prioritize some development over others.
+So I would look for a continuation of the trend that Bob mentioned more sales and more installations.
+But I'll be back probably around the third quarter with more to say about how Eikon fits into our entire strategy.
+Our next question comes from the line of Vince Valentini with TD Securities.
+Two questions on the cost side.
+When you took the $39 million charge in Q1 I think you indicated there could be some spillover and a little bit more of that in Q2.
+I'm wondering if you can clarify if that was buried in the Professional division margins this quarter? And on the Markets side good detail on the FX impact to margins in the quarter in your release.
+But these other one-time or I don't know if they're were one-time or just timing benefits you talked about within Markets.
+Can you quantify those at all and talk about what they are? Well first of all in terms of the one-off impacts -- well let me talk about the -- what we had last quarter Vince was a charge for restructuring and a large bulk of that was really in Markets it wasn't in Professional.
+And in the quarter we had about another $7 million or $8 million of that reflected in there.
+We didn't discuss it so that kind of goes the other way.
+In terms of some of these benefits they're just -- you accrue certain things throughout the year and as you -- certain costs like compensation and benefits and things.
+And as the year progresses you see that the costs are changing so you modify them.
+And in the quarter we have some benefit relative to that.
+Those are the biggest items.
+There wasn't anything more to that.
+I think that the savings that you're seeing and the performance in the margin of Markets.
+This really had to do with the cost savings that have occurred in the implementation of the integration.
+And so those are real.
+But the timing benefits bother me.
+Can you give us any sense -- I mean is it closer to $10 million or closer to $50 million? I'd say it was about $20 million or $25 million -- I think was the number.
+Our next question comes from the line of Colin Tennant with Nomura.
+I had a question again turning back to Markets.
+Tom you mentioned that one of the issues that you encountered was that the customer experience.
+I wondered if you could expand a little on that.
+Were you talking about the service they were getting from sales force structure or is that a product issue? And just following on from that as this transformation or reorganization takes place what sort of KPI should we be looking for in terms of -- in order to sort of track how it's actually progressing? Good questions Colin.
+In my view it's very difficult to piece apart and probably should be product from service because they're intended to be deeply integrated.
+But I do believe that the complexity in the Markets organization in particular post the last year's transformation of the sales force resulted in a fair amount of client disruption changing established account relationships and didn't put our best foot forward in terms of service.
+So the product itself certainly in terms of Eikon the data we have show people really like the product.
+They find it easier to use.
+They can find our data.
+We are beginning to be able to harvest rich-usage data from the product itself rather than sort of separately always with survey monkeys.
+And that will lead to and enhanced customer experience.
+So I wasn't referencing anything more than just -- I know we can do better both with the product as it is today and as the product evolves.
+In terms of KPIs the challenging thing is to me the most relevant issue will be going forward what is our relative share of wallet whatever that wallet will be.
+And I think we can do a lot to enhance the competitiveness the differentiation and the go-to market around not just Eikon but the entire product line in the Markets division.
+Our next question comes from the line of Paul Steep with Scotia Capital.
+Tom maybe you could talk a little bit just about the development plan in Eikon and the timing there in terms of major new functionality to address for example I&amp;A which seems to have sort of moved around? First the timing.
+The second part of that is there any additional investment that we're going to have to make to get there? And I guess the final one that's popped out of all of the earlier questions really is is there any new restructuring charges related to the realignments -- to the reorganizations that have taken place or are taking place? Okay I'll let Bob discuss the cost side on that.
+There are certainly new savings coming both from the number the seniority and the follow-on on the changes in Markets from the consolidation of the 2 business units.
+In terms of the Eikon development path and extra effort we are not adding to the development budgets because actually we think they are full as is.
+We are looking to re-prioritize or change what we're spending on and when.
+Now in terms of the specifics of the roadmap there is a significant release coming out some time late third quarter on Eikon.
+There is additional content functionality and some of the underlying capabilities that will support an investment management product.
+But as I said already at the first quarter and in a couple of public appearances and conferences since I don't expect and therefore you should not expect to have a all-singing and all-dancing investment management release until well into 2012.
+You will see increasing amounts of content and functionality.
+Eikon is a good product today getting better and better.
+But for the sort of complete differentiation of a IM product it's a ways off still.
+And Paul in terms of -- I think Tom mentioned about the additional investment we don't think we need to make any more than what that we're currently anticipating in the business.
+In terms of the charges any reorganization obviously has charges to it.
+On the greater scheme of things they wouldn't be significant.
+And we're still putting together that -- my guess would be in the range of $25 million to $50 million and we intend to include them in our operations.
+So we'll be more clear about that when we get to the third quarter when we have a better understanding.
+But relative to the things we've done in the past it's not material.
+This is more about realigning and streamlining and it's about huge costs.
+We will see some savings obviously but that was not the primary driver in making these changes.
+Our next question comes from the line of Thomas Singlehurst with Citigroup.
+I wanted to go -- I mean almost go back to the beginning.
+And I apologize if it's going over than we -- if it's been asked a couple of times.
+But you mentioned right at the beginning that you've seen a bit of a pocket of -- a pocket in terms of -- air pocket in terms of growth which now turned out to being a flat 2Q relative to plus 1 in the first quarter.
+You said that in third that there'd be a negative 3Q followed by the 2011 4Q on the actions.
+I started to try and balance what is either -- essentially what appears to be quite a significant change in faculty and management with what is ultimately a relatively small change in the business dynamics.
+Just trying to work out where the -- absent this change there would've been a much much worse revenue profile or whether you're just coming and then already big change shift of levity? I understand the question Tom.
+And it's one that not only as a management team we've talked about but as a board we obviously gave considerable attention to.
+And it's the one of when do you pull the trigger on something? How long do you wait? It did not pass our attention that the actual performance in Markets the improvement you see in -- on the EBITDA line on the margin lines are very good.
+My view of the world is when you come to a conclusion about that something needs to be done go fast and do it completely.
+Don't sort of drag it out in various steps.
+So could we have waited longer? Sure.
+Would it have created a terrible financial hole? I don't think so.
+But once I was really clear that I thought higher performance lays from making changes it didn't seem right to just sit with the existing plan.
+And others would say Tom could you have moved 90 days earlier? Weren't these trends apparent? And we balance all those factors and I think that bias was towards early and complete action.
+But one could quibble with 3 months on either side I suppose.
+Our next question comes from the line of Brian Karimzad from Goldman Sachs.
+On the product side here -- I know that's a favorite place for you Tom to think about but this is not apples to oranges to compare a consumer-based product versus something for professionals.
+But it is something we're seeing increasing over time which is the consumer-based products are becoming more powerful and much easier to use than they were in the past.
+And Eikon certainly is a major improvement over the products you had before but we'll take as an example for -- with Google Finance it's much easier to do basic charting functions realtime pricing or perhaps more importantly I can pull up on my iPhone and get realtime quotes for my portfolio without any log-ins without any sort of entering codes or anything like that.
+Now there's a lot of great new functionality in Eikon but I'm wondering how flexible are you with that in bringing the ease-of-use up another level from where you have today? And how quickly can you get there? Well it's amusing or I would say ironic that you mentioned Global Finance which does have some very nice capabilities because actually the person who is now 100% in charge of Eikon development Philip Brittan who's joined the firm recently his last job was actually running Google Finance.
+So he understands both the form factor and the premium that exists for making it simple and attractive at the front end and putting the complexity back into the sophistication of essentially the algorithms that allow for simple search simple interface et cetera.
+Most of these are inherent in your comment is another very good question we think about a lot which is you can get a free quote in realtime as a consumer on a variety of devices so why doesn't everybody just trade the markets off of their iPhone in Google Finance? And obviously you know the answer to that.
+But the day you can do sort of complete depth of book when on your iPhone you can look at not only the last price of the integrated page system but you can look at the vast Triax and internalization pool in your own firm when you could do transaction cost analysis when you can do a much deeper set of functionality and you can do it in very low latency.
+I'd love to trade all day against somebody who's on the other side of an iPhone just getting a realtime quote.
+So you're right there is a growing level of sophistication and quality in consumer land but you don't have much further to go than the Goldman trading floor to see how the professional world continues to create a level of increased differentiation and execution above that.
+And our job is to stay right in lock step with in this case your equity desk.
+Fair enough.
+And just to follow on that I guess a little bit.
+One of the great strengths of Bloomberg obviously is the all-in-one package they have and sophistication that provides which also comes in an all-in-one price which if you step back for a second actually may be a bit of a weakness because in a situation like that it's inherent that you're effectively having lighter users subsidize the cost and expense for the heavier users who're using all the features.
+To what extent do you have any intelligence or telemetry based on your usage that there may be folks who are relatively light users of Bloomberg that could be an opportunity to I won't say pick off but at least migrate to the extent that you have something you can offer at lower price? Well we don't have any particular telemetry there but we do have the very direct human feedback.
+There's a large reservoir of users.
+First of all Bloomberg is an excellent organization it's an excellent product and there's plenty of room -- I don't mind the market at all where there's an excellent competitor at a premium price or even a couple of good competitors.
+It's good for customers and drives us to ever greater levels of excellence.
+I think there is an opportunity not only vis-à-vis Bloomberg but others to win share.
+The way in which we will do that is not only just a desktop versus desktop by terminal by terminal but bringing the whole range of capabilities of this organization including trading platforms including the Enterprise offer.
+So we didn't talk about it because I'm focused mostly on the reorganization.
+But deep in the Markets numbers we have some very good success on Eikon and also 3000 Xtra in embedding Tradeweb fixed income capabilities.
+Really the first time we've begun to see the traction I talked about is possible some years ago.
+And so I'm confident that strategy that isn't only just terminal versus terminal but where we line up with the full strength of the organization now made more easy to tap through the reorg.
+You'll see enhanced sales performance you'll see a higher quality offer.
+Our next question comes from the line of Sara Gubins with Bank of America Merrill Lynch.
+Could you talk a bit more about the sale structure changes that you're making in the Markets segment? And then separately if you could discuss expectations for margins in the Legal segment in the second half of the year.
+Okay.
+I'm going to again give Bob the drive margin one but he can help me on the sales side too.
+There are really 3 things we're doing.
+One is the people the talent.
+We put one of our most talented aggressive managers in place to run the sales organization.
+Two is the sort of simplification of the structure itself and its relationship to the product and business group.
+So I'm not going to bore you with a lot of detail.
+But Markets ran with 4 divisions 3 of them in finance and there were 5 segments in the sales force which gave you call it a 15 a box grid.
+I think we can run in much simpler structure and that's what we're putting in place.
+So one is people two is organization and the number of handoffs and three really is the work on the product line itself and the go-to-market strategy which I was just talking to Brian about a bit which is how do we bring what used to be reserved for our biggest accounts the sort of all-in Enterprise agreement.
+How do we in effect privatize that and bring that to the rest of the offer? So that we're going in with more than just lining up itty-bitty against every competitor? Now Bob you've got the [indiscernible]? Yes.
+I think that what we should see over second half of the year as it tracks next year -- last year rather should be a fairly consistent performance where we're seeing the first half meaning that you'll see some comparative margin erosion which is primarily related to the impact of acquisition dilution.
+So I think if you look at the second half of this year if you look at that and look at the comparisons to where we are this year year to date versus last year probably a pretty good guide right now.
+That's primarily what I would say would be -- the perspective should be longer-term.
+And is it reasonable to think as we look into next year that once those acquisitions run off you should be able to get margin expansion in the Legal segment? Well there's no doubt that over time the margin will improve in Legal.
+Will it ever get back to where they were at the high watermark which was about 33% like in 2008? We've said we don't think so.
+I don't think they have to because we're seeing -- as long as we continue to accelerate growth and drive the profitability of the business you have to remember that -- and overall remember we're not -- measuring Legal of course.
+And in Legal we've had this shift in core Legal research and what's going on there in terms of declining or rather slowdown in growth and that's why we have all these other -- Jim and his team have these tremendous growth initiatives.
+So when we think about the performance of Legal you have to think about in comparison to the performance of Professional in a whole.
+And as we talked about we've just seen the Tax &amp; Accounting business will continue to see significant margin accretion.
+We have a very good performance in IP &amp; Sciences.
+So across the board we would expect that even though Legal on a comparative basis is unfavorable versus the prior year that Professional as a whole will be fairly close to being flat year-to-year.
+And that includes covering the acquisitions that they've made in Legal and other segments.
+So that's the way we look at the business.
+You have to understand that the core Legal business has a higher incremental margin.
+Our growth is coming from very very good products and margins that most of other people would kill for but not up to that same level.
+So we're going through a bit of a transition.
+And as we kind of move to different sweet spots for growth -- and like I said we think Professional will be flat this year and we think that their scope for improvement in Professional margin in the years ahead.
+Our next question comes from the line of Phil Huang from UBS.
+I just want to quickly go back to your earlier comment on Wall Street layoffs.
+Tom with these layoffs back in the headlines I wanted to get your view on the impact to your business again.
+Do you -- specifically do you expect to see the same magnitude of impact to your Markets business that we had in 2009 2010.
+Since I guess the market's implying that I'm wondering if we're missing anything.
+And then just quickly on the Legal side we see the industry recover and litigation activities continue to accelerate and -- but you guys mentioned that the improvement from your business is slower than expected.
+So I was wondering if you could clarify -- maybe provide some additional color on why the industry recovery isn't translating to a stronger organic revenue growth for Legal? Is it because of competitive pressure particularly amongst the larger law firms? Okay.
+We'll -- Bob and I will split it between us on it.
+So let me start with the Markets question.
+2009 2010 was a near-death experience for the Markets in general and an actual death experience for obviously several very large firms.
+And I think we came through that well that the focus that we had by having 2 separate large divisions allowed us to focus on an integration take a lot of costs out of the business all of that for the good.
+Going forward there are headwinds obviously within UBS itself you know more than the rest of us.
+But I would characterize that as sort of retrenching a bit off of an expansion that got ahead and expected -- wasn't foreseeing U.S.
+debt issues  and downgrade -- wasn't foreseeing how long it's taking to play out the European sovereign credit crisis.
+So it will likely result in a reduction in headcount.
+But as you see in the results of our Enterprise and our Trading markets those are growing strongly.
+So that trend of replacing human beings with machines has always been favorable to our Enterprise business and I expect that to continue.
+But yes I do think the headcount-related growth is going to be dampened and we'll just have to see how that plays out through the rest of the year what it looks like when people come back to their desks in September in particular in Europe.
+On the Legal question I'll pass it over to Bob for specifics but I think you have to look at the overall strategy that Jim Smith and Bob and I have focused on there which is not to just sort of milk one part of a business but to actively invest and seek growth and then -- and this is what I think Jim deserves a huge amount of credit for as Bob just mentioned in his last answer absorb the dilution that comes from the amortization of these acquisitions by achieving incremental efficiencies in the business.
+That is really walking and chewing gum at the same time.
+And so in Legal the situation is they are finding areas of growth to grow at what looks at -- I did a quick read across competitors from competitors who reported 3 times plus the growth rate of the other established players in that market.
+Bob? And as we think about the Legal marketplace more broadly there has been -- well we perceive as a fundamental shift in the relationship between law firms and their clients.
+And in particular that has resulted in significant reduction particularly among large law firms of what I'd call their pricing power.
+And so as a consequence they're very careful on how they spend and core legal research is a cost like any other and they manage that very carefully.
+And so for our business and for our competitors as well -- where we have seen declines it's not been in the core.
+Our core subscriptions to Westlaw continue to grow albeit very slowly but that's off the power of WestlawNext.
+It is in ancillary spending that they have really cut back tremendously and continue to do so.
+That would be additional volume additional searches of beyond what their particular contracts says.
+And in that approach as Tom mentioned what we have done what Jim and his team have done really focused on where has that power shifted to.
+It shifted to the Corporate General Counsel.
+And acquisitions like Serengeti and other things that we're doing really now recognize that this is where the growth opportunities are.
+And so the legal marketplace is still a vibrant market.
+It's the power and -- d purchasing power and dynamics of it have shifted a bit and we've shifted our business footprint accordingly in focus.
+So for us core legal research is an important fundamental part of the business but it is not a significant growth factor going forward because we have identified and made investments in other opportunities which will deliver for us similar kind of growth and over the longer term for the specialty group as a whole similar kind of margins.
+So it's what we're expected to right to manage the shifts and dynamics in our markets by making the right kind of investments appropriately.
+And so that's where we stand today.
+And I think that the performance that you see in the quarter is reflective of a longer-term trend that you will see as we go to other growth sources within what is still a very large and robust market and seek out those opportunities to grow.
+Our next question will come from the line of Tim Casey with BMO.
+Two questions.
+One on the Markets group Tom you alluded to the fact that the work that Jim Smith has done in Professional is one of the templates you're following if I can put it that way.
+But one of the things that happened there is as you've alluded to all call is there have been some strategic acquisitions that are driving that.
+So can you talk about acquisitions related to this reorg? Are you setting us up for potential acquisitions in Markets? And the second question relates to divestitures and the buyback.
+Can you give us a little more clarity Bob on timing of when you think you'll close these divestitures? And if you were to pursue a buyback are you able to execute on that before you get the cash in? Okay.
+Let me hit the first one and make the transition to Bob.
+I'm really honestly not trying to set you or anyone else up with any change in the acquisition agenda.
+Professional has done a very good job of using all 3 levers that I think any business should organic development so look at Westlaw look at ONESOURCE and Tax &amp; Accounting partnering as well as acquisition.
+Markets itself obviously had -- did an enormous acquisition if you consider the Reuters one itself and has made some smaller capability acquisitions -- a very good acquisition of a business in the carbon area Point Carbon last year.
+So I'm not signaling that we're going to go and sort of fix Markets with acquisition.
+The fix in Markets really is an organic set of fixes organizational talent in the way we work.
+However we certainly are open to and we look at opportunities to partner and to acquire in Markets.
+And I wouldn't hesitate to do that if we saw the sort of attractive fold-in acquisitions that we've been able to do in Legal.
+Bob mentioned the Serengeti acquisition Pangaea3 also the legal process outsourcing acquisition helps reposition us more quickly towards the general counsel then you probably could get to if you were just doing purely an organic build but there's organic build there as well.
+I'll turn it over to Bob read the timing of the proceeds but let me just say about buyback in general.
+We always look as a matter of capital discipline at what is the hurdle rate we think we can achieve in an organic investment in a acquisition and we compare that with what would an investment in buying back around own shares be.
+And I naturally would feel that way I suppose but I feel very good about our business and we have capacity.
+We're just not going to signal exactly when you're going to see us where in the market.
+Bob do you want to elaborate on that? Yes sure.
+First of all Tim to answer your question we would expect to complete all these divestitures by the end of this year sometime in the fourth quarter.
+And you'll also note Tim that we -- our capital strategy is an integral part of how we run the business.
+And so we have built the capability and capacity of the business to drive any actions that we need.
+And so these are long-term divestitures we're making.
+It doesn't impact our ability to enter the market.
+We have a strong capacity today.
+We have lines of credit.
+We have every capability and we are generating significant cash.
+So that will not -- we are not determining whether we do a buyback based upon whether we have the cash from these disposals and not length.
+They're more determined based upon as Tom said other opportunities internally and how we view the value of our stock vis-a-vis our own internal perceptions of the value so we can act any time we want.
+Operator we'd like to take one final call.
+That will be from the line of Claudio Aspesi with Bernstein.
+Inc.</strong> One question going back to Legal.
+Reed Elsevier this morning effectively seemed to concede that the WestlawNext's gaining market share or driving market share gains for your business.
+But the implication of how they formulated this concession was that fundamentally it was driven by a significant marketing and product investment and that that could be reversed once their products have rolled out.
+I would like to know what steps are you taking if any to make sure that you don't have to seed back market share once the new Lexis tools are rolled out as well? Good question Claudio.
+Well it's interesting that they're now -- I didn't obviously hear their call and I haven't seen the information other than just most snapshot revenue numbers which look like something like minus one to me pre-FX.
+We are continuing to invest behind and enhance WestlawNext continuing the migration itself.
+I think you can take as a given 2 years ago when we could have just kept on milking the old Westlaw and when obviously the world and our results even in Legal were going backwards we poured the oil on the fire.
+Now with a healthier environment and a significant first mover advantage something like half of our user base already moved over onto WestlawNext we're not going to stop that at all and we've got very good plans in place to continue to invest behind it.
+So I think customers should have a choice.
+It won't go -- the market won't go 100% to us but we expect to get a disproportionately fair share.
+Inc.</strong> Okay.
+Can I ask a quick follow-up question? Sure.
+Inc.</strong> The other issue that's going to come up in the next year is this clearly flat pricing.
+You mentioned the relatively weaker position of law firms.
+Is flat pricing a source of concern for you potentially? Well I think if you look at the margins that our competitors have announced I think some of that has got to be what action they've taken on pricing to stay on desktops.
+We have a pretty sophisticated commercial model in our Legal business which looks at each firm's actual usage and the value that we deliver and have always been able to take advantage of sort of premium capabilities and our leading position to get some pricing power there.
+So I don't worry deeply about that.
+But as Bob and I were talking about earlier we don't look at our Legal business and the growth of our Legal business as solely one of research desktops in big law firms.
+We if you will step back and asked ourselves the question "How can we more comprehensively serve the needs of the entire legal community as they change and where should we position ourselves?" And the shift to a greater focus in Corporates the extension into more workflow tools the Serengeti desktop.
+We have other things coming in that area which I think will enable us to continue to find growth in the legal market and to lead the legal market.
+Okay.
+That will conclude our call.
+We thank you for joining us for the second quarter review and we look forward to speaking with you again over the next couple of weeks.
+And ladies and gentlemen that does conclude your conference call for today.
+Thank you for your participation and for using AT&amp;T Executive TeleConference Service.
+You may now disconnect.

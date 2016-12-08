@@ -1,0 +1,433 @@
+Good day everyone and welcome to the Vonage Holdings Corporation Second Quarter 2015 Earnings Conference Call.
+Just as a reminder today’s call is being recorded.
+At this time for opening remarks and introductions I would like to turn the conference over to Mr.
+Hunter Blankenbaker VP Investor Relations.
+Please go ahead sir.
+Great thank you Louise and good morning and welcome to our second quarter 2015 earnings conference call.
+Speaking on the call this morning will be Alan Masarek Chief Executive Officer; and Dave Pearson CFO.
+Also joining us are Joe Redling Chief Operating Officer and Clark Peterson President of Business Solutions Group.
+Alan will discuss the company’s strategy and second quarter results and Dave will provide a more detailed view of our second quarter financial results.
+Slides that accompany today’s discussion are available on the IR website.
+At the conclusion of our prepared remarks we will be happy to take your questions.
+As referenced on slide two I would like to remind everyone that statements made during this call maybe forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These and all forward-looking statements are based on management’s expectations and depend on assumptions that maybe incorrect or imprecise.
+Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially.
+More information about those risks and uncertainties is highlighted on the second page of the slides and contained in our SEC filings.
+We caution listeners not to rely unduly on these statements and disclaim any intent or obligation to update it.
+During this call we will be referring to non-GAAP financial measures.
+A reconciliation to GAAP is available on the IR website.
+And with that I would now like turn to call over to Alan.
+Thanks Hunter.
+Good morning everyone and thanks for joining us.
+I’m excited to be with you today to discuss our Q2 results.
+We’ve had a very strong second quarter highlighted by consolidated revenue of $222 million and consolidated EBITDA of $38 million a 29% year-over-year increase and our highest EBITDA in four years.
+Customer churn in consumer services was 2.2% the lowest in nine years.
+And Vonage business continued its exceptional performance achieving 118% of revenue growth.
+These results demonstrate the successful execution of our strategy to maximize the profitability of consumer services while aggressively growing organic revenues and pursuing M&amp;A opportunities in Vonage business.
+As important as these financial results in the second quarter we continued to make progress transforming our company and building the foundation for long term growth.
+Last quarter I discussed with you the progress we made to establish Vonage as a leading business services brand; organizational changes to capitalize on synergies and to operate more efficiently; steps we've taken to reinvigorate the company's culture by returning it to its innovative and disruptive roots; and investments in our people so that Vonage becomes a destination place to work for the most talented among us.
+These actions are integral to laying a foundation capable of supporting continued rapid growth and fulfilling our vision of becoming the market leader.
+This quarter we took a number of additional steps internally and market facing to build on that foundation and to enhance our leadership position in the rapidly growing UCaaS for business market.
+These included one the consolidation of the Vonage business sales force and realignment of our product set; Two the launch of a new Vonage business brand building campaign; Three the integration of the SimpleSignal and gUnify acquisitions; Four the closing of an expanded $350 million credit facility that further reduces our cost of capital and expands our war chest for future acquisitions; And five the hiring of key senior leaders to bolster our already strong leadership team.
+Now with this as a backdrop let me discuss our results and strategic actions in more detail let's start with Vonage business.
+Vonage business delivered another outstanding quarter demonstrating the effectiveness of our strategy to drive growth both organically and through acquisitions.
+During the quarter we focused extensively on integrating Telesphere SimpleSignal and gUnify with and into the new Vonage business.
+We completed the consolidation of the Vonage business sales organization and products.
+We created two distinct product offerings Vonage Essentials and Vonage Premier.
+Vonage Essentials comprises the products and services provided by the former local Vocalocity and Vonage Premier comprises the products and services delivered by Telesphere SimpleSignal and gUnify.
+Between Vonage Essential and Vonage Premier we have a robust set of product families that are tailored to serve the full range of business segments including SMB the mid-market and enterprise.
+Vonage Essentials is targeted to smaller customers and it utilizes our proprietary call processing platform its purpose built for the SMB customer.
+It provides a cost effective scalable feature rich solutions that's delivered over the top of the customer’s broadband.
+Vonage essentials is sold primarily to our direct telesales and online channels.
+And the great strength of the Vonage brand directly contributes to our low cost customer acquisition model.
+The combination of Vonage's brand awareness which is greater than 80% coupled with our highly efficient telesales model enables us to achieve very attractive subscriber economics from the SMB market.
+And as I frequently remind people 90% of employer firms in the U.S.
+have 24 fewer employees.
+Small business is the growth engine of the U.S.
+economy and we will continue to invest in this end of the market because small companies are moving to the cloud the fastest.
+Our growth strategy for this segment is 100% organic and we will continue to developing our own proprietary call processing platform and sales and market infrastructure.
+Our Vonage Premier offerings are tailor made for the mid-market and enterprise segments.
+Vonage Premier is a feature rich wholly-managed solution that utilizes BroadSoft enterprise grade core processing platform.
+It provides robust QoS calling service and is generally delivered over our national MPLS network with 18 POPS across the country.
+When combined with our other cloud services and provisioned over our best-in-class proprietary support infrastructure named [indiscernible] Vonage Premier provides a compelling solutions for these larger customer segments.
+Vonage Premier is sold through our indirect channel sales direct field sales and enterprise teams.
+We have nearly tripled the size of our channel sales team with recent hires and the addition of channel teams from Telesphere and SimpleSignal.
+We are a preferred provider for many of the largest master agents in the country harnessing a network of over 20 000 sub agents selling both Vonage Premier and Vonage Essentials.
+Our ability to deliver a comprehensive set of solutions to customers across the full spectrum of size and complexity is resonating well with our channel partners.
+Given our strong brand our financial strength and our excellent customer service we believe we are uniquely positioned to have our channel partners think Vonage first regardless of the size or complexity of a customer opportunity.
+The creation of Essentials and Premier and the alignment of our sales force to drive the right products to the right customer are critical steps for Vonage.
+By operating two platforms at scale we delivered products and solutions addressing the needs of diverse customers while maximizing our subscriber economics regardless of the segments served.
+This strategy is paying off nicely as Vonage businesses organic revenue growth projected at 40% this year leads the entire UCaaS market and would place us tenth among all public SaaS companies in terms of revenue growth.
+Importantly our market leading growth comes from customers both small and large.
+For example in Q2 we added more than 8 000 new logos as Vonage business customers and more than 25% of Vonage business revenues came from customers greater than 50 seats.
+So the changes I have just outlined these are the foundational elements necessary for our continued organic growth but they also directly support our ability to absorb new acquisitions.
+We’re actively evaluating a rich pipeline of opportunities and we will continue to be a disciplined acquirer.
+We’re confident in our ability to find execute and integrate accretive acquisitions that are complementary to our current portfolio.
+To facilitate this inorganic strategy we announced today a new $350 million credit facility.
+This facility replaces our previous $225 million credit facility and provides even greater financial flexibility and more attractive terms while lowering our cost of capital.
+Combined with the cash flow from consumer services we have the capital to take advantage of multiple acquisition opportunities.
+Now that the foundation of Vonage business is more established we’re increasing our investment in the Vonage business brand.
+In mid-June we launched the business of Better Campaign.
+This multimedia campaign is designed to harness the power of Vonage’s outstanding brand awareness yet pivot the brand in the business market.
+This campaign is designed to reposition the brand for long term growth and to ensure that businesses and partners again think Vonage first when it comes unified communication needs.
+We intend to accelerate our investments in our brand campaign in the second half of the year.
+Finally we close on the gUnify acquisition on May 15th and our initial interest from customers has been very strong.
+We anticipate that our integration with SaaS business applications like Google for Work Salesforces’ SalesCloud Zendesk Clio and others will lead even stickier customer relationships.
+So to summarize the Vonage business had a great quarter we delivered exceptional results while making important progress building a strong foundation for continued market leading growth.
+We enhanced our product and sales organizations began an exciting branding campaign and aligned our teams and products to better serve all segments of the market and we have the balance sheet and financial flexibility to continue to drive organic and inorganic growth in our quest to become the clear leader in cloud communications for business.
+I'll now move on to consumer services where we remain intensely focused on profitability and cash flow.
+During the quarter our primary effort was to improve marketing efficiency and to drive lower churn by increasing the quality of the customers we acquire.
+We optimized consumer sales and marketing and lowered customer acquisition costs by reducing spend on basic talk exiting or reducing assisted selling in certain retails channels and cutting non-working and inefficient media.
+In parallel we began utilizing more efficient direct response vehicles and we increased our spend in digital.
+In Q2 these changes resulted in a $7 million sequential reduction in consumer services sales and marketing.
+And we achieved this spend reduction while maintaining Vonage branded gross line additions essentially flat for Q1.
+This $7 million reduction builds upon the $10 million reduction we achieved in Q1 of '15 sequentially versus Q4 of '14.
+Our net subscriber line losses define as gross line additions less churned accounts declined for the third consecutive quarter.
+Consumer account churn for the quarter was 2.2% a 40 basis point improvement over or the year ago quarter and the lowest level of churn in nine years.
+This reinforces the positive impact of our customer acquisition strategy and the stability of our tenured customer base.
+This churn reduction combined with lower customer acquisition cost is driving significant improvement in customer life time value.
+Given these results we're confident we're taking the right steps to optimize profits in consumer services.
+Now let's highlight some notable additions made this quarter to our senior leadership team.
+We're building a world class team to drive execution of our strategy and in just the last few weeks we announced three key new hires.
+Omar Javaid is joining us as Chief Product Officer reporting to me.
+Omar is a Silicon Valley product executive with significant experience driving cloud service product offerings from concept to customer delivery.
+He’s held Senior Product Management and General Management positions at Rovi HP Motorola Mobility and Qualcomm.
+Omar will be responsible for Vonage's overall product strategy and he will work with teams across the organization to define and execute our product roadmap for consumer services and Vonage business as he drives further innovation in our product development.
+Chris Narayanan joined as Senior Vice President of Digital.
+Chris has deep experience driving digital transformation of brands and businesses.
+He comes to us from JPMorgan Chase where he was the head of digital Chase card services.
+He oversaw chase.com which is one of the top 20 websites in the U.S.
+and prior to Chase Chris led Digital for Samsung for all of North America.
+And lastly Greg Fittish [ph] joined from Google as Chief Sales Officer of our indirect channel direct deals and enterprise sales teams reporting to Clark Peterson.
+Having worked with Greg at Google and Click Office for almost a decade I'm confident Greg will bring valuable leadership to our already strong sales organization and will drive further growth.
+In closing we had a great quarter and I'm proud of our results.
+We're executing on our plan to maximize profitability in consumer services while driving market leading growth in Vonage business.
+After nine months as CEO I'm more confident than ever in our opportunity to create significant shareholder value.
+We’ve laid a solid foundation from which to build a true industry leader.
+With Vonage business we have an excellent position in the market and the right product suite aligned with the right sales channels to successfully attack the full spectrum of the business market.
+In consumer services we've increased cash flows by sharpening our operational and marketing discipline.
+Our improved profitability and cash flows enabled us to secure a larger more flexible and less costly borrowing facility which gives us further cost of capital advantages.
+We have a deep and talented management team that is enormously scalable and capable of managing a company well beyond our current size.
+Our results demonstrate that we've made extraordinary progress and as proud as I am of these past results I'm convinced that our best days lie ahead and I look forward to updating you regarding our continued progress.
+Thanks for your time this morning and now let me turn the call over to Dave to discuss our financials in more detail.
+Thanks Alan and good morning everyone.
+I am pleased to review our financial results for the second quarter of 2015.
+Before reviewing the results let me provide context for the numbers we’re reporting this morning.
+We closed on the acquisition of SimpleSignal on April 1 and on the acquisition of gUnify on May 15 2015.
+Therefore second quarter results include a full quarter of SimpleSignal a partial quarter of gUnify gUnify having no material impact on financial results.
+With that let’s move to slide four.
+Consolidated revenue for the second quarter was $222 million up $2 million sequentially and up $3 million year-over-year.
+Vonage Business revenue grew to $49 million from $42 million sequentially reflecting another strong quarter of organic growth and the addition of SimpleSignal revenue.
+Year-over-year Vonage Business organic revenue growth as if we owned Telesphere and SimpleSignal for all periods was 38% and GAAP revenue growth was 118%.
+Second quarter average revenue per user and consumer was $27.79 down $0.18 sequentially and $0.23 year-over-year due primarily to continued changes in plan mix.
+This decline in consumer ARPU is smaller than in the past due to improvements in the share of our gross line adds that are Vonage branded as we reduce basic talk marketing and drive fewer basic talk gross line additions.
+Vonage Business average revenue per seat was $44.22 up $1.17 for the first quarter -- from the first quarter due to the addition of higher ARPU SimpleSignal customer base.
+Moving to slide five customer churn in consumer was 2.2% down from 2.4% sequentially and from 2.6% in the year ago quarter.
+This year-over-year improvement in consumer churn is the result of our focus on adding high value customers that have a lower churn profile as well as the stability of our tenured base.
+This result demonstrates the actions we started taking last year in the assisted sales channel to support only those locations that generate the highest LTVs and the shift in consumer advertising towards more direct response media has had the desired effect.
+Churn has responded well to these actions although it will continue to fluctuate based on seasonal and competitive factors.
+We ended the quarter with 2 million subscriber lines in consumer down 193 000 from the prior year’s quarter excluding 79 000 paid second line extensions that we subsequently adjusted out of the line count when we began offering these extensions for free.
+Consumer lines were down 45 000 for the quarter the third consecutive quarter of lower net line losses.
+This net line trajectory in consumer is planned reflecting our continued focus on adding lines that meet our customer life time value objectives and our decision to redeploy capital into Vonage Business where we have higher LTVs.
+As we previewed on our last call this quarter we began reporting revenue churn for Vonage Business.
+We believe this metric more accurately reflects our business dynamics as we have an increase proportion of our revenue coming from larger accounts.
+Revenue churn is defined as the average of the rate of total monthly recurring revenue or MRR lost from customers that terminated in the quarter and does not include upgrades or downgrades.
+Because this is a new metric for comparability purposes our earnings release shows revenue churn for each of the past six quarters.
+As you can see in the release revenue churn for Vonage Business was 1.3% down from 1.4% sequentially and up from 1.2% in the year ago quarter.
+The increase from the prior year quarter was primarily related to the higher churn of smaller essential accounts as we’ve noted on prior calls.
+The sequential decrease was driven by the increase in our base of mid-market and enterprise premier accounts which are typically on three year contracts take other sticky services such as access and have lower business failure rates.
+Vonage Business grew total seats to 403 000 reflecting strong organic growth with Organic growth and net seat additions both higher than all prior periods and the addition of SimpleSignal seats.
+Now moving to income statement cost items; cost of service was $64 million up from $62 million sequentially due to SimpleSignal and from $59 million a year ago due to the addition of Telesphere and SimpleSignal cost which were partially offset by continued termination cost improvements.
+Turning to slide six sales and marketing expense for the second quarter was $84 million down $1 million sequentially and down $14 million year-over-year.
+This decline reflects continued optimization and reduction of our consumer sales and marketing spend a focus on acquiring quality subscribers and our strategy to generate cash flow and drive growth in Vonage business.
+It also includes a significant ramp in Vonage business sales and marketing cost as we build out the sales to capture the strong demand for UCaaS.
+We expect to continue to reduce consumer and scale up Vonage business sales and marketing expense starting the second half of 2015.
+Consumer subscriber acquisition costs were down again in the quarter consistent with the lower sales and marketing spend and shift to more efficient media channels.
+General and administrative expense for the second quarter was $27 million.
+This was up $4 million sequentially due to the addition of SimpleSignal and changes in stock compensation expense related to the new executives hires to which Alan referred and up $5 million year-over-year primarily from the addition of Telesphere and SimpleSignal G&amp;A expenses.
+Moving to slide seven for the second quarter adjusted EBIDTA was $38 million our highest EBIDTA since 2Q 2011.
+This reflects another strong quarter of cash flow generation from consumer which accounted from more than 100% of EBIDTA.
+EBIDTA was flat sequentially and up 29% from $29 million in the year ago quarter the latter reflecting lower cost in termination and consumer sales in marketing.
+Looking ahead we expect that both sales and marketing and cost of service expenses will be higher in the back half of the year.
+The main driver will be four quarters of investments in the business of Better Brand campaign that Alan discussed.
+Organic growth is our highest capital allocation priority and we believe this campaign is a very effective way to drive this growth and broaden the appeal of the Vonage brand.
+In addition India termination rates have been relatively stable in the recent past have increased modestly due to a regulatory action in India.
+Notwithstanding this change we continue to believe that we have the lowest cost for termination to India from the U.S.
+These factors I just noted will be reflected in EBIDTA for the back half of the year but are consistent with and do not change our full year EBIDTA guidance of at least $135 million.
+GAAP net income was $8 million or 0.4% per share up from $7 million or 0.4% per share sequentially and up from $6 million and 0.3% per share in the year ago quarter.
+Both improvements were driven by higher EBIDTA.
+Adjusted net income was $20 million and 0.09% per share flat sequentially from $20 million and 0.10% per share and up from $15 million or 0.07% per share in the year ago quarters.
+The year-over-year increase was also was driven by higher EBIDTA.
+The adjusted net income metric removes non-cash items such as amortization of intangibles from acquired companies and adjusts for the fact that Vonage is not a material cash tax payer due to our $640 million NOL.
+Moving to slide eight CapEx for the quarter including the acquisition and development of software assets was $6 million primarily for network infrastructure and systems improvements.
+This was up $4 million sequentially reflecting its seasonal nature and flat year-over-year despite the addition of two material acquisitions and corresponding CapEx.
+Free cash flow we defined as net cash provided by operating activities minus capital expenditures and acquisition and development of software assets was $29 million up $11 million from the year ago quarter and up $23 million sequentially.
+Adjusted EBITDA minus CapEx was $32 million down $1 million sequentially based on the higher CapEx and up $9 million or 38% year-over-year all reflecting strong cash flow generation capacity of our business.
+During the second quarter we repurchased 1.2 million shares for $5.6 million under the four year $100 million authorization made at the start of 2015.
+Since the beginning buyback program in August of 2012 we have repurchased 48 million shares of Vonage stock for $146 million at an accretive average price of $3.06.
+We believe this program provides the right capital allocation balance and flexibility between organic investment acquisitions and buybacks.
+Cash cash equivalents and marketable securities as if June 30 were $60 million including $2 million in restricted cash and $10 million of marketable securities.
+Net debt was $118 million at the end of the quarter with net debt to adjusted EBITDA of 0.8 times.
+As Alan noted we closed on a new $350 million credit facility earlier this week.
+This expanded credit facility provides the company with enhanced liquidity and greater financial and strategic flexibility at a lower cost of capital.
+In addition to expanding the facility by $125 million we've lowered our borrowing cost by 37 basis points removed limiting sub covenants so we can use all of the capital for M&amp;A up to the overall leverage limit lowered annual amortization payments on the term loan and extended maturities to 2019.
+All seven existing lenders lead by JPMorgan plus three new vendors participated in it.
+$250 million of the total $350 million facility is in the form of a revolving credit facility which has a very little carrying cost when not drawn and is payable anytime until maturity.
+Moreover when it is fully drawn we pay interest of less than 3.5% based on current LIBOR significant cost of capital advantage in acquisitions.
+We used $167 million of the proceeds to repay amounts drawn under our previous facility.
+Overall we believe that our low cost-to-capital and capital resources continue to represent competitive advantages.
+We put the new credit facility in place because we continue to see attractive M&amp;A opportunities in the market.
+Together with internally generated cash flow we believe we have the capital to continue to build our UCaaS business organically and through acquisition.
+Our near term M&amp;A focus continues to be on operators in the UCaaS space primarily utilizing the enterprise grade BroadSoft platform where we believe we can acquire customers and key sales capabilities technologies and/or geographic presence at accretive valuations.
+As we enter the second half of 2015 we are excited by our organic sales momentum in business strong cash flow in consumer and high overall strategic and financial flexibility.
+Thank you for your continued support to Vonage.
+I will now turn the call back over to Hunter to initiate the Q&amp;A session.
+Great thank you Dave.
+Liz we're ready for the first question please.
+[Operator Instructions].
+Our first question comes from the line of Tim Horan with OpCo.
+Your line is now open.
+Thanks great quarter guys.
+The consumer churn I know it can be volatile quarter to quarter but all the steps you've taken do you think it should continue to trend down here.
+Yeah this is Joe.
+We're pretty encouraged by the decline in the churn but it’s really driven by our tenured base becoming a larger percentage of our subscriber base as well as the managing the frontend on acquisition.
+We typically see some shifts off seasonally in the second half of the year.
+So we think the 2.2 2.3 is the right range for the business.
+And on the business side are you seeing are you seeing few players were entering the market a little bit more aggressively.
+Have you seen any response out of the incumbents or any increase in competition from other new entrants? Clark why don’t grab that one? Sure.
+Well I think there will continue to be more and more entrants in the business side of the market but really it’s the assets that we have in place in the large areas we have between national network of 18 POPS and back office systems like Zeus [ph] that was mentioned earlier we really feel like we’re in a really unique position to create that – I am sorry that clear leadership rolled out that will be difficult for new entrants to really catch up.
+But I think you’ll continue to see new entrants but not at the level that we established over many many years to create what we’ve created.
+And then lastly on the EBITDA guidance it kind of calls for pretty sharp pull-off in margins on the second half of the year down to I guess 15% range from what’s been in the 17%.
+Do you think that is the result of just are you going to much more aggressively spend on sales and marketing in the second half? Thanks.
+Yes.
+That difference is primarily tied to acceleration of brand spend which is the campaign that Alan mentioned which is specifically focused on business.
+I think it will -- we believe it will have a halo effect on the overall brand.
+But that is where it’s focused and we continue to see very compelling account economics on and seat economics on the business side which we believe warrants that spend.
+To a lesser extent you have a small drag from India and that tends to move up and down based on prevailing rates in our MSN as well the dollar-rupee exchange rate those are two main contributors to that.
+Thank you.
+Our next question comes from the line of Mike Latimore with Northland Capital Markets.
+Your line is now open.
+Yeah great.
+Thanks a lot.
+Excellent quarter there.
+On the business side you mentioned small mid and large enterprise opportunities.
+Hey guys can you talk a little bit about the enterprise segment and also what percent of revenue that? Is it as a percent of the pipeline is it growing faster or slower than the overall pipeline? Let me start with that this is Alan and I’ll turn it over to Clark.
+So our view is to service the full range of the market.
+The fastest growth is still among smaller companies and it stands to reason as new technologies come and the secular trend from on-prem to the cloud like all new technologies is disrupting from the bottom of the market and moving up.
+So the fastest growth is on the smaller customers.
+But as I mentioned more than 25% of the revenues are coming from customers with greater than 50 seats.
+So the economic viability of a cloud solution versus on-prem is moving up market and we are already there with our offerings in Vonage Premier.
+As you get very high upmarket into sort of the multi-thousand seats opportunity the cloud is the best alternative in very distributed environments so multi-geography but you still find on-prem is the superior solution in when you have for instance let’s say several thousand voice [ph] on one site.
+Great.
+And then I know you guys have done well through the master agent channel.
+I guess one is that going to continue to be the main progress and two are you seeing any increasing opportunities in say the traditional on-prem VAR communities? Clark why don’t you take that? Yeah on the channel partner side yes we’ve been very successful we continue to grow that month-over-month and we continue to -- to answer to your prior question as well as you see larger enterprise adopt the cloud the distribution channel focus is also shifting in.
+The channel partners are really the key distribution channel for those larger enterprises and they’re really growing in their knowledge of cloud and their desire to sell cloud.
+And so being uniquely positioned with almost 20 000 sub-agents out there on the partner side it really is starting to pay great dividends on our ability to go to even the larger enterprises as we continue to grow.
+On the on-prem larger priorly known as kind of InterConnect yes there continues -- it’s a shift for them as they see now really the need to move to cloud services because the customers are driving more and more to go from on-prem to cloud they’re looking for that adjustment we’re creating unique compensation models for those on-prem bars now to be able to still realize the upfront benefits they are used to as far as the commission on the similar equivalent sale although it’s all in the cloud as well as on ongoing residual.
+So we do see them also moving to make that shift from on-prem to cloud.
+All right thanks and just last question is the UCaaS business gross margin above or below corporate margins? It’s below.
+Got it.
+Thank you.
+Our next question comes from the line of Dmitry Netis with William Blair.
+Your line is now open.
+Okay thank you gentlemen.
+A couple of questions.
+First I know you started to report revenue churn so that’s helpful and thanks for providing for quarters the sub stat numbers there but just to kind of sort of close the loop on the customer churn that Ricky used to provide.
+Did that metric improve from last quarter? We’re not reporting that metric anymore but that metric would not have been higher.
+Okay all right thank you.
+And then on the sales and marketing side I see what’s sort of a shift there from kind of the consumer to Vonage business.
+So overtime let’s say a year from now what percent of spend will be allocated to Vonage business can that command a quarter or third or half of that overall and can you just give us a sense how aggressive or potentially the spending on the UCaaS side would be? Dmitry this is Joe.
+Where we look at that every month so obviously we are going to deploy as much marketing investment on the business side as the business can handle.
+We’re aggressively moving that that spend really on a monthly basis but at the same time we are seeing improvements in our cash [ph] month to month on a consumer side and becoming very efficient in managing that spend as we both reduced and shifted over the business.
+So it’s kind of difficult to say what we’re shooting for as a percentage basis it’s really going to be based on the opportunity in both the businesses they deploy it efficiently in business but also to maintain our flexibility on the consumer side.
+Okay all right.
+And then I guess just kind of to get a sense of the M&amp;A strategy there thoughts around kind of international expansion I know you are starting to on board a little bit more larger sized customers some of them potentially are multinationals would love to sort of maybe have operations also or datacenters outside the U.S.
+What’s the thought process there? Is that sort of part of the consideration issue kind of get that facility in place or the focus is solely kind of to expand in the U.S.
+at the moment? Can you give us a sense for it maybe across all the different verticals? Yeah so this is Alan.
+The international is clearly a consideration.
+That said the growth in North America is faster and we’re feeding that growth rate quickly.
+We will likely follow our multinational customers in a sense use overseas -- use those as anchor tenants so most cost effective we move overseas.
+So we’ve been looking at -- we already have an office in the UK with about a dozen people a decent customer base there.
+We’ve seen other opportunities on the continent.
+So that is clearly in our range of view.
+We’ll see how these various M&amp;A opportunities develop overtime.
+Okay great and then last one just real quick.
+I mean you’ve added a new CTO less than 12 months ago and there’s a new product -- two product officers that came onboard last month.
+So give us a sense of what the strategy might there be on the product development side potentially cross-selling some of the UCaaS offerings SaaS like offerings into the customer base developing new sort of applications that you can cross sell across your customer installed base what are some of the thoughts there? Thank you.
+So again just to clarify CPO Omar starts actually this coming week and Pablo started again about 10 months ago as CTO.
+You are exactly right we see the UCaaS features cascading from business into consumer.
+So that’s absolutely a design paradigm in our product development.
+In business today communications are multi-mode video voice text and they are device agnostic.
+We see very similar things happening in consumer.
+There is also clearly mobile initiatives.
+As you look at Omar’s specific background having come from Qualcomm and Motorola Mobility et cetera he is a clear expert in mobile.
+So the mobilization of what we do is a very key component as well and that’s another piece of the puzzle as I think about the design paradigm.
+The way we’ve described the changes in the broader consumer business as we think about them as two broad levers.
+The first lever is to fix the marketing efficiency and churn vector and we spoke about that today.
+That’s been very successful in all the things that I spoke about in my prepared comments.
+The second lever is product and we’re building the team led by Omar to attack that.
+Now it’s not just the consumer it also extends into the business side as well.
+So we’re confident that in 2016 you will begin to see some interesting changes in product families that more specifically address your question.
+Al; right that’s excellent thank you very much and keep up the good work gentlemen.
+Thank you.
+Our next question comes from the line of George Sutton with Craig-Hallum.
+Your line is now open.
+Thank you.
+Just to ask the M&amp;A a little bit different a little bit differently.
+We continue to hear you are beating the bushes on the M&amp;A side certainly domestically and wondered if you could give us a perspective of the landscape are you seeing competitive deals or sellers expectations reasonable things of that nature? The situation hasn’t changed very much.
+We’re still seeing a bifurcated market into which breaks into a small handful of companies that have call it more than $50 million of revenues all on BroadSoft and tend to have different regional and sales force strengths than what we have.
+So very good opportunities there and then a very long tail of smaller companies in the $10 million to $20 million revenue space.
+In every case what we continue to see our companies that have either founders or relatively tired investors and are growing at around market rates but in order to grow faster they need significant capital and in order to compete in this landscape which I think was referenced before need capital and cash.
+So that opportunity for us and the need for them to -- for many of them to consolidate continues to be there.
+I would say the dynamic of us being the best buyer also continues and essentially I think the cost of capital advantage the fact that we are a branded competitor and that others had a dis-synergy in buying these companies continues to be the case.
+Not everybody is realistic on price but we believe that there are deals to be done that are very compelling and essentially are close to the value of the customer base and between synergies and what you are paying you are getting some of these other strategic benefits along with the deal and in every taste the stuff we’re looking at or the things that we’ll execute on will be substantially below where the UCaaS names trade on a revenue multiple basis in the market.
+Okay thanks Dave.
+We also hear from pretty much everybody in the space that the larger player certainly that are de-emphasizing SMB you obviously are not.
+How much is that factored in your success? George this is Alan.
+You are right the narrative in the market is to de-emphasize the SMB space and that is clearly not our narrative.
+We think and it’s the first law as I said in my comments 90% of the quota based [ph] firms have 20 employees and fewer they are moving to the cloud the fastest.
+The way to win in the SMB market is to have low acquisition cost which is what we have.
+I think we are uniquely able to do that and we have -- the way I have often thought about it is we have a -- that we currently have a terrific sales operations but I would assume that's a replicable asset by our competitors.
+What is not a replicable asset is brand and brand feeds the top of the lead gen funnel for us and that brand advantage that we have over everyone else in the market is extraordinary.
+And I think that's resulted in a lower acquisition cost.
+So the subscriber economics for us at the low end are terrific and that's the part of the market which is the largest and the growing the fastest.
+Well yes clearly opportunities are moving up market and the LTV's there are greater because you've got less business failure long-term contracts et cetera and we've got -- and we're already there.
+We have a huge presence with now our Vonage premier family at the upper end of the market.
+So our strategy is to serve both ends and I think we're uniquely positioned to do both ends profitably the way we've addressed the market as I spoke about in my comments.
+Okay appreciate that.
+One other thing Alan you obviously do not accept the long-term demise of the consumer business and instead I know have expectations that one day could grow again.
+Can you discuss any potential pivots you've made there that you're seeing some green shoots or some opportunities to grow that business? Sure as I mentioned just a few moments ago there is a two broad levels which is the marking efficiency and churn vector and then the product side.
+The marketing efficiency and churn side is not just a cost play.
+Clearly there is a cost element.
+We want to get rid of marketing dollars that were being spent unproductively and we've done so.
+But by virtue of reformatting from [indiscernible] based now the direct response in digital and consumer the CACs are coming down such that you begin to consider putting your foot back on the gas because the ratio of the LPV to CAC comes back in line.
+Again a year ago it was out of line.
+But it is increasingly coming back in line.
+So that's a clear piece of the puzzle.
+Remember we added quarterly over the last three quarters pushing towards the 100 000 gross line additions each quarter.
+So it’s not like it’s going completely away by any stretch of imagination.
+So that’s one piece of it.
+The other side of it is the product side.
+And as I mentioned before the reason we reorganized the product group and brought in Omar as Chief Product Officer to help drive it is because we see opportunities to extend UCaaS product solutions down towards the consumer other mobile solutions.
+There are overriding things that I’m not comfortable sharing at this moment that I think could be those issues.
+We are not going to see the results on the product changes until end of 2016 clearly.
+But you are already seeing these grey [ph] issues if you will on the marketing efficiency and churn back.
+Okay perfect thanks for addressing that.
+Thanks guys.
+Our next question comes from the line of Catharine Trebnick with Dougherty &amp; Company.
+Your line is now open.
+All right.
+Thank you for taking my questions.
+Nice quarter.
+Could you please give us the growth rate between year-over-year on the Essential and the Premier businesses? We don’t break that out.
+What I can tell you to give you a little bit more detail is that the 38% organic growth rate that we talked about was diluted by the addition of SimpleSignal.
+When we acquire a company in every case the company is not growing at 40% and is not growing as fast as it will grow under us.
+So when we do an acquisition you see a lowering of the growth rate and obviously an increase in the -- of the organic growth rate and an increase in revenue.
+So without the addition of SimpleSignal i.e.
+with the assets that we had going into the year although we just acquired Telesphere between Telesphere and the old VVS growth would have been above 40% if that gives you a sense of the two products.
+And I think Alan did say that the lower end of the market is adopting cloud faster.
+It's also a much shorter lead time to add a customer at the lower end of the market or on the essentials product.
+Alright that's very helpful thank you.
+And then the other question actually goes into a question on integration and how the back office is coming together.
+Because while we're very impressed by your growth rate I just would like to see them continue and are there any challenges you're having in any of the integration aspect of this? Thanks.
+Thanks Catharine it’s Alan again.
+We have challenges everyday and integration is a lot of work.
+And I always refer to it as the sausage making.
+And what people don't see behind the curtain is think about some of the detail things you have to do when you are bringing businesses together.
+Particularly so think about VVS [indiscernible] and SimpleSignal each has a separate contract with many of these master agents.
+They pay their sales people differently they commission the channels differently.
+They sold each of their products under a company brand that were each themselves a bit different.
+They might have had in certain instances different billing systems different lead generation systems on down the list.
+So we are organized.
+We have been very effective and it is under Joe's leadership to drive out the differences and to create the commonality in what is now Vonage businesses.
+So what I spoke about in my comments were that foundational work that we've done in the quarter is just essential.
+It is essential in order for us to be able to continue to grow organically.
+But it also is necessary and essential in order to do yet again another acquisition.
+Because we have to have a stable base to bring in into.
+We’re getting there very quickly but it's something we tack at every day.
+All right thank you.
+I'll pass I’ll tuck in the after call.
+Thanks.
+[Operator Instructions].
+Our next question comes from the line of Michael Rollins with Citi.
+Your line is now open.
+Hi thanks for taking the questions.
+I just for little bit detail can you describe the number of subscriber adds and business in the quarter that were attributable to the acquisitions and also the same for the revenue in the quarter how much was acquired.
+And then also if you could give us just an update on what the OIBDA or EBITDA however you want to say it how the OIBDA burn is in business versus the cash flow in consumer specifically for the second quarter.
+Thank you.
+Sure I can try to address that.
+So that net is -- the seat net additions that we report quarter in business or that the net organic additions of the business.
+So the absolute count of seats includes at the end of the quarter includes SimpleSignal but the net additions do not include that.
+So that you can get the exact number on how many actual seats we added that way.
+We talked about SimpleSignal adding about $12 million of revenue in the three quarters of this year.
+So its contribution in the second quarter was slightly less than a third of that just given that it is growing and I did give you the math of how we will have grown in the 40s without the dilution of SimpleSignal which again we believe overtime with capital and our strategy we can reaccelerate.
+Your second question which was the burn on EBITDA per business I would tell you that the margins for consumer business are in the 20s in the 20% range which we think speaks to the long term margin typicality of that business.
+So EBITDA in business continues to be slightly negative.
+We also have the brand spend which we believe will actually benefit our entire business although it is more focused on the business side.
+But that’s something that we’re looking at more from a corporate perspective in terms of the spend.
+I'm sorry maybe I just missed it.
+I think I saw year-over-year number but sequentially for the net ads the net ads were I think in business was roughly 60 somewhat thousand maybe close to 65 is that right? Yes so net… There was some net change in seat and I'm curious what was the organic portion of that versus the acquired portion of that? So seat if you look at what we reported externally seats net additions were 20 000 in Q4 26 000 in Q1 and 29 000 in Q2 that’s all organic.
+Okay thank you that’s really helpful.
+And then just finally were there any pricing actions taken in the consumer business changing fees or pricing to help revenue within that segment or is that anticipated for the future? There’s been no price actions taken and at this point we don’t have any price actions anticipated in the second half.
+Thanks very much for the detail.
+Thanks Mike.
+Our next question comes from the line of Greg Burns with Sidoti &amp; Company.
+Your line is open.
+Good morning.
+Two questions on the consumer side of the business with the wireless carriers like T-Mobile going with kind of open border calling and AT&amp;T moving towards kind of a pan North American network do you foresee that creating any headwinds for your consumer business and particularly your long distance calling segment that your consumer base your subscriber base and maybe what percentage of your long distance callers actively call Mexico or how much volumes over your network goes to Mexico? Yeah Greg this is Joe.
+So we’ve seen these promotional plans before and typically what the impact passage is typically short lived especially on the wireless side because there is a lot of fraction in terms of changing wireless plans for customers and the customers that are -- are tenured customers on IOB are very engaged high percentage of extension users on mobile they’re very engaged in the business.
+We track this very carefully when we see these promotional plans come out both on the wireless side and the cable side.
+And we have obviously a lot of actions we can take in terms of retention programming but we watch it very carefully and we in terms of the geographic regions where some of these aggressive offers are is a very limiting component in terms of our subscriber base.
+So some of these aggressive offers really would impact 1.5% of our subscriber base.
+So we feel we still have to scale to manage it going forward.
+Okay thank you.
+Our next question comes from the line of Bill Dezellem with Tieton Capital Management.
+Your line is now open.
+Thank you.
+Two questions.
+First of all you talked about the business margin being not negative but certainly less than corporate average.
+Do you see any reason that overtime that business margin cannot be above the current corporate average? Generally no.
+I think that fundamentally the cloud or the UCaaS business has the potential the capability to have a higher margin higher gross margin in the consumer business.
+The only caveat to that is the fact that there is an element of access in our revenue but for business this year we’ve talked about access in low teens percent of the revenue and by definition when you offer access you get a three year contract and quantitatively and qualitatively you get a very very sticky low churn customer.
+So that continues to be a good trade.
+That is that the access piece would be the only kind of structural difference there.
+Otherwise it ought to be able to be higher.
+I would note that today we think we are very good at provisioning access because of the past we have and the relationships we have with a number of carriers.
+That being said I think we've only scratched the surface on the synergy potential there as it relates to Vonage as a consolidated entity and our overall relationships with these carriers and what we can do on the access side versus what others can do.
+Let me just add this is Alan one point.
+The subscriber economics were better in business.
+It simply and other than the one structural component that Dave just spoke about in access it simply a scale issue in terms of the ability to generate that profitability.
+You got over 2 million subscribers on the consumer side and you have 200 000 end points on the consumer side and 400 000 on the business side.
+The proportion of new -- current year adds in business are far greater than the total than the proportion of current year adds in the consumer side and obviously in your current year ads and these subscription business you are upside down in the current year.
+So as the base gets larger in business given that the individual subscriber economics are higher you'll see we believe greater profitability in the business over time at scale only caveat being this issue [ph] on access.
+And that may have -- that's actually good segue to timing.
+Talk of two assets [ph] you were pleased about kind how you are thinking about the timing of achieving that profitability and then in contrast to the land grab that you are in right now and how all that how do you see that playing out? Sure.
+I mean sitting here today it's speculation because as you said we are in the land grab and we are monitoring subscriber economics and cost per ad very closely.
+As always we continue to see even close to what we are seeing today in terms of attractiveness well that means we are still on the land grab and it's still very attractive and we've got the capital to fund that and we will clearly give guidance for '16 in early '16.
+All that being said sitting here today I would say that we're not expecting any EBITDA contribution out of the business-business next year and I look at that as a breakevenish type proposition because we're going to continue foot on the gas because of our size we're naturally going to have a better margin than we have today.
+So we're going to have some natural benefit in there that ought to -- again sitting here today have us in the breakeven area and we believe in '17 again primarily based on size and scale not so much the market slowing down that we will be producing EBITDA out of our business to business and have a significantly sized business.
+I would also note as you think about scale we got to think about M&amp;A where we expect that we will be participating in M&amp;A in the near to medium term and so you have the organic growth which has a [indiscernible] trajectory but scale wise you should expect that there will be some more revenue to have.
+Therefore some margin opportunity being added as well.
+That's very helpful.
+Thank you and then on an entirely different front have any of the Telesphere capabilities been dropped into the new essentials product.
+Bill maybe this is Alan there are different platforms.
+So not from a specific product point of view.
+Clark if you can add there? Well I just think it's more of as Alan said earlier it's really that product mix.
+We really sell them as a complete solution and we're seeing even at a single customer level most have multiple occasions and want both the essential products at smaller offices and want the premier products at larger offices.
+So we really look at them as a single product both utilizing the legacy Telesphere platform that created as well as the legacy platform of Vocalocity.
+That is helpful but let me try the question also from a slightly different angle which is inspite of the fact that you're on two different platforms was there a recognition that the old Vocalocity or now essentials really was missing some characteristics that -- or capabilities of Telesphere that now Premier has that you wanted to get to incorporate it into that essentials product that you now have there.
+So let me grab that real fast.
+Generally know that the key thing to understand is that we think that each platform is purpose built for the market it serves.
+So rather than having trying to have one size fits all which we don't think is appropriate we've attacked the market with two platforms at scale.
+Where we get great efficiencies is in distribution.
+Clark owns all the direct sales and other regional channel managers [ph] supporting all the mass regions.
+And those respective sales people in their sales bag is both essentials and Premier because they're calling on customers regardless of size.
+I would add Bill understanding your questions there are products we now overlay from our legacy portfolio between -- for those customers across the board like video bridging that we're able to overlay regardless of Vonage Essentials being their core product collaboration product swap collaboration products and then certainly gUnify what that acquisition overlays across both products.
+So some of those things both from legacy Telesphere as well as gUnify are now complementary to that Vonage Essentials product.
+And I'm showing no further questions on the phone lines at this time.
+I'd like to turn the call back to Hunter Blankenbaker for closing remarks.
+Okay great thank you.
+That does conclude our call for today and we look forward to speaking with everyone next quarter.
+Ladies and gentlemen thank you for your participation in today's conference.
+This concludes the program and you may now disconnect.
+Everyone have a great day.

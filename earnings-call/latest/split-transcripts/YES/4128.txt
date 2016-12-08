@@ -1,0 +1,380 @@
+Good day ladies and gentlemen and welcome to the Vonage Third Quarter 2015 Earnings Conference Call.
+[Operator Instructions] As a reminder today’s call is being recorded.
+I would now like to introduce your first speaker for today.
+Hunter Blankenbaker you have the floor sir.
+Great thanks Andrew and good morning everyone and welcome to our third quarter 2015 earnings conference call.
+Speaking on our call this morning will be Alan Masarek Chief Executive Officer; and Dave Pearson CFO.
+Also joining us are Joe Redling Chief Operating Officer and Clark Peterson President of Business Solutions Group.
+Alan will discuss the company’s strategy and third quarter results and Dave will provide a more detailed view of our third quarter financial results.
+Slides that accompany today’s discussion are available on the IR website.
+At the conclusion of our prepared remarks we will be happy to take your questions.
+As referenced on slide two I would like to remind everyone that statements made during this call maybe forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These and all forward-looking statements are based on management’s expectations and depend on assumptions that maybe incorrect or imprecise.
+Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially.
+More information about those risks and uncertainties is highlighted on the second page of the slides and contained in our SEC filings.
+We caution listeners not to rely unduly on these statements and disclaim any intent or obligation to update them.
+During this call we will be referring to non-GAAP financial measures.
+A reconciliation to GAAP is available on the IR website.
+And with that I would now like turn to call over to Alan.
+Thanks Hunter.
+Good morning everyone and thanks for joining us.
+It’s hard to believe it’s been just one year since I joined Vonage as CEO.
+Actually tomorrow is one year anniversary.
+In just that one year we’ve made extraordinary progress executing on our strategic plan to aggressively grow revenue in Vonage business and to release the inherent profitability in consumer services.
+Our results for the third quarter and year-to-date reflect the strong progress and the conviction in our strategy.
+We’ve now grown consolidated revenues for three consecutive quarters led by the aggressive growth of Vonage business revenues.
+Our organic growth rate in Q3 for Vonage business was 36% excluding iCore which we owned only for the last four weeks of the quarter.
+Vonage business revenues are expected to comprise more than 30% of total revenues in the fourth quarter of 2015 compared to 11% in the year ago quarter and virtually zero just two years ago.
+In the disciplined operational and financial actions we’ve taken to optimize consumer services are yielding very strong results.
+Consolidated EBITDA increased 24% year-to-date versus last year.
+Churn in consumer services decreased to 2.3% from 2.6% in the year ago quarter and the strong cash flow from consumer services continues to support our investment in growth in the rapidly expanding UCaaS for business sector.
+On last quarter’s call I discussed the foundation building we undertook at Vonage business to build a scalable efficient organization capable of supporting continued rapid organic growth and to successfully absorb future acquisitions.
+This includes functionalizing the overall organization to operate more efficiently reduce redundancies improve collaboration across teams and execute new initiatives more quickly.
+We also discussed the creation of our two product families Vonage Essentials based on our proprietary call processing platform that is purpose built for the SMB market and Vonage Premier based on Broad Soft’s called processing platform which serves larger customers from the mid market up through large enterprises.
+This broad product suite enables us to deliver the right communication services to the right customer with a value proposition that is simply better the key word is better.
+And in the third quarter we broadly launched our business of better campaign to further establish Vonage as the leading business services brand.
+This campaign is positioning us a technology leader that delivers innovative unified communication services and as a market leader serving the full range of businesses and enterprises.
+Given the great strides we’ve made in Vonage business it was particularly rewarding that our rapid growth and progress in UCaaS sector was recognized by multiple industry analyst firms this quarter.
+Gartner named Vonage a visionary in its 2015 Magic Quadrant a particularly impressive achievement given that this was Vonage’s inaugural appearance in a Magic Quadrant.
+Vonage was also awarded Frost &amp; Sullivan’s 2015 Growth Excellence Leadership Award for hosted IP and Unified Communications and collaboration services.
+Vonage scored the highest among all providers ranked by Frost &amp; Sullivan.
+And based on Frost &amp; Sullivan’s market share analysis Vonage is now the second largest UCaaS provider in North America among all UCaaS participants including the peer [ph] plays and the large telcos and cable companies.
+And remember we had zero market shares less than 24 months ago.
+We’ve also made great progress over the last year reinvigorating the company’s culture with a focus on relentless innovation and a commitment to allow [ph] our customers.
+We are making the right investments in our people and we brought in additional exceptional talent and product marketing and business execution.
+A renewed spirit is permeating throughout the organization.
+We are proud of our employees and how they have embraced sweeping changes throughout our company.
+With that as a backdrop let’s move onto our third quarter results and strategic actions in more detail beginning with Vonage business.
+Vonage business revenue for the third quarter was $57 million representing 134% year-over-year revenue growth on a GAAP basis.
+As we discussed last quarter integration of our recent acquisitions continues to be a key priority and I am very encouraged by our progress.
+We are intently focussed on operational clarity and efficiency throughout Vonage business by moving the common systems network platforms and product catalogs while fully leveraging the Vonage brand and creating a one Vonage culture.
+On August 31 we closed on the acquisition of iCore Networks.
+The additions of iCore to Vonage business solidifies our already strong position in the mid market and enterprise segments and enhances our ability to folk [ph] serve the full spectrum of the UCaaS market.
+iCore is also a compelling strategic fit for three key reasons.
+First iCore leverages the same BroadSoft core processing platform with which we have deep experience and iCore was among the largest private BroadSoft service providers in our industry.
+Second iCore expands our field sales force particularly on the East coast.
+We now have a large national sales footprint and the right balance of channel and field sales as well as a national accounts team focussed on large enterprises.
+This sales organization nearly 200 people strong enables us to effectively reach and serve the rapidly growing up market UCaaS segments.
+And third iCore expands the Vonage product suite in important ways.
+We can now offer a comprehensive Microsoft Skype for Business Solution by integrating our cloud voice services into an existing Microsoft on-premise solution or hosting a complete Skype for Business Solution in the Vonage Cloud.
+We can also increase valet share with new customers as well as our existing customer base of more than 60 000 businesses by offering complimentary cloud services such as infrastructure as a service and virtual desktop.
+We now have the largest multi channel distribution platform in our industry to serve the full range of business customers.
+In addition to the nearly 200% channel and field sales team mentioned earlier we now have another -- we have another 150 inside sales professionals selling to FMBs.
+During the quarter these teams added more than 8 500 new business customers that’s new logos.
+For many of our FMBs more than 30% of Vonage business revenues are from business customers with greater than 50 seats and we expect this percentage to increase again here in Q4 as we get benefit from a full quarter of iCore.
+As you might recall in announcement with the iCore 60% of its revenues come from customers with a 100 seats or greater.
+For these larger customers what really differentiates Vonage is the combination of our sales force and technology platform with our product and service delivery organizations to provide an unparalleled communications solutions which we branded as Vonage Premier.
+Vonage Premier is purpose built for the up rise of the market providing a complete set of enhanced voice data and video services delivered over our nationwide 20 POP MPLS network.
+Customers value our proprietary provisioning and feature management tools named Zeus [ph] which enables the rapid deployment of solutions directly by Vonage and our channel partners or directly by our customers.
+And rounding out our solutions we use our gUnify middle ware layer to integrate communications with the core SaaS based business applications that companies use as part of their everyday work flow such as Google for Work Salesforces Zendesk and others.
+Bringing all of these capabilities together is our robust service delivery team comprised of more than 80 team members specializing in project management voice and data provisioning and line of reporting.
+This team is intensely focussed on providing an outstanding customer experience and is rapidly becoming a critical competitive differentiator.
+In fact Gartner noted account management and customer support as two of Vonage’s strength in its recent Magic Quadrant report.
+We believe the ability to effectively meet the needs of mid market and enterprise customers with a [Indiscernible] solution while delivering a forward [ph] installed experience is critical to building customer loyalty and winning at the higher end of the market.
+Remember our goal is for our value proposition to simply be better.
+We are using our company scale and focus to assemble the product technology network and service delivery personnel and infrastructure to just be better.
+And very importantly our opportunity to be better is structural because others will struggle to match our value proposition because they are either much smaller unprofitable underfunded or many instances simply unfocussed because UCaaS offerings are not their highest strategic priority.
+Rest assured UCaaS is our highest strategic priority.
+Let me now move on to consumer services.
+Within consumer we continue to see the benefit of our focus on improving the quality of customers we acquire lowering our acquisition cost and driving increasing profitability.
+One element of this effort is the launching of a grab and go [ph] merchandising strategy and retail that further reduces our use of face to face assisted selling.
+This revised approach has resulted in improved placement and expanded locations with our key retailers.
+We are also better leveraging the power of the Vonage brand.
+We are eliminating the basic top brand and product.
+Actually the basis top product is being flushed through retail channels now and it should be completely gone by the end of the year.
+In addition to benefits derived from this new retail strategy our continued shift of spending to more efficient acquisition channels like direct respond television and digital has resulted in improved marketing efficiency again this quarter.
+Overall we reduced sales and marketing spending in consumer services by another $4 million sequentially.
+Over the last four quarters we’ve reduced sales and marketing in consumer services by $29 million.
+And despite these enormous cuts in marketing spend Vonage branded gross line additions or GLAs remained essentially flat over the last four quarters.
+As a result our customer acquisition cost per GLA was 27% lower in Q3 of 2015 than it was in Q3 of 2014.
+And with churn at 2.3% versus 2.6% we’ve increased customer life by five months or close to another $100 in service margins.
+This means we are spending much less to add customers with longer lives and greater life time values.
+These results reinforce our conviction that we can continue to generate excellent cash flows from consumer services for many years and importantly these cash flows will continue well beyond the time we begin to generate substantial profitability from Vonage business.
+Today we serve almost 2 million residential customers from which we generate all of Vonage’s cash flow.
+This cash flow is a key competitive differentiator particularly against our private and public peer play competitors.
+To summarize Q3 was another great quarter highlighted by strong performance further foundation building at Vonage business the closing of the iCore acquisition and continued focus on profitability and consumer services on almost any measure we are executing well against our strategic priorities and we have a terrific set of critical core assets.
+These include our stellar brand larger revenue base; company scale and balance sheet strength as compared to other peer [ph] play UCaaS providers.
+Our leadership position in Unified Communication sector where we are ideally if not uniquely positioned to serve all segments of the markets.
+Our talented management team which has the right experience to lead Vonage forward in its next stage of growth and finally a culture that is being reshaped emphasize innovation accountability and a core focus on vowing the customer.
+We are really pleased with our results and progress to date but we have very high aspirations so there is much more work to do.
+I look forward to updating you again next quarter on our continued progress.
+Thanks for your support and I’ll now turn the call over to Dave to review our financial results in more detail.
+Thanks Alan and good morning everyone.
+I am pleased to review our financial results for the third quarter of 2015.
+Before reviewing the results let me provide context for the numbers we’re reporting this morning.
+We closed on the acquisition of iCore on August 31st.
+Third quarter results therefore include approximately four weeks of iCore’s financial results further adjusted down for purchase accounting.
+Given the short time period and the adjustment iCore’s results had a modest impact on our financials.
+Additionally the quarterly growth rate disclosed in our presentation slides and during our formal remarks or on a year-over-year basis unless otherwise noted as sequential.
+With that let’s move to slide four.
+Consolidated revenue for the third quarter was $223 million up $9 million.
+Vonage Business revenue was $57 million or GAAP growth of 134% and organic growth of 36% if we owned Telesphere and SimpleSignal for the same periods in the previous year.
+Third quarter average revenue per line in consumer was $27.38 down $0.22 due primarily to promotional pricing.
+Vonage business average revenue per seat was $41.56 up from$35.39 due to our acquisition and subsequent organic growth in the mid market and enterprise phase starting last December.
+Moving to slide five customer churn in consumer was 2.3% down from 2.6% in the year ago quarter.
+This year-over-year improvement in consumer churn is the result of our focus on adding high value customers that have a lower churn profile as well as the stability of our tenured base.
+We expect churn to continue to fluctuate based on seasonal and competitive factors with the stay in this general range.
+We ended the quarter with 2 million subscriber lines in consumer down 199 000 excluding 79 000 paid second line extensions that we adjusted out of the line count after we began offering these extensions for free in the fourth quarter of 2014.
+Sequentially net lines and consumer were down 50 000 in the quarter consistent with our expectations and reflecting relatively flat gross lines added slightly higher churn due to seasonality.
+As Alan noted the flat GLAs on lower consumer sales and marketing expense and infact customer acquisition cost per line continued to decline.
+Revenue churn for Vonage business was 1.3% flat year-over-year and sequentially.
+Vonage business grew total seats to 514 000 more than double the prior year reflecting acquisitions and continued strong organic growth.
+Now moving to income statement cost items; cost of service was $67 million up from $56 million due to higher cost for telephony service and a greater number of business seats.
+For [ph] context one year ago our Vonage business operation consisted only of the former Vocalocity operating in the SMB space and our seat count with less than half its current size.
+Turning to slide six sales and marketing expense for the third quarter was $88 million down $5 million.
+This decline reflects continued optimization and reduction of our consumer sales and marketing spend partially offset by continued investments in our Vonage business organic sales and marketing initiatives.
+Consumer subscriber acquisition costs were down again in the quarter consistent with the lower sales and marketing spend and the shift to more efficient media channels.
+On a sequential basis sale and marketing was up $4 million reflecting the addition of iCore and increased spend behind our business a better campaign to fill the Vonage business brand.
+We launched this campaign late in 2Q and as discussed on our last earnings call increased spend in 3Q consistent with our second half 2015 marketing plan.
+General and administrative expense for the third quarter was $29 million.
+This was up $5 million reflecting the addition of Telesphere SimpleSignal and iCore G&amp;A expenses as well as acquisition related expenses.
+Moving to slide seven for the third quarter adjusted EBIDTA was $34 million a 13% increase.
+This reflects another quarter of strong cash flow from consumer which accounted for more than 100% of EBITDA.
+Sequentially EBITDA was down $4 million due to the previously mentioned increase at grand spanned in Vonage business.
+Adjusted net income was $14 million or $0.07 per share flat to the year ago quarter.
+The adjusted net income metric removes non-cash items such as amortization of intangibles from acquired companies and adjusts for the fact that Vonage is not a material cash tax payer due to our $640 million NOL.
+Moving to slide eight CapEx for the quarter including the acquisition and development of software assets was $10 million primarily for network infrastructure and systems improvements.
+This is up from $7 million due to acquisitions and licensing cost.
+Free cash flow which we define as net cash provided by operating activities minus capital expenditures and acquisition and development of software assets of $28 million up $7 million.
+Adjusted EBITDA minus CapEx was $24 million up $2 million or 7% all reflecting a strong cash flow generation capacity of our business.
+During the third quarter we repurchased 400 000 shares for $1.8 million under the four-year $100 million program authorized at the start of 2015.
+Since beginning the repurchase of stock in August 2012 we've brought back 48 million shares of Vonage stock for $148 million at a highly accretive average price of $3.08.
+Our buyback has provided strong returns for shareholders and will continue to be a flexible capital allocation tool to be deployed at management discretion.
+Cash and cash equivalents and marketable securities as of September 30 were $72 million including $3 million in restricted cash and $10 million in marketable securities.
+Net debt was $185 million and we ended the quarter with net debt to adjusted EBITDA of 1.3 times.
+The increase in net debt is attributable to the $92 million of cash acquisition of iCore which we finance through the combination cash on the balance sheet and a portion of our $350 million credit facility.
+We acquired iCore at an attractive valuation representing a multiple of 1.3 times 2015 revenue.
+As we execute on our acquisition and integration strategy we expect to achieve approximately $5 million of annual operational synergies leveraging our much larger scale and robust technology platform including in the areas of cost of telephony services which include carrier and excess cost and E911 expenses as well datacenter consolidation shipping and G&amp;A.
+Given the strong cash flow dynamics of consumer services and the capital available under our revolving credit facility we have ample liquidity to pursue further disciplined organic and inorganic growth.
+We continue to actively assess M&amp;A opportunities in the UCaaS space that provide the right strategic fit at attractive valuations.
+Our primary focus is on providers that utilize the enterprise grade BroadSoft platform where we believe we can accretively acquire customers and key sales capabilities technologies and/or geographic presence.
+Regarding guidance given greater visibility as we approach the end of the year and the closing of the iCore acquisition we are updating and have increased our full year revenue and adjusted EBITDA guidance for 2015.
+We now expect revenue for 2015 to be between $891 million and $895 million.
+This is up from original full year guidance of $850 million to $865 million which has been adjusted several times for acquisitions.
+We expect adjusted EBITDA to be in the range of $142 million to $144 million versus original guidance of at least $135 million.
+That concludes my prepared remarks.
+Thank you for your continued support of Vonage.
+And I will now turn the call back over the Hunter to initiate Q&amp;A session.
+Thank you Dave.
+Andrew let's take the first question please.
+[Operator Instructions] Our first question comes from the line of George Sutton from Craig-Hallum.
+Your line is open.
+Thank you.
+Nice job guys.
+So relatively the marketing efficiencies which have been very impressive how much further can that be improved in your view? Thanks George.
+Let me turn over to Joe to answer that.
+Hi George.
+I think we can still show some additional efficiencies; I think Alan mentioned in his prepared remarks our shift in retail to a grab and go strategy which is really Vonage on the shelf versus our face-to-face selling.
+That just launched in October so we're expecting both improved efficiency on the acquisition cost side.
+And those customers have proven to be – have greater lifetime value because their churn profiles are lower.
+So we think we have more efficiency to go and we'll see more that in the fourth quarter.
+Now relative to the iCore acquisition you mentioned given some of their capabilities you see an ability to increase wallet share of customers could you quantify what you mean by that statement? George this is Alan.
+We really can't quantify yet other than to say that iCore has a cloud business which augments its traditional UC business principally selling infrastructure of service and virtual desktop.
+The opportunity for us is to extend that across the whole base of customers.
+We haven't even begun that process yet.
+Obviously we just closed on this company seven weeks ago but that we believe enormous opportunity to push those wallet share opportunities across the whole base.
+Got you.
+Okay.
+Lastly Dave did you give an organic growth number for business if you did apologize I missed it? Yes.
+We did.
+So for the quarter it was 36% excluding iCore which we only own for four weeks and had a purchase accounting adjustment down to the revenue as well.
+Okay great.
+Thanks guys.
+Thank you.
+Thank you.
+Our next question comes from the line of Matt Latimore from Northland Capital Markets.
+Your line is open.
+Hey good morning guys.
+It’s Matt's brother Mike here.
+I guess Alan you done a great job of improving the efficiency of the consumer business.
+I think historically you've talked about the potential to stabilize that and grow the topline.
+I guess any general thought about in kind of the consumer strategy here? Yes.
+When I talk also often about in the fixed to the consumer business I refer to it as sort of two broad levers.
+The first lever is that marketing efficiency and churn lever and the other is core product itself.
+So we've been attacking the marketing efficiency and churn massively and Joe just comment on that.
+We think we have more to go there.
+Concurrently on the product side we just hired new Chief Product Officer Omar Javaid we've just started less than three months ago.
+And we're focused on innovation.
+Principally around areas in mobile that we think we can bring greater value to the residential customer.
+Remember end of the day we're all UCaaS customers.
+Today we sell to that residential customer.
+It is multimodal its voice and text.
+It's also multi devices because it's your land line phone as well your mobile phone.
+So we've been looking at opportunities to bring a different value proposition to the residential customer but you won't see any of that effort materialize until next year.
+Okay.
+Got it.
+And then on the cost of telephony services per line I guess what's the general view on that the next couple of quarters? Sure.
+And that's not a metric we report anymore because consumer line and business theater apples and oranges and in fact an essential seat and premier seat are apples and oranges.
+I would say that we're having just acquired iCore and having not acquired simple signal too long ago.
+Over the long term there is more to do on cost.
+And specifically as it relates to some of the less termination specific CaaS [ph] cost.
+So for instance access cost backhaul cost things like that were the companies we acquired really didn't have much of any scale.
+So I think over the short term you going to see when iCore gets added in you're going to see cost go up just because we're going to have full quarter of that but I think over the medium term you're going to see the per line or the efficiency of cost come back down and I think we'll be in a position when we get 2016 guidance to give you more detail on that.
+Great.
+And just you mentioned the field sales force inside sales force do you expect to add to that or would you just – would that be sufficient to kind of grow the business and then maybe layered on more through acquisition? The answer is a little bit of both.
+So we clearly expect to continue to grow the sales force.
+We tend to think of it the old adage of an NFL cities and strategy in terms of how we grow.
+An iCore was the huge contributor to that that created this balance.
+We were on the premier side principally channel-based because that was the focus of Telesphere and Simple Signal and iCore was the inverse of that.
+They were almost all direct base.
+But we'll continue to grow our direct sales force organically into additional cities.
+Concurrent with that that's one of the reasons – one of the strategic reasons that we might do another acquisition because they give us strength in a market that we can do – the acquisition opposed to having to do on pure Greenfield basis.
+Okay.
+Great.
+Thanks a lot.
+Great quarter than last year really.
+Thank you.
+Thank you.
+Our next question comes from the line of Catharine Trebnick from Dougherty &amp; Company.
+Your line is open.
+Hi.
+Good morning.
+This is Jack on line for Catherine.
+Thanks for taking my call and congrats on another great quarter.
+Can you give us a quick update on the integration of iCore networks I know that some revenue is expected in Q4 but when can we expect that acquisition to really start hitting on our full cylinders? Yes sue.
+So it relates to some of the low hanging fruits on termination cost of telephony services shipping E911 you'll start to see that stuff relatively quickly and that's built in to our $5 million of synergies in 2016 that we think we'll realized.
+I think more broadly as it relates to growth the asset clearly like many of – like all of our acquisitions since Vocalocity is growing slower than we are.
+So it is going to take some time to accelerate the growth of iCore so you won't see that in the fourth quarter.
+But what we're really doing is implementing a strategy to accelerate the growth of what we bought but also take what's great about iCore which is direct sales force broader product capabilities and spread that much more widely.
+So it's going to be integrated very quickly from that perspective and essentially is a direct sale the hub of our direct sales strategy in the NFL cities that Alan talked about in addition to our sales channel approach.
+Jack this is Alan.
+Let me add little bit to that.
+So you know I talked about last quarter the theme was really all about the foundation building and that continues today.
+So when you ask the question about integration what we're doing is the foundation building is to establish the bases by which we bring additional acquisitions into.
+What I mean by that is organizationally we're functionalized organization structure so as example all sales and marketing customer care and global operations report Joe.
+Everyone of these acquisitions I mentioned in my prepared remarks about the common platforms and systems and harmonizing the product catalog those are all essential elements of foundation building.
+So that – now you have one solid base that we can growth to it goes all the way through our lead generation system is sales force our financial accounting system is Oracle.
+Our billing system is engage IP and BroadSoft side et cetera et cetera putting everybody on those systems and one nice thing is that many of these acquisitions are already on those system so it makes integration that much easier.
+Those were all the elements that in my experience where people get – where CEOs get tripped up because acquisitions aren't properly integrated and we're focused very intensively not letting that happen here.
+Great.
+Thanks for taking my call.
+Thank you.
+Our next question comes from the line of Greg Burns from Sidoti &amp; Company.
+Your line is open.
+Good morning.
+Just a question on the possibility of the business segments I guess its operating at a slight loss right now.
+It would be a pretty decent scale probably over 100 or 300 million of revenue next year.
+How should we think about the profitability of that segment progressing into 2016 and beyond? Sure.
+So as we talked about we think we're building significant operating leverage point one.
+Point two; we will get specific 2016 annual guidance on that issue as well as the other parameters in our February call.
+That being said we believe we are going to be more profitable in that business than we have been IE we will be narrowing the loss to breakeven in that business.
+We're still going through our 2016 budgeting process now to tell that in exactly.
+I would not expect significant EBITDA to come out of that business.
+In 2016 however we continue to see the customer economics that we're seeing now.
+Okay.
+And then when we look at Vonage premier can you give us a sense of the complexion of that customer rates maybe the size of the customers that you're adding or what your largest customer you're serving there.
+We've seen some kind of – some large customer announcement from some of the competitors.
+I just wanted to get a sense of what you're seeing in that space? Let me ask Clark Peterson he'll take that.
+And for those you don't know Clark is President of our Business Solutions Group.
+And I think to answer that question Greg we feel very well suited to be able handle the mid to large enterprises.
+We feel like as you look at the up market opportunity we're already there right with the systems the national network the back office in place and a lot of experience to handle these customers.
+So we have customers that over a 1 000 seats on our network and we continue expand our national sales group as we see great and great opportunities for these very large mid to large enterprises that want a national footprint and want somebody who has the back office systems and the full portfolio of services to the service all their needs.
+And Greg I think there's -- our solution is not limited at all by size of opportunities.
+What we do everyday our very large multi-geography multi-location customers for which they hire group solution of connectivity on-prem cloud et cetera.
+That's just everyday event for us.
+We find and we're knocking down more and more of these much larger customers but the meat of the market still is like all disruptive technologies started at the bottom of the SMB side and is moving rapidly up to mid market small enterprise into large enterprise and we're just tracking right with it.
+Terrific.
+Thank you.
+Thank you.
+Our next question comes from the line of Robert Routh from FBN Securities.
+Your line is open.
+Thank you and good quarter.
+Couple of quick questions.
+You talk about the NOLs that you have and obviously if you use off balance and part on and part off do you expect to fully utilize now are you doing all of those NOLs given and look what your future profitability going forward? We do.
+Yes within the period that need to utilize them we do.
+Now when we acquire company typically they also have NOLs so it's not adding when we acquire necessarily in a leaner way but we do believe that we will utilize the full 640 NOLs that we have down.
+So big change from the pass one when if it didn't look that way.
+Okay great.
+And as far as the acquisitions you talked about obviously you made a bunch of and you comment you're looking to more BroadSoft base kind of entities.
+Given how big you got and how many are out there that really fit with what you're doing that probably would be willing to do something that you given their relative size in the market and how big you are.
+How many opportunities are to near term that accretively you think might be doable? Sure.
+We always talk about two different sets or two different pockets of potential targets; one is companies that typically have over $50 million of revenue and use BroadSoft typically are very deepen in a wide geographic area.
+It's not nationwide and there continue to be a handful of those.
+And we believe given the acquisition of iCore we just did add roughly 1.3 times 2015.
+If there are good precedence out there not everybody is a seller at that price but we think there are enough amount thereof quality that we can get good values.
+So that handful continues to out there.
+And then there is a very long tail of companies that are typically sub $200 million of revenue sometime sub $10 million of revenue.
+And having just come back from BroadSoft connections the annual BroadSoft conference I would note that we believe that tails about twice as long as we thought it was when we got into the BroadSoft space.
+And that's not only in Europe but I'd say that half of the attendees of the conference were not based out of the U.S.
+but within the U.S.
+in first second third tier cities just a lot of these subscale BroadSoft competitors out there.
+Alan mentioned that one of the strategies as it relates to direct sales force fills [ph] out is to acquire essential customers and sales force capacities in key cities but for us its not math its essential a buy versus bill calculation that we're doing.
+Okay great.
+And just two more if I may as far as the balance sheet obviously with the increase in guidance and your balance sheet you are well over capitalize and your leverage is incredibly low.
+What do you feel as the property leverage that tonnage could handle if you found some end pass opportunities and you didn't want to use your stock as a currency.
+You wanted to use cash instead given your equity probably for expensive long- term.
+Is there a maximum leverage you would – you really [Indiscernible] that deal came along? Sure.
+First I'd say that today we're first and foremost about strategic and financial flexibility to take advantage of the organic and M&amp;A growth opportunities so we're not operating today at specific target leverage as it relates to capital allocation.
+We're operating to be able to take advantage and grow the business accretively.
+Our current loan enables us just normal course to be at 2.5 times leverage.
+We're only at 1.3 right now net of 2.5 times is gross.
+And it enables us to stretch up to 2.75 for an acquisition.
+So we've got a lot of room and particularly as we think about the pockets of acquisitions that we just talked about we've got ample of room to acquire I think what we need to and acquire multiple businesses that's where we come out.
+I think that there are advantages for us to stay – to be able to finance in the investment grade market which is essentially what we're doing today.
+It cost at roughly 3.5% fully pre-payable short amortization schedule and lenders being a group of banks who we maintain close relationships with and I know would have talk to – suppose to a group of less sympathetic lenders.
+So we like that structure right now.
+It serving us well.
+If we felt like there was a very compelling acquisition that required us to go above three times and was accretive.
+We would consider that.
+But given the capacity we have now I don't see that in near term.
+Great.
+That makes sense.
+And last question as you about your – what you're doing on sales side and the direct sales are all of the people that you're hiring are they all are employees of Vonage W2s or do you have any 99 independent contractors out there doing this for you? Robert this is Joe.
+Yes all of our direct field sales folks are all W2 employees.
+We obviously have a one of the largest if not the largest channel partner program in the industry where we have over 35 people out there as channel managers managing 1000s of agents with our master agent relationships.
+Those folks are under the aging category.
+But our direct field folks are all W2 employees.
+Great great.
+Thank you very much and congratulations.
+Thank you.
+Thank you.
+[Operator Instructions] Our next question comes from the line of Bill Dezellem from Tieton Capital Management.
+Your line is open.
+Thank you.
+If you would allow me to expose my ignorance you reference the enormous opportunity with iCore that you're just beginning to tap and I did not really understand what it was you were referring to and the size of that opportunity.
+Would you take a little time and dive into that some more detail please? Bill this is Alan.
+When you through and you sell in Unified Communications Solution your ARPUs can range from below of $36 up to $70.
+The opportunity is to – it’s a wallet share play initially.
+And so when iCore had done is they will go in and they would sell – when we became familiar with the customer through the UC sale you'd realize that there was an opportunity for to virtualized their servers or to provide other virtual desktop solutions and then there is other cloud-based solutions that they can provide.
+The best way to think about it that when you're providing the UC Solutions the core telephony and frequently the core connectivity for a customers the way I would like to describe it you're the heart lung and lever of that operation.
+So you're in a position of trust to begin with.
+So the opportunity from that position of trust to add on other cloud services is very natural and matter of fact its much more natural than if you started from sort of tertiary service and then try to go inward to grab the UC based services.
+So given where we start it’s a very natural add-on iCore had roughly 1300 customers.
+We have over 60 000 so it's just natural to push that throughout the entire installed base.
+And again as I mentioned we added over 8500 logos in the quarter alone.
+So this is a gift that's going to keep on giving so we're very excited about this.
+That's very helpful.
+Thank you.
+Thank you.
+Our next question comes from the line of Adam Okowitz from Citi.
+Your line is open.
+Good morning.
+Thanks for taking the question.
+I wanted to ask about Vonage business services the organic revenue growth decelerated 200 basis points sequentially maybe just to help us understand that can you break out exactly how much iCore with the PPA adjustment contributed during the quarter.
+And looking forward into 2016 do you think you can sustain that 30 mid 30% revenue growth level or do you think it will continue to decelerate through the focusing on the integration side of things you're doing with the companies you've acquired? Thanks.
+In February we'll give guidance for 2016 and iCore at that point be fully part of the business solutions group which is the premier part of Vonage business.
+So we'll be in a position to talk about the organic growth rate of 2016 at that time.
+iCore this quarter added roughly $5 million for the month of September to our revenue and was relatively neutral as it relates to EBITDA given the cost that we took on and given the purchase accounting adjustment.
+I think what you're seeing because as we step back say okay bookings are growing net subscribers are growing and revenues growing that the growth rate is really about the math and the acceleration I guess is the word you used is really about the large base.
+I did mention that iCore like other acquisitions is growing slower than we are and you don't reaccelerate that growth overnight.
+So that's something to take a new account as you think about growth but we are going to be coming off a much large base and we believe we can materially accelerate the growth rate of iCore over time as we have done with Simple Signal and Telesphere.
+And moreover the iCore acquisition itself really was about the strategy.
+It was about creating balance or better balance in our selling channel having very strong channel presence channel partner presence but also a direct presence as well as the products and the geographic complement that it provides.
+If we were to look just at organic growth again can you break out what iCore add in terms of seats just so we can see what you are adding internally compared to last couple of quarters and then I understand the base is getting larger but do you think if we just look that was Vonage business a year ago would it still be growing at a quick rate that you guys are pleased with or think that with the acquisitions maybe some management focus and some sales focus demand spread in other places just trying to understand because the year-over-year that we are looking at for organic has some pretty stable in terms of absolute dollars as well.
+Yes so iCore added -- we announced when we acquired the company about 85 000 seats.
+And so that was the ending balance at the end of September of what they added on a net basis.
+The -- I think the second part of your question was are we happy with the growth rate we are in the 36% easy organic growth rate and you know we believe particularly in the context of having acquired a Telesphere less than a year ago and SimpleSignal well less than a year ago that we are growing at that rate given again like iCore neither of them was growing at nearly that rate.
+You know these companies tend to be growing by themselves they tend to be undercapitalized and growing more at you know market type rates in the kind of 20% area in some cases lower.
+Thank you very much for taking the questions.
+Appreciate it.
+Thank you.
+Thank you.
+That is all the questions that we have for today.
+So I’d like to turn the call back over to Hunter for closing remarks.
+Great thank you Andrew.
+That does conclude our call today and we look forward to speaking with folks next quarter and throughout the quarter.
+Thank you.
+Thank you all.
+Ladies and gentlemen thank you again for your participation in today's conference.
+This now concludes the program and you may all disconnect your telephone lines at this time.
+Everyone have a great day.

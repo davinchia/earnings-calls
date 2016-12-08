@@ -1,0 +1,481 @@
+Good morning and welcome to the Rockwell Collins Fourth Quarter Fiscal Year 2014 Earnings Conference Call.
+Today's call is being recorded.
+For opening remarks and management introductions I would like to turn the call over to Rockwell Collins' Vice President of Investor Relations Ryan Miller.
+Please go ahead sir.
+Thank you Tracy and good morning to all of you on the call.
+With me on the line this morning are Rockwell Collins' Chief Executive Officer and President Kelly Ortberg; and Senior Vice President and Chief Financial Officer Patrick Allen.
+Today's call is being webcast and you can view the slides we will be presenting today on our webcast at www.rockwellcollins.com under the Investor Relations tab.
+These slides include certain non-GAAP financial information and a reconciliation to the related GAAP measure.
+Please note today's presentation and webcast will include certain projections and statements that are forward-looking.
+Actual results may differ materially from those projected as a result of certain risks and uncertainties including those detailed on Slide 2 of this webcast presentation and from time to time in the company's Securities and Exchange Commission filings.
+These forward-looking statements are made as of today and the company assumes no obligation to update any forward-looking statement.
+With that I'll now turn the call over to Kelly.
+Well thanks Ryan and good morning everyone.
+Well let me start by saying how pleased I am to finish the year with such a strong quarter.
+It really puts a nice bow around what's been a very important and successful fiscal 2014.
+Our performance in the fourth quarter provides a great launching point for what I believe will be an even better 2015.
+During the past year we met or exceeded our guidance ranges for sales earnings and cash flow and our full year results are right in line with the 5-year outlook that we shared as part of our Investor Day last March.
+Now if you'll recall at that time I said that we would increase shareowner value by accelerating our top line growth expanding our free cash flow and focusing on deployment of capital that balances growth with shareowner returns.
+And I think you'll agree that judging from the results here today that our strategies have been pretty successful.
+Overall we achieved 11% top line growth for the year resulting primarily from strong performance in 4 key areas.
+First our commercial OEM business grew 9% driven by higher 787 and narrowbody rates and that's been amplified by our market share gains in the air transport segment.
+Second our international business grew to 43% of our total revenue and with the inclusion now of ARINC it increased 18% from 2013 as we continue to successfully expand our global footprint across all of our segments.
+Third we reshaped our government portfolio including selling some noncore elements.
+Now if you look at the continued operations for our Government Systems business we declined just 2% compared to our initial guidance for the year which indicated we'd be down by mid-single digits.
+And even more encouraging is that we expect this to be the last year of declines for our government business.
+And then fourth we added the new segment to the company and a whole new growth platform for -- with the acquisition of ARINC and the subsequent creation of our Information Management Service business.
+And for the last 3 quarters of the year IMS delivered strong performance with double-digit growth in the core aviation portion of the business.
+So overall I give us high marks for what we did to achieve our top line growth in 2014 and just as important is the fact that this good work is going to continue to drive additional revenue for years to come.
+Switching now to cash flow.
+We finished the year with fourth quarter cash flow of $423 million and overall operating cash flow for 2014 increased 11% compared to our fiscal 2013.
+What's more we achieved this improvement just as we expected with incremental margin growth from Commercial Systems continued strong cash performance from our Government Systems business and solid and predictable cash flows from Information Management Services.
+Again as far as cash flow goes I'd give us pretty good marks across the board.
+And finally our capital deployment strategy proved effective as we were able to successfully leverage our underutilized balance sheet to finance the ARINC acquisition.
+And as I look at how the acquisition and integration has gone I'd say it's exceeding our expectations and it's showing signs of being a real great use of our capital.
+In addition just last month we announced an additional $500 million in share repurchase authorization and that should give us the flexibility to address both debt paydown and shareowner return.
+Turning now to fiscal 2015.
+We're going to continue to focus on accelerating growth expanding cash flow and deploying our capital to support both growth and shareowner return.
+We expect top line growth for the company in the mid-single-digit range driven by another year of high single-digit OEM growth led by new aircraft entries into service most notably the A350.
+We also expect our overall Government Systems business to be flat when compared to 2014 and while flat may not seem that exciting it's a welcome change from the declines we have experienced over the last 4 years.
+Now I'm especially pleased that we're able to achieve that flat forecast even without the JTRS Manpack LRIP extension that we've been concerned about this year which is indicative I think of the great job our Government Systems team has done managing through this difficult environment.
+I might also add that we had a really good close to the year in terms of orders booking for our government business that will support our fiscal 2015 sales so it really feels like we're turning the corner in our defense business.
+And of course we expect IMS -- the IMS business will continue to grow at near double-digit rate largely due to the strong demand from information management solutions in the aviation segment.
+Now in terms of cash flow for fiscal year '15 we're expecting another year of substantial improvement with cash flow in the $675 million to $775 million range.
+This increase will be fueled by margins in both -- or incremental margins in both Commercial Systems and Information Management Services and reduced company-funded spending on deferred engineering.
+Now you should also expect to see higher levels of customer funding in our Commercial Systems business primarily from new international development work.
+So customer funding is going to be a key ingredient of our continued cash flow improvement.
+And finally we're committed to maintaining our capital deployment strategy.
+We'll be looking for growth opportunities while continuing to return capital to shareowners through additional share repurchase.
+So in summary 2014 was a really good year and I like how we finished the fourth quarter.
+It tells me our strategies are working and I believe we're positioned to carry this momentum into fiscal 2015.
+And so what I'd like to do now is turn it over to Patrick and have him walk us through the details of the financials.
+Thanks Kelly and good morning to everyone as well.
+I'd now like to walk you through today's presentation slides that summarize our results for the fourth quarter of 2014.
+I'll begin on Slide 3 where we highlight our total company fourth quarter sales earnings per share income from continuing operations and shares outstanding.
+Total company sales for the quarter increased $183 million or 15% compared to the fourth quarter of last year.
+Our fourth quarter sales included $144 million of revenue from the ARINC business acquired in December this year.
+Income and earnings per share from continuing operations were about flat for the quarter.
+Now adjusting for certain nonoperating items including differences in the availability of the Federal R&amp;D Tax Credit service center closure and pension settlement charges and the absence of a benefit from forfeitures for stock-based compensation in fiscal 2013 all of which are set forth in a reconciliation on Slide 15 of the deck fourth quarter earnings per share from continuing operations improved $0.10 or 8% over the prior year.
+In addition incremental operating earnings from Commercial Systems and Information Management Services were partially offset by lower operating earnings from Government Systems and higher interest expense from the debt financing for the ARINC acquisition.
+As we turn to Slide 4 Commercial Systems achieved revenue of $639 million in the quarter up 12% from $571 million in the fourth quarter of 2013.
+Sales related to aircraft OEMs increased $70 million or 23% to $380 million primarily due to increased deliveries for Boeing 787 and 737 aircraft; increased customer-funded development; higher sales for Chinese regional aircraft including the MA-600 and ARJ21; and initial hardware deliveries to support the A350 entry into service.
+Now aftermarket sales were about flat during the quarter as higher service and support sales were offset by the completion of a large head-up display retrofit and a large sale of simulation training equipment both of which occurred in the fourth quarter of 2013.
+Similar to what you saw this quarter and last quarter we're going to have some pretty tough comps in the first quarter 2015 for air transport aftermarket due to a number of lumpy retrofits and spares sales.
+As an example if you remember we had a large 787 spares sale in the first quarter of 2014.
+Once we get past the first quarter we don't expected air transport aftermarket to have as difficult comps for the rest of 2015.
+Commercial Systems' operating earnings increased $21 million or 18% with operating margins improving 110 basis points from 21% to 22.1%.
+Operating margin benefited from higher sales volume as well as the shift from company-funded research and development to more customer-funded development.
+Moving on to Slide 5.
+Note that the results of Datapath have been reclassified to discontinued operations as the business was sold in July.
+During the fourth quarter Government Systems revenue decreased by 5% to $605 million driven by the wind-down of development effort on programs such as the KC-46 KC-135 and E-2 as well as lower deliveries of international targeting systems.
+These decreases were partially offset by increased JTRS Manpack sales and higher Joint Helmet Mounted Cueing Systems sales.
+Government Systems' fourth quarter operating earnings decreased $14 million to $137 million resulting in an operating margin of 22.6% compared to 23.7% in the fourth quarter of last year.
+The decreased operating earnings and margin resulted from the lower sales volume and higher bid and proposal expense.
+Turning to Slide 6 you see Information Management Services which includes ARINC as well as our legacy flight services business.
+During the fourth quarter ARINC contributed $144 million in revenue and the legacy flight services business contributed $14 million.
+On a pro forma basis Information Management Services sales increased 16% over the prior year as aviation-related sales increased in the high teens related to our GLOBALink air-to-ground network and ARINC Direct our business jet connectivity and trip support.
+And the airports and the transportation security businesses increased in the low double digits.
+Operating margins for Information Management Services were 13.3% in the fourth quarter of fiscal 2014.
+If you remember during the first -- our first quarter earnings call we guided ARINC's adjusted EBITDA margins to be about 20%.
+And I'm pleased to say that ARINC's adjusted EBITDA margins for the year came in at almost 21% as shown on Slide 14 due to the less-than-expected integration costs and better-than-expected margin performance.
+Turning next to Slide 7.
+We show our full year fiscal 2014 results for revenue income from continuing operations earnings per share and operating cash flow.
+For the full year we generated $660 million of operating cash flow compared to $593 million last year.
+The increase in operating cash flow of 11% was due to improvements in working capital and the acquisition of ARINC as well as lower pension plan contributions.
+These improvements were partially offset by higher income tax payments and higher employee incentive payments.
+The ARINC acquisition alone added $35 million to our operating cash flow net of interest and transaction costs and we expect ARINC's contribution to our operating cash flow will more than double next year in 2015.
+Slide 8 provides an update of our total R&amp;D investment for the full year.
+Total spend increased from $917 million in fiscal 2013 to $934 million in fiscal 2014.
+Company-funded R&amp;D declined $23 million due to a reduction in R&amp;D efforts on various next-generation business jet avionics development programs.
+Customer-funded R&amp;D increased $23 million due to an increase in Commercial Systems' customer-funded development programs and higher amortization of preproduction engineering costs which was partially offset by the wind-down of a number of customer-funded development programs in Government Systems.
+Preproduction engineering investment increased due to higher spend on the Boeing 737 MAX and Bombardier CSeries and Global 7000/8000 development programs.
+Moving to Slide 9.
+We show the status of our capital structure.
+In the first quarter we issued $1.1 billion of long-term debt of which $900 million was used for the ARINC acquisition and the remainder was used to refinance $200 million of our debt that matured in December.
+The balance of the ARINC acquisition was funded with commercial paper and during the fourth quarter we were able to pay down that commercial paper by $351 million.
+As a result of the ARINC acquisition our current debt-to-EBITDA ratio stands at 1.9 as detailed on Slide 12.
+I believe this level of debt still allows us the necessary cost-effective access to fund our capital needs and I expect it to modestly decline during fiscal 2015 as we balance the debt paydown with share repurchases dividends and hopefully some M&amp;A opportunities.
+The updated status of the share repurchase program is detailed on Slide 10.
+During the fourth quarter we repurchased 1.3 million shares at an average cost of $75.53.
+With the additional $500 million authorization we announced in September our repurchase authority remaining at the end of the year was $705 million.
+Now on to Slide 11 where we provide a summary of our fiscal year 2015 financial guidance which is unchanged from our initial guidance issued in September.
+This guidance is right in line with our 5-year plan we laid out last March at our Investor Day.
+Commercial Systems' OEM and aftermarket sales are expected to go high single digits.
+Government Systems sales are expected to be about flat and Information Management Services sales are expected to grow near double digits.
+We expect growth for earnings per share and cash flow from operations will be at higher levels compared to sales.
+Earnings per share and cash flow from operations are expected to grow double digits at the midpoint of our guidance for FY 2015.
+I expect the first quarter to have growth rates very similar to how we guided the full year.
+The one area where I expect a little headwind in the first quarter is our tax rate.
+We're exploring a number of potential tax-saving opportunities that will likely impact our tax rate in the second half of fiscal year 2015.
+As a result we expect some lumpiness in the quarterly tax rate with it being about -- approximately 33% for the first 2 quarters and then lower in the back half of the year.
+As a reminder our guidance assumes that we will not get any benefit from the Federal R&amp;D Tax Credit.
+That completes my review of the financial results and projections.
+So Ryan back to you to kick off the Q&amp;A session.
+Thank you Patrick.
+[Operator Instructions] Operator we are now ready to open the line.
+[Operator Instructions] Your first question comes from Joe Nadol from JP Morgan.
+Research Division</strong> Just had a -- Kelly a couple of things on the IMS segment.
+So wondering if you could just update us on from a high-level standpoint strategically how you're thinking about the ARINC portfolio.
+You've been looking at I think a couple of the businesses in there to make sure that they made long-term sense for Collins.
+So an update there.
+Also an update on how you're looking at M&amp;A opportunities bolt-ons in that segment.
+And then just finally from a financial standpoint if we look sequentially here your sales went up and your margins didn't.
+And I realize there can be lumpiness quarter-to-quarter but how do we think about the results this quarter and the leverage that's in this business? Yes.
+Joe let me just provide some overall color.
+First of all the integration of the business is going quite well.
+It's tracking to our plan in fact a little bit better than our plan.
+And as you recall what we guided is that we would have about $10 million of synergy -- revenue synergies in our fiscal '15 about $2 million of synergies last year.
+I think that's going really well.
+In particular just at NBAA we announced the integration of our -- prior to the ARINC acquisition we had a business called Ascend which is flight support services.
+They had an ARINC Direct business.
+We were international they were domestic.
+We've combined those 2 businesses and rebranded that as an ARINC Direct service offering and we're finding great synergies in that.
+And in fact we had a very good show at NBAA.
+We were booking orders at the show and also had a lot of good client contacts there.
+So that's one of the initial major synergy activities and I feel really good about the progress we're making there.
+There is just no question that this is a hot spot for growth.
+There's more connectivity demands.
+There's more information flowing to and from the aircraft.
+So we continue to work the synergies.
+I think that's a modest task for us to get to $10 million.
+Remember that this is an annuity-based business so you kind of get a -- once you capture a customer that revenue continues once you sign them up for year-to-year.
+Now in terms of that becomes a platform for growth for us I would really like to find some additional opportunities in the M&amp;A space to supplement that and complement that and we're working that space actively right now.
+I think you're going to see they're probably smaller in size.
+They're certainly not going to be anything of the ARINC size at least not initially but folks that can provide value-added applications or services that we can either bundle with our new broader offering or can provide some complementary offerings for our customers.
+So I think that's going quite well.
+And as it relates to the sequential margin Joe there were really 2 things that influenced the margin walk from third quarter to fourth quarter.
+First was in the third quarter we had a couple of million dollars of adjustment -- positive adjustment related to amortization.
+That was a cumulative catch-up in the third quarter.
+And then the second thing is integration costs were a little bit higher in the fourth quarter than they were in the third quarter just timing of expenditures.
+Those were the 2 things that impacted the sequential margins going from the third to the fourth.
+Research Division</strong> Okay that's helpful.
+Just on the -- just wanted to clarify one thing.
+We're not looking now for any divestitures coming out of the business? Or is that still under evaluation? Well we still have the ASES component that we announced with the acquisition that we're going to divest of that.
+I'm hopeful that we'll get that done here this first quarter of fiscal '15.
+So other than that no.
+Your next question comes from the line of Sam Pearlstein with Wells Fargo.
+LLC Research Division</strong> Can you guys talk a little bit more about this shift from company-funded R&amp;D to customer-funded R&amp;D on the commercial side? Is this one particular program? Or is this some sort of a shift in terms of how you're doing the business model for future development? Well no it's not 1 program and it is a shift in some of our emphasis.
+And it's a part of our overall focus to improve our cash flow.
+We've got as you know quite a few international programs.
+I'll pick one as an example the Mitsubishi Regional Jet where we're doing the development work for Mitsubishi.
+As that program delays and as additional scope is requested for that we're -- rather than funding that ourselves we're going to our customer and having them support us with nonrecurring funding.
+And I think you're going to see that more prominent out of our commercial business going forward programs like the recent Chinese MA700 program that we just announced.
+LLC Research Division</strong> And does it have any implications for what the profitability looks like on the back end if they help fund on the development? No not profitability in terms of the profitability on the delivery of the equipment.
+It will impact the incremental margins because the customer-funded development it does come at lower margins than our product sales but certainly higher margins than expensed R&amp;D.
+LLC Research Division</strong> Okay.
+And Patrick just can you share what's the assumed incentive compensation change from '14 to '15 given the strong '14 and then the relatively strong stock price as well? I would say that there really isn't significant change from '14 to '15.
+It will be up a little bit but not much.
+Your next question comes from the line of David Strauss with UBS.
+Research Division</strong> Looking at Commercial Systems the margin improvement that you forecast for next year 50 to 100 basis points.
+Can you just talk about the drivers how we get there given the headwind that you've got from preproduction amortization and just overall higher R&amp;D? And then I think most of the growth is going to be coming from some of your newer programs where the margin profile is going to be a little bit lower.
+Yes.
+And David I'd say that the margin guidance that we have is pretty consistent with what we've said in terms of as the amortization ramps up we're not going to see as-healthy incremental margins.
+But as I look year-to-year we've got obviously very strong sales or reasonably strong sales growth on the Commercial Systems side both aftermarket and OEM.
+And although there is some new product there is also a lot of -- the aftermarket sales are very high profit.
+I don't think -- as I think about it I don't think R&amp;D is going to be a particular headwind next year.
+So the way I'd characterize it is you've got strong margins on the incremental sales and then offset by the ramp-up in the amortization of the deferred.
+Those are the 2 main drivers as we're looking at the Commercial Systems margin expansion.
+Research Division</strong> Okay.
+And then your aftermarket forecast for high single digit next year can you parse that between just market growth -- airline capacity growth and what you're expecting from the mandate side? I would characterize it this way.
+If you look at the business jet side I think both the -- what I'll call the market growth and the retrofit spares and mandates they're going to grow pretty similarly maybe a little bit higher on the retrofit side but not much.
+On the air transport side we're looking at MRO growth more in the low single digits and then that will be offset -- or that will be enhanced by sales of retrofit programs like the 767 displays retrofit we're doing and accelerating mandate revenues.
+Your next question comes from the line of Jason Gursky with Citi.
+Research Division</strong> Kelly I was wondering if you could just spend a few minutes talking about the military avionics market and the competitive landscape that is developing in that market and the impacts of the open-architecture system and how you think that plays out over the longer term.
+And then just talk a little bit about the major drivers of that market going forward where there are opportunities for new projects and where there might be some risks.
+Well first of all if you look at our total avionics portfolio we're expecting that to be our strongest portfolio next year -- or fiscal '15 out of our government portfolio.
+If you look at the key drivers there programs like KC-10 KC-135 some international C-130s are examples of growth in the fixed wing.
+The CH-47 multiyear has driven some growth this year.
+It will continue to grow nicely in fiscal '15.
+And then we've gained share at AgustaWestland across their helicopter platforms.
+That will continue to grow as well.
+You know we have positions on the F-35.
+So as F-35 ramps up in production we'll also see some growth there.
+Relative to the open architecture you're probably talking about the display -- the Blackhawk display program.
+The Navy has been moving to an open-systems architecture definition.
+They define that as an acronym called FACE and they're looking for next-generation avionics that are FACE-compliant.
+And it's really a concept of allowing further software updates to be done in a way that's not proprietary to the original OEM.
+That's a space that we play in and we've always played in.
+I think as we brought our Flight2 avionics into the market that's one of the ways we differentiated in the market was bringing open systems commercially derived open systems technology.
+So I don't see that as a competitive threat.
+I think that's an opportunity for us going forward.
+Your next question comes from Peter Arment with Sterne Agee.
+Research Division</strong> A question on -- just a clarification on IMS.
+Patrick could you remind us what the depreciation and amortization expense is estimated for '15? The amortization is about $26 million.
+Depreciation I'm a little less -- I'm looking at Ryan right now.
+I'm not sure what depreciation is.
+I think it's probably adds another $10 million to $15 million.
+Research Division</strong> Okay.
+And you mentioned that you thought the IMS cash flows would double.
+Is that correct? From...
+Yes.
+We actually said more than double yes.
+That's all -- just to be clear that's all in including the interest costs as well.
+Research Division</strong> Okay.
+And then just lastly where did international government sales end for the year? And what's the expectation for that going forward in '15? International ended up up about 7% for fiscal '14 all in and we're expecting that growth to be in that same range as we go into fiscal '15.
+Research Division</strong> Yes.
+And Kelly did it have -- as a percentage of overall sales is it still tracking around between 25% 30%? It's a little higher now as we continue to grow.
+So are you asking a Government Systems question? Or are you asking an overall? Research Division</strong> Yes just Government Systems.
+Okay.
+Yes our Government Systems business we're growing in a mid-single-digit growth and that's 31% to 32% overall mix.
+And Peter just to follow up on the depreciation and amortization question for IMS.
+All in it's about $40 million.
+About $26 million of that is amortization of purchase accounting.
+Your next question comes from the line of John Godyn with Morgan Stanley.
+Research Division</strong> There has been a lot of excitement recently about biz jet in particular.
+It is that time of year.
+We just had NBAA.
+I'm just curious.
+Could you offer maybe a bit more of a detailed update on the outlook for biz jet? At what point do we feel confident that we've turned a corner? And is there anything in terms of reading the tea leaves in your aftermarket versus OE exposures that sort of gives you any signal as to where we are in the cycle? Well I think we're clearly seeing some signs of improvement in the overall business aviation market-space.
+Now remember that for our business that's got to convert to -- excitement converting to orders for new aircraft converting to larger backlogs and finally converting to higher production rates out of the OEMs.
+And so we've been -- while we're seeing some positive indicators I think we're still a ways away from seeing any kind of major uplift to the market in terms of OEM rates.
+Now the market good news is being consumed as we expected by the new aircraft entries into the market and we'll enjoy some of that too as the Legacy 500 for example now certified comes into production here in '15.
+Research Division</strong> And just to clarify has anything changed meaningfully in the last couple of months that you've noticed? No.
+I would say nothing meaningfully that's going to create a material change.
+Now let me come back to the aftermarket portion of your question.
+The MRO portion of the business we have seen particularly in the low -- back half of the year we've seen utilization rates come up.
+And remember that most of that -- most of our aftermarket MRO business is on a per-flight-hour contract.
+So that's driven growth here and we're expecting that to continue to improve provide us a little bit of an uplift there.
+We're also -- in the aftermarket we've got this phenomenon of a lot of Pro Line 21 avionics coming out of warranty that we delivered back when the market was booming.
+And so that will also give us a little bit of a tailwind.
+I would expect our MRO business in biz av will grow a little bit better than the underlying market.
+Your next question comes from Robert Spingarn with Crédit Suisse.
+Research Division</strong> Kelly could you talk a little bit more about domestic Government Systems and the trends in -- within your flattish guidance overall for the segment in '15? I think you've included sequestration there.
+So when would we see a bottom in this business? Or does it not actually bottom in fiscal '15? What we'll see is a very slight decline domestically in '15 and obviously some growth international and that's how we'll get to the flat.
+I do think it bottoms out then and we're hopeful that we'll start to see as we've projected low single-digit growth going forward.
+Research Division</strong> So you're talking about the U.S.
+there the low single digit? Yes.
+Well we'll start to see low single-digit overall growth out of our business but I am expecting that will bottom out our domestic business in '15.
+Research Division</strong> Is that back end of the year? Or...
+I don't really -- I'm not ready to answer that yet.
+We'll see how the year goes.
+Research Division</strong> Okay.
+And then just going back to the biz jet question before.
+Again I want to make sure I'm understanding you.
+You're really seeing the new entrants -- or the new aircraft entrants drive your business here not so much a pickup in same-store sales so to speak.
+In other words.
+.
+.
+That's right.
+You should think that there's no tide lifting the overall market.
+Our growth in '15 is going to almost be exclusively driven by new entries.
+Research Division</strong> Yes.
+Because my sense is the light end of the market is still firmly planted in the sand here.
+And you would agree? Yes.
+I'd agree with that.
+And my comment is I think that the positive signs we've seen have given us confidence that we're at the bottom.
+It hasn't given me any confidence that we're recovering.
+Research Division</strong> Okay.
+And then at the high end we've had some competitive introductions recently and perhaps some new technology in the cockpit coming with that.
+Is there anything you need to do to keep up with that? No.
+We've known about that for a long time so that's not a new development.
+As you know we've introduced our no -- new Pro Line Fusion EDS system including touchscreen displays and a lot of the common technology.
+By the way those new platforms still include our head-up display systems.
+So I -- there's nothing that surprised me out of that and I think we're well suited to continue to compete and win in that marketplace.
+Your next question comes from the line of Cai Von Rumohr with Cowen and Company.
+LLC Research Division</strong> So could you give us some sense of the profile of government as we go through the year? And maybe update us on where we are regarding Manpack.
+Well let me start with the Manpack.
+So as you recall we were -- throughout the year we've been looking for an LRIP -- another LRIP extension.
+We took that out of our guidance for '15 and it looks like that was probably a wise decision.
+Since the last quarter call the Army has released a test report on the Manpack performance in the field.
+They've deemed it suitable for use and meets all the requirements for vehicular-mounted solutions but not suitable for Manpack for the backpack version.
+And the interesting thing of that is that radio meets all of its performance specs.
+They acknowledge that but now they're saying "Well maybe we asked for the wrong thing in terms of weight and [indiscernible] Manpacks." So I think our opportunity to get another LRIP order would be limited right now to man-portable version and quite frankly I don't think we're even going to get that.
+So the Army is sorting out what they're going to do and how they're going to move to production with this new test report.
+My suspicion is is that they're going to have to come to grips with the size weight power needs that they have versus the functional requirements of the radio.
+And Cai as it relates to the kind of the sequential profile of the Government Systems sales I think you're going to see the flat punch [ph] play out pretty much every quarter within a couple of points one way or the other.
+LLC Research Division</strong> Got it.
+And then as the second one you had this terrific cash flow in the fourth quarter and you were a bit less aggressive than I would have thought in terms of share repurchase.
+So you clearly have more firepower.
+Should we read in that your relative priority on potential M&amp;A has increased? Well I wouldn't necessarily read that.
+I think our M&amp;A strategy always takes priority to share repurchases.
+And I wouldn't reflect it -- I wouldn't say that our activity has been a reflection of our M&amp;A appetite.
+It's probably more -- got more to do with when we restarted the program.
+LLC Research Division</strong> And then last one.
+So do you have a fairly full pipeline of opportunities so that maybe within the next 3 to 4 months we're likely to see a couple of smaller deals? And to Joe's first question are you giving more serious consideration to possible divestitures of additional -- like some of the pieces of ARINC that may not fit quite as well? Well again let me repeat.
+Other than the ASES I don't think you're going to see any further divestitures from us and I feel pretty good about where our government portfolio is in that respect as well.
+So divestitures no don't expect much from us there.
+In terms of the opportunities I don't want to get too much into that but we're working some right now.
+I'd say the pipeline is okay.
+It's not as robust as I'd like.
+So we're going to continue to focus in that particular area.
+The timing is -- we don't control the timing.
+That's a 2-party dance.
+So we'll just have to see whether we get any of these opportunities to pop here in the next quarter or so.
+Your next question comes from the line of George Shapiro with Shapiro Research.
+Kelly could you discuss the competitive environment with ARINC? I mean I hear that there's another competitor or potential competitor moving into the marketplace because they see the attractiveness of it.
+So can you just update us on how you look at that? Well I'm not sure what you're referring to.
+So it depends on the segment that we're talking about.
+If you look at the core aviation for the -- I'm sorry.
+Honey -- I was going to say like Honeywell is one that's saying that they're going to try and enter some of that market so that was one that I had in mind.
+Okay.
+So one thing that I think needs to be well understood is that there's really 2 pieces to this connectivity story in the marketplace.
+There's safety services connectivity which is what ARINC fundamentally is strong in and what they do.
+And there's really 2 companies that do that ARINC and Xena [ph].
+The opportunity -- we have not been a strong cabin connectivity supplier and that's a space that we're looking at.
+We've teamed with Inmarsat to be a value-added reseller of their next-generation connectivity solution but that's for what I'll call open-world cabin connectivity.
+So you ought to view that more as an opportunity not as a competitive threat.
+Now I will grant you there are a lot of people in that space right now and I think how we play and how successful we are is something we're continuing to work going forward.
+Okay.
+And then one for Patrick.
+If you could just break out -- the large commercial aftermarket was down 6% and you commented it was high retrofit last year.
+Could you break that out in terms of the different subsectors? How much was actually aftermarket retrofit MRO? George I'd tell you that all of the decline was the retrofit and MRO decline.
+And if you look back at last year I think we were looking at 15% growth in our quarter.
+So we had a really unusually strong growth in that segment of the business last year.
+And so what I'd say is the basic MRO continued on the path it's been on which is modest growth and the decline was all due to particularly retrofit programs.
+Your next question comes from the line of Myles Walton with Deutsche Bank.
+Research Division</strong> I was hoping to start on the cash flow from where you did a strong performance in '14 to the walk to '15.
+So Patrick I think you said it's greater than $35 million incremental contribution from ARINC deferred preproduction on -- excuse me deferred preproduction net growth will be a tailwind of $40 million net income another $30 million offset by CapEx.
+And that's before considering lower pension and higher noncash amortization.
+So the roundabout question is it looks like you're comfortably about $725 million to $750 million.
+But then there's things like taxes and other items.
+Is there a big tax swing coming your way? Or are you comfortably in that range? I wouldn't attribute it to taxes.
+I think what we're going to see is first of all there will be some incremental I'll say customer incentive activity where we're going to be shipping some free-of-charge equipment.
+That's not a huge swinger.
+But I also would say -- I'd tell you that the pension tailwind you've identified doesn't exist.
+I think we're going to be about flat year-over-year on pensions.
+So we're certainly hopeful we'll deliver good cash flow results.
+But I think you -- I think at least 1 part of your equation won't be a tailwind and that's the pension piece.
+Research Division</strong> And in the P&amp;L is pension a tailwind to you on a noncash basis? A little bit of one.
+Research Division</strong> Okay okay.
+And the other one so where did the backlog end the year for defense in terms of posturing you for a flat production? Do you have better visibility? I know last year when the backlogs closed you were kind of clawing back in the first part of the year.
+It sounds like the backlog closed in a much better position.
+Is that right? It did yes.
+I think we built a little bit of backlog this year not as much as we'd like but certainly it's supporting the flat sales for next year.
+And you're right I think the orders closed quicker this year than they did last year so we're in a better position as we exit the year.
+Myles as we look at our backlog it's really important at least from a '15 perspective that we look at what component of that backlog has to -- do we need to book and convert in the same year.
+As I look at our numbers and the percentage that have to book and convert this year '15 versus our historical performance they look pretty good.
+So that's -- to my comment of we had a good quarter not only did we book orders we booked the right orders that will allow us to get to that flat in '15.
+Your next question comes from the line of Carter Copeland with Barclays Capital.
+Research Division</strong> Just wondered if we could delve into the performance in IMS sequentially and year-over-year.
+It looks like by my math the -- it seems like the airport and rail business was probably up decently sequentially after last quarter having that falloff.
+Is that right? And then on the full year it would seem that the apples-to-apples comparison would have the whole business growing about mid-single digits as opposed to the kind of underlying core high single-digit number you guys have been talking about and targeting.
+Is that correct? Am I missing something? And if so what's -- what are the real drivers there? Well let me answer the sequential question first.
+I would say it's a yes.
+The airports and the rail and security businesses did better fourth quarter to third quarter so that was a driver of the incremental revenue -- a portion of the incremental revenue gain.
+As it relates to next year we're forecasting high single-digit revenue -- or actually approaching double-digit revenue growth in IMS.
+We'll see I think probably a disproportionate share of that in the first quarter because we'll have some favorable comps there but solid growth particularly in the aviation-related businesses throughout the year.
+Research Division</strong> No.
+I was talking about fiscal '14.
+It looked like it was a mid-single digit year-over-year growth.
+Is that correct? Mid-single digit year-over-year growth for the full year? Research Division</strong> Yes apples to apples.
+No.
+I'd say apples to apples the growth was 13-ish.
+Research Division</strong> Okay great.
+And just a quick one on the 787 sparing the tough compare you talked about there can we get any color on kind of magnitude what we should be thinking about that influencing the compare for the upcoming quarter is? Is this a sort of $10 million to $20 million kind of thing? Is that about the right way to think about it? Yes.
+I think you're going to see low single-digit kind of performance in that space in the first quarter.
+Your next question comes from the line of Ken Herbert with Canaccord Genuity.
+Research Division</strong> Kelly or Patrick just first can you talk -- I know you're probably starting to see some of this but can you talk about A350 provisioning and how that ramps across fiscal '15? Well -- so first of all A350 provisioning is a growth area for us.
+It's not as significant as what we saw with 787 because of the few number of different customers that are taking the initial aircraft.
+So we'll have some provisioning.
+It's just not going to be quite as material as what you probably see from us on 87.
+Research Division</strong> Okay.
+And think of that maybe as more of a back half event or do you really start to see...
+Well we'll have the initial provisioning in the front half for Emirates.
+And then because they're taking quite a few of the initial aircraft we won't see much provisioning until the back half beyond that.
+Research Division</strong> Okay great.
+And just one additional question Kelly.
+I understand from an M&amp;A standpoint but if you look at investment from your internal R&amp;D efforts how would you characterize the IMS business now relative to the commercial business? Maybe are you seeing more opportunities there to really grow that business? Because you're obviously coming off a fairly significant investment and a number of share gains in the other legacy Collins business I guess.
+How would you characterize IMS within that as you look at investments? Well I think there's -- first of all the IMS business does not require near the R&amp;D investment that the core product business does.
+So we've provisioned some additional CapEx in our plan for '15 to help build out some network infrastructure and do some software updates to help drive the growth.
+I think what you'll see is is that the IMS business is not going to be a big discretionary consumer but probably more opportunities in the M&amp;A space to support the growth there.
+Your next question comes from the line of Michael Ciarmoli with KeyBanc Capital Markets.
+Research Division</strong> Maybe Kelly just to stay on the -- or to go back to the Government Systems segment the backlog the visibility.
+You took out the Manpack which I guess was $100 million.
+I guess just last week you got about $100 million order which is all shippable this year for the AN/ARC radios.
+Was that something that was in your kind of sales funnel or sales pipeline and kind of maybe fills that gap from the Manpack? Yes.
+I mean those were all anticipated orders.
+We don't -- those aren't kind of pop-up surprise things.
+That's an annual -- an annual buy that we've had in our forecast all along.
+Our Manpack just to be clear is going to be about a $90 million headwind for us in fiscal '15.
+That is being offset in our communications portfolio a little bit by growth in data links and other radio equipment.
+But if I characterize '15 for our Government Systems you're -- the Manpack is going to drive down our comm portfolio a little bit and we're going to see that being offset by growth in our aviation portfolio.
+And then I'd say our nav and surface kind of balance each other out.
+Research Division</strong> Got it.
+And then just one final one.
+On the commercial side just thinking about some of the maybe headwinds out there specifically Bombardier.
+Are those creating a disproportionate amount of pressure this year specifically CSeries and maybe Learjet? Were those baked into your plan? Or just some perspective on what's going on with those programs.
+Yes.
+We've -- there is no Lear 85 revenues in our plan for '15 so we've taken all that out and de-risked it.
+At the last call I talked about 1 point of impact on CSeries.
+In fact we've de-risked that as well and so we have about 0.5 point of CS Commercial Systems revenue associated with CSeries in the plan.
+I have to tell you that I think that's not major risk to that CSeries.
+They're back flying.
+Whether the schedule holds or not is not in our control but I think we'll see at least a good portion of that revenue that we have in the plan on CSeries.
+Your next question comes from the line of Howard Rubel with Jefferies.
+Research Division</strong> Two things Kelly.
+One could you talk a little bit more about I mean broader bid and proposal opportunities both commercial and military? We realize there's still 777X opportunities out there.
+And my sense is that new business jets have not gone away and you may have actually landed a couple of suites on some nice platforms.
+Well -- so let me start with 777X.
+I had hoped that -- and I think I'd said at the last call that we should have that wrapped up by this call and we're not yet wrapped up.
+Don't read anything into that.
+I think that we're very close and working through that program with Boeing.
+And as I've said I'm very confident in our opportunities to gain some share there on the 777 program.
+We've got some big programs in the defense business that we're pursuing.
+There's a big proprietary OEM program that our Government Systems folks have been working on.
+We've got a new unannounced platform in that space as well.
+So yes there continues to be opportunities for us to grow in both segments of the market there with new platforms.
+Research Division</strong> And then to go to unmanned systems you've made an acquisition a couple of years ago I think for flight controls.
+And there's lots of different ways that market can evolve and you have a lot of capability there from data links to avionics.
+Where do you see that opportunity? How big can it be? And I'm sure timing is very difficult.
+Yes.
+Timing is interesting.
+The reality is as we pulled out of Iraq and Afghanistan and retracted the production rates of unmanned platforms have declined.
+And so the market -- while the idea and the concept is robust and I think there'll be a big future for it the near-term market is not that strong.
+We're well equipped with our Athena acquisition as you point out to provide communications navigation flight control systems.
+We're working with the FAA and NASA right now on defining the next generation of control links to the UAS to allow it to operate in the national airspace.
+You may have seen we've done a technology program where we actually used our Pro Line Fusion system on the ground as the control center for a Bonanza aircraft flying unmanned.
+And so I think there's going to be opportunities in both the commercial and the government space.
+But the thing we've got to really work on now is the ability for them to safely operate in commercial airspace which means civil certification control links that are high availability and reliability and that's good space for us.
+So I think this is going to be a good market.
+Near term I just don't see a lot of growth just because of the dynamics of Iraq and Afghanistan.
+Your next question comes from the line of Noah Poponak with Goldman Sachs.
+Research Division</strong> Patrick have you stated or quantified how much share repurchase or share count change is embedded in the fiscal '15 earnings outlook? No we have not.
+Research Division</strong> Could you? No.
+We typically don't because there are a lot of variables Noah.
+We already talked about acquisition activities cash flow both the amount and the timing.
+So we don't intend to commit to a specific share repurchase amount.
+Research Division</strong> Does the outlook assume something greater than 0? Yes it does.
+Research Division</strong> Okay.
+In the aftermarket outlook can you quantify what you see the large commercial air transport aftermarket growing and what you see regional business jet aftermarket growing in '15? I think they're going to be pretty comparable if you look at the rates of growth.
+Again air transport is going to be driven by mandates.
+The 2 mandates we have should peak out in '15 so we'll get some growth there.
+MRO is going to be kind of the normal run rate.
+We continue to be successful in our used parts business with Intertrade to offset some of the recycling that's going on in the MRO market initial provisioning as we've talked about for A350.
+And then Pat mentioned in his prepared remarks about retrofits on 757 67.
+What that is is that it was just announced that we got certification of that and we're bringing the 787 display system into a 75 76 update.
+And we've got a launch customer for that and some good prospects for some follow-on opportunities as well.
+Research Division</strong> So I guess as I stare at the model I'm just wondering how much risk there is to the air transport side growing upper single digits in the aftermarket.
+Because you had the difficult comp in the first quarter and while it's a difficult comp from a growth rate perspective it looks like last year sequentially that piece didn't really change that much second and third quarter.
+So it doesn't look like on an absolute basis the comps get that much easier.
+And if it's going to be closer to flat in the first quarter you would need it to really accelerate a lot in the back half.
+Am I missing something on that math? Or does it just grow a lot faster in the back half? Well we're dealing with relatively small numbers and spares orders and retrofit programs in this space can have a substantial change in those growth rates.
+I have to tell you I'm not too concerned about the overall risk to that air transport aftermarket.
+I think our opportunities balance our risks.
+Where we've seen -- and I'll use '14 as an example.
+Where we've seen growth a little bit lower than we expected is more in the discretionary biz av market-space.
+It's been very good in cabin upgrades and we're expecting that to continue but the avionics mods have been a little bit slower than we anticipated.
+So if there's any risk that I see in the aftermarket it's a little bit around biz av avionics mods.
+But it's -- that's a very manageable amount with the balance of the opportunities we have across the business.
+Research Division</strong> Okay.
+And then just one last one.
+Does this 21% growth in regional and business jet original equipment in the quarter -- I know you gave a little bit of color and specified the Chinese aircraft there but can you just dig a little further into that? Because the absolute number is pretty large relative to where you've been run-rating and then you're calling for the growth rate to slow right away now.
+Yes.
+And I would say this to put a little bit more color on it it is entirely in the regional jet area.
+And I'd say probably relatively evenly split between the deliveries of equipment for the Chinese regional jets as well as customer funding on a couple of international regional jets.
+So both of those things tend to come in kind of big lumps but those -- that's what's driving the growth this year -- this quarter I mean.
+Research Division</strong> So that was lumpy in the quarter and you don't see it in the next few quarters? Well what I would say is I think you're going to continue to see us generating customer-funded revenue for development.
+The sale to the Chinese was a pretty big lump so yes that won't recur.
+Research Division</strong> Could you quantify that piece? I want to say it's about half of that 21% growth.
+Your next question comes from the line of David Strauss with UBS.
+Research Division</strong> My answers have been taken care of -- my questions have been taken care of.
+Thank you.
+Okay.
+Thanks David.
+This concludes the question-and-answer session.
+I'd now like to turn the call back over to Ryan Miller for any closing remarks.
+Thank you Tracy.
+We plan to file our Form 10-K probably in about 3 weeks so please review that document for additional disclosures.
+Thank you for joining us today and participating on today's conference call.
+Thank you for joining.
+This concludes today's conference call.
+You may now disconnect.

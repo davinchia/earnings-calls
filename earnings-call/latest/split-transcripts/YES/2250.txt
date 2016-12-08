@@ -1,0 +1,449 @@
+Ladies and gentlemen thank you for standing by.
+And welcome to the Level 3 First Quarter 2015 Earnings Conference Call.
+During the presentation all participants will be in a listen-only mode.
+Afterwards we will conduct a question-and-answer session.
+[Operator Instructions] As a reminder this conference is being recorded Wednesday April 29 2015.
+I would now like to turn the conference over to the Vice President of Investor Relations Ms.
+Valerie Finberg.
+Please go ahead.
+Thank you Mike.
+Good morning everyone.
+And thank you for joining us for the Level 3 Communications’ first quarter 2015 earnings call.
+With us on the call today are Jeff Storey President and Chief Executive Officer; and Sunit Patel Executive Vice President and Chief Financial Officer.
+I’d like to draw your attention to the Investor Relations section of the Level 3 website at investors.level3.com.
+On this site are the presentation materials that accompany this call the earnings press release and supplemental financial information.
+Comparisons to prior periods are being presented on the pro forma basis assuming that our acquisition of tw telecom took placed on January 1 2014.
+In addition the growth rates disclosed in our presentation and remarks are on a year-over-year basis.
+Revenue and sales comparisons to prior periods are provided on a constant currency basis unless otherwise noted.
+I need to call your attention to our Safe Harbor statement that begins on page two of our 1Q ‘15 earnings presentation.
+The presentation and remarks contain forward-looking statements that are subject to risks and uncertainties.
+Results may vary significantly from those statements.
+A discussion of factors that may affect future results can be found in Level 3’s filings with the Securities and Exchange Commission.
+We will be referring to certain non-GAAP financial measures.
+Reconciliation of these non-GAAP measures to the most comparable GAAP measures are available in the earnings presentation.
+With that I’ll turn the call over to Jeff.
+Thanks Valerie.
+Good morning everyone and thank you for joining us.
+Level 3 had a good start to the year with solid execution and integration and continued focus on profitable growth.
+Over the past few quarters we've outlined our three key priorities.
+First and foremost the successful integration of Level 3 and tw telecom second is enabling EMEA to live up to its full potential and deliver the growth we believe we can achieve in that region third is positioning Level 3 for growth well into the future.
+After Sunit reviews our financial results I will briefly discuss each of these with most of my comments on the integration of tw telecom.
+After that we'll open it up to your questions.
+Sunit I will turn the call over to you.
+Thank you Jeff and good morning everyone.
+We started 2015 with the good quarter and we made steady progress on capturing annualized run rate adjusted EBITDA synergies.
+Given the first quarter run rate performance on adjusted EBITDA we are raising our 2015 outlook for adjusted EBITDA and free cash flow.
+I'll start on slide three of our first quarter earnings presentation.
+Our Core Network Services revenue for the first quarter of 2015 grew 6% year-over-year.
+Our Enterprise Core Services revenue grew 8.1% year-over-year.
+Including integration-related expenses of $5 million adjusted EBITDA grew to $635 million.
+We generated free cash flow of $51 million and since the acquisition closed we have now achieved $95 million in annualized run rate adjusted EBITDA synergies.
+Turning to slide four our CNS revenue grew 6% on a constant currency basis and 3.9% on an as reported basis.
+The difference in growth rates is due to the strengthening of the dollar.
+Outside of the U.S.
+dollar which represents 88% of CNS revenue our top three foreign currencies are the British pound the euro and the Brazilian real representing 5% 3% and 3% of CNS revenue respectively.
+On a revenue-weighted average basis those three currencies declined 13% against the dollar compared to the year ago quarter and negatively affected us CNS revenue growth by approximately 2% this quarter.
+On a regional basis North America CNS revenue grew 7% and Enterprise CNS revenue grew 8.8%.
+In EMEA CNS revenue declined 0.8% on a constant currency basis and 9.2% on an as reported basis.
+Enterprise CNS revenue excluding U.K.
+Government grew 5.7% on a constant currency basis and declined 2.6% on an as reported basis.
+U.K Government revenue grew 4.5% in the first quarter but declined sequentially.
+For the full year we expect U.K Government to decline a little less than the 17% decline we saw last year which is a slight improvement from our previous outlook.
+U.K Government should continue to decline sequentially the rest of this year.
+Overall we still expect U.K Government to keep declining over the next several years.
+This revenue is now 1.4% of total CNS revenue.
+EMEA Wholesale CNS revenue declined 11% on a constant currency basis and 20% on an as reported basis driven primarily by industry consolidation and associated customer disconnects as well as our focus on profitable growth.
+As we mentioned last quarter we expect better performance and comparisons in Wholesales over the remainder of the year.
+In Latin America CNS revenue grew 6.2% on a constant currency basis and declined 2.6% on an as reported basis.
+Enterprise CNS revenue grew 5.8% on a constant currency basis and declined 3.3% on an as reported basis.
+For the first quarter Wholesale CNS revenue grew 7.4% on a constant currency basis and was flat on an as reported basis.
+We expect the Enterprise business to show stronger performance over the balance of the year.
+With respect to Venezuela we moved to the CCAT 1 rate in the second quarter of last year.
+Currently there is a three-tiered exchange rate mechanism in Venezuela for exchanging bolivars into U.S.
+dollars.
+The first is the official exchange rate of 6.3 bolivars per U.S.
+dollar.
+The second is the CCAT 1 rate that we are using which is currently at 12 bolivars to the dollar.
+And the third is a new open market foreign exchange system called the Simadi exchange rate that was established in February 2015 and was 193 bolivars to the U.S.
+dollar at March 31 2015.
+At this time the majority of our transactions with customers and suppliers are at the CCAT 1 rate.
+We will continue to closely monitor activity in Venezuela with respect to exchange rates and we expect that future changes regarding exchange mechanisms could result in a negative effect of Venezuela operations profit cash flows and cash balance.
+At the end of the first quarter the company’s cash balance in Venezuela maintained in Bolivars was US$72 million at the CCAT run rate and we had about $20 million in revenue in the period.
+Also voice services and other or WVS revenue declined 16% to $126 million in the first quarter of 2014.
+We expect continued double-digit rates of decline in WVS revenue in 2015.
+Moving to churn.
+As many of you aware Level 3 had a slightly different methodology in calculating churn from tw telecom.
+As part of our integration activities we have adopted tw telecom’s methodology which we believe provides a better representation or true churn or disconnects because that definition excluded churn or disconnects that were replaced by an upgraded service by the same customer between the same locations.
+On a combined company basis CNS revenue churn was 1%.
+This was a slight improvement from 1.1% also on a combined company basis from both the first quarter of last year and the fourth quarter of 2014.
+Slide five provides an overview of the mix between CNS versus WVS revenue and CNS revenue on a geographic and customer basis.
+Turning to slide six and revenue results by Product Group which I would like to note are shown on an as reported basis.
+Because currency had a larger effect on our revenue this quarter we also noted these results on a constant currency basis.
+The company’s growth continues to be driven by our IP and data services which grew 9%.
+Within that group CDN revenue grew 2.4%.
+We expect CDN performance to improve later in the year as we deploy more capacity.
+Transport and fiber grew 5.4%.
+Within transport and fiber dark fiber grew 3.2%.
+Voice services grew 0.6% and colocation and datacenter services grew 3.8%.
+Regarding pricing as we have said for several quarters we have seen little change in the pricing environment.
+We remain disciplined across our product portfolio and service regions in driving profitable growth.
+Turning to slide seven network access margin expanded to 64.8% compared to 64% in the first quarter 2014.
+The improvement in network access margin was driven by integration related network synergies with continued high margin CNS revenue growth and low margin WVS revenue declines.
+Network related expenses excluding noncash compensation were $351 million for the first quarter of 2015 compared to $347 million in the first quarter of 2014.
+SG&amp;A excluding noncash compensation expenses and integration related expenses for the first quarter was $339 million.
+This compares to $342 million for the first quarter of 2014.
+Turning to slide eight.
+Adjusted EBITDA including integration related expenses were $635 million for the first quarter of 2015.
+Excluding integration related expenses of $5 million adjusted EBITDA was $640 million.
+This compares to $625 million in the fourth quarter of 2014 and $593 million for the first quarter of 2014.
+The improvement in adjusted EBITDA was primarily driven by good progress in capturing operating expense synergies.
+Adjusted EBITDA margin including acquisition related expenses improved to 30.9% compared to 29.6% for the first quarter of 2014.
+Moving to synergies.
+Since the acquisition closed we have achieved approximately $95 million of annualized run rate adjusted EBITDA synergies with $14 million of network access cost synergies and $81 million of operating expense synergies.
+We have clearly made good progress capturing OpEx synergies thus far.
+For the remainder of the year we expect to make more progress capturing network access related synergies.
+On slide nine capital expenditures were $254 million in the first quarter of 2015 representing 12% of total revenue.
+For the full year 2015 we continue to expect capital expenditures of approximately 15% of total revenue.
+The company generated free cash flow of $51 million in the quarter.
+Cash flow saw a benefit this quarter driven by timing of both capital expenditures and approximately $20 million in net cash interest expense that we had expected to incur in the first quarter but was pushed to the second quarter since we redeemed debt that we had refinanced upto April 1 in the second quarter versus our expectation in the first quarter.
+As of March 31 2015 the company had cash and cash equivalents of approximately $560 million pro forma for the redemption of the 9.375% notes on April 1 2105.
+Turning to slide 10.
+As noted in our earnings release we completed several capital market transactions over the past few months as we opportunistically managed the balance sheet.
+Related to those transactions we expect to incur a $136 million noncash charge for the extinguishment of debt in the second quarter.
+These 2015 refinancing transactions in total save us about $64 million in annualized cash interest expense.
+We exited the quarter with our net debt to adjusted EBITDA ratio at 4.2 times on a pro forma basis.
+This compares to 4.4 times at the end of last quarter.
+We remain focused on getting to the low end of our target leverage range of 3 to 5 times driven by growth in adjusted EBITDA.
+Our average interest rate on our debt is now 5.3% compared to 6.8% a year ago for Level 3 standalone.
+Moving onto our outlook for the year on slide 11.
+Based on first quarter performance synergy attainment and continued focus on profitable growth we are updating our outlook for the full year 2015.
+We now expect adjusted EBITDA growth of 14% to 17% for the full year 2015 compared to our previous outlook of 12% to 16%.
+We are also raising our full year 2015 free cash flow outlook to $600 million to $650 million which compares to our previous outlook of $550 million to $600 million.
+Additionally based on our recent capital markets activity we now expect $660 million in GAAP interest expense and $645 million on net cash interest expense compared to our previous guidance of $680 million and $640 million respectively.
+All other guidance measures remain unchanged and are listed here on the slide.
+Last quarter in my remarks on the conference call we had provided our outlook for 2015 CNS constant currency revenue growth performance on a regional basis compared to what we saw in 2014.
+That outlook remains intact.
+For North America we expect CNS revenue growth to be a little softer than the 6.8% growth we saw in the fourth quarter of 2014.
+For Latin America we expect comparable performance to the 8.5% growth we saw in 2014.
+For EMEA we expect a decline that will be smaller than 2.2% decline we saw in 2014.
+In summary we had a good start to the year and remain confident in our financial performance for the remainder of the year.
+We feel good about the progress we’re making in achieving the synergies as we integrate tw telecom.
+We look forward to reporting our progress next quarter.
+With that I’ll turn the call over to Jeff.
+Thank you Sunit.
+Since the acquisition of tw telecom we’ve talked about 2015 as a transition year for Level 3.
+If I look back on the six months since the acquisition closed I’m pleased with how much we’ve accomplished and the lack of surprises.
+To be clear no surprises is a good thing.
+The customer experience tw telecom provided is as good as we expected.
+Our combined portfolio of products and services address the ever-changing challenges our enterprise customers face and are well received in the market.
+The strength of the combined network provides a solid foundation for those products and services.
+And given the lack of customer overlap between the companies there's been very little revenue lost driven by the need for diversity.
+Operationally we’ve seen very few surprises as well.
+Maintaining the sales momentum we experienced pre-close has been a key focus area.
+While sales were a little light at the end of the fourth quarter and the beginning of the first quarter overall we’ve been pleased with the result and March was a very good sales month.
+In spite of all the changes in all of the integration efforts sales in the first quarter of 2015 improved over the same period last year.
+Service delivery intervals are always critical indicators of our integration efforts.
+Our North America service delivery team has done a very good job and maintained our installation performance.
+Looking at the acquisition synergies we are ahead of schedule and are determined to capture synergies while also maintaining the customer experience.
+From a platform perspective we have interconnected the networks we standardized our go-forward architectures globally and have begun implementing a unified network design.
+And lastly the systems integration and development work has begun in earnest and we are building a companywide platform for growth well into the future.
+As the heart of our integration plans has been a focus on our people building one company culture is important to our success and as a result it receives a lot of our attention.
+Even prior to the close we determined the go-forward organization structure and the leadership team and communicated those decisions to employees clearly and early.
+Shortly after close we standardized our benefits for all of our North America employees.
+In early February we began integrating the sales organization solidifying the general manager environment and assigning the go-forward accounts to our sales people.
+At that same time we established our global account management team to provide a deeper focus on major customers doing business across multiple regions.
+At the beginning of this month we rolled out a single customer relationship management or CRM system across North America and EMEA and have implemented a unified sales compensation structure in North America.
+This is a lot of change for sales force.
+While there have certainly been issues along the way and it is way too early to declare success leading indicators are important.
+Our sales team’s confidence in the combined product and service portfolio remains strong.
+Voluntary sales force churn is consistent with premerger levels.
+The quality of the sales funnel continues to improve and our first quarter sales results improved over the same period last year.
+I’ve discussed our key priority of positioning Level 3 for future growth.
+Many of the integration initiatives I've mentioned are really the foundation of the global company we are building whether in our product portfolio our operational capabilities or our platforms we're building Level 3 as a global solution for our customers networking needs.
+While we’re focused on integration we have not lost sight of the need for continual innovation.
+As an example we announced the launch of our expanded DDoS platform this quarter.
+Our customers have very real and strategic security challenges and they look to Level 3 to safeguard their networks and protect their capabilities.
+Level 3’s unique position in the industry and our ability to see a comprehensive view of the threat landscape allows us to work with enterprises to effectively protect their networks.
+Turning to the EMEA.
+We continue to make changes in management improve our sales discipline enhance our operational performance and focus our investments on profitable growth opportunities.
+I believe we are on the right path to improve performance but it's still early in the process.
+We will share our progress in future calls.
+Sunit provided commentary on our financial performance in Latin America but I wanted to add a little bit.
+I spent time in LatAm last month and I wanted you to know we have an excellent team there.
+They continue to be optimistic about our opportunity and despite the macro pressures in those countries the dynamics that drive our business in the region dynamics like bandwidth growth migration to cloud services and the evolution to the new IT base technologies all of those dynamics remain intact in the region.
+Across our business customers tell us they appreciate our intimate knowledge of their communications challenges our ability to design solutions to meet their needs and the personal touch they see from our team.
+All of these factors are helping to position Level 3 as the communications provider of choice.
+With that we’ll open it up for your questions.
+Operator would you explain the process? Thank you.
+[Operator Instructions] Our first question comes from the line of Scott Goldman with Jefferies.
+Please proceed.
+Hey.
+Good morning guys.
+Guys a couple of questions.
+First maybe you can just talk little about the strengths in the North American enterprise.
+What's driving the strength there? It seems as though on a constant currency basis -- North America but you started the year at a faster growth rate than what your full year guidance would imply.
+And then second Jeff I appreciate your comments on LatAm.
+Maybe just talk little bit about what contributed to the little bit slower start than what you might have been expecting for the full year there? And Sunit made the comment that you expected enterprise to get stronger in LatAm throughout the year.
+Just talk about what the drivers are in the region? Thank you.
+Scott I will take the LatAm question first.
+So I think in LatAm we had a very strong sales quarter in the first quarter and looking at the backlog they have and the strength they see in the sales score in the fuss score in the funnel we see the enterprise business growth improving over the balance of the year.
+They’ve also had quite a bit of strength in the wholesale segment then we think some of that will continue for the rest of the year.
+So when you put both of those together we think that you will see better performance here.
+I think on the North American enterprise business as Jeff pointed out we started off with a good sales quarter and that helped.
+But on the revenue performance as we pointed out last quarter remember that last year as we said three months ago we were pending up a lot of Starbucks revenue and we had some fed contracts that we won in 2013 that we were pending up in ’14.
+So we don't have the benefit of those two things this year.
+But aside from those two things I think the turn in the business across all segments including federal is pretty good.
+Jeff if you could add anything to that? I think that’s right.
+Sunit’s last statement is one that I will key on.
+The tone in the business is pretty good across our business.
+If you look at LatAm the tone in the business the drivers of our growth in the region those are all pretty strong and pretty solid.
+The same is true in North America.
+If I could just follow-up on the North American side you definitely talk about the Starbucks in the government.
+I think some government stuff that you won in 2014.
+Is there any sense for that? How we should we be thinking about the timing of when those came in ’14 so we can think about the anniversary of those and how that might impact growth on a go-forward basis? Well as I mentioned in my comments we expect and as we said last quarter we expect the North American business to be a little softer than the 6.8% growth we saw in the fourth quarter of 2014.
+For this quarter we were close to 6% so obviously that counts the year-over-year comparisons.
+Softening I think you'll see that continue for a little bit this year.
+And again it's all tied into the -- it’s more last year’s story than this years and that we were turning up those contracts that we won in earlier years in 2014.
+And now that they are more largely turned up that’s the impact you are seeing.
+But other than that generally the business across the board looks good.
+Okay.
+Great.
+Thanks guys.
+Our next question comes from the line of Phil Cusick with J.P.
+Morgan.
+Please proceed.
+Hey guys.
+Thanks.
+Sunit when I saw you couple months ago you were thinking about the potential for sales force disruption once you’ve paid annual bonuses.
+What did you see as sort of March and April came through? I will let Jeff answer that question.
+The only thing I would say is we’ve talked about we did look across the sales force at the bottom performance and so we had some reductions which we thought were outflow.
+But overall I will let Jeff talk about sales force.
+Sure.
+If you look at our sales force we are down from where we were in the fourth quarter.
+Almost all of that was planned on our part as Sunit mentioned that we look at the bottom percentage of our sales force and continually managed low performing people either to make them better or move them out of the business.
+But we also look at the skill set we need and the confidence we need to fit our go-to market strategy and so we are continually evolving making sure that each of our various sales channels have the right people or have the right size to match the opportunities that’s in front of them.
+And so we will continue to manage that.
+We haven’t seen yet so involuntary or excuse me voluntary sales attrition outside of what we saw prior to the close of the merger so we are feeling pretty good about that.
+But we made a lot change to the sales organization.
+And a lot of that change is just now implementing.
+And so in my comments I said it's too early to declare success.
+But we are paying very close attention.
+Our sales team knows how critical they are and rather than focusing on the number of sales people we have in our sales channels we focus on the productivity of those sales channels the overall output of those.
+And we know that the more productive we can make our sales people the happier they are more the more they stay with us the better we grow as a business.
+And so we are focused on making each and every sales person very productive and making sure that we give them the best place to work in the industry.
+That’s great.
+And backlog you used a bit of quarter-to-quarter is that seasonal or it has anything to do with the transition? Thanks I think as Jeff pointed out unlike in other periods our service delivery organization is doing a pretty good job and I’m happy to say that could be installed at a good pace.
+And we haven’t had any issues which is good for us meaning for our investors and also keeps customers happy.
+So we continue to be pleased with that the performance of our service delivery organization.
+Okay.
+Thanks guys.
+Our next question comes from the line of Simon Flannery with Morgan Stanley.
+Please proceed.
+Yeah.
+Thanks a lot.
+Good morning.
+Good to see the progress on the synergy realization.
+Is this primarily a timing thing or do you think there might be ability to get upside or you have seen some opportunities that perhaps you haven't put in your $200 million guidance? And I know all the guidance is really on the cost trend and CapEx side.
+What about revenue synergies? Have you seen any progress on trying to cross-sell products into each customer set? Thanks.
+I’ll take first part of the question.
+Jeff can talk about the revenue synergies part.
+So on the cost side I think it’s timing mostly.
+Simon I don’t think we see more synergies pursue at this point.
+I think that what happened is all our various organizations were functions within the company.
+Move to -- and felt confident in moving a little earlier on the cost reductions one part being the sales side as Jeff pointed out develop and we haven’t seen any loss in sales production there as we pointed out and the second side in all the other functions just people taking out cost out earlier.
+So I’d say it’s timing on the OpEx side.
+We expect more progress on the net add side.
+So at this point we don’t see more synergies per se.
+I think we’ve just had a strong start and obviously that’s in the run rate which is benefiting overall EBITDA.
+If you look at revenue synergies Simon we described and view 2015 as a transition year.
+And we are focused on making sure that we integrate the two companies well that we build the platform for our future success that we do the basics that we need to be doing today to position Level 3 for growth well into the future but cross-selling and upselling is part of that.
+And as you guys know most of our new sales come from existing customers and so we will continue to focus on cross-sell and upsell opportunities.
+But believe the 2015 is a transition year where we are putting our sales force through an enormous amount of change and our customers to a fair amount of change as well.
+And so we are really focused on making sure that we make that transition well and that we work closely with our customers to satisfy their needs on a daily basis.
+Okay.
+Thank you.
+Our next question comes from the line of Colby Synesael with Cowen and Company.
+Please proceed.
+Great.
+Thank you.
+Two if I may.
+First off I just wanted to get company sense on comfort rounding additional M&amp;A particularly outside the United States.
+It seems like you’re doing well with the TW Telecom transaction and senior management’s ability to focus on something like that.
+And then the second question.
+You did debt refis a little bit faster this year than we had anticipated.
+Can you just remind us what’s still out there that could potentially be call in 2015 and even 2016? Thank you.
+I’ll take the second question and Jeff can answer the first one.
+So on the debt refi I think you’re right.
+We moved quickly to take advantage of the debt markets.
+We currently do not have any fixed rate debt or bonds that are callable until next year.
+So I think that at least on the bond side is not much to do this year.
+And then on the bank side which is our floating rate debt we continue to look at that to see if any -- there might be opportunities there.
+But I think we are generally done with respect to bond refinancings for this year.
+And with respect to M&amp;A M&amp;A is part of our strategy.
+We look at gaps in our capabilities.
+We look at gaps in our network.
+We look at opportunities to add customers and view M&amp;A as the mechanism to do all of those things.
+And so we’ll continue to focus on M&amp;A.
+It’s opportunistic by the very nature of it.
+Outside the U.S.
+as you mentioned Colby is probably more in our targets than maybe inside the U.S.
+given that we’ve just done the TW Telecom acquisition.
+The real comment I want to leave though in your mind about M&amp;A is we will not do anything from an M&amp;A perspective that causes us to damage our integration of TW Telecom.
+That is the highest priority for us in the business.
+And I think you’re right in saying that the North America team management team is focused well on that.
+And so if we were to do something outside of North America I think it creates less of a distraction but we will not do anything from an M&amp;A perspective that harms our ability to integrate TW Telecom effectively.
+Great.
+Thank you very much.
+Sure.
+Our next question comes from the line of Nick Del Deo with MoffettNathanson.
+Please proceed.
+Okay.
+Hi guys.
+Thanks for taking my question.
+Actually I had two.
+First your CapEx was pretty low this quarter.
+I was wondering if we should expect to ramp over the next three quarters to get up to your 15% guidance range or if it’s possible that during the year it might come in a bit right? And second I think there were two transatlantic systems that are supposed to be coming on line this year.
+It’s been a long time since any new transatlantic systems have been built.
+So I was wondering if you could talk a bit about whether or not you think these are -- just forward thinking about your transatlantic business.
+Maybe talk a bit more generally on those assets.
+What’s your revenue contribution that makes saleable business and their importance in terms of driving the latest sales? Let me start and then Sunit probably has some that he wants to add to it.
+First of all on the CapEx our guidance -- we gave guidance of 15% of revenue.
+We’re still comfortable with that.
+CapEx spending is lumpy.
+If you look at the first quarter it’s usually a little wider than the rest of the year and so we’re still very comfortable with our 15% guidance as a percentage of revenue.
+With respect to transatlantic there are new cables coming on line over the next couple of years.
+That’s not only true in transatlantic.
+That’s through in South America and other places.
+And we view those assets -- the assets that we have has a competitive strategic advantage and our ability to operate.
+Having said that we’re always looking at ways to lower our cost for the next build capacity and we’ll work with those systems to see how it make sense for Level 3 to take advantage of what’s coming on line.
+But those assets that we have the subsea asset are still an advantage for Level 3 and something that we continue to work hard to monetize effectively.
+Okay.
+Great.
+Thanks.
+Thank you Nick.
+Our next question comes from the line of Frank Louthan with Raymond James.
+Please proceed.
+Great.
+Thank you.
+Just two quick questions just curious how are you viewing the market outlook post the breakup of the Comcast-Time Warner Cable.
+Obviously that would've been a more formidable competitor in the marketplace.
+Did that change your outlook and so do you see opportunities there? And are there any sort of non-core businesses that you might monetize? You’ve done a very good job at refinancing and using your cash for those purposes anything else you might stream line the business with or jettison to get more focused on the core business and possibly delever some more? Yeah.
+With respect to the first I mean on the first question on Time Warner Cable and Comcast.
+We don’t have any specific comments on that deal don’t really think we change our outlook for the year based on whether that deal went through or not.
+Both companies are very good customers of ours both companies we’ve worked very closely with to continue to evolve the industry and look forward to working with them in the future.
+Now with respect to non-core assets nothing in particular we look at all of our business and say how do we drive profitable growth and how do we drive free cash flow on a per share basis.
+And so we will continue to look at things if they are non-core assets.
+We will continue to look at interest expenses.
+We’ll continue to look at all of the different things in our business that we think are levers to drive improving free cash flow per share.
+Okay.
+Great.
+Thank you.
+Our next question comes from the line of Michael Rollins with Citi.
+Please proceed.
+Hi.
+Thanks for taking the question.
+Just wondering if you could talk a little bit more about the competitive environment? And what you are seeing in terms of other fab providers and their ability to compete against you? Also if you can within that context maybe talk a little about the products within enterprise? And what’s going really well with those products and are there any products that you have in that portfolio that may actually be holding back the performance in revenue? Thanks.
+Yeah.
+I think Sunit and I both have lot to comment on this topic.
+From a competitive environment perspective we are in a very competitive industry.
+And there are lots of companies that sell the types of product and services that we sell.
+And so we are very accustomed to competing in a competitive industry with -- and competing on the strength of our product and the strength of our customers experience.
+If you -- if you look at our products from a competitive point of view I think that is one of our greatest strength.
+We have a variety of platforms and technologies to deliver for the networking needs of our customers.
+If you only have a dark fibers and everything that you sell looks like a dark fiber solution.
+If you only have ITs and everything looks like an IT solution.
+If you only have CDN everything looks like a CDN solution.
+For Level 3 we have all of those things.
+We have those -- that robust set of product where we can look at a customer’s traffic and pick not only the right platform for that customer but the right platform for some of that customer’s traffic may not be the right solution for all of it.
+And so we can bring to those customers the variety of products and then after we've done that we can wrap around those capabilities our security services and our DDoS protection.
+We can wrap around our managed services and professional services.
+And so we think we are in a very competitive -- a good competitive position because of the strength of our product the breadth of our network the sophistication of our network and ultimately driven by our employees delivery of the great customer experience for our customers.
+Well I think I don’t have anything to add.
+I think the biggest thing is given our network reach and the capillarity we have and the broad portfolio services we have is a big advantage for us.
+Thanks.
+Our next question comes from the line of Tim Horan with Oppenheimer.
+Please proceed.
+Thanks.
+Good quarter guys.
+Jeff with your profitable growth focus arm and churning down to 1% are there any areas you think can you maybe actually start to raise prices now more than we’ve seen last couple of years? And then secondly on CapEx is there any shift in focus on CapEx? I know Verizon announced some SDN yesterday but maybe just broadly speaking areas where you maybe see where you are going to spend more in the future? Thanks.
+Sure.
+From a raising prices perspective we look at our pricing strategically whether it’s raising prices or lowering prices we look at each product we look at each geography we look at each customer segment and we try and match our pricing to the market and make sure that we are competitive in that market.
+And so I can't give any specific products that we are planning on raising prices on.
+But we do look at pricing as one of the levers that we have to drive profitable growth and we have done that in the past and will continue to do that in the future.
+With respect to our CapEx strategy I think you mentioned SDN software define networking and network function virtualization NFV those are the things that are very real in the Level 3 network and we are investing in all of those things.
+We believe very strongly that our customers want to be able to dynamically use certain networking capabilities on the fly.
+If you look at the tw telecom constellation family of products and capabilities we are incorporating that dynamic bandwidth capacity in the go forward product that we have out for our customers.
+That is whether you are inserting capacity on demand or your inserting our DDoS Scrubbing Network and our DDoS protection network on demand for customer’s traffic where you are inserting a network firewall.
+Those are the types of SDN and NFV capabilities that we are building into our platform.
+And it’s part of our CapEx program and has been part of our CapEx program.
+Thank you.
+Sure.
+Our next question comes from the line of Michael Funk with Bank of America Merrill Lynch.
+Please proceed.
+Yeah.
+Tank you for taking the questions.
+I have two quick ones here.
+I appreciate the commentary about the direction of revenue growth the different business segments that you gave.
+Maybe if you could synthesize that and help us think about the CNS run rate revenue growth towards the end of the year given those factors you talked about? And then second great job on the synergies on the EBITDA side you also guided for $40 million in CapEx savings when you announced the deal.
+I found the review I guess how you got to that number whether or not that was just eliminating duplicative spending if that is would a zero-based budgeting approach.
+Just wonder you get a better sense there? All right.
+So on the CapEx side we look at how much both companies were spending with various kinds of suppliers whether’s it’s transport gear race gear CDN gear IP.
+And it was based upon on what we think we could get by just leveraging our bigger purchasing power.
+So I think -- and I think we’ve mentioned this last call that essentially during the integration planning period and right after closing we had agreements with most of our suppliers to essentially lock in.
+We’ve got that synergies for the year.
+And I think we sort of declare that on my last call that we essentially with the agreements we worked out with various suppliers who are generally hitting the CapEx synergies right in the first year over the course of this year.
+On your other question on CNS revenue growth generally we expect the CNS revenues in total to be growing sequentially every quarter over the rest of the year.
+And the reason we made our comments on a regional basis because North America is a little different as we said the underlying business.
+We feel strong it has to be more to do with what happened last year in terms of the Starbucks and ramping up the Starbucks and the fellow contracts that we talked about.
+But generally even in North America we should see decent sequential performance over the course of this year.
+So I think overall as we progress through the year as Jeff said it’s a transition year.
+And so I think the CNS revenue performance should be steady but we’re working on a lot of elements in terms of network platforms systems platforms a lot of change going on which we think will position us pretty well for next year.
+Good.
+I appreciate it.
+Our next question comes from the line of James Moorman with D.A.
+Davidson.
+Please proceed.
+Yes.
+Thanks for taking my question.
+First in terms of integration and what you just talked about with the network how is the integration I guess of the intelligent network constellation dynamic capacity is going in terms of having that for TWTC customers? And then also I know you talked about -- a lot about the sales integration.
+So what about the other positions have you heard a lot from your competitors saying they are overseeing a lot of people coming? And that’s expected from any mergers.
+So would you say outside of sales again is a attrition just kind of your normal or are you seeing anything a little different to normal? Thanks.
+Sure.
+I’ll take the second part first.
+On the non-sales attrition I think we’re seeing anything outside of what we expected to see.
+There is always a little bit of attrition as you combine two companies together.
+There are pockets where we have to pay particular attention.
+There is less to do with the combination of the companies and more to do with some big company opening an office right next door to our location and trying to attract people away.
+So I think we are in pretty state.
+There is natural reduction in force that you have as a result of integrating two companies.
+And to the extent we can we would like to see that happen through attrition as opposed to downsizing.
+And so we’re pretty comfortable with what we are seeing in sales and outside of sales.
+With respect to the integrations of our intelligent networking capabilities I talk about building a platform for future and a platform that allows us to grow well into the future.
+And that’s part of it.
+That is part of it because we have network elements that we now have our operational systems operational support systems directly interconnected in a sophisticated way not just a simple reporting mechanism but in ability to control those network elements.
+And as we move towards SDN as we move toward providing faster services to our customers more seamless services to our customers those capabilities are critical.
+And so it is a fundamental component of our platform strategy going forward.
+And it’s the work that I mentioned in the comment that has now begun in earnest.
+You’re looking at our platforms.
+We have been looking at them.
+We looked at our products.
+We have them looking at our network infrastructure.
+And how do we really tie all of those things together to provide a better customer experience with more sophisticated products than any of our competitors can do.
+And so it’s absolutely important to us gentlemen and a key part of our strategy going forward.
+Great.
+Thanks a lot.
+Sure.
+Thank you.
+I believe that was the last question.
+But before we end the call I would like to leave you with three key takeaways.
+First integration is progressing as expected and while there is a lot of work to do we’re very focused on continuing our solid execution.
+Second we’re highly intense on driving improved performance in EMEA and are taking the steps we believe will improve our growth in the region.
+Third the overall market for our products and services remain strong.
+And we continued to make disciplined investments to drive profitable growth and improve free cash flow per share.
+Again thank you for joining today’s call and for your interest in Level 3.
+Operator that concludes the call.
+Thank you Jeff.
+We would like to thank everyone for your participation and for using the Level 3 conferencing service today.
+This does conclude the conference call.
+And we ask that you please disconnect your lines.
+Have a great day everyone.

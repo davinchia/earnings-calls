@@ -1,0 +1,282 @@
+(Operator Instructions) The first question will come from Guy Moszkowski with Autonomous Research.
+Good morning.
+I was wondering if you could clarify how you treat something that you mentioned but didn’t quantify in your remarks which is the CVA on the derivatives books of the market businesses.
+I think everyone is pretty clear in the industry now about calling out DVA but I’m not sure that CVA gets very consistent treatment and in particular since we are also focused on how FIC and equities are trending.
+Just want to make sure that I understand how you treat CVA and how much of your credit spreads swings might have impacted FIC particular in regard to CVA this quarter? So as much as we call out DVA and talk about revenues excluding DVA because that does not flow through to capital.
+CVA does and so it goes right to the P&amp;L.
+So when we discussed our fixed income and commodities revenues it reflects the impact of CVA into your point firms do it differently but it does reflect at Morgan Stanley the impact of CVA and given the meaningful spread tightening we had in particular year-over-year that’s pretty notable.
+So for example year-over-year our fixed income business was up in all major products except foreign exchange however given this spread tightening we had a big drag in CVA and if you exclude the impact to CVA our fixed income and commodities business actually would have been up.
+Got it.
+And was the impact much more in FIC than in equities? Yes.
+Okay.
+Thanks.
+Also just to pick up on something else that you mentioned I think to recall that in years passed like before the last couple of years your prime brokerage business did a very strong seasonal business in European dividend arm in the second quarter in particular.
+Can you give us a sense of how much that might have contributed in the second quarter this year? So we – that does continue to be a benefit in the second quarter and again along with the strength we had in PV more broadly with growth in revenues clients and client balances we continue to benefit from the seasonality.
+So if you look at year-over-year performance in equities that would normalize for what is continues to be a second quarter seasonal event.
+Got it.
+Thanks.
+Okay.
+One more question which is really more on capital you moved equity capital looks like from the parent into the business unit couple of billion dollars on the average in the institutional about $500 million in investment management which is a fairly sizeable percentage increase for that business.
+Is this also because of the regime change that you talked about in terms of going to the Basel III or is there something else going on there? You nailed it.
+The way we disclose the allocation of capital across the various businesses is based on the capital regime in place at that point in time.
+And so this quarter as a result of yet another regime change both the numerator and denominator are under Basel III transitional.
+Last quarter the denominator was Basel I plus 2.5.
+This quarter the denominator is Basel III transitional advanced.
+So it’s a regime change we just following the required regime quarter-after-quarter.
+The result is more capital move from the parent to institutional securities.
+Got it.
+Okay.
+That’s great.
+Thanks for taking my questions.
+Thank you.
+Good morning.
+So quick question first on the $1.92 billion RWA in fixed does that include TransMontaigne? We closed TransMontaigne as of July 1.
+And so that would include TransMontaigne because that’s the second quarter number.
+Perfect.
+Can you help us think about how much that might help reduce that number in 2Q or in 3Q rather? Excuse me.
+So that – so TransMontaigne is about $2 billion of risk-weighted assets and there is also a modest liquidity benefit.
+Great.
+Thanks.
+So we noticed that deposits in the bank – deposit program fell this quarter was that seasonal and can you help us think about that this year because it didn’t seem like we noticed as much with seasonal decline in prior years.
+So was there anything unusual going on there? So firm-wide the deposits are reported in two lines.
+You’ve got the bank and then the parent and we have had the onboarding of deposits from Citi.
+So the deposits overall were up $1 billion $5 billion from contractual onboarding deposits the tier point that was offset by the typical season outflows for tax payments.
+Tax payments were actually greater than outflows and what we saw was increasing use of PLA or securities based lending product by clients to pay taxes.
+I think what’s worth noting is in the fourth quarter deposits tend to be higher due to year end selling.
+And then on the flip side we see deposits going down some in the second quarter with tax payment.
+So net-net year-end selling and tax payments due tend to even each other out over the period but what you are seeing here is the second quarter seasonality.
+Great.
+And then just clarifying because I got a handful of questions about it before the opening.
+The bank program deposits include Citi’s portion right.
+And if we look down at the footnote we can see Morgan Stanley’s piece and that went from 108 to 109 this quarter.
+So the rate slowed but it is still was headed in an upward direction correct? In the wealth management line? Right.
+Yes wealth management went down right.
+Perfect okay.
+And then also on the comps and the wealth management business is it possible to think about how much of that is from the amortization of forgivable loans written to recruit brokers because the past several years we have gone through sort of elevated recruiting environment.
+And if we think about I think maybe James made some comments at the Morgan Stanley FIC conference about how recruiting in competition maybe moderating a bit.
+And so if we think about turnover staying at current levels is it possible that you guys can help us think about to wealth management comp over time? Well let me give you a couple of pieces.
+So the comp ratio is down this quarter and that reflects typical first quarter seasonality with FICA and it’s typically down it was here.
+The reason we are guiding down to the 55% or lower comp ratio over time really goes to the growth in net interest income and the execution of our bank strategy and the tremendous operating leverage we have as we continue to deploy deposits into lending product.
+And so if you again looking at the overall business where we will be driving it to 55% or lower because the margin on that product -- lending product is as pretty significant and the lending product does not on the same formulaic comp grid.
+So I think if you are trying to gauge where is the comp ratio going the biggest driver of that will be NII and the growth in lending product.
+Sure.
+Hey Brenan just to separate it.
+I think your issue was around the amortization also of the deals in addition to what Ruth just described.
+Yes.
+Long-term strategically in an oligopoly structure you would expect there would be less movement of financial advisors between firms.
+That doesn’t translate yet into the financials.
+But over the long-term we think it will.
+Okay.
+Great.
+Are you were exactly right Jim I was kind of – I completely get the NII and how that’s not necessarily on the grid type of a payout and therefore should help the comp.
+I just was hoping to try to get at maybe some of that amortization.
+So I guess the only color you guys gave is over the longer run assuming competition stays down that should also help as a tailwind overall as well to.
+Yes.
+It will.
+Okay.
+And then last one from me – touched on it a bit prior but prime brokerage was definitely a positive you hit on seasonality but as you said when we look year-over-year that should normalize for the seasonality and you guys were flat which in this quarter flat is the new up.
+So maybe could you help us in parsing out maybe any other benefits that you might have had and was it mostly in prime brokerage and aside from seasonality were there any drivers and tailwinds there? We talked about for many quarters this is a stellar franchise.
+They have had consistency of performance for many quarters.
+It’s a diversified global franchise across products and geographies we often talk about managing it leading it across the nine-box strategy with the product cash.
+Derivatives and PV on the one-hand and the regions of the world Americas EMEA and Asia on the other dimension and looking for leadership and delivering for clients within each of those boxes and then looking at opportunities to build adjacencies across those various boxes.
+We had strength this quarter led by prime brokerage as I noted already with growth in revenues clients and client balances.
+And then in terms of cash products we continue to have strong performance in cash.
+We do believe we took wallet share there.
+We had good client engagement in index rebalancing.
+Derivatives was a bit lower on the back of lower volatility but overall it’s a very strong franchise that continues to deliver.
+Terrific.
+Thanks so much.
+And congrats for good results in a tough quarter here.
+Thank you.
+Thanks Brennan.
+Hi.
+Ruth you mentioned you are moving to leverage your status as the 10th largest depositor in the U.S.
+and looking at the bank data from call reports it looks like the ROA of the bank is only 60 basis points and I’m not sure if you should just look at the bank in isolation.
+Also if we look at the information in your package today it looks a loan to deposit ratio of 39% or so.
+If you could just confirm whether this is at least one way to look at your company and to highlight where you want to go let’s say loan to deposit ratio or the ROA of the bank? So what we try to lay out in a number of presentations is the contractual growth in deposits where we are in terms of asset mix.
+And as you look over time how we look to deploy those deposits moving more from cash until lending products.
+And clearly the yield today continues to be pretty low given where we are still over weighting cash philosophically the way we are looking at it is deposit growth is going to support lending is supporting lending in both institutional securities and wealth management both are leading franchises with a large base of untapped clients.
+And we have a very strong opportunity therefore to continue to build out a nice diversified asset mix here.
+And while maintaining strong credit standards.
+So I think if you look at the decks that we put out you will see where the yield on that should go over time.
+There is a lot of noise in the call reports that directionally it would give you sense of the mix between these two franchises wealth management and institutional securities.
+How much would Morgan Stanley benefit if interest rates increase by 100 basis points maybe just on the bank side or for the firm as a whole I don’t think you guys have articulated in that way? Quite meaningfully I mean what we have articulated is the comp structure in the bank and so again we are a best portfolio continues to be very short duration and as we are looking at continuing to deploy deposits into lending products the rising rate environments quite meaningfully the margin in the bank given we have no bricks and mortar we have no customer acquisition cost because we are really lending to our existing client base which is not only a cost benefit but a credit risk management benefit.
+We have already built the infrastructure to support the loan growth and I have already commented on the compensation approach it’s not on the formulaic grids.
+So the bank has a very high margin rising rates to be significant.
+What we did in the deck that I have already alluded to as we indicated where we were at a point in time and just following the forward yield curve what kind of lift you would see in the yield if you are just following the forward yield curve.
+And what we tried to do is give you all of the various levers so between the bond boarding and deposits the current mix of assets the deployment plan over time you can talk about how you want.
+And then lastly James you gave a comment it was almost an aside in talking about your ROE targets saying well perhaps 15% ROE is possible some day and it was the first time I heard you say that 15% would even be possible for an ROE and that’s a long way from where you have been and it’s a nice stretch from where you are now? But did you say that and why did you mention that you feel more positive about the outlook or is it just a hypothetical one day sort of statement.
+I think the time that I said that was in the context of what was available for the industry.
+And this has been an industry Mike as you know where ROEs have 20 plus percent were the norm.
+You double the capital you shrink the balance sheet and unless you create new businesses you are 20 plus percent ROE immediately dropped to sub 5% which is exactly what happened with the industry.
+The industry is now working its way back to 10% ROEs through buybacks more efficient capital usage for the balance sheet management.
+And in our case building diverse businesses that use less capital and obviously contribute to our ROE.
+So I think – I certainly not making an immediate projection this is sort of a stage field where the industry is going is it probable the industry returns to 20% plus ROEs no I don’t think that’s probable.
+Is it probable the industry stays below 10% no I don’t think that’s probable.
+So it’s sort of framing it now.
+You will draw your own conclusions about Morgan Stanley’s business mix versus obviously lots of other financial institutions and I think your point about the bank you just asked Ruth about is exactly at sort of strategic core part of the next evolution of this firm is to develop $130 billion deposit bank within Morgan Stanley which is a very exciting prospect it’s not going to happen immediately.
+And it’s going to be done with prudence as respect to lending.
+But it will be done.
+And it will be done over several years.
+Just if you have a superior business mix that should eventually mean a superior ROE otherwise it might not be a superior business mix.
+So at some point with higher rates is it possible Morgan Stanley could get an ROE of 15% or so? You know there is a great old phrase of a journey with thousands miles begins with a single step.
+And we are working our way towards 10% when we get there we will have another conversation with you.
+All right.
+Thank you.
+Good morning James.
+Good morning Ruth.
+Good morning.
+Firstly a first quick question on the investment management business Ruth.
+In the investment management business the core asset management fee line was up 10% linked quarter which is a little bit surprising just given AUM growth was closer to 4.
+Any color you have on what’s driving that would be appreciated.
+We have continued to execute on the business.
+We had good flows in the business.
+Have been investing in in distribution.
+You can see flows were up across the broad in traditional asset management.
+And I think that the team continues to execute well.
+Okay.
+Got it.
+James on the wealth management business I mean first of all congratulations on getting to the $2 trillion club.
+While asset growth has been strong both financial advisor head count and branch growth have been more muted.
+I appreciate your focus in that business has been on an increasing productivity and efficiency.
+That said I would be curious if you guys actually have plans to grow your core advisor base and locations going forward? So as we have talked about for quite some time we are focused on productivity and quality of FAs rather than just sheer number in it and in fact have over time reduced the lower productivity financial advisors we feel very good in and around this level.
+We are not managing to a specific number and as it relates to the number of locations that we have.
+We have had an opportunity in particular post closing the acquisition of the joint venture to look at places where we could consolidate offices within major cities.
+And again that’s done on a case by case basis as we look at leases rolling off the question is within any particular area is there logic in combining an office where you have a fully staffed office with a great culture working really well.
+It doesn’t necessarily mean you want to try and merger two offices together that may not be the most effective for clients or the best experience for financial advisor.
+So we reduced the number of locations quite a bit over the last couple of years I think the big bulk of the opportunity we really achieved there and now you will see ones and twos depending on any particular market.
+But no plans we feel good about where we are.
+Okay.
+Thanks.
+And then lastly from me just on the prime business you spoke a lot today.
+Just curious if you – what you are hearing from the clients in terms of pricing trends just given the implications for supplementary leverage ratio across the industry? We are starting to hear some peers are repricing balance sheet as it affects this business and fixed income product as well very much to your point as a result of the SLR.
+Okay.
+Thank you.
+Thank you.
+Thank you.
+Thanks very much.
+Ruth just circling back to the SLR for a moment.
+I’m looking at the slide that you and James put out for the update in January which highlighted the potential sources of increase.
+I’m wondering if you can help me understand kind of what the approximate contribution of these categories were to the 40 basis point improvement sequentially? The biggest driver then taking it from 4.2% last quarter to 4.6% this quarter was the numerator that was most of the improvement and that was due to the combined benefit from earnings of the preferred issuance we did early in the quarter the multiplier effect with DTA and investment capacity deductions.
+We talked about previously.
+We continue to focus on mitigating some of the other numerator deduction.
+And then the remaining improvement is from the denominator items that we talked about previously.
+Some ongoing compression RWAs were obviously down in fixed income where you see the PFE grows up.
+Some mitigation just early days of mitigating the net long CDS sold in some modest balance sheet reduction.
+But the overwhelming the majority of it was in the numerator and we are executing the opportunities now in the denominator.
+And is there any change to the guidance given at that point of those various benefits generating 188 around 200 basis points of potential improvement? Well the rules change now the inclusion of net long CDS sold and we have obviously had a big move in the ratio from 4.2% to 4.6%.
+We feel very comfortable with greater than 5% in 2015 with higher returns of capital which may not surprise you even we are sitting here at 4.6% today.
+And as I said across the various work stream we are continuing to execute to reduce PFE where it makes sense while still supporting our client activity and client franchise.
+There are certain areas -- that’s the example of which is compression which I characterized in the past is a good hygiene.
+It’s effective to reduce the overall PFE through compression activities and we are executing there.
+The pace is strong.
+We have accomplished a lot year-to-date the protocol around it has improved.
+And so we expect the pace will continue to be good.
+So we are continuing to execute against each of these the mix may change a bit as we have added now net long CDS sold mitigation as an added opportunity given the role change.
+Great.
+And if I can just transition quickly on page 7 of the supplements in the other funded loans category which I recognize is small relative to the balance sheet but up very significantly.
+And I think the footnote suggest that much of this could be purchase loans.
+And I’m just wondering what would be the strategy behind growing a purchased loan portfolio? No.
+I’m glad you asked because the growth within the lending book again across wealth management and institutional securities is really executing with our clients and areas where we have a strong franchise strong client base domain expertise.
+And so within institutional securities it is an area consistent with what we have discussed today.
+I talked about it as small fleet across a number of different areas including commercial real estate warehouse project finance.
+That’s really the bulk of what that’s what drove the increase in funded loan balances up about $5 billion which is as you said is a good increase but small relative to the scale of our franchise.
+I mean it’s an example of commercial real estate with a 20-year track record that leadership with a really high quality franchise there and we have history originating loans outside the bank.
+We are now doing more in the bank but we are targeting very much our client base in areas where we have domain expertise.
+Great.
+Thanks and just finally speculating that the fact you called out on legal costs suggests that they were de minimis in the period? I’m sorry.
+I didn’t hear the question.
+That there was no call out on legal cost suggest that they were low in the quarter? Right.
+There was really not much to note.
+Great.
+Thanks very much.
+Hi.
+Thanks.
+Ruth you mentioned lower funding cost earlier and it’s clear they have gone down a lot.
+How should we think about how long it takes to work its way through is it really just inverse of maybe the average maturity.
+So in other words you get a 15% to 20% of that benefit each year as your debt rose? That’s a fair way to think about it.
+Okay.
+And so that could – I wouldn’t call it material but it can move the needle in the firms overall earnings on a year-by-year basis? Yes.
+Our view is you have seen real compression across the industry but we outperformed peers.
+And I think that our view is that it reflects all that we have done over the last number of years to reposition both the business mix and the balance sheet.
+And so we view it as another tailwind that will leg into tier point over time.
+But it’s a benefit and it will be a benefit even in a rising rate environment on a relative basis given our spreads have come in more than peers.
+Okay.
+Yes.
+That’s fair enough.
+I don’t know if you have already addressed it pieces across the other questions but are there – you mentioned bits and pieces of repricing or attempts to repricing prime brokerage.
+Maybe a broader question of how you think SLR is mostly impacting the big banks and brokers are impacting the markets and how it will impact how you do your balance sheet planning? Well we do think it continues to be the way of constraint for banks on both sides of the Atlantic and you are seeing the reduction of balance sheet in lower return assets.
+And as I noticed some peers are repricing balance sheet using a harsher lens on allocation of balance sheet.
+So we are seeing wider bit offer in certain financing markets.
+There was some dislocation in treasury sales which we see as transitory.
+And the fed prevented additional dislocation with the by-side using the RRP program prevented a more painful readjustment period but you are seeing the impact kind of ripple through in a number of different ways.
+But sounds like a lot of that stuff has made its way through in other words it’s rippled through but its not creating sea change I’m putting words in your mouth I realize? I think you are still seeing an evolution here.
+I would agree for example on treasury sales we view that as transitory.
+But as firms reposition where they are using balance sheet and putting balance sheet behind client activities I think it continues to evolve in particular given some of the requirements for the European banks.
+We feel good about where we are because we have evolved our business mix not to keep coming back to that but it’s really important way we think about our business given the changes that we made over the last several years with the strength of wealth management.
+The lens that we have on balance sheet within fixed income going back sometimes now.
+We feel we taken the steps we need to take and have clarity about the execution path within fixed income equities continue to be performing as it consistently as and we have opportunities to support our banking clients with the growth in lending products.
+So we feel good about where we are but I wouldn’t say that it’s necessarily done across the industry.
+Okay.
+And then just a little clean up you have a market gain in the quarter and where was it? That was in the investment lines.
+It wasn’t a meaningful impact.
+Okay cool.
+Thanks Ruth.
+Thank you.
+Hi.
+Good morning.
+Good morning.
+Good morning.
+So I had a follow-up question on operating leverage at the bank and well I was hoping to clarify when we go through the modeling process for wealth management earnings and higher rate scenario.
+The implied comp ratio that we derive is actually closer to the – outside of very low 50s.
+So about 300 to 500 basis points that are -- than your stated target of 55%.
+And I was wondering whether your mid-50 target contemplates the benefit from higher rates.
+And maybe even in that same vein where do you see operating margins peaking in a more normalized rate back drop? So the 55% comp ratio and the PVT margin guidance of 22% to 25% assumes the flat rate environment.
+And we specifically did that so that you could model in your outlook for a rising rate environment.
+But very much to your point there is tremendous operating leverage in a rising rate environment for the wealth management business.
+And throughout that the growth in that lending book and through what we were doing in the FS portfolio.
+So there is upside and you will see that flow through as rates rise and will let you forecast when that happens.
+Okay great.
+And just switching gears for a moment or two.
+I have a capital question pertaining to FIC and just an in effort to help us better monitor your ongoing FIC ROE progress under all the different binding constraints had exist today.
+It would be really helpful if you could help clarify the current level of required capital as measured under the SLR to support the FIC business specifically.
+And also given how proactive you have been on the mitigation front how you should think about required capital levels trending over the next couple of years.
+So we have broken out a lot of detail here in particular risk weighted assets within institutional securities breaking it down to the fixed income level.
+So if you get a sense of what – the progress we are making in that business you can see revenues here today and I think that’s where we are going to leave it we have been indicating ROEs high and I think it’s intuitive given lower required capital separately we are breaking out lot of the components of the various capital ratios and the leverage ratio and are on good path forward to this greater than 5%.
+Okay.
+And there has been any change to I guess is roughly $5 billion plus or minus of FIC revenues that were required to achieve your targeted 10% ROE within FIC presumably it would be a little bit lower just given that you have been more proactive once again on the mitigation front? That’s the indicator we are very much focused on increasing ROE and their multiple levers to get their between revenues expenses and capital.
+But as an example couple of quarters ago when I was talking about our commodities business the physical oil commodities businesses that we were selling they have revenues that are PBT break-even with some capital tied up in them.
+So exiting physical oil may reduce revenues but it’s accretive to capital.
+And accretive to earnings and again that’s why as we are looking at we said we want to be very clear we are not looking at revenues – revenue sake we are looking at what’s the most vibrant fixed income business unto itself and when we talk about our fixed income business we are looking at a return on capital greater than 10% within fixed income and moving in that direction.
+And then beyond that it’s accretive to the returns of the firm.
+And I talk about this often on these calls but it is key within investment banking yet again this quarter we had over $500 million of fixed income underwriting revenues which is accretive to those client relationship with our clients are looking forward from us but really does benefit from the execution capabilities within fixed income.
+And similarly within our wealth management business our clients want fixed income product municipal product more specifically and that benefits from the strength of what we have within fixed income.
+But we are holding fixed income to a standard like all of our businesses of generating an appropriate return on capital and systematically doing using each one of those levers to drive to a higher return and then everything else that’s accretive to the other businesses benefits the bottom line.
+Okay great.
+That detail was extremely helpful.
+Ruth thank you for taking my questions.
+Thank you.
+Thanks.
+Just one quick last one.
+When we think about the outlook on the Institutional Securities business and this is either James or Ruth.
+Can you give us some sense I guess two parts just on the Investment Banking side given the pipeline of M&amp;A when – from a timing standpoint when a lot of those things will close once announced? And any other revenues that can shoot off from there.
+And then on the trading side of the business we're used to normal seasonality based on the last 20 years.
+Given that the business has changed and firms have restructured some parts of it has anything changed on that front whether it's because of client mix or because of its product mix that we see less seasonality than we have in the past? So starting with the first part on M&amp;A and closing and implications for revenues if you look through the year it does.
+And obviously varies depending upon the nature of the deal the industry the regulatory approvals required so it can be from a month to many months think 3 to 9 months indicate that they can cut across a number of different periods.
+And typically much as a financing is done towards the latter end of that as you are closing although there can be some hedging activity up front.
+I think the main point that is encouraging as the pipeline continues to be very healthy across all products and in M&amp;A I noted the momentum with these key drivers across board or corporate activity and activist activity and now we are seeing larger deals.
+But probably one of the most additional encouraging elements for the team is that the velocity of deals has really picked up as well in other words if you go back a year or two we talked a lot about a healthy pipeline that just wasn’t crossing the finish line and getting into execution and being announced whereas now what you are seeing is much greater clarity and velocity going from identification of a strategic opportunity to announcement and execution that velocity we think is encouraging and the underwriting calendar does remain strong globally it remain strong in particular the equity side outside of the U.S.
+So that should be – that should give us again all things equal some momentum going through the balance of the year.
+And then on the trading side it’s tough to call as I said we saw a pick up in June but too early to call whether that have legs to it given most of this year we saw lower trading volumes lower volatility.
+And so bit of a pick up in June is not something I would say is fair to extrapolate from here.
+And as you pointed out summer seasonality is in front of us.
+Whether the trends change over time and trading businesses as a result of regulatory requirements tough to say I think the one that’s clear is summer seasonality.
+Okay.
+Thanks a lot.
+Thanks so much for joining us for our second quarter call.
+And we are look forward to speaking to you again in three months.
+we view them as an important resource for bloggers and journalists THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION THERE MAY BE MATERIAL ERRORS OMISSIONS OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS.
+IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts please contact us at: <a href="mailto:transcripts@seekingalpha.com" rel="nofollow"><u>transcripts@seekingalpha.com</u></a>.
+Thank you!

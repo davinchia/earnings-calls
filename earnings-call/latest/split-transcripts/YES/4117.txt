@@ -1,0 +1,253 @@
+Good day everyone and welcome to the Vonage Holdings Corporation Third Quarter 2012 Earnings Conference Call.
+Just as a reminder today's call is being recorded.
+At this time for opening remarks and introductions I would like to turn the conference over to Ms.
+Leslie Arena Vice President of Investor Relations.
+Please go ahead.
+Thank you.
+Good morning and welcome to our third quarter 2012 earnings conference call.
+Speaking on our call this morning will be Marc Lefar Chief Executive Officer and Barry Rowan CFO.
+Marc will discuss the company’s strategy and progress and Barry will review our financial results.
+Slides that accompany Barry's discussion are available on the IR website.
+At the conclusion of our prepared remarks we will be happy to take your questions.
+As referenced on slide two I would like to remind everyone that statements made during this call may be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These statements are based on management's expectations and depend on assumptions that maybe incorrect or imprecise.
+Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially.
+More information about those risks and uncertainties is highlighted on the second page of the slides and contained in our SEC filings.
+We caution listeners not to rely unduly on forward-looking statements and disclaim any intent or obligation to update them.
+During this call we will be referring to non-GAAP financial measures.
+A reconciliation to GAAP measures is available on the IR website.
+And now I will turn the call over to Marc.
+Thank you Leslie and good morning everyone.
+First let me express my hopes for a speedy recovery for those who have been impacted by [CLO] over the last couple of days and a sincere thank you for those people who have left their families to help others including many of our employees who have been trying to restore operations and help other families in their time of need.
+We reported a solid third quarter marked by stability in our core business and steady progress executing on our growth initiatives.
+We added 9 000 net lines driven by strong gross line additions and stable churn.
+Gross line additions increased 5% sequentially as we acquired new international callers and continued the direct marketing test of our low end BasicTalk product which gained traction.
+Churn declined to 2.5% down 20 basis points from a year ago reflecting improvements in customer satisfaction and retention processes.
+Churn was flat sequentially as we offset the modest seasonal upward pressure traditionally seen during the third quarter.
+We continued to invest for growth while generating substantial cash from our core business.
+EBITDA was comparable to the prior quarter as we generated $34 million after investing $5 million in growth initiatives.
+Through our intense focus on operational efficiency we reduced our cost of telephony services by 5% per line and lowered customer care costs per line by 4% from the prior quarter and an 11% from the prior year.
+Customer care costs per line are now at the lowest level in the company’s history.
+Over the past four years we have reduced domestic COTS and customer care expenses by a total of more than $140 million.
+During the quarter we launched several key services in support of our growth initiatives.
+These included a compelling new international plan for call to the Philippines through our partnership with Globe; an unlimited calling plan to mobile phones in Mexico; and the addition of Vietnam and South Korea to our flagship Vonage World plan.
+In addition we fielded technical trials of our innovative mobile roaming capability.
+And just last week we unveiled our new digital calling card service to meet the needs of light to medium-use international callers.
+Market testing of our BasicTalk service targeting light-use domestic callers has been expanded to a two-city multi-channel trial based upon the success of our early direct marketing efforts.
+In addition we executed on our stock repurchase plan announced in August as part of our balanced approach to capital allocation.
+As of October 30 we had deployed $14 million in capital to repurchase 6 million shares of Vonage stock and we expect to repurchase additional shares in the fourth quarter.
+We are on track to complete our $50 million buyback as planned while we invest for growth.
+Reflecting on our focus on innovation we were granted three new patents in the quarter.
+We now have 18 US patents and more than 100 pending US patent applications with more to be filed by year-end.
+Approximately one third of the applications are mobile related.
+We expect the number of patent applications we file this year to be more than triple the number we filed just two years ago.
+This is clear evidence of the strong execution of our IP strategy to leverage increased development investments and our mobile initiatives.
+I will now move to a discussion of our financial and operating results.
+Our financial performance was solid.
+Reflecting the stability of our core business we generated $34 million in EBITDA while investing in growth initiatives.
+We continued to reduce our cost structure by implementing efficiencies throughout the business.
+In addition to lowering the cost of telephony services and customer care costs per line we improved subscriber line acquisition cost or SLAC by 11% sequentially on higher gross line additions.
+While new services and plans are starting to contribute to revenue total revenue declined 2% sequentially due to non-operational drivers such as lower universal service fee revenue as well as negative net line additions early in the year.
+Gross line additions or GLAs increased to 172 000.
+This improvement reflects our progress attracting new international callers and the very early success of direct marketing tests of BasicTalk.
+Let me take a moment to discuss BasicTalk and our focus on the domestic calling segment.
+With 40 million addressable domestic only callers the low-end market provides incremental opportunity for growth.
+We have not aggressively targeted this segment in the past.
+Results from our market test combined with proprietary research support our belief that we can profitably serve this customer segment.
+59% of prospects indicate they were somewhat or very likely to buy a simple reliable domestic phone service at a $10 price point.
+This result included customers who are currently in bundles.
+When asked who would most likely provide this service respondents rated Vonage as the most likely provider among all incumbent telcos cable cos Google skype and MagicJack.
+We are expanding the BasicTalk market test in the fourth quarter.
+While continuing to market the offer through national direct mail we are also conducting a two market multi-channel test.
+One leg positions this service as Vonage-branded; the other establishes BasicTalk as a new brand.
+These tests are now underway in Boise Idaho and Springfield Massachusetts two markets with characteristics that align with our target customer income and whose ethnic diversity is in line with national averages.
+Our advertising directly challenges other low end competitors and their exaggerated claims.
+BasicTalk is positioned as the reliable straightforward high-quality choice from a brand you can trust.
+Assuming market acceptance we will evaluate several national expansion strategies including the possibility of white labeling this service in partnership with a major retailer.
+We are closely monitoring the market tests to maximize profitability and avoid cannibalization.
+The success of our community sales teams combined with improvements in our assisted sales program in big box retailers is delivering an increasing percentage of gross line additions.
+Sales through these channels contributed 26% of gross line additions in the third quarter.
+This is our seventh consecutive quarter of growth in GLAs through these channels.
+Through our relationship with Wal-Mart we plan to increase the number of stores with assisted selling from 80 at the end of September to over 200 by Thanksgiving.
+If successful we plan to scale even more aggressively through the first half of 2013.
+Importantly our retail efforts are enabling us to more efficiently reach large ethnic segments.
+We expect the expansion of these pay for performance channels to reduce our utilization of traditional television media over time.
+Churn continues to be a good news story.
+We expect the broad-based improvements we have made to customer satisfaction and retention processes along with the reinstatement of service contracts to continue to contribute to churn stability over time.
+In the fourth quarter however we may see some upward pressure on churn due to the recent and unexpected need to remove Pakistan as an unlimited country in our Vonage World plan.
+As you may be aware the telecommunications authority and the Ministry of Information Technology in Pakistan ordered price changes across all carriers that increase the cost to complete calls to Pakistan by more than 500%.
+This has made the cost of offering unlimited calling to Pakistan prohibitive.
+We have already notified all impacted customers and we now provide highly competitive rates on a pay per minute basis across many of our rate plans.
+This change might result in a one-time increase in churn of 10 basis points during the fourth quarter.
+We do not anticipate any further churn impact.
+Our strong growth in GLAs and overall improvements in churn resulted in 9000 net line additions up from break even lines sequentially and a loss of 9000 lines just a year ago.
+I now like to move to a more detailed review of our progress on our growth initiatives.
+As we have discussed previously we are focusing our efforts to drive revenue in three major areas.
+The first is international long distance where we’re building on our success through continued penetration of targeted ethnic calling segments and expanded distribution.
+The second is international expansion as we enter new markets outside North America and the UK through strategic partnerships.
+And the third is mobile services.
+The North American International long-distance calling market is substantial with roughly 18 million international callers in our addressable market.
+With roughly one third of our 2.4 million customers currently identified as frequent international callers and with modest penetration in many of the largest ethnic segments we have meaningful opportunities to grow our international customer base including callers to Mexico and the Philippines.
+In the third quarter we continued to refine our sales and marketing tactics.
+We added unlimited calling to Vietnam and unlimited calling to mobiles in South Korea as part of our Vonage World plan.
+We also introduced a new international calling plan Vonage World Mexico Sin Limites to provide customers with unlimited calling to land lines and mobile phones in Mexico.
+We’re reaching international callers with ads in English Spanish [Urdu] Tagalog and Vietnamese all with messaging addressing the specific calling needs of these markets.
+Our new testimonial campaign called closer to home features actual Vonage customers of different ethnicities talking about how Vonage allows them to stay emotionally connected with loved ones despite being thousands of miles away.
+We are also continuing to focus on growing our market penetration in Canada.
+High consumer pricing provides favorable conditions for low-cost providers like Vonage to drive penetration especially for domestic long-distance services.
+And last week we signed an agreement with AARP as part of our initiative to expand our market presence through affinity relationships.
+AARP members are individuals 50 years of age and older an important age group with a rapidly growing international long distance calling need.
+This alliance will enable us to market our calling plans directly to their nearly 40 million members.
+In addition Vonage will be highlighted in AARP’s magazine welcome kit discount programs and website.
+This is the first of what we expect will be more affinity relationships.
+Beyond this we see meaningful revenue opportunities from our newly launched Vonage Digital Calling Card.
+Aimed at addressing a portion of the nearly 20% of international calls which are made using prepaid calling cards the Vonage Digital Calling Card offers a simple and convenient way for smart phone and feature phone users to save on international calling.
+Users can easily create an online account prepay with a debit or credit card and immediately start saving on international calls charged on a low per minute rate.
+This service offers rates approximately 75% lower than those offered by home and wireless carriers on international calls without the hidden fees and tricks of many traditional calling card services.
+The second plank of our growth strategy international expansion also represents a substantial growth opportunity as the global market for VoIP services is forecast to grow at 7% annually between 2011 and 2015.
+Our approach is to enter these markets through partnerships allowing us to enter markets more quickly and at a lower cost than going it alone.
+The results of Vonage’s unique calling plan to the Philippines since its launch in July are encouraging and helped us to achieve positive net line additions in the third quarter.
+This plan was the result of our first international partnership with Globe announced in May.
+Our in language support using both Tagalog and English has helped to effectively onboard customers and although it is early we are seeing low return rates and low churn from this segment.
+With more than 3 million Filipinos living in the US this segment presents a substantial growth opportunity for Vonage and for Globe.
+Although much of the benefit of our partnership with Globe will be in the form of incremental GLAs in the United States it is a good example of the type of partnership we are pursuing elsewhere.
+Other business concepts range from placing kiosks in foreign locations to providing a full suite of communication services sold and marketed by other companies.
+We are in active discussions with several prospective partners in large international markets and expect to announce an additional alliance by the end of the year.
+As I have mentioned in the past the global international long distance calling market for mobile phones is over $30 billion and the global roaming market for mobile is expected to grow to more than $65 billion by 2015.
+Mobile is already a key component of our core business an important element of our international expansion strategy and mobility sits at the center of much of our future product roadmap.
+Our mobile applications including Vonage Mobile Extensions and our new digital calling card address large attractive markets.
+We have already enabled a substantial shift of our customers’ usage to mobile services.
+Our Extensions product which extends the benefits of our service beyond the walls of the home to any other phone including mobiles continues to gain traction with our customers.
+More than 620 000 customers have registered an Extension.
+And since launching this product last July we have completed over 1 billion minutes of mobile originated Extensions calls.
+More than 22% of our customers’ international calls in the month of September were initiated through mobile devices.
+Users of our Vonage Mobile application continue to grow.
+And while the pace of downloads has been below our expectations our active user base defined as those who have used the app at least once in the past 90 days grew more than 50% in the third quarter.
+Active users are highly engaged with the application generating an annualized run rate that is approaching 200 million minutes of use.
+We continue to enhance Vonage Mobile.
+In the third quarter we launched a trial of our innovative low-cost international roaming product which allows customers to receive calls using their existing wireless number over WiFi when traveling outside their home country thereby avoiding home roaming charges.
+We are not aware of anybody else who does this in the market today.
+The technical aspects of the trial are going smoothly and we expect to launch this product more broadly along with other compelling features in the coming quarters.
+While we continue to enhance our mobile platform there are three fundamental trends that shape our thinking as our mobile strategy unfolds in the coming months and years.
+First the continued proliferation of WiFi networks and enabled devices combined with costly carrier data pricing over cellular networks is training customers to monitor cellular usage and shift their mobile media consumption to the lowest cost networks whenever possible.
+This same sensitivity will cause customers over time to shift their core communication services such as voice and messaging as well.
+Second it is becoming apparent that customers are beginning to reject the erroneous belief that they should reserve certain services for certain devices such as voice for a mobile phone.
+They will certainly want multiple devices based upon the content they consider primary at the time that they are using it.
+But they will expect that all of their services will work on any of their cloud connected devices.
+In fact this shift has already begun.
+And finally consumers are demanding a more complete on the go experience across all of their phone numbers personal and business user names and identities.
+They want to be able to interact on any device from any identity regardless of whether it is their personal number work number or any of their many usernames.
+They should be able to conduct business to be able to talk and message and video regardless of which persona and which device they are currently using.
+Our existing mobile platform already provides the underpinnings to deliver this broader view of communications and many of the patents we have applied for cover many of these innovations.
+The long-term strategy is to build on our current capabilities to provide a comprehensive Cloud-based communication service providing a legitimate compliment perhaps even an alternative to mobile network use in many situations.
+In the coming quarters we will provide more detail on the specific road maps that enables Vonage to meet these emerging customer needs.
+In summary we reported a solid quarter.
+Cash flow from our core business remained strong we grew our customer base and churn is stable.
+We are making inroads against our growth initiatives and have a number of exciting products and partnerships that have recently been launched and that remain on the horizon and we are executing on our stock repurchase plan as part of our balanced approach to capital allocation.
+I’m looking forward to providing you with an update on our progress in future months and now I would like to turn the call over to Barry to review the details of our financials.
+Thank you.
+Thanks Marc and good morning everyone.
+I am pleased to review our financial results and provide you with an update on our outlook and the progress of our share repurchase program.
+Beginning on slide three we reported $34 million in adjusted EBITDA as our core business remained stable and continues to generate substantial cash.
+The $34 million includes an investment of $5 million in growth initiatives as we increased marketing in support of our Globe Philippines market launch and invested in development resources for our mobile platform.
+Adjusted EBITDA was reduced from the $40 million we reported a year ago.
+As you will recall we said we plan to invest $5 million to $10 million per quarter in strategic growth initiatives throughout 2012.
+Reflecting our disciplined approach to investments in growth initiatives we have invested $16 million through the first three quarters which is at the low end of our guidance.
+Excluding spending on growth initiatives in international long distance mobile and international expansion adjusted EBITDA has been stable both sequentially and compared to the year ago quarter.
+moving to slide four net income excluding adjustments was flat sequentially at $21 million or $0.09 per share and down from $24 million or $0.11 per share in the year ago quarter.
+GAAP net income was $13 million or $0.06 per share up from a loss of $3 million or a $0.01 per share sequentially as the second quarter included the $25 million write-down of software assets.
+GAAP net income declined from $16 million or $0.07 per share in the year ago quarter due to lower income from operations and the recognition of income tax expense in this year’s third quarter.
+As a reminder in the fourth quarter of 2011 we released our valuation allowance against our net deferred tax assets.
+Beginning in the first quarter of 2012 we have recognized income tax expense an expense that had not been recognized prior to the reduction of the non-cash valuation allowance.
+Moving to slide five revenue of $208 million was down from $212 million sequentially due in part to the non-operational impact of lower universal service fund fees as well as plan mix.
+Revenue declined from $217 million year-ago quarter due to the lower average lines and plan mix as well as the accounting impact from legacy activation fees that the company discontinued in 2009.
+As discussed on last quarter’s call we saw the anticipated pressure on ARPU in the third quarter which declined to $29.31 from $29.98 sequentially primarily due to lower USF fees and plan mix.
+Similarly ARPU was down from $30.16 a year ago.
+Recent targeted pricing actions we have taken and third-quarter positive net lines are expected to contribute to higher revenue in the fourth quarter.
+While we are generating revenue from our growth initiatives it has not ramped as quickly as anticipated.
+We expect the revenue contribution from these initiatives to increase as we expand our product offering in sales channels sign additional international partnerships and rollout new products in mobile.
+Moving to slide six we continue to aggressively manage our cost structure and drive efficiencies throughout our business.
+Following the substantial progress already made reducing our cost of telephony service or COTS this key COTS element declined further to $55 million from $58 million sequentially.
+Driven by the USF pass-through the lower interconnect and domestic termination costs.
+Total COTS declined from $59 million a year ago as we lowered domestic termination and interconnect charges more than offsetting the impact of international minute growth.
+We further reduced COTS on a per line basis to $7.70 down from $8.23 sequentially and $8.25 a year ago.
+Direct margins at 68% which were flat sequentially and from a year ago remained stable.
+Going forward we expect to offset much of the anticipated upward pressure on COTS from ILD minute growth through ongoing termination rate reductions and other cost savings initiatives.
+Moving to slide seven selling general and administrative expenses were $60 million up from $58 million sequentially due to the planned expansion of our retail channel including event teams and assisted in-store selling.
+SG&amp;A increased a modest $1 million compared to the year ago quarter.
+We have made substantial progress reducing customer care costs over the past several years which has offset a portion of the strategic investment in selling expense.
+These cost reductions came while maintaining or improving our customer service levels.
+During the third quarter we achieved best in class results for first call resolution a critical customer care metric that impacts the bottom line.
+We have also seen improvements in other care metrics including customer satisfaction and average handled time.
+Moving to slide eight marketing expense was $51 million down from $55 million in the seasonally higher COTS second quarter.
+Marketing spend was flat compared to the year ago quarter.
+Importantly we improved our subscriber line acquisition cost or SLAC as we added more gross lines.
+SLAC decreased to $299 down from $336 sequentially and $300 in the year ago quarter.
+This improvement was also aided by increased customer acquisitions through our lower cost retail channel.
+Turning to slide nine during this quarter we increased gross line additions to 172 000 up from 163 000 sequentially and 170 000 in the prior year’s quarter.
+We attracted customers to new and expanded international calling plans including our unlimited Philippines plan to Globe customers and calling plans to Mexico and Southeast Asia.
+In addition we continued to have success attracting low-end domestic customers with our basic test – our BasicTalk market test.
+As expected we held the improvements we made in churn in the second quarter as we reported sequentially flat churn of 2.5%.
+This was down from 2.7% in the third quarter of 2011 as we benefited from ongoing improvements to customer satisfaction and improved retention processes.
+Looking to the fourth quarter we expect stable sequential churn with the potential for the upward pressure on churn due to the removal of Pakistan from our unlimited Vonage World plan which Marc discussed.
+Importantly higher gross line additions combined with stable sequential churn resulted in 9000 net line additions our highest net line additions in 16 quarters.
+This is an increase from break even lines sequentially and a loss of 9000 lines in the prior year.
+We will now move to a discussion of CapEx cash flow and the balance sheet on slide 10.
+As we discussed on prior calls our low CapEx at less than 5% of revenue contributes meaningfully to our free cash flow generation capability.
+For the quarter CapEx was $1 million which includes a reduction to CapEx from termination of our billing and ordering system discussed on our last earnings call.
+We do expect CapEx to ramp in the fourth quarter to between $15 million and $20 million putting annual CapEx spend at $30 million to $35 million.
+This is a change from our previous guidance for the year a quote less than $35 million and of course a reduction in CapEx flow through to free cash flow.
+Cash from operations decreased $12 million due in part to working capital uses from the timing of payables.
+As a result free cash flow decreased to $17 million from $25 million in the second quarter.
+As of September 30 cash and cash equivalents including $6 million in restricted cash was $80 million up from $78 million sequentially.
+We ended the quarter with a strong balance sheet reflected in total leverage to adjusted EBIDTA of 0.5 times and with net cash of a positive $9 million.
+As you will recall less than three years ago we were carrying over $200 million in debt with interest rates as high as 20%.
+We are now net cash positive with interest rates less than 4%.
+The strength of our balance sheet and cash flow are fundamental to executing on our balanced approach to capital allocation.
+As part of our focus on returning value to the shareholders we repurchased 4 million shares of our common stock for $9 million as of the end of the third quarter.
+As of October 30 Vonage has repurchased a total of 6 million shares of its common stock for $14 million leaving the company with $36 million available under its current share repurchase authorization.
+Notwithstanding the increase in the stock price since our last earnings call we expect to continue to buy shares during this quarter.
+In summary we reported solid financial results for the quarter.
+Our core business continues to generate strong cash flow and we expect to see a modest increase in revenue during the fourth quarter.
+To reiterate our guidance for the balance of the year we continue to expect adjusted EBIDTA of $30 million to $35 million per quarter and $130 million to $135 million for the year reflecting the investment of $5 million to $10 million in the fourth quarter in strategic growth initiatives.
+And we updated our expectations for 2012 capital and software expenditures to $30 million to $35 million from the less than $35 million previously.
+Thank you again for your interest in Vonage.
+I'll now turn the call back over to Leslie to initiate the Q&amp;A session.
+Thank you Barry.
+Operator please open the line for questions.
+(Operator instructions) Our first question comes from the line of Mike Latimore - Northland Securities.
+Your line is open.
+Hi guys.
+This is Ryan MacDonald on for Mike Latimore.
+First question is can you kind of elaborate more on the lower ARPU in regards to this shift in the plan mix.
+Is this kind of the mix we should expect going forward? Yes Ryan it is Barry.
+We did see this pressure on ARPU that we had anticipated.
+As you know historically Vonage has been able to maintain and in some cases increase ARPU over previous years.
+As I mentioned in my part of the remarks we do expect ARPU to increase and revenues to increase in the quarter that we are currently in the fourth quarter and that is driven by some very tactical targeted pricing that we are taking that we – which is similar to what we have done in the past.
+And we also do see some impact on ARPU from some marketplace conditions.
+For example we continue to refine our retention plans and adjusting those to really respond to what we need to do there and with the BasicTalk product that Marc described which certainly carries a lower ARPU we have done market testing of that.
+As we move forward with that product we view that as a market that is really in addition to what we have been able to attract historically.
+So we will monitor that carefully and our expectation is that we will be able to add gross line addition through targeting that lower end part of the market versus if we had not focused on it.
+In addition a number of the new products and services including the plan to Philippines our AARP affiliation as well as some of the other international plans those tend to be at the higher end of the spectrum.
+So really what you are seeing is a mix effect and as Barry said we would expect to see higher ARPU in the fourth quarter.
+Okay and then so then with – of these kind of growth initiatives that you talked about with the Philippines and the AARP and BasicTalk which do you see being the most impactful or the biggest revenue generator for fiscal ’13? It is still little bit early to handicap how large BasicTalk will be in 2013 until we get results from the market rentals.
+We are bullish about the potential of that low end market.
+If we can get the SLAC and investment cost right and/or procure the right partner we think that could be quite large but that is more speculative than is the approaches to individual segment marketing within our flagship Vonage World or new high-end rate plans.
+So I would be looking at BasicTalk results carefully but look for the primary growth to be in our core International growth and then in our growth initiatives as we have previously given guidance.
+Okay and then just a follow up question so if BasicTalk is able to ramp up like you would hope what type of effect do you think this would have on ARPU? Well by definition it would reduce ARPU but the thing you should be looking at then is total revenues because obviously it is a lower end marketplace that is enormous in size and if we can – and we believe we can attract that market at a proper acquisition cost which gives us solid NPV you would want us to invest and grow that business as aggressively as possible.
+And that is why as we have talked in the past you really want to stay focused on long-term service revenues and compartmentalize the different segments to which we are marketing and think about those ARPUs uniquely.
+The same thing can be said for digital calling cards the same thing can be said for mobile.
+You need to look at that as a percentage of the mix.
+Our core flagship Vonage World plan is a flat rate unlimited plan and by definition that is going to have a higher ARPU.
+If we can get those other markets incrementally that is going to serve total revenues but the core mathematics of that would result in a softening of ARPU.
+All right.
+Thanks guys.
+Good quarter.
+Thank you.
+(Operator instructions) I’m showing no additional questions.
+I would like to turn it back to Leslie Arena for any closing remarks.
+Thank you for joining us on the call today.
+Have a nice day.
+Good bye.
+Ladies and gentlemen this does conclude your conference.
+You all may disconnect and have a good day.

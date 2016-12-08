@@ -1,0 +1,442 @@
+Greetings and welcome to the Varian Medical Systems First Quarter 2013 (sic) [First Quarter 2014] Earnings Results Conference Call.
+[Operator Instructions] As a reminder this conference is being recorded.
+It is now my pleasure to introduce your host Spencer Sias Vice President of Investor Relations and Corporate Communications for Varian Medical Systems.
+Thank you Mr.
+Sias.
+You may now begin.
+Thank you.
+Good afternoon and welcome to Varian Medical Systems conference call for the first quarter of fiscal year 2014.
+With me are Dow Wilson President and CEO; Elisha Finney CFO; and Clarence Verhoef our Corporate Controller.
+Dow and Elisha will summarize our results and we'll take your questions following the presentation.
+To simplify our discussion unless otherwise stated all references to the quarter or year are fiscal quarters and fiscal years.
+Quarterly comparisons are for the first quarter of fiscal 2014 versus the first quarter of fiscal 2013.
+Please be advised that this presentation and discussion contains forward-looking statements.
+Our use of words and phrases such as outlook could believe can expect will hope target likely and similar expressions are intended to identify those statements which represent our current judgment on future performance or other future matters.
+While we believe them to be reasonable based on information currently available to us these statements are subject to risks and uncertainties that could cause actual results to differ materially.
+Some of the important risks relating to our business are described in our first quarter earnings release and in our filings with the SEC.
+We assume no obligation to update or revise the forward-looking statements in this presentation and discussion because of new information future events or otherwise.
+[Operator Instructions] And now here's Dow.
+Good afternoon and welcome.
+We are reporting results that we believe put us on track for hitting our revenue and earnings targets for the fiscal year.
+To summarize our financial results for the first quarter of fiscal 2014 versus the year-ago period revenues rose 5% to $712 million.
+Our gross margin grew by 60 basis points to 43.5%.
+Our operating margin remained about level even after a significant step-up in our R&amp;D investments and our net earnings grew by 6% to $0.91 per diluted share.
+We had several positive developments subsequent to the close of the quarter.
+This includes the big win for oncology in Algeria our announcement of an expanded agreement to supply an estimated $550 million in imaging components to Toshiba and a 510(k) clearance from the FDA for our ProBeam proton therapy system.
+I'll focus now on the operational highlights of our businesses in the quarter.
+Oncology Systems grew gross orders by 5% to $533 million for the quarter with the help of strong 13% order growth in North America where we saw a broad-based increase in hospital purchasing activity.
+Hospitals accounted for the lion's share of our orders in North America.
+We booked $19 million in orders related to agreements with 2 large health systems in the U.S.
+to supply a total of $50 million in equipment and services for their consolidated networks over the next several years.
+The remainder of these orders we booked over the terms of the agreement.
+Numerous takeouts of competitor's software and hardware products including several aging Siemens and TomoTherapy machines added to Oncology's growth in this market.
+New products including our EDGE platform and upgrade for stereotactic radiosurgery also contributed to our orders growth in North America.
+Our newly introduced RapidPlan software for fast and high-quality knowledge-based treatment planning got off to a solid -- a good start with several orders including one that was coupled with the replacement of a competitor's accelerator.
+We continue to see signs that the Affordable Care Act is causing decision-makers at treatment centers to sharpen their focus on both clinical efficacy and cost efficiency.
+Our oncology product line is closely aligned with this focus and we believe our competitive position is stronger than ever.
+During the quarter health authorities in the U.S.
+recommended lung cancer screening for people deemed to have a higher risk of developing this disease.
+This recommendation could result in earlier diagnosis for a large number of cases that could be treated with lung radiosurgery.
+We are hopeful that this prompts more centers in the U.S.
+to acquire and use our radiosurgery products to help these patients.
+Turning to markets outside of North America gross orders were relatively flat in EMEA where weak equipment purchases were offset by robust gains in our service business.
+The sales funnel in EMEA continues to look promising despite the ways that pushed potential deals in several nations outside of the quarter.
+We believe our market share in this region is stable.
+In India TrueBeam enjoyed continued success during the quarter with 5 wins including a key placement in the National Oncology Centre at Tata Memorial Hospital in Mumbai.
+As an aside TrueBeam constituted more than 60% of total high-energy machine orders in the quarter.
+We have now booked more than 1 000 orders for TrueBeam and completed more than 600 installations since its introduction in 2010.
+We had a big win after the close of the quarter in Algeria where we've entered into an agreement to supply the Ministry of Health with $51 million in equipment and service for 6 centers over the next 5 years.
+We expect to book about half of this order during the second quarter and the remainder as delivery sites and dates are set.
+In Asia oncology gross orders for the first quarter declined as a result of softness in both Japan and China.
+Slower repurchasing activity competitive pressure negative currency fluctuations and a tough year-ago comparison resulted in a significant decline in Japanese orders during the quarter.
+In China first quarter gross orders fell slightly versus the year-ago period due to delays in purchasing decisions.
+We believe these decisions will be finalized later in the year.
+Both TrueBeam and UNIQUE have established firm footholds in the China market and we believe they help Varian to gain share there during the quarter.
+In Brazil we had another quarter of strong order growth even though we have not yet booked any orders from the tender we won for 80 machines.
+We expect to book orders relating to this tender as sites and shipment schedules are set.
+In the meantime clinicians have continued to show interest in upgrading purchases to deliver IMRT which is now being formally reimbursed by private insurers with the government likely to follow.
+In total gross orders for Latin America and the rest of the world declined by 5% versus the year-ago quarter.
+Service represented a record 40% of oncology gross orders in the quarter and continued to be an important growth driver for the company.
+The service business expanded by 15% during the quarter with particularly strong growth in EMEA.
+Turning to X-ray Products.
+The timing of order placements resulted in a first quarter gross orders decline of 19% to $108 million.
+Shortly after the close of the quarter we booked over $20 million in orders for panels and tubes.
+We saw a strong demand for our new mammography and wireless panels and continued interested in our bundled panel and workstation solutions.
+Separately we are announcing the execution of an expanded 3-year agreement to supply an estimated $550 million of imaging components to Toshiba.
+Orders will be booked over the period of the agreement.
+As was announced earlier we are adding 120 000 square feet to our production facility for manufacturing imaging components in Salt Lake City.
+Before leaving X-ray Products I want to take a moment to recognize the contribution of Bob Kluge who is retiring in February from his role as Head of Varian X-ray Products and Security and Inspection Products businesses.
+Bob built X-ray Products revenues from $95 million in 1993 to $546 million at the end of 2013.
+We are indebted to Bob for his strategic vision intelligent management and consistent execution that have propelled Varian to a leadership position in the global imaging industry.
+He set the stage for continued success and growth in our components businesses.
+At the same time I'd like to take this opportunity to welcome Sunny Sanyal to Varian.
+Sunny who's a former President of McKesson Provider Technologies will replace Bob effective February 3.
+I'm sure Sunny will successfully build on the solid foundations laid by Bob.
+The company's other category which is comprised of the Security and Inspection Products business the Varian Particle Therapy business and the Ginzton Technology Center recorded gross orders of $14 million in the first quarter.
+Varian Particle Therapy reached a major milestone after the quarter ended when our ProBeam proton therapy system received 510(k) clearance.
+This sets the stage for commencement of patient treatments when systems are fully commissioned.
+With this clearance we believe Varian has the most advanced proton system on the market.
+With our unique scanning beam technology ProBeam has the capability to deliver intensity-modulated proton therapy or IMPT with the precision needed to capitalize on the power of protons.
+It also integrates some of Varian's most advanced technologies including exciting elements of our TrueBeam user interface as well as our image guidance and motion management tools.
+As it stands we now have contracts to install our ProBeam system at several centers around the world including 4 in the United States 1 in Saudi Arabia and 1 in Russia.
+Now I'll turn it over to Elisha.
+Thanks Dow and hello everyone.
+While Dow has already covered gross orders I want to briefly talk about the constant currency growth rates for the quarter.
+Overall currency exchange rates had virtually no effect on the company's total order growth in the quarter.
+However exchange rates had a significant impact within some of our regions.
+For example the yen weakened significantly from the year-ago quarter which resulted in oncology growth orders in Asia being down 7% in dollars and even with the year-ago quarter in constant currency.
+By contrast currencies strengthened in Europe.
+Oncology's gross orders in EMEA increased 2% in dollars and fell 1% in constant currency.
+Oncology orders in our Rest of World region declined by 5% in dollars and by 1% in constant currency.
+The company ended the quarter with a $2.8 billion backlog down 1% from the year ago quarter including a roughly $50 million decline in proton therapy backlog.
+As a reminder both gross and net orders are shown in the consolidated statement of earnings attached to our earnings release.
+First quarter revenue for the total company increased 5% in dollars and 6% in constant currency.
+Oncology posted a 3% gain in revenues during the quarter with a significant increase in revenues outside of North America.
+Service revenues grew by 11% over the year-ago period and represented a record 40% of oncology revenues in the quarter.
+X-ray Products posted first quarter revenue growth of 9% with both tubes and panels contributing about equally.
+Revenues from businesses in the other category increased by $4 million due to continued progress on our Scripps Saudi and Russia proton therapy projects.
+Total company gross margin for the quarter was 43.5% up 60 basis points from the year-ago quarter with favorable product mix and lower quality cost in both of our major businesses.
+Oncology Systems gross margin improved by 1 point to 44.9% helped by the continued growth in our service business as well as improved quality cost.
+While we are pleased with the margin performance in the quarter we continue to believe that oncology can sustain long-term gross margins in the 43% to 44% range.
+X-ray Products gross margin for the quarter was up more than 0.5 point to 42.2% due to improved quality cost in both tubes and panels.
+We continue to believe that this business can sustain long-term gross margin in the low 40% level.
+First quarter SG&amp;A expenses were $110 million or 15% of revenues a slight improvement as a percentage of revenues from the year-ago quarter when we incurred a $4 million restructuring charge related to an enhanced retirement program.
+First quarter R&amp;D expenses were $58 million or 8% of revenues up more than 1 point as a percentage of revenue as we continued to invest in our global strategies and execute on our product roadmap.
+Moving down the income statement first quarter operating earnings totaled $142 million up 3% from the year-ago quarter in dollars and almost even with the year-ago quarter at 20% of revenues.
+Depreciation and amortization totaled $16 million for the quarter.
+The effective tax rate was up slightly from the year-ago period to 31.2%.
+Fully diluted shares outstanding decreased from the year-ago quarter to $107.4 million due to our ongoing share repurchase program.
+Diluted EPS was $0.91 for the quarter.
+Turning to the balance sheet.
+We ended the quarter with cash and cash equivalents of $971 million debt of $481 million and stockholders' equity of $1.7 billion.
+DSO at 94 was up 7 days from the year ago quarter with an approximate 10-day impact from the proton therapy business where extended payments are not yet due but revenue has been recognized under the "percentage of completion method." First quarter cash flow from operations was $43 million lower than net income primarily due to working capital increases and accounts receivable and inventory versus the year-ago quarter.
+Primary uses of cash were approximately $155 million toward the repurchase of 2 million shares of stock.
+At the end of the quarter we had 6 million shares remaining under the existing repurchase authorization that extends through calendar year 2014.
+Now I'll turn it back to Dow for the outlook.
+Thanks Elisha.
+The company is executing its marketing and operational strategies effectively and we believe we are on-track for hitting our fiscal year 2014 growth targets.
+For the fiscal year we continue to believe that total company revenues could increase by about 6% to 8% over the prior fiscal year.
+Net earnings per diluted share for the fiscal year could be in the range of $4.22 to $4.34.
+We expect total company revenues for the second quarter of the fiscal year 2014 to be about equal to the year-ago quarter when proton revenues were high.
+Net earnings per diluted share for the second quarter could be in the range of $1 to $1.04.
+We're now ready for your questions.
+[Operator Instructions] Our first question comes from Jeff Johnson from Robert W.
+Baird.
+Research Division</strong> Dow I was wondering if I could start with you 2 quick questions and then a follow-up for Elisha.
+For you Dow I guess any update on the short cycle business.
+Obviously that was a shortfall last quarter just maybe how that bounced back if it did at all in the quarter.
+And also an update maybe on tone that you're hearing from the hospitals.
+The obvious -- obviously the North American order number looked better this quarter.
+But do you think that's been driven by reimbursement? Just what are your conversations in the field telling you the follow-through has been since the better reimbursement rates were finalized? I'll answer the North America question first.
+North American business was obviously very good.
+We're very pleased with that.
+13% orders growth in North America that's the strongest quarter we've had in over 2 years.
+So we like that a lot.
+As I mentioned in the script we did see a couple of large deals in the quarter and we think that that is -- that we'll continue to see -- as the market consolidates we'll continue to see some large orders.
+I'd say the short-cycle business is about the same.
+I wouldn't say that that's ticked up.
+We did see some nice EDGE and RapidPlan activity.
+So that's good news.
+The new products are taking.
+We did add -- we did see some strong competitive takeouts.
+I think it's too early to tell whether this is -- I frankly don't think it's reimbursement-driven.
+I think maybe there was a little bit of a pent-up demand as people watched the -- watched Washington make some decisions.
+But I think it's still a little early to tell what the long-term impact is going to be.
+I guess our gut now it's is still kind of in the mid-single-digit growth kind of scenario which is better than we've done in the last year or 2 so we like that.
+The good news is we still have a lot of product in the installed base that's aging.
+We've got 1 100 Linac installed base in the U.S.
+that's over 10 years old so we can go after that.
+And then the other thing that we're curious to see how it impacts the market it'll be positive in the long term certainly is this new lung screening mandate that's come down.
+And clearly the earlier we can identify a lung lesion the more appropriate it is for radiation.
+And that will also have a positive impact on the configuration that we sell because folks are going to want SBRT-capable motion-managed-capable machines.
+So that's kind of the tour of North America.
+Research Division</strong> Yes that's helpful.
+And when you say mid-single digit do you still see it that way as -- from a growth perspective Dow? You mean worldwide or are you saying that for U.S.
+sorry? Right now for both.
+Research Division</strong> For both.
+Okay.
+And Elisha just a follow-up for you where is it? On the gross to net adjustment in oncology I think last quarter you talked about that typically being a 3% to 5% adjustment.
+This quarter it was above that a little north of $40 million bigger than we were thinking.
+So are we still seeing you take more out of the backlog on the oncology side more cancellations things like that than normal or how do you explain that I guess? No Jeff.
+This was very normal for a quarter.
+We had about $40 million of dormancies in cancellation the lion's share of that being within the Oncology Systems about a $5 million FX adjustment.
+That 3% to 5% is a backlog that we typically would deliver on about 95% of backlog.
+If you do the math it's about I think 1.3% 1.4% of backlog right now.
+So we're in that range.
+And really I think proton impacted at our backlog and proton was down $50 million.
+If that had been flat year-over-year we'd be well within say the 1% of backlog range that is very typical.
+Research Division</strong> Okay.
+Would you give a net order for oncology a net constant currency growth rate for the quarter? Just like in the tables.
+We only get a reported I believe.
+It's -- the constant currency is the same.
+So we -- the yen and the euro were almost an exact offset in the gross and net.
+Our next question comes from Steven Beuchaw from Morgan Stanley.
+Research Division</strong> One housekeeping question sorry if I missed it.
+But could you give us the North American and international net order figures for oncology? We have -- no.
+What we gave was the geographic breakdown on gross orders.
+The lion's share of any impact of net is -- impacts North America.
+Research Division</strong> Okay.
+So the lion's share the 40 -- I'm sorry $43 million maybe 80% 90% of that was on North America? Correct.
+Research Division</strong> So we can get to the number that way.
+Got it.
+I wonder Elisha -- sorry 2 questions for you and one on gross margins.
+As you look at the quarter clearly above what you've called out for the year.
+Does it imply that there's maybe some upside to the view that the right number for the full year is $42 million for the total company and clearly there's an embedded question there which is could you speak to the impact of what proton means for gross margins and operating margins over the balance of the year? Yes.
+So Steve I mean clearly we were very pleased with the margin performance in both of our core businesses this quarter.
+That said it's early in the fiscal year.
+We still have currencies moving around.
+What really helped both businesses this quarter was strong service in oncology.
+And we had lower quality cost in both our tubes panels and Oncology business.
+We had a much higher percentage of revenue outside of North America.
+But that said the revenues in our BRIC countries were down.
+So when I look at all of that together I mean obviously we're pleased the product cost reductions are coming through as we anticipated.
+But I -- the geographic mix for the balance of the year could impact that.
+So at this early stage I'm holding to that 43% 44% for total oncology.
+Our next question comes from Amit Hazan from SunTrust bank.
+Inc.
+Research Division</strong> So maybe the first question on the service business given it was a bigger-percentage quarter and continues to grow nicely.
+I'm just wondering if you can lay out for us again as we kind of start out this new calendar year how much visibility you have that service business can continue to grow double digit.
+If you can walk through some of the underlying factors you're seeing now having grown double-digits for quite some time.
+And then also if you can just kind of walk through what that means for service gross margin dynamic if 50% plus gross margin is sustainable for service if you can improve further.
+Yes I think the margin rate one is an easy one.
+We do believe that that will continue.
+There's no reason to see that decrease at all.
+I mean the #1 analytic that we look at inside is installed base out of warranty and our installed base out of warranty and service continues to grow.
+I think as we said on the call somewhere -- middle of last year we basically have a TrueBeam coming out of warranty.
+One per order day this year and that's driving our growth.
+We do have -- we are seeing more TrueBeams come out of warranty in particular outside of the U.S.
+So a lot of that early TrueBeam volume went into the U.S.
+and now we're kind of moving into the bubble outside of the U.S.
+from an installed base out of warranty perspective.
+We're also seeing a richer contract mix that comes with that.
+The TrueBeam pricing is better.
+And we also -- the service team I think has done a very good job of going after software service agreements as well as a driving capture rates contract capture rates in the business.
+So we see this kind of double-digit scenario in the service business continuing.
+Inc.
+Research Division</strong> All right.
+And the second question for me is on China.
+The tone has changed a lot since just last quarter and it's within the same calendar year really.
+So I just wonder if you can give us a little bit more color on what you think is going on in that country and now in terms of orders.
+We saw GE come through with some weak numbers as well.
+And so are you seeing something changing there in terms of how they're looking at purchase of capital equipment and why you think it's now towards the back half back end of the year or what else...
+Well we have seen a slowing of purchasing activity in China.
+We think it's temporary.
+Our share was up in the quarter as I mentioned and we're pleased to see that.
+Our funnel is very strong in China so we think it's just a timing issue.
+Our next question comes from Jeremy Feffer from Cantor Fitzgerald.
+Research Division</strong> I wanted to first just -- I want to double check that the $19 million of U.S.
+orders to a couple of hospitals were those new customers for you or were those replacements of existing systems? Let's see.
+I think it's a little bit of both.
+Both of these are consolidated customers and -- so there has been some acquisitions.
+I know the parent organizations were both Varian customers.
+But in their consolidation there's some competitive equipment that they had consolidated and that we will be replacing.
+And that's the $19 million is the amount that we actually booked in the quarter.
+The deals were -- together they were $50 million.
+And as we get a little more visibility on the sites and the dates we'll be looking the other $31 million of those orders.
+Research Division</strong> Okay.
+And then I wanted to come back to Japan.
+You mentioned that you're seeing -- I mean beyond the obvious currency issues you've been -- you mentioned some -- a bit of a tougher competitive landscape.
+Can you provide a little more color there and how you see that market developing over time? I think it's -- the way we kind of view it here is we had a tough comp.
+We got a lot of accelerated purchases in the Q1 of last year with a little budget acceleration that they were doing in Japan.
+We also had some yen impact year-over-year and so the market is soft.
+We still think the long-term growth in the market remains very very good.
+Less than 30% of patients in Japan get radiation as part of their cancer therapy that in Western Europe in the U.S that number is over 50% 50% to 60%.
+So we think that Japan remains a good long-term growth market.
+We do have a lot of opportunities in the MELCO installed base which is gradually replacing.
+For those who don't know the history there we bought that installed base a dozen of years ago or so and those products are kind of coming to the end of their life and we're seeing a nice replacement opportunity there.
+Over the last year our share has been stable in Japan.
+We have very high share there and we think that that will continue in the long term.
+Research Division</strong> Okay.
+Last one quickly.
+Any updates on proton reimbursement now that you have ProBeam approval? Any -- are you getting any thawing in the reimbursement -- on the reimbursement side? The hospital reimbursement rate went up.
+As part of the reimbursement package that was approved in December hospital proton reimbursement went up.
+Freestanding reimbursement in protons is negotiated with each carrier.
+They typically kind of follow the federal hospital guideline in protons.
+So we think this is encouraging news but it's not.
+It still has to be negotiated center by center -- carrier by carrier.
+Our next question comes from Jason Wittes from Brean Capital.
+Research Division</strong> Just 2 quick ones here.
+One the U.S.
+order rate.
+It sounds based from what you said that hospitals' purchasing dynamics haven't really changed for the last few quarters but the real driver this quarter was a big lump order? Is that the right way to think about it? And...
+Well in fact no.
+I mean it was only $19 million of a huge number.
+So yes we got a nice $50 million order but we only actually booked $19 million of it.
+So we did see broad-based strength in the U.S.
+market.
+There might have been a little bit of timing because people were waiting for some certainty with the reimbursement decision.
+Did we have a little bit of pent-up demand? You heard me say our kind of forecast on the year is that this market is going to be a mid-single-digit market.
+That would be great news for us.
+That has not been a mid-single-market for a while.
+So we'd love to see that stability and we're thrilled with the start that we have in Q1 and our funnel looks pretty good.
+Research Division</strong> Okay.
+And then on China just to clarify on that as well.
+It sounds like you're optimistic that you got a recovery but it does sound that'll be later in the year.
+So if I think about the growth rate that you guys are thinking about for orders roughly I think you're still saying it's going to be mid-single digit which again is an improvement.
+It sounds like that'll be more U.S.-centric than I would have expected this year though.
+If I think about the moving pieces meaning the U.S.
+looks a little stronger than it was in China looks like it's going to be back-end loaded is that a fair way to look at it? Kind of stepping back at the highest level I think the Oncology business is in the mid-single digit range.
+The imaging components business is in the double-digit range proton's kind of the wild card.
+We got a pretty good proton funnel.
+But our long-term growth in kind of the mid- to high-single digits is a pretty good forecast for what our markets are doing.
+Our next question comes from Amit Bhalla from Citigroup.
+Research Division</strong> Dow I'm just trying to foot the 2Q guidance with what you're saying about what's taking place in the regions.
+I guess what's clear is that underlying your full year guidance is China being back-end loaded but your second quarter guidance can you walk through some of the moving parts? Clearly it's coming in a little bit lighter than -- we're expecting both on top line and earnings.
+Sure.
+So on it for Q2 sales up 1% to 2%.
+And that's primarily driven by the proton therapy business will be down significantly versus the year ago quarter where we started recognizing revenue under both the Saudi and the Russia projects as well as a significant Scripps revenue.
+In the second quarter Oncology we're expecting again to be up in the low-single digits X-ray up in the high-single digits with half -- the second half's going to really be driven above that level by the proton business where we're continuing to make progress but it's just not done at this point.
+On financing it's going well from what we hear but we won't be able to book revenue until that is completed on the Maryland project.
+Research Division</strong> And question -- I guess question for you Elisha on the quality -- the product quality costs that are coming in better you mentioned it both in the Oncology business you mentioned it in the X-ray business.
+Can you put some quantification around that? And what exactly have you improved and why can't that just continue straight on out? Well we just get variations in any given quarter.
+It relates to scrap and warranty and rework and of course retrofit cost.
+And it was just kind of a perfect storm if you will on the positive side this quarter.
+We're hoping that holds but again it's just too early in the year to say that it's going to be that good for the remainder of the year.
+We always get quarterly fluctuations but again very pleased with the performance in the quarter.
+It is a focus for us.
+Some of them come in lumps which gives us some of the issues with the predictability issue.
+But as far as yield and scrap goes on the overall quality it's a major initiative for us across the entire business.
+Our next question comes from Anthony Petrone from Jefferies.
+Research Division</strong> A couple for you Dow on Oncology one on X-ray and just a numbers question for Elisha.
+You mentioned the E orders were pushed out in fiscal 1Q to 2Q.
+I'm just wondering if maybe you can quantify that for one.
+And then on the Toshiba contract how does that stack up versus prior contracts? Is it a bigger contract? Is pricing favorable on that and how additive is that to the X-ray outlook? First of all coming to Europe we did see strength in Southern Europe which kind of surprised us that was not something we were expecting.
+So France Spain and Italy were strong.
+We were expecting weakness in Northern Europe.
+We had a very large order last year in the U.K.
+which I think we'll be explaining a little bit of that all year in Northern Europe.
+Central Europe was relatively flat.
+We had good performance in India and our Service business performed very well in Europe.
+So kind of -- Northern Europe and Central Europe was where we were down and India and Southern Europe was where we were up.
+The Toshiba contract and the X-ray business we're thrilled.
+Obviously it's been a terrific partner and really driven the growth in our X-ray components business for the last several years.
+The contract value the agreement value is about $515 million which is up about 10% from the last time.
+So it's part of what gives us this confidence in calling a double-digit scenario in our components business.
+Research Division</strong> That's helpful.
+And then quickly for Elisha you mentioned also in your prepared comments of $50 million decrease in proton therapy backlog so maybe just a clarification on where that was which order.
+And then on the $51 million emerging market deal that Dow referenced in his comments is that sort of similar pricing and margins relative to Brazil? Is that the way we should be thinking about that revenues? Yes on the proton therapy backlog really it's just -- it's a cumulative number right over the last 12-month period but I'm looking at quarter-over-quarter.
+And it's just simply because we are getting very close on some proton orders but we have not yet booked those orders because it hasn't met all of our order booking guidelines.
+And so we've been recording significant revenue over the last 12 months particularly as Scripps has progressed and we have not booked an order over that period.
+So once an order is booked that backlog should come back nicely for our proton therapy business.
+With respect to the Algeria deal that we mentioned it is at a significantly higher margins and it is at significantly higher featured equipment with the TrueBeam STx and a lot more software content so much higher than the Brazil margin.
+Our next question comes from Tycho Peterson from JPMorgan.
+Research Division</strong> Elisha just -- can you comment on the reclassification on products and services revenues at the bottom of the release? I'm just not entirely clear what drove that.
+Sure.
+So we average -- if you look at any given quarter we average about $25 million in parts sales.
+Historically we had put that into our product category and not talked about it as part of our service business.
+We just simply did a reclass because it's more consistent with how we talk about our service business to The Street.
+Also how we monitor and look at performance in our product lines and businesses internally and frankly how incentive plans are structured.
+I just wanted to make sure that we had all of that perfectly aligned.
+So simply a reclass of that $25 million a quarter roughly of the parts businesses which represents less than 10% of our total service business.
+Research Division</strong> Okay.
+And then on the margins.
+I mean if we look -- this quarter 6% earnings growth off a 5% top line.
+I know you talked at the Analyst Day in December about 25 to 50 basis points of leverage per year.
+Why couldn't that be more? I mean I understand supply chain is part of it.
+But there has to be other parts of the balance sheet where you can drive additional leverage.
+Can you maybe just talk to your level of commitment to driving leverage in the model? Absolutely.
+For this fiscal year and really what's driving and we're going to be down call it maybe 0.5 point roughly on operating margin and that's driven by really the proton therapy business.
+We are expecting significant revenue out of protons this year.
+If you don't mind I failed to answer Steve's second question which was the margin on protons.
+If you take the total revenue for the year it'll be at roughly a 15% margin.
+As we mentioned it will be somewhere between $100 million and $150 million of proton revenue depending on the timing of projects I've just picked the midpoint at $125 million.
+So we do have between that 6% and 8% some significant variability if you will around the proton business.
+And then secondly on leverage we made a conscious decision to take the R&amp;D up this year.
+It will go up about 1 full percentage point and that's just so that we can continue to execute on a very robust product pipeline.
+So those 2 factors are what's driving it.
+If it weren't for the proton's significant increase in sales I believe we wouldn't be getting leverage in the P&amp;L.
+Research Division</strong> And then last one.
+Dow you called out software.
+Can you maybe just give us a sense as to how much share you think you've pulled on on that side of the market? And are you lacking in hardware sales at this point with RapidPlan? As I mentioned on the call we did see a conversion of the hardware socket with RapidPlan so we were glad to see that.
+We think that there will be more of that.
+We did see a lot of purer software conversions of people converting either treatment planning or oncology information system installed base to either ARIA or Eclipse.
+And that's been a multi-year trend.
+We think we've been winning it more there than we've been losing.
+And I'd say that especially with the strength of RapidPlan coming out of ASTRO we've got a nice lead in treatment planning and -- with RapidPlan I think it's really hitting a chord with people whether you're the best at treatment planning or new in the business RapidPlan is going to help you.
+And I think customers are seeing that and it's really driving the conversation for both software and hardware.
+Research Division</strong> Okay.
+And then one last quick one if I can.
+On the commentary on China before as we think about the back half of this calendar year.
+Are these going to be larger tenders or is it a lot of singles and doubles? I'm just trying to gauge the lumpiness of...
+There's always going to be the PLA tender but otherwise I don't think the structure of the -- I mean it might be consolidating a little bit but I don't think at least at this point anything -- I don't see any material change in kind of the structure of the China market.
+It happens kind of a customer at a time and province at a time.
+Our next question comes from David Roman from Goldman Sachs.
+Research Division</strong> This is actually Aimie in for David Roman.
+I was just wondering looking at your guidance for 2Q and kind of going through the numbers that's getting me to an average growth rate in the back half of about 9.5% to 13.5% for both revenue and earnings.
+So could you just walk me through what you're seeing that that gets you there that makes you confident that you can deliver that in the back half? Yes and again this is -- it's going to be largely dependent on the timing of our proton therapy revenue where we're going to see a huge increase in proton revenue once we get these -- once our customers gets the financing completed on the Maryland project.
+We're coming to the end on Scripps in terms of revenue recognition but Russia Saudi and Maryland are all in the queue for the second half of this year to have significant revenues with them.
+So again that's really what's driving the top line growth above that midpoint that Dow talked about.
+If I just took our core businesses again Oncology is going to grow in the low single-digit range call it the 3% to 4% range.
+Our X-ray Products top line should grow near the low-double-digit range with the balance coming from huge increases in protons.
+Research Division</strong> Okay great.
+And then maybe just as a follow-up.
+With so much of the revenue coming from proton in the back half how are you thinking about gross margins especially you were saying that you expect them to still kind of reach that 42% number.
+So what are you seeing in the back half that gets you there on margins? Yes.
+So again we're seeing that the Oncology and X-ray margins are going to hold well within the ranges that we've talked about.
+The proton gross margin is coming up from prior years.
+For the total proton business this year we think we'll average around 15%.
+And what that equates to is in the FY '13 total company gross margin was 42.5%.
+And again should be just down slightly for the total business for this fiscal year.
+We have one more quarter of excise tax in Oncology and then the proton revenue at a much lower margin driving that slight decline.
+Research Division</strong> Okay great.
+And if I could just squeeze in one more quick one.
+I was wondering if you have any guidance around the share count for the full year for '14.
+No.
+Other than -- if you look historically we bought between 1 million and 2 million shares per quarter.
+We do have an existing authorization in place for calendar year '14 for 6 million shares.
+So we look at this opportunistically based on U.S.
+cash interest rates share price all of those things but you should assume that we will continue to purchase through the balance of the year.
+Our next question comes from Toby Wann from Obsidian Research Group.
+LLC</strong> Elisha quick question on the R&amp;D the percent of revenue.
+I mean is it fair to assume that it's going to be above 8% kind in that 8% range on a go-forward basis given the product pipeline that's coming up? Well again we're seeing significant increases in the oncology R&amp;D but because of that proton revenue increase that I've been talking about it should be about 7% of revenues both this year and last year.
+If you were to strip out the increase in proton revenue yes it would go up by about a point.
+LLC</strong> Okay.
+That's helpful.
+And then cash balance in the U.S.
+was -- of the $971 million about how much of that is outside the U.S.? Most of it.
+Our next question comes from Charley Jones from Barrington.
+Inc.
+Research Division</strong> So I just want to start I guess with market growth.
+I was wondering if our growth -- I see your U.S.
+growth is driven more by the market improving or are you making some competitive inroads? I think our share is stable to up a hair.
+It's not up dramatically by any stretch but our share has been at least what it's been historically.
+So I think most of this is at least that we saw in Q1 is a pretty good market.
+We haven't seen Elekta's results yet and won't see them for another month or so but that's kind our gut.
+When you look at the last rolling 12 months which is probably a better way to look at it our share is stable to a hair up.
+Inc.
+Research Division</strong> I guess the reason for the question is I'm thinking after the loss of Brazil the change in reimbursement maybe they'd get kind of aggressive.
+And so I'm just wondering if they've changed their behavior a little bit.
+I guess as a follow-up to that are you seeing TomoTherapy at all anymore? And can you comment on...
+As I said we did have some takeouts of TomoTherapy units in the quarter they're still out there and they win a few.
+But I think RapidArc and biometric arc therapy from Elekta have also made it very tough for the competitive differentiation of TomoTherapy.
+There was another piece to your question...
+Inc.
+Research Division</strong> I guess there's more on Elekta right after the year...
+Yes.
+I was just going to say on the overall pricing environment is good.
+We have -- we've seen stability in pricing.
+Inc.
+Research Division</strong> And if I could just squeeze one more in.
+I guess in general would you say U.S.
+health care reform is kind of a non-issue as far as uncertainty within the purchasers? And you've got better reimbursement for radiosurgery to boot so...
+I think the good news is the short-term environment doesn't look too bad.
+And the reimbursement news at least stabilized.
+The investment environment for people over the next year I think there's some question about where it ends up in the 2016 2017 time period as legislation drives to more accountable care organizations and things like that.
+And I think there's -- I think our customers still have some uncertainty about that.
+I think what we are seeing is a reinforcement of what our customers are looking for they're looking for real clinical value.
+If you've got product that has a demonstrated clinical value and can help drive efficiency you win.
+So I think both radiation and Varian have a very good story in the value that we drive in healing patients.
+Thank you.
+I'll now turn the call back over to our speakers for closing comments.
+Thank you for participating.
+A replay of this call can be heard on the Varian investor website at www.varian.com/investor where it will be archived for a year.
+To hear a telephone replay please dial 1 (877) 660-6853 from inside the U.S.
+or 1 (201) 612-7415 from outside the U.S.
+and enter confirmation code 424753.
+The telephone replay will be available through 5:00 p.m.
+Friday January 24.
+Thank you.
+Thank you.
+This does conclude today's teleconference.
+You may disconnect your lines at this time.
+Thank you for your participation.

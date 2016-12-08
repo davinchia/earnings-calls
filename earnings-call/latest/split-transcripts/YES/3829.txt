@@ -1,0 +1,481 @@
+Ladies and gentlemen thank you for standing by.
+Welcome to the Thomson Reuters Third Quarter 2013 Earnings Call.
+[Operator Instructions] As a reminder this conference is being recorded.
+I would now like to turn the conference over to your host Frank Golden Senior Vice President Investor Relations.
+Please go ahead.
+Good morning and thank you for joining us as we report our third quarter results.
+We'll begin today with our CEO Jim Smith; followed by our CFO Stephane Bello.
+Following their presentations we'll open the call for your questions.
+[Operator Instructions] Throughout today's presentation keep in mind that when we compare performance period-on-period we look at revenue growth rates before currency as we believe this provides the best basis to measure the underlying performance of the business.
+Now today's presentation contains forward-looking statements.
+Actual results may differ materially due to a number of risks and uncertainties discussed in reports and filings that we provide to regulatory agencies.
+You can access these documents on our website or by contacting our Investor Relations Department.
+Let me now turn it over to the CEO of Thomson Reuters Jim Smith.
+Thank you Frank and thanks to those of you on the call for joining us.
+Today I will begin as I always do with a review of the quarter's results which continue to track to our expectations.
+Following Q3 results I'll discuss the announcements we made this morning regarding the opportunity we see to accelerate our progress.
+I'll then turn it over to Stephane who will review the quarter's results in more detail.
+And he will update you on a modest but important adjustment to our capital strategy.
+First to the results for the quarter.
+The third quarter performance was again consistent with our full-year expectations and I'm pleased with the progress we continue to make.
+We are tracking to our plans despite the fact that a few of our markets are still quite challenging.
+Total revenues were up 2% reflecting good growth from the resilient Legal Tax and IP businesses which were up 6% on a combined basis.
+But that was partly offset by a 1% revenue decline as expected in our Financial business.
+I am particularly pleased to report that the Financial business achieved positive net sales for the first time in over 2 years.
+This represents an important milestone one of several we achieved during Q3.
+The positive trend in net sales is clear and Q3 marked the fourth consecutive quarter of year-on-year improvement in quarterly net sales.
+That said we continue to expect challenging conditions in the coming quarters particularly with the largest global banks.
+But this is a significant step in returning our Financial business to a growth footing.
+Our consolidated EBITDA margin was up 100 basis points primarily due to the Financial business.
+Despite the top line pressures in Financial we continue to make consistent tangible progress rolling out new products while at the same time reducing our cost structure in a sustainable manner.
+That's reflected in Financial's EBITDA margin which rose nearly 250 basis points despite a 1% decline in revenues a very strong performance.
+Costs are coming out and staying out and underlying profit was up 3% despite the decline in organic revenues and a $22 million increase in depreciation and amortization.
+Lastly we're reaffirming our full year 2013 outlook excluding the planned charge and pension contribution announced today.
+Now to the results for each of the businesses.
+The Professional businesses grew a healthy 6% versus the year-ago period and Stephane will discuss that in detail.
+Revenues for the Financial business declined 1% as expected reflecting negative net sales in aggregate over the past 12 months.
+Net sales for Trading Investors Risk &amp; Compliance were all positive.
+All global regions continued their positive net sales trajectory with several encouraging developments.
+The Americas and Asia were positive and although Europe was negative it posted the best quarterly performance we have seen since the second quarter of 2011.
+But the headwinds affecting the largest global banks are still prevalent particularly in Europe.
+The continued cost cutting retrenchment and headcount reductions by the biggest global banks shapes the playing field on which we compete.
+But our competitive position continues to improve every quarter and we continue to see accelerating momentum behind our sales efforts with improving retention rates.
+We remain confident in the trajectory of the business and our ability to drive profitable growth.
+Finally our Global Growth businesses achieved revenue growth of 9% of which 4% was organic.
+Let me remind you that those results are included within each of the 4 business segments.
+Now September 30 was a historic day for us.
+It was the day we shut down the Bridge network.
+This was another key milestone we achieved as Bridge was a very complicated platform that not only supplied information for our desktops but was also deeply embedded in customer systems and with their own proprietary desktops.
+Bridge even carried Reuters.com which has now been converted to Elektron.
+Over 17 000 Bridge desktop users were upgraded to Eikon and Elektron over the course of the upgrade program and once more we also met our revenue retention targets.
+Our teams worked tirelessly to shut down Bridge on time and with minimal disruption to our customers and I want to thank them for their efforts.
+This was the third major platform closure we've completed this year and each one was on time and each one met our expectations in terms of revenue retention rates.
+We are well on our way to achieving our target of $150 million.
+Next up we're working to upgrade the remaining 3000 Xtras in Q4 and toward a closure of the IDN network in 2015.
+And in Q4 we'll also begin upgrading Thomson ONE desktops to Eikon.
+Now for an update on Eikon where we continue to make strong progress and are very much on track to achieve our aggressive year-end target which we laid out during Investor Day earlier this year.
+In prior quarters we've provided you with the number of billed Eikon customers and we ended the quarter at over 76 000 up more than 25% from June 30.
+This quarter we are also providing you with the number of installed Eikon customers which totaled nearly 96 000 at September 30.
+And we surpassed the 100 000 installed Eikon threshold earlier this month another remarkable milestone achieved by the financial team.
+We define an installed customer as one who has been upgraded to an Eikon desktop is using Eikon and not just on a trial basis but has not yet cycled on to the billing system and therefore has yet to receive an invoice stamped Eikon.
+The 20 000 gap between billed and installed will be eliminated this month when the recently installed customers are billed.
+At our Investor Day we said we expected to have 2 to 3x more Eikon customers at the end of the year than the 46 000 we had at the time.
+And we are confident that we will achieve that target.
+And lastly we will be releasing Eikon 4.0 later this quarter.
+Eikon 4.0 represents a step change in user experience with new buy-side apps and improved performance visualization and workflow tools.
+And as always we will continue to push out new capabilities on the platform throughout 2014.
+So with our Financial business now back on a solid footing we've been planning the actions we need to take to bring Thomson Reuters to the next level of performance.
+How do we go from good to great? How do we deliver even stronger value proposition to our customers? How do we build even greater value for our shareholders? It all starts with the solid foundation we have built.
+I believe we've created the footprint and assembled the underlying assets we need to win.
+That means the era of portfolio juggling is over.
+We like the assets we have and the market positions we've built.
+Now we're focused on taking advantage of our size and scale.
+Additionally we are blessed with a business that generates a significant and growing amount of free cash flow.
+Since we will plan to use less of that cash to fund acquisitions we will instead use it to support innovative ideas inside the company to drive organic growth and improve returns to shareholders through higher share buybacks.
+Let me expand on this.
+As I've said repeatedly over the past 2 years we've been focused on fixing the things within our control and we've made substantial progress.
+On the operations side we've stopped the decline in our Financial business.
+We've improved products and customer service and we begun simplifying the business in building a performance-based culture.
+The third quarter marked the seventh consecutive quarter of improvement in customer satisfaction.
+On the strategic side we've aggressively prioritized our capital toward our highest growth segments which now represent 50% of our overall revenues and are growing at 6% to 7% organically.
+We must continue to invest behind them and ensure that they have the proper resources and talent to drive growth.
+With the remaining 50% of our revenue base where financial desktops represent the largest component we believe we can improve performance and win market share with Eikon and Elektron.
+With other legacy products we will build upon strong deep customer relationships by adding new workflow tools software and services to our foundational information products.
+So we're starting from a strong position.
+But now we must challenge ourselves to further capitalize on those strong market positions across the world by driving greater innovation across all our businesses.
+We've been quite active in repositioning our portfolio of assets over the last few years.
+And now is the time for us to turn our focus to leveraging our invested capital base.
+Going forward I expect our acquisition activity to be more modest than it has been in the past.
+We will focus our attention on driving organic growth and capitalizing on our scale.
+A reduction in our acquisition activity is also essential to our goal of driving greater simplification across the business.
+More on that later.
+Let me be clear.
+We will continue to make acquisitions as there will always be opportunities to acquire good tuck-in businesses.
+However these acquisitions will be highly focused on key growth segments where we can drive organic growth and where the businesses can be integrated quickly.
+I would summarize the next phase of our evolution around 3 main themes.
+First we're implementing various actions aimed at accelerating the transformation of our Financial business.
+I've mentioned some of the key milestones to date.
+Our increasing ability to execute and the confidence we have in our unified platform strategy is what leads us today to implement the actions that should enable us to more quickly achieve our target of approaching a 30% EBITDA margin for this segment.
+Second we will work to further leverage our formidable set of assets that we've put together over the last few years.
+I must say I've never been more confident nor more energized by the opportunities I see.
+But to capitalize on these opportunities we need to bring the full power depth and breadth of the company to bear.
+We must think and operate more like one enterprise that shares core capabilities and reaps the benefit of scale in order to better serve our customers.
+And finally our capital strategy is evolving to reflect the shift in business strategy I just described.
+We believe that these changes should allow us to drive strong returns to our shareholders going forward.
+We are confident in our ability to gradually improve our top line growth.
+Our expectations for gradually improving revenue growth combined with the benefits of scale should lead to an improving free cash flow performance.
+In turn that stronger free cash flow performance combined with lower acquisition spending and modest increase in our leverage target will allow us to return more cash to our shareholders without compromising either our growth strategy or our commitment to a solid investment-grade rating.
+So let me remind you why we believe our revenue growth should start to gradually improve over the next few years.
+As shown on this slide our targeted capital allocation has enabled us to increase the overall percentage of our revenue base in growth segments from about 43% in 2011 to about 50% this year.
+Those growth segments grew by 10% on average over the last couple of years.
+The rest of our portfolio declined by about 3% over the same period.
+It's the difference in these 2 growth rates that explains the shift in our overall revenue mix.
+Going forward we expect our revenue mix will continue to evolve with our growth businesses becoming a majority of our total revenues next year.
+And that proportion will continue to grow over time.
+In the near term this translates to low single-digit growth.
+Longer term we expect mid single-digit growth across the company.
+These expectations are predicated upon the evolution of our revenue mix not simply on the hope that the economic environment will eventually improve.
+Organic revenue growth is obviously an essential component if we are to succeed but capitalizing on scale benefits and simplification is equally important.
+As an historically acquisitive company with 60 000 employees across more than 100 countries around the world there is ample opportunity to simplify.
+And simplification is critical to drive growth as well as realized savings.
+Simplification of platforms enables simplification of product development which simplifies customer service which contributes to higher customer satisfaction and ultimately revenue growth.
+And simplifying back-shop processes such as order processing billing system financial reporting tools as well as shared services like real estate IT purchasing T&amp;E et cetera all contribute to lowering costs.
+Given our progress over the past 21 months I believe there is an opportunity to realize substantial savings.
+Some of those savings will be reinvested in the growth initiatives some will flow through to the bottom line.
+Lastly in order to drive this transformation and spur organic growth we need to engage our best and brightest talent across the organization.
+We have established a number of programs focusing on change management sales effectiveness a global rotation program a cultural change initiative that will reach across the company.
+We're also developing a series of initiatives aimed at specifically encouraging innovation and building a more dynamic and nimble organization.
+Now in order to achieve the goals I just outlined there are several steps we need to take.
+This morning we announced that as we work to simplify organization we plan to take a charge of approximately $350 million most of which will impact the fourth quarter results but a portion of which will be booked in 2014.
+We will provide you with a breakdown of these charges when we report Q4.
+These cost reduction actions are expected to drive about $300 million of run-rate savings by 2015 the majority of which will flow to the bottom line.
+The lion's share of that money will be spent to accelerate the transformation of our Financial business.
+Let me be clear.
+This change is a direct result of the benefits being achieved from simplifying the business.
+We are accelerating our evolution into a platform company one that delivers to customers not just a portfolio of products but the entire power of our enterprise.
+The process David Craig and his team have made -- or the progress that David Craig and his team has made in the past 21 months has been truly impressive.
+Fixing Eikon successfully executing on the upgrade from 3000 Xtra building out a robust and global Elektron platform cleaning up complexity around sales offerings customer service product consolidation product development while instituting a management-by-expectation culture has required a Herculean effort.
+But it's also enabled the business to get back on its front foot.
+We believe that the steps being taken in our Financial business could enable it to achieve an EBITDA margin nearing 30% in 2015 1 year earlier than we outlined at our Investor Day in March of this year.
+This aspirational target assumes only modest revenue growth.
+We also announced today we plan to buyback up to $1 billion in stock by the end of 2014 which would represent a fivefold increase relative to our average annual buyback activity over the last few years.
+This will be funded in part by a modest increase in our leverage target.
+This increase does not signal in any way a lessening of our commitment to maintaining a strong capital structure or our intention of maintaining a solid investment grade rating.
+This increased buyback program combined with continued modest dividend increases demonstrate our commitment to drive shareholder returns while maintaining a prudent capital structure.
+So in conclusion let me say that the time is right for this new aligned approach given our strong positions and financial flexibility.
+Our improving track record on execution gives me the confidence to now move even faster in our transformation work.
+We will pick up the pace of efforts to simplify and streamline our organization to shift resources behind the most promising growth opportunities and to use every tool at our disposal to drive value creation for all our stakeholders.
+Let me now turn it over to Stephane.
+Thank you Jim.
+It's a pleasure to speak with you today.
+I will first discuss our third quarter results before spending some time discussing the evolution of our capital strategy which Jim just alluded to.
+Consistent with what we've done in the past I will speak to revenue growth before currency throughout today's presentation.
+As always reported revenues are also highlighted on each slide.
+Our third quarter revenues were up 2% due to acquisitions.
+Organic revenues declined 1% primarily due to the continuing lag effect from negative sales in our Financial &amp; Risk segment last year and earlier this year.
+Overall our Professional businesses grew 6% during the quarter 1% organic while F&amp;R declined 1% and was down 3% organically.
+Adjusted EBITDA was up 4% and our EBITDA margin increased 100 basis points reflecting the continuing progress we are making to rightsize the business and bring down our cost structure.
+Underlying operating profit was up 3% and the margin increased 30 basis points this despite higher depreciation and amortization expense from recent product launches and acquisitions.
+Finally foreign exchange had a 50 basis points positive impact on the EBITDA margin and a 40 basis points positive impact on underlying operating profit margin during the quarter.
+Now let me provide you with some additional color on the performance of our individual businesses starting with Legal.
+The U.S.
+legal market remains challenging.
+Year-to-date demand for legal services as measured by Peer Monitor was down 1%.
+During the quarter our Legal business grew 3% but was down 1% organically.
+Excluding U.S.
+print revenues rose 6% and were up 1% organically.
+So the negative earning growth rate in Q3 was primarily attributable to 2 factors.
+First as we predicted during our Q2 earnings call we did experience a more pronounced decline in print revenues.
+U.S.
+print which represents 16% of Legal's total revenue base declined 9% as law firms and government agencies continue to cut discretionary spend.
+We continue to expect that both Q4 and full-year print revenues will be down mid to upper single-digit.
+The second key factor that negatively impacted Legal's performance in the third quarter was a 5% decline in our Latin America business.
+Now this is a fairly unusual performance.
+For perspective our LatAm Legal business grew 20% in the first half and 18% in 2012.
+It is attributable to 2 main reasons.
+First we had seen a modest slowdown in the macroeconomic environment.
+We remain bullish on the long-term prospects of the region but it is obviously not immune to market slowdowns.
+And second we are rolling out a new order-to-cash system across the region while at the same time strengthening our commercial policies and this is causing some short-term pain from a financial results perspective.
+The weaker-than-usual performance of our U.S.
+print and LatAm businesses together explain the Q3 organic revenue decline and it masks some good performance across some of our other business segments.
+For instance both FindLaw and PLC continue to grow strongly.
+Both businesses were up 8% 9% during the quarter.
+Subscription revenues which account for 70% of total Legal revenues were up 8% 2% organic which is in line with previous quarters and reflects expanding sales in our newer lines of business somewhat offset by a continued decline in our core legal research market.
+Transactional revenues which represent 15% of total Legal revenues were down 3% 4% organic primarily due to the lower book sales in Latin America resulting from tighter commercial policies.
+Turning to our profitability metrics.
+Legal's EBITDA decreased 2% and the margin was down 180 basis points.
+The margin decline was due to the dilutive impact of the PLC acquisition and the decline in print.
+Finally operating profit decreased 3% and the corresponding margin declined 160 basis points.
+So the third quarter margin performance really speaks to the effort required just to keep margin flat in the face of negative revenue mix dynamics in the Legal business.
+In most years we are able to offset this negative mix dynamic through cost actions.
+But when we have to cope with a dilutive impact of a large acquisition such as PLC this year there is obviously a limit to what we can do just through cost-cutting actions.
+Here's a more detailed look at the performance of our 3 subsegments within Legal.
+U.S.
+Law Firm Solutions was flat down 1% organic.
+This is our largest subsegment representing about half of Legal's revenue in the quarter.
+Within that subsegment Business of Law increased 6% while research-related revenues declined 2%.
+The second subsegment Corporate Government and Academic which is about a quarter of our Legal business was flat during the third quarter with Corporate up 11% and Government down 5% primarily related to print cancellation at the federal state and local levels.
+And our third subsegment Global Legal also 25% of the total achieved revenue growth of 15% driven by the acquisition of PLC but it was down 1% organically given the decline in Latin America for the reasons I just described.
+Now turning to our Tax &amp; Accounting business.
+That segment delivered another strong quarter.
+Revenues grew 10% of which 6% was organic and this was driven by strong growth across all the segments except Government.
+Subscription revenues which represent almost 80% of Tax &amp; Accounting's total revenue base for the quarter grew 9% organically.
+Transaction revenues were up 5% but down 8% organically.
+This strong revenue growth reflected the continued strength of our offerings and the healthy conditions prevailing in the global tax and accounting market.
+From a profitability standpoint EBITDA grew 14% during the quarter and operating profit increased 21% with the related margins up 120 basis points and 140 basis points respectively.
+As you can clearly see on this next slide the Tax &amp; Accounting business is very well balanced and we are achieving strong growth across-the-board except for Government.
+Knowledge Solutions grew 7% Professional grew 12% and the Corporate Tax business grew 17%.
+And you can see the corresponding organic growth rate on this slide.
+Government which is by far our smallest segment in Tax &amp; Accounting declined 19%.
+Turning to IP &amp; Science.
+Revenues were up 10% with organic growth up 3%.
+Total growth was driven by the MarkMonitor acquisition which as a reminder closed in the third quarter of last year.
+EBITDA increased 11% and the margin was up 40 basis points in spite of the dilutive impact from MarkMonitor.
+And operating profit increased 11% with the margin up 30 basis points driven predominantly by revenue flow-through and disciplined expense management.
+This next slide reflects the healthy balance between subscription and transactional revenues for IP &amp; Science.
+Subscription revenues which represent about 3 quarters of IP &amp; Science's total revenue base were up 13% 5% organic.
+And this was driven by strong growth from the Life Sciences and Scientific &amp; Scholarly Research businesses both of which were up 8% organically.
+And as expected transaction revenues returned to growth in the third quarter up 4% in total and 2% on an organic basis.
+Now turning to Financial &amp; Risk.
+Revenues were down 1% with a 2% from acquisitions.
+So organic revenues was down 3% reflecting the continued impact of our sales performance over the past 12 months and lower transaction revenues which afflicted nearly all financial markets during the third quarter.
+Recurring revenues which are 77% of the total declined 3% organically.
+Transaction revenues 10% of the total increased 5%.
+But they were down 3% on an organic basis as a result of lower fixed income and foreign exchange volumes across the industry.
+Importantly this decline in transaction revenue is entirely market-related.
+We feel that our Q3 performance was actually quite solid from a market share perspective.
+Recoveries about 11% of total revenue declined 4% due to a combination of desktop losses and the fact that some exchanges have moved to billing customers directly.
+As a reminder Recoveries revenues are low margin and are passed through to the exchanges.
+The EBITDA margin of Financial &amp; Risk was up 240 basis points an impressive performance given that organic revenues declined 3%.
+F&amp;R continues to gradually reduce its cost base by managing its headcount and shutting down platforms.
+Now foreign exchange had a 60-basis-point favorable impact so that pre-foreign exchange EBITDA margin improvement was still a very solid 180 basis points.
+Operating profit increased 10% and the margin was up 190 basis points reflecting the same factors I just mentioned offset by higher depreciation and amortization.
+Now while we're pleased with the Q3 margin performance for F&amp;R we don't anticipate the same improvement in the fourth quarter.
+There will be puts and takes over time but the improving trajectory of the EBITDA margin is what is important and the actions announced today will have a beneficial impact on this trajectory over the next couple of years.
+Turning to the revenue performance of the individual business segments.
+Trading declined 5% primarily due to declines in Equities and Fixed Income.
+Investors declined 1% Enterprise Content revenues were up 6% while Investment Management declined by 5%.
+And Marketplaces revenues were flat and down 3% organic.
+Organic growth of 7% by FXall was offset by declines in our other desktop and transaction businesses.
+And finally Government Risk &amp; Compliance revenues grew 21% of which 16% was organic.
+Now as Jim mentioned earlier we continue to make good progress with our Eikon upgrades and you can see that in the number of Eikon desktops we reported today.
+But it's important to also look at that progress from a revenue perspective.
+Now as a reminder at a high level desktop-related revenues make up about 45% of the total revenue base of Financial &amp; Risk.
+Of our total number of desktop accesses about 55% are currently scheduled to be upgraded to Eikon by the end of 2016 as shown in the pie chart on the left of this slide.
+The remaining 45% consist primarily of Wealth Management desktop.
+Now given the much lower price point of our Wealth Management desktops we believe that it is more relevant to look at the breakdown of our desktop business based on revenues versus number of desktops which is what the pie chart on the right of this slide provides.
+By the end of this year we expect to have about 55% of our desktop revenue base on Eikon with another 25% scheduled to be upgraded as we gradually roll out our investors product to Eikon over the next couple of years.
+When we complete the conversion of those desktop accesses about 80% of our desktop revenue base will be on Eikon so a much higher percentage than what would be implied based simply on the pie on the left which looks at the number of desktops or access points.
+Starting in 2014 we will therefore track how our Eikon revenue base is progressing as opposed to discussing the number of desktops converted which is not as relevant anymore once we complete the conversion of all our 3000 Xtra desktops.
+With that let me turn to a review of our consolidated results.
+Our third quarter adjusted EPS was $0.48 unchanged from a year ago.
+Currency contributed $0.01 but underlying operating profit was offset by a higher tax rate during the quarter as the effective tax rate in Q3 was 11% versus 8% last year.
+For the full year we remain comfortable with our guidance for an effective tax rate of 11% to 13% and for interest expense of between $470 million and $490 million.
+One new item to cover this quarter.
+We are planning to make a onetime $500 million pension contribution in the fourth quarter to pre-fund our pension obligations.
+The contribution will be made to both our U.S.
+and U.K.
+defined benefit plans and it is expected to bring our overall funded status to over 90%.
+This marks the first time in 10 years that we are making such a large pension contribution to our U.S.
+pension plans.
+We expect that it will eliminate any additional material contribution requirements to the U.S.
+plan in the near term.
+Overall this onetime contribution allows us to opportunistically fund our pension plans in an economically attractive way given the very favorable interest rate environment.
+Effectively we are replacing a quasi long-term debt obligation with external debt and the pension contribution will provide a cash deduction which will be realized over time.
+Turning to free cash flow.
+It increased 26% during the third quarter and was up 35% excluding disposals.
+For the first 9 months of the year we posted a decline in our reported free cash flow of $54 million.
+So our second and third quarter free cash flow performances both represented good improvement over the prior-year period and are placing us on the right trajectory vis-à-vis our full year target which to remind you is between $1.7 billion and $1.9 billion -- $1.8 million sorry.
+This brings us to our 2013 outlook which we reaffirm today as reflected on this slide.
+As an important reminder this outlook excludes the charge and the pension contribution I just discussed.
+Now I'd like to finish today's presentation by discussing the modifications we are making to our overall capital strategy.
+As has always been the case our capital strategy is very much aimed at supporting our business strategy while driving strong returns for our stakeholders.
+Given the greater focus on organic growth and scale initiatives we are making some modest yet impactful adjustments to our key capital strategy principles.
+Let me start by saying that at a high level these adjustments are consistent with the core principles we have always followed in the past.
+Number one we remain very focused on driving free cash flow growth; and number two we remain fully committed to maintaining a strong capital structure and solid investment grade rating; and number three we will continue to seek the optimal balance of deploying our free cash flow either by reinvesting it in the business to support our growth objectives or returning capital to our shareholders.
+As Jim just explained we feel that we have assembled a very compelling set of assets from which we must now reap the benefits of scale in order to better serve our customers.
+As such we expect our M&amp;A activity to decrease from what it has been in the recent past.
+Instead we will focus our organization on growing organically and on achieving the benefits of scale by simplifying our processes products and platforms across the company.
+In addition we have just gone through a particularly difficult period.
+Our 2 largest segments have endured very difficult market conditions.
+And the early stages of the integration of the Reuters acquisition have been more challenging than we have expected.
+As Jim explained in his remarks while the external environment remains challenging we feel that we have now largely turned the corner in our Financial business.
+So it is worth looking at our free cash flow performance over these past few years as these could arguably be considered a pretty good stress test to assess the resiliency of our free cash flow generation model.
+And as you can see on this slide our free cash flow did not grow much during the past few years but it has remained remarkably stable.
+As such we feel comfortable at this time with a modest increase in our leverage target to up to 2.5x EBITDA going forward.
+We believe that this modest increase will enable us to still maintain a strong capital structure and solid investment grade rating which as I said earlier remains a key capital objective for us.
+Second we're also announcing our intent to increase our share buyback activity.
+Our target is to buy back up to $1 billion of our shares between now and the end of 2014.
+This commitment to a higher share buyback also underlines our resolve to reduce our acquisition activity next year.
+While we will continue to execute tactical acquisitions to strengthen our position in key growth segments the level of acquisition activity both in terms of the number of deals and the amount of capital spend should decrease markedly from the $1.3 billion in average annual spending we completed over the last 3 years.
+The combination of these share buybacks and continuing modest dividend increases for the foreseeable future should also enable us to gradually reduce our dividend payout ratio over time to our long-held target of between 40% and 50% of free cash flow from the current level of 60%.
+We believe that the adjustments to our capital strategy principles we are making today demonstrate our commitment to driving strong shareholder returns without compromising either our ability to drive growth or our commitment to maintaining a strong capital structure.
+So in summary our confidence in the growth opportunities across the company coupled with our strong capital structure permits a shift in our capital strategy including the ability to increase the amount of capital we return to shareholders.
+Going forward we will remain very focused to drive improvements in our free cash flow performance and more specifically on growing free cash flow per share.
+With that let me turn it back over to Frank.
+Terrific.
+Thanks very much Stephane and Jim.
+And that concludes our formal remarks.
+So operator I'd like to open the call now for questions please? [Operator Instructions] And we'll go to the line of Drew McReynolds with RBC Capital Markets.
+LLC Research Division</strong> Obviously a lot going on.
+My question is just with respect to the positive net sales within F&amp;R in Q3.
+I'm just wondering Jim if you can you just provide a little bit more context as to within the portfolio what were the strengths and weaknesses? And then what kind of visibility would you have on the net sales trends post Q4 which obviously is going to be a little bit challenging for you? Yes sure.
+The overall net sales were -- I mean the trajectory was positive across the face of the business and geographically across the face of our footprint.
+We had improving trends everywhere.
+We were positive in the Americas we were positive in Asia we were positive in emerging markets.
+We were down in Europe but up relative to past performance.
+So we saw pretty positive trends across the face.
+And I would say 2 things about visibility in the future.
+The fourth quarter is always the most difficult net sales quarter for us it has been ever since we did the Reuters acquisition and I anticipate the fourth quarter will be difficult now.
+That's the period in which the big banks make all of their kind of year-end adjustments and try to set the baseline for going into the new year.
+So I suspect that will be a challenging environment again as I say particularly with the big European players.
+That said we remain confident in our overall trajectory of the business.
+I don't yet have and couldn't make predictions quarter by quarter by quarter but I can tell you I'm confident in the overall trajectory.
+And next we'll go to the line of Sara Gubins with Merrill Lynch.
+Research Division</strong> This is David Chu for Sara Gubins.
+Can you provide some more details in terms of timing of margin expansion? So should we think '14 being more significant '15 or should it be evenly split over the 2 years? David it's Stephane I'm going to take that question.
+We will -- as we always do we will provide more specific guidance on margins in connection with our Q4 calls early next year.
+At this point I'm just not in a position to do that because as Jim mentioned in his remarks some of the restructuring charge we are taking will slip into 2014.
+We expect the majority to hit 2013 but there will certainly be some impact in 2014.
+And we will not know that the exact proportion until early next year.
+So what I will expect with regard to the guidance Jim gave you and the guidance related to like F&amp;R's margin approaching 30% in -- by 2015 this is obviously a bold target we are giving out there given the context of continuing low revenue growth environment.
+I would expect that the majority of that margin improvement will take place in '15 but that you will see some clear improvement in 2014.
+Research Division</strong> Okay that's helpful.
+And I'm not sure if you guys addressed this in your prepared remarks but when do you expect to make a significant push into equity investment management? You mean in terms of conversion of the products to Eikon? Research Division</strong> Yes.
+It's starting now and I would say it will take place over the next couple of years.
+We'll use a more gradual approach than we have done for the conversion of 3000 Xtra.
+But it's starting in earnest in the fourth quarter.
+And next we'll go to the line of Vince Valentini with TD Securities.
+First question on the margin.
+The incremental $350 million in charges does that change your longer-term margin assumption for F&amp;R? Is it now over 30% in 2016 or are these charges just to basically get to the 30% level? Vince let us get to 30% first right? This is a -- if you look at it our margin in F&amp;R is like sub-25% at this point in time and that's where it was last year.
+So we're talking about a 500 basis points improvement over 2 years.
+Let's first get there and then we'll set some more objectives as soon as we get there.
+Okay fair enough.
+And then second question on the Bridge conversion Jim you said that the retention rates were strong.
+Can you quantify that at all? Is it in the same 97% 98% range as the former 2 conversions you did? Yes.
+No that it wasn't that high.
+It was more around 75%.
+But that's what we had expected going into it because it's just a different kind of conversion.
+And we wanted to make certain that we held on to the most profitable and sticky customers as we went through it.
+And it was just a more complicated process.
+Okay.
+So that conversion rate I guess is factored into your kind of guidance for net sales in Q4 I assume? Absolutely.
+And last one the government shutdown that thankfully is over now is -- did that have any material impact on your revenues in October? Well it certainly didn't help.
+But to the extent to which it had an impact we'll have to -- we'll see what may have shifted around or not shifted around.
+I don't think there's a material impact that we could point to right now.
+But I would say like most businesses it sure didn't help.
+And next we'll go to the line of Andrew Steinerman with JPMorgan.
+Research Division</strong> Could you go over how the Eikon upgrades has affected the net sales numbers both in terms of positives and then also in terms of negatives.
+As you just mentioned the Bridge retention was only 75%.
+It's a good question Andrew.
+I would say on the -- you mentioned I think the main negative which is as you convert customers from one platform to the other there is always a chance to lose some revenues along the way as Jim said.
+I think that it hasn't been certainly something extreme and it has certainly been very much within the expectations.
+Now the main positive from the conversion to Eikon is that we've seen a gradual improvement in our retention rates.
+Across F&amp;R it was in the mid-80s about a year ago.
+We are trending more towards the high-80s at this point in time.
+And that's really primarily attributable to the bigger proportion of Eikon desktops we have.
+Research Division</strong> So Stephane I think what you just said is as you upgrade someone from Bridge to Eikon it doesn't positively affect the net sales number right because it's just basically a customer upgrade it's not a revenue upgrade? Correct.
+So you lose one you gain one.
+Research Division</strong> Right.
+Okay.
+Perfect.
+And could you also talk a little bit more -- you did start the conversation about Eikon 4.0 when does that roll out? Would you expect there to be a revenue effect from that? We will do Eikon 4.0 like we did Eikon 3.0 which is to start with a softer rollout throughout the fourth quarter.
+The official bells and whistles will be targeted for the beginning of next year but we'll start the soft rollout in Q4.
+And then shoot for the major push when we unleash all of the new products and features into the sales force at the beginning of the year.
+We expect that it will create a lot of excitement in the marketplace and we expect we'll have a pretty fired up sales crew next year with an even better product than they have today.
+So we don't have specific targets to share with you at this point but we're excited about the added features and functionality that we'll be putting into the market.
+Research Division</strong> And is it more asset classes? It's more of everything I think would be the answer.
+And next we'll go to the line of Andre Benjamin with Goldman Sachs.
+Research Division</strong> My first question would you be able to comment a little bit on the pricing environment for your F&amp;R division? I think a month ago I saw you indicated that you were getting pricing increases as you were upgrading and converting contracts.
+What have been the trends in the last month as you've been shutting down Bridge? And we talked a little bit about retention being around 75% have you actually seen any new desktop customers in the last month? Or any market share color would be helpful.
+Sure.
+I mean nothing's changed in the price dynamic.
+We are indeed able to maintain price and it's been one of the encouraging things that we've seen actually throughout the last couple of years.
+Despite the challenges in the market they haven't translated into price concessions and those contracts have been pretty sticky.
+And again we continue on the -- when we go head-to-head in competitive bake-offs we are winning at least our fair share and sometimes more than our fair share.
+So I think we're continuing to perform quite well in terms of our market share and our competitive position.
+In all honesty our competitive position has never been stronger and my strong sense out there knowing of the things we're pitching right now is that our competitive position continues to improve.
+Research Division</strong> And with respect to your chat program that -- there was a pretty big announcement I think it was a few weeks ago maybe a month now.
+Any update on the level of adoption what you expect that to be over the coming quarters? And then I know the ability to interact with Bloomberg chat is something that has been a focus.
+Have you seen any change in customer behavior either in terms of Eikon usage or subscriptions or anything like that as a result of the announcement? I think it's too early for us to give you metrics by which to measure the chat activity.
+I will say that we have seen increases in activity on Eikon on messaging.
+But we've seen them kind of steadily certainly throughout this year as we've added functionality there.
+And as people have been spending more time in the Eikon product we've seen some growing user communities around the world.
+As to the market open-messaging initiative again it's very early days for that.
+But I would say there is great excitement in the market.
+There's been a lot of talk and a lot of interaction with customers and it's been a very positive catalyst for us to engage in dialogue with our customers.
+And next we'll go to the line of Paul Steep with Scotia Capital.
+Research Division</strong> Jim maybe just clarify a little bit some of the comments you made around the portfolio optimization and where you stand in that process.
+Maybe apart from just beyond Financial &amp; Risk where a lot of the focus has been how are you feeling about the broader portfolio across the rest of the groups? Look -- sure I like it.
+We like the businesses that we're in now.
+And as I've said in my prepared remarks the year of portfolio churn is largely over for us.
+It's not -- we don't plan any big lurching moves in our portfolio.
+We like the businesses we're in.
+They're all performing well.
+They're in solid markets.
+And frankly although they address different end users the commonality around what they do in terms of applying technology to complex information problems for professionals in the information age there's a heck of a lot of commonality in those businesses and they're very -- we think they're solid marketplaces for us to play in.
+And we're very comfortable with the portfolio of businesses we have today.
+And I am increasingly not thinking of them as a portfolio of businesses but rather an enterprise that we can bind together and leverage and deliver to our customers even greater and more powerful solutions.
+And next we'll go to the line of Peter Appert with Piper Jaffray.
+Research Division</strong> So Jim just a follow-up to an earlier question.
+In terms of the positive net new sales is there any possibility to quantify how much of that is being driven by just improved market environment in terms of spending budgets by customers versus the market share side of things? Boy that would be quite difficult to do.
+We don't look at it that way.
+I'm not seeing a lot of activity other than certain regional players in emerging markets.
+There's not a lot of increased spending by customers.
+It's mostly market share.
+Research Division</strong> Got it okay.
+And then separately in terms of the evolving capital allocation strategy could you give us any longer-term quantification in terms of how should we think about just pace of buyback activity beyond the $1 billion pace of acquisition activity maybe in terms of percentage allocation of the free cash flow or actual dollar amounts if you could? Sure Peter let me take that one.
+We've announced the $1 billion buyback that we're going to complete by 2014 as I said.
+You followed us for a number of years.
+You know that we tend to take a very conservative stance with regard to our capital structure and we really believe it's important to keep it at a very strong level.
+And all the announcements we're doing today are very much in line with that even though we are slightly increasing our leverage targets for the reasons I mentioned.
+One thing I will say though is that what we do -- and if you look at the metrics we focused on I think you've heard us talk a lot about metrics like free cash flow growth in free cash flow per share.
+One thing I will say that we will use all the levers at our disposal to drive that metric.
+And so that means obviously primarily focus on growing the top line.
+That's the best way to drive free cash flow growth per share in the long term.
+It means looking at scale opportunities we have across the business.
+And it will also mean going forward reducing the denominator of that equation which is free cash flow per share meaning reducing our share count.
+So I don't want to be more explicit about what we do for the long term other than saying that this is obviously a lever that we are considering as being more important than we have in the past at this point in time given the change in business strategy.
+Research Division</strong> Is there a specific thought around dollar amounts in terms of acquisitions annually? Yes.
+What I would say is -- as I mentioned on the call if you look at our activity over the last 3 years we've done about $1.3 billion per year and that consisted in a large number of deals probably like 30 or 40 deals a year.
+It's pretty hard to push the agenda the simplification agenda when you keep adding that many tactical deals every year.
+So I will expect decrease as I said both in terms of amount and size.
+And we don't have a specific number but I would say probably targeting half of what we've done in the past is probably not a bad guess.
+And next we'll go to the line of Tim Casey with BMO.
+Can you talk a little bit about the Legal business? You highlighted some of the areas of softness in the quarter but are you expecting a return to EBITDA growth in that segment as some of these short-term things kind of normalize? Yes.
+Tim it's Stephane.
+This year one item that had a big impact on the EBITDA margin of Legal was obviously the acquisition of PLC which we did earlier this year.
+And as I mentioned in my remarks what we've been pretty successful at doing over the last few years was to kind of offset the negative revenue mix dynamics with gradual cost-cutting throughout the business.
+And obviously that was disrupted by the dilutive impact of PLC.
+Now that acquisition happened early in the first quarter which means that if you look at next year we will not have to cope with that dilutive impact starting in the second quarter of next year.
+One thing I'd like to remind you also is that and you know it well right like the margins EBITDA margins in the Legal segment are quite attractive.
+They're about twice as high as our nearest competitor.
+So just keeping these margins steady in the face of a negative revenue mix environment is already in our mind a pretty good objective to shoot for.
+And next we'll go to the line of Toni Kaplan with Morgan Stanley.
+Research Division</strong> You talked about getting to mid single-digit growth.
+Assuming no change in the macro environment how long would you expect it to get there? I'll refer you to the slide that Jim showed in the presentation right where we're saying for the next couple of years we would expect the revenue growth to be still low single-digit and then gradually improve to like mid single-digit.
+So it's probably not going to happen for the next couple of years.
+And after that it's going to depend both on how quickly we're changing that revenue mix and also on the external environment.
+So it's really hard to predict how long it's going to go but we certainly see that as our long-term target without any question.
+Research Division</strong> Okay.
+And you've spoken in the past about a tiered strategy for Eikon.
+Are you expecting that customers who are only using like maybe a web-based Thomson ONE product are going to be moving to like a light version of Eikon? Or do you think that there could be some cancellations if the light version isn't as light as maybe some of the products that are out there now? Yes I think we will have tiered versions.
+And frankly no we're not anticipating that lots of people will not take them because they won't be light enough.
+I think we have a pretty good plan strategy and a pretty good and thoughtful tiering system to deliver so we're actually excited about it.
+We think we'll be able to deliver a better solution into the market.
+We're pretty optimistic about it.
+And next we'll go to the line of Doug Arthur with Evercore.
+Research Division</strong> Jim just to clarify on the net sales trend.
+Are you -- you're citing the issue with the banks and year-end budget setting.
+Are you suggesting that net sales will have sort of short-term downdraft in Q4 and then sort of reset going into 2014? Certainly it could happen yes.
+Yes that -- Q4 is always a down and it -- let me -- let's define downdraft right? We are now -- Q3 we went into positive territory.
+We've had now a series of quarters where we've had improving performance.
+We may well continue to have improving performance but we may not be in positive territory in Q4 right? That's the issue.
+So I suspect the momentum in the business is solid but I know Q4 has been a negative net sales quarter ever since the Reuters acquisition.
+So it would be highly unlikely for it to be a positive net sales quarter.
+Okay? Research Division</strong> Okay.
+And Stephane just one follow-up.
+You threw out a percentage on print as a percent of total Legal revenues in Q3.
+Can you just repeat that? I think it was 16% Doug.
+Research Division</strong> 16%.
+And so is that -- is it fair to say in terms of organic growth for the Legal segment in Q4 that the mix is going to work more in your favor there? Well we expect another -- I mean as I mentioned right for Q4 we're looking again at mid to high single-digit declines for U.S.
+print.
+So that's still going to be weighting on the overall growth rate of the business.
+We're hopeful that we generate a better performance in our Latin American business because I've -- as Jim said this is something that hopefully is not a long-term factor.
+And we'll go to the line of Aravinda Galappatthige with Canaccord Genuity.
+Research Division</strong> Just really on the F&amp;R division the organic revenue growth number sort of remained at negative 3% which is what we saw in the first half of 2013 as well.
+Given the sequential improvement in net sales that you've been seeing I mean I think you've indicated that the second half of '12 was better than the second half of '11.
+Is there a reason that we're not seeing that the corresponding improvement in the organic revenue number? Is it -- I was wondering if it's pricing or other transactional factors.
+Yes it's a very good question.
+It's really -- in Q3 it's really attributable to the lower transaction revenue which is driven by market volumes really that's why we didn't see an improvement in the overall organic growth rate.
+Okay.
+So that will be our final question and we will conclude our call.
+And we'd like to thank you all for joining us.
+Thank you.
+And ladies and gentlemen this conference will be available for replay starting today at 10:30 a.m.
+through November 5 at 12 midnight.
+You may access the AT&amp;T Teleconference replay system at any time by dialing 1 (800) 475-6701 and entering the access code 304744.
+For international participants the number is 1 (320) 365-3844.
+And that does conclude your conference call for today.
+Thank you for using AT&amp;T Executive TeleConference Service.
+You may now disconnect.

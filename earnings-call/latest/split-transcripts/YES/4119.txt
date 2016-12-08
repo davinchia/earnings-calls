@@ -1,0 +1,254 @@
+Good day everyone and welcome to the Vonage Holdings Corp.
+First Quarter 2013 Earnings Conference Call.
+As a reminder today's call is being recorded.
+At this time for opening remarks and introductions I would like to turn the conference over to Ms.
+Leslie Arena Vice President of Investor Relations.
+Please go ahead Ms.
+Arena.
+Thank you.
+Good morning and welcome to our first quarter 2013 earnings conference call.
+Speaking on our call this morning will be Marc Lefar Chief Executive Officer and Dave Pearson CFO.
+Marc will discuss the company’s strategy and progress and Dave will review our financial results.
+Slides that accompany Dave’s discussion are available on the IR website.
+At the conclusion of our prepared remarks we will be happy to take your questions.
+As referenced on slide two I would like to remind everyone that statements made during this call may be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These and all forward-looking statements are based on management's expectations and depend on assumptions that maybe incorrect or imprecise.
+Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially.
+More information about these risks and uncertainties is highlighted on the second page of the slides and contained in our SEC filings.
+We caution listeners not to rely unduly on these statements and disclaim any intent or obligation to update them.
+During this call we will be referring to non-GAAP measures.
+A reconciliation to GAAP is available on the IR website.
+And now I will turn the call over to Marc.
+Thank you Leslie and good morning everyone.
+I’d like to begin by welcoming Dave Pearson our new chief financial officer.
+Dave joined Vonage from Deutsche Bank where he was head of their global media and telecom group.
+Prior to Deutsche Bank Dave worked at Goldman Sachs for nine years.
+Dave brings deep knowledge and leadership experience in the telecom and wireless industry that will be invaluable as we continue to execute on our strategic growth priorities.
+We are thrilled to have him onboard.
+David welcome to the team Our financial results for the first quarter of 2013 were solid.
+We generated $34 million in adjusted EBITDA $2 million higher than the prior year and flat sequentially.
+During the quarter we continued to execute on our balanced approach to capital allocation by repurchasing shares and we are on target to complete our $100 million buyback by the end of 2014.
+Operational results for the quarter were mixed.
+We continued to implement structural improvements that drove operating efficiencies.
+We significantly reduced the number of calls in the customer care an indication of a better overall experience.
+And our churn rate of 2.5% is down 30 basis points from the prior year.
+Churn has been stable at this level for four consecutive quarters.
+Although gross line additions of 148 000 were softer for the period than we expected we did see encouraging results from our growing assisted sales and community sales channels as well as from our new BasicTalk flanker brand.
+Net line losses improved by 7000 from prior year to 12 000 due to the 30 basis point reduction in churn.
+Our focus on structural cost improvement led to reduced expenses in a few major areas.
+For the fourth consecutive quarter we lowered customer care costs through ongoing process and design improvements.
+We reduced cost per line by 17% over the prior year while improving many key service metrics.
+First call resolution which measures the percentage of time that we successfully resolve customers’ issues the first time they call increased to 78%.
+An average call handle time was lowered by 7% versus a year ago to an all-time low.
+Further the total number of calls in the customer care declined by 8% from the prior year.
+Customer care costs per line are now at the lowest level in the company’s history.
+We also reduced the total cost of telephony services excluding universal service fund fees by 10% from the prior year more than offsetting the increase in international long distance minutes from our growing desks of international long distance callers.
+We see additional opportunities to reduce cost of telephony services in the future.
+We’re especially encouraged by the SEC's recent notice of proposed rulemaking to allow voice providers like Vonage to have direct access to their own telephone numbers.
+And we appreciate the SEC's grant to Vonage of the numbering trial to be conducted concurrently with the rulemaking.
+If the proposed rules are adopted they will facilitate the shift to direct IP to IP interconnection and enable potential long-term structural cost-savings in the double-digit millions of dollars in the subsequent two to three years.
+Let me move now to a more detailed discussion of our progress in our core North American markets our international expansion and mobile services.
+Over the past several years we’ve had strong success attracting international long distance callers to Vonage World and we remain focused on strengthening our international calling base.
+In the first quarter we added new subscribers to our Sin Limites unlimited calling plan to Mexico and we recently introduced a new calling plan Vonage World Plus to meet the demand of customers who have increased international calling.
+This premium plan offers all the benefits of Vonage World plus additional minutes to mobile phones in many of the countries where unlimited calling to landline is already offered as well as calling to countries that were not previously included in Vonage World.
+Total customer additions to our international calling plans however were flat for the quarter as we worked to offset the negative impact of a temporary inventory replenishment issue in a large retailer and the removal of certain calling destinations including Pakistan and Vietnam from Vonage world late last year.
+In addition total GLAs were impacted by the planned slowdown of BasicTalk testing in anticipation of our upcoming national launch.
+Leading some of these pressures were strong results from our retail channels including our assisted sales teams.
+Retail sales grew to 25% of gross line additions as we increased the number of stores with assisted selling to 525.
+We continue to expand this channel and are on plan to meet our 600 store target by June.
+In addition we now have 375 sales agents and community teams selling Vonage services directly to consumers in nearly every major ethnic market in the U.S.
+and in several Canadian markets.
+This is our 11<sup>th</sup> consecutive quarter of gross line growth in these two channels.
+As we look toward the remainder of the year and 2014 we expect to reduce our marketing investments in broad reach television which will allow us to invest in digital media.
+A more efficient and effective way to target ethnic segments.
+Specifically we will use contemporary techniques such as audience buying and digital retargeting.
+We will also expand our investment in search.
+At the same time we will shift money away from less efficient direct mail efforts to fund the continued expansion of our alternative distribution including community and assisted selling programs.
+Beyond improvements in our mix of marketing vehicles we will continue to create new plans to reach additional international calling segments including mid to light use callers and we will continue to drive penetration of the recently launched World Plus plan developed at the request of our community sales teams who are experiencing good solid results.
+Let me now take a few minutes to talk about our exciting new flank brand BasicTalk.
+We will launch BasicTalk nationally over the next few weeks and anticipate that it will be a meaningful contributor to gross line additions and revenue growth.
+BasicTalk is a low-priced home phone service with unlimited calling throughout the U.S.
+for a flat rate of 9.99 a month and includes the basic features of voicemail caller ID and call waiting with no upfront costs no hidden fees and no contract.
+With an emphasis on digital sales and service our reengineered device and the cost structure improvements that we have made during the past few years BasicTalk will be a profitable addition to our product portfolio.
+With more than 40 million households that have existing home service and broadband but only call domestically this ultra-price-sensitive market provides a significant incremental opportunity for us.
+In multiple test markets we learned from non-Vonage customers that despite increasing cell phone usage there still remains a strong desire for a simple low-cost domestic home service.
+Customers cited many reasons for purchasing BasicTalk including the convenience of having shared home phone extensions and the inconvenience of misplaced cell phones dead batteries and poor in-home cell phone coverage.
+Customers also told us that they liked the added security of always having a phone within reach and for 9.99 a month the decision to buy was simple.
+Most buyers view BasicTalk as a complement to their cell phone.
+In fact a surprising 22% of the customers who signed up for BasicTalk in our initial test markets had previously cut the cord.
+Our in-market testing supports our belief that we can meet the need for a very simple ultra-low-cost phone service under a new brand with minimal cannibalization of the Vonage customer base.
+We will launch BasicTalk with a significant multimedia marketing campaign driving customers to low-cost distribution channels and supporting them with online customer service after purchase.
+One important element in BasicTalk’s national expansion is our exclusive relationship with Wal-Mart.
+BasicTalk will be sold in Wal-Mart stores nationwide and will be supported with in-store merchandising including uncap (ph) displays in approximately 1000 stores.
+We are delighted that Wal-Mart shares our enthusiasm for this product in this category and appreciate their confidence in the BasicTalk service.
+We are very excited about the potential for BasicTalk and I look forward to updating you on our progress next quarter.
+International expansion is a core element of our revenue growth strategy as well.
+We continue to acquire new customers as part of our partnership with Globe in the Philippines.
+And in February of this year we announced our second international partnership a joint venture with Brazilian-based Datora Telecom.
+As we discussed previously Brazil is a particularly attractive opportunity for Vonage for multiple reasons.
+The market is very large and growing rapidly.
+With 20 million of its 67 million households already connected with broadband Brazil also is home to more than 1 million expats that has a vibrant small business community.
+The government supports a pro-consumer regulatory environment and is committed to expanding broadband access in advance of the 2014 World Cup and 2016 Olympics.
+As a result the broadband penetration is expected to double over the next two years.
+These factors combined to provide highly favorable conditions for Vonage to drive penetration in the market dominated by relatively high price service providers.
+Three months after announcing this venture we are making steady progress building the foundation to deliver communication services in Brazil.
+We’ve completed the technical design for a cloud-based network architecture and have developed plans for the implementation of our billing and customer care platforms.
+In addition we are in the process of hiring a team to manage and operate the business.
+We are on target for commercialization by year-end or early 2014 and we remain optimistic about the opportunity to drive meaningful revenue through this partnership in 2014.
+While most of our focus on international expansion this year is on building our business in Brazil.
+Discussions with prospective partners in other countries targeted for expansion continue to advance.
+And we will provide information on these opportunities as they get closer to fruition.
+Mobile is another core element of our growth strategy and is essential component of core service offering international expansion opportunities and stand-alone products.
+The Vonage mobile platform has enabled expansion into new markets outside of the U.S.
+strengthened our relationship with existing customers through our patented extension service and attracted new mobile only customers to Vonage.
+We continue to make great strides improving the quality capabilities and appeal of the Vonage mobile app.
+With our launch two weeks ago of video calling we brought together the most popular features of mobile communications into one simple high quality multifunctional app.
+Vonage mobile now has the level of completeness and quality that is unsurpassed by any other communications app in the market.
+Vonage mobile users can communicate with each other in whatever manner they might voice video or messaging and unlike other apps the Vonage app makes the use of existing mobile identity and contact list and with Vonage users can also make calls to phones without the app at international calling rates that are 70% to 80% less than major mobile carriers and on average 30% less than Skype.
+We are seeing positive response to our quality improvements and feature additions.
+The app has received 4.5 stars in the iTunes app store 4.2 stars in Google Play and the average length of video calls is high suggesting very good call quality.
+The number of downloads active users and revenues continues to grow.
+In the coming months we expect to incorporate our international roaming feature Reach Me Roaming into Vonage mobile with a commercial launch in select countries in Western Europe and North America.
+Our mobile extension service continues to be widely popular.
+More than 700 000 of our customers are realizing increased value and convenience from this feature which extends the benefits of our service including low-cost international calling beyond the walls of the home to any other phone including mobiles.
+As a result 26% of our international calls now originate from a mobile phone.
+This extensive extensions also reinforces the importance of continued integration of our traditional business with our highly flexible and scalable mobile platform.
+Our Vonage global phone card a digital calling card for mobile phones leverages the same mobile platform and provides an additional path to penetrate the international calling market.
+Before the end of the second quarter we will enhance the global phone card to enable customers to purchase on the web and then use the Vonage mobile app to make pay-per-use calls.
+This provides enhanced flexibility and increased savings to customers.
+Later this year we will expand the global phone card service to include physical cards sold at retail locations.
+Innovation will play a key role in the ongoing success of our growth strategies.
+Building on our momentum from 2012 and leveraging our investments in research and development we have continued to grow our intellectual property portfolio.
+Thus far in 2013 we've filed 34 patent applications and we've already been granted six patents more than we were granted in all of 2012.
+Before I provide guidance I’d like to update you on the new $100 million stock repurchase plan announced in February.
+We have made strong progress.
+In the first quarter we repurchased 6 million shares for $16 million with 11 million of those repurchases made under our new authorization.
+Since beginning our buyback last August we’ve repurchased 18 million shares for $44 million through the first quarter and the stock has responded well.
+We continue to believe that share repurchases are a good use of cash to drive shareholder value and we are on target to execute the $100 million program by the end of 2014 as planned.
+Revenue growth remains our top priority.
+In 2013 we will invest in the key priorities I have just reviewed.
+We expect our ongoing investments in international expansion mobile to be in the range of $5 million to $10 million per quarter.
+For mobile this includes investment in development and G&amp;A as we strengthen the capabilities of our mobile platform and prepare for our roaming launch.
+It also includes investments in digital marketing behind the enhanced global calling card platform.
+For international expansion this includes investments in the buildout of our team and system as we establish our business in Brazil.
+Beyond this we expect to invest an incremental $5 million to $7 million in the second quarter to support the national rollout of BasicTalk including national television digital media public relations and in-store merchandising to build awareness and drive traffic for this new brand.
+A significant portion of this investment will be success based allowing for acceleration or moderation of spending based upon our progress.
+With this launch investment we anticipate BasicTalk will contribute meaningfully to the company's overall growth and we expect positive net line additions in the third and fourth quarters.
+Of course we will exercise the same financial discipline that enabled our turnaround over these past several years and we will closely monitor our progress and adjust our investments accordingly.
+We continue to expect our growth priorities to contribute $100 million in annualized revenue at the end of 2014.
+We look forward to providing you with an update on our progress.
+With that I will pass the call to Dave.
+Dave once again welcome to the team.
+Thanks Marc and good morning everyone.
+Let me begin by saying how thrilled I am to be joining Vonage.
+I really admire the company's business since the announced turnaround over the last several years.
+I am excited about Vonage’s future and the opportunity to help shape its strategic direction and contribute to its ongoing success.
+I look forward to meeting with many of you on the call in the near future.
+With that I am pleased to review our financial results and provide you with an update on our outlook.
+Beginning on slide 3 we reported $34 million in adjusted EBITDA which includes an investment of $6 million in growth priorities.
+We invested in development resources for our mobile platform again to build out of our international business in Brazil invested in technical support and platform development for our nationwide launch of BasicTalk.
+Adjusted EBITDA increased from the $32 million we reported a year ago due to lower cost of telephony services costs and reduced customer care costs as Marc mentioned.
+Adjusted EBITDA was flat sequentially.
+Moving to slide four net income excluding adjustments increased to $21 million $0.10 per share up from $19 million or $0.08 per share in the year ago quarter and declined from $23 million sequentially.
+GAAP net income was $13 million down from $14 million in the year ago quarter due to higher income tax expense as the year ago period included a non-cash deferred tax adjustment of $4 million for certain stock compensation previously considered non-deductible.
+GAAP earnings-per-share of $0.06 was flat year-over-year and sequentially.
+Moving to slide five revenue of $200 million declined from $216 million a year ago due in part to the non-operational impact of lower universal service funds or USF fees which contributed $2.5 million of the decline.
+Operationally the decline was driven by lower subscriber lines and the expansion of lower priced plan offerings to meet customer needs.
+Revenue declined sequentially from $214 million due to the same factors.
+ARPU declined to $29.61 from $30.42 in the prior year primarily due to lower USF fees and the expansion of lower-priced calling plans.
+Similarly ARPU was down from $30.15 sequentially.
+While we expect the growth in the number of customers taking BasicTalk to impact ARPU we expect this new initiative to generate incremental revenue.
+Moving to slide six we continue to make structural cost reductions and implement efficiencies throughout our business.
+Following the substantial progress we made in prior years to reduce costs we further lowered this key component of our cost structure to $55 million from 62 million a year ago.
+This was due to a decrease in domestic termination and international termination costs and lower interconnection and collocation costs.
+Lower USF fees which are pass-through also contributed to the decline.
+Total costs declined from $57 million sequentially due largely to lower USF fees.
+Cost per line declined to $7.82 down from $8.68 a year ago and $8.02 sequentially.
+Direct margins rose 20 basis points from the prior year to 69% and were flat sequentially.
+We expect to deliver additional savings in costs in the future periods through the cost management and savings from direct access to telephone numbers.
+Moving to slide seven selling general and administrative SG&amp;A expense was $63 million up $1 million versus the year ago and sequentially due in part to assisted in-store selling in the retail channel and our expansion of community sales teams.
+We’ve made substantial progress reducing customer care costs while maintaining or improving our customer service levels.
+These improvements only reduced costs but also helped to lower churn.
+Moving to slide eight marketing expense was $52 million down from $53 million a year ago and sequentially.
+Subscriber line acquisition costs or SLAC increased to $349 from $323 a year ago and $347 sequentially on lower gross line additions.
+Turning to slide nine due largely to the issues Marc discussed including an inventory replenishment issue in certain retail locations GLAs declined from 148 000 down from 165 000 in the prior year's quarter and 152 000 sequentially.
+As expected we held the improvements we've made in churn throughout 2012 as we reported sequentially flat churn of 2.5%.
+This was down from 2.8% in the first quarter of 2012 as we benefitted from improvements to customer satisfaction and retention processes.
+Looking to the balance of the year we expect churn to be stable at these levels.
+Lower gross line additions combined with stable sequential churn resulted in loss of 12 000 net line additions in the quarter.
+I will now move to a discussion of CapEx cash flow and the balance sheet on slid e10.
+As discussed on prior calls our low CapEx requirement of less than 5% of revenue contributed meaningfully to our free cash flow generation capability.
+For the quarter CapEx was $4 million which was primarily for the purchase of hardware and systems for the buildout and improvement of our network.
+Free cash flow in the first quarter was $5 million up from $2 million in the year ago quarter due primarily to lower CapEx.
+Free cash flow declined from $49 million sequentially expecting seasonality in working capital due to timing of vendor payments and certain recurring payments in the first quarter including annual maintenance renewals and compensation related payments.
+Reflecting the strength of our core business cash flow generation cash and cash and cash equivalents as of March 31 were $110 million including $4 million in restricted cash.
+We ended the quarter with strong balance sheet reflected in total leverage to adjusted EBITDA of 0.6 times and with net cash of $27 million.
+The strength of our balance sheet and cash flow are fundamental to executing on our balanced approach to capital allocation.
+Our repurchase program is an important component of that approach.
+In February the Board of Directors authorized the program to repurchase up to $100 million of our common stock by the end of 2014 replacing the previously announced $50 million repurchase plan.
+During the first quarter we repurchased a total of 6 million shares of our common stock for $16 million 11 million of which was under the new $100 million plan.
+The stock has appreciated substantially since announcing the initial buyback last August and we continue to believe our stock represents an attractive value at these prices.
+With an ample cash to fund the operational needs of our business Vonage is well-positioned to execute its balanced approach to capital allocation.
+In summary we reported solid financial results for the quarter.
+Our core business generates strong cash flow and we are investing in growth priorities in our North American markets international expansion and mobile.
+And we are returning value to shareholders through our repurchase program.
+Regarding guidance as Marc referenced we expect total spending on international mobile growth priorities in the second quarter to be in the range of $5 million to $10 million and we expect to spend an incremental $5 million to $7 million in support of our nationwide launch of BasicTalk.
+We may choose to increase or reduce the level of investment depending on progress and success of our initiatives.
+We to continue to expect 2013 capital and software expenditures to be in the range of $30 million to $35 million.
+Thank you for your interest in Vonage.
+I will now turn the call back over to Leslie to initiate the Q&amp;A session.
+Thank you Dave.
+Operator please open the line for questions.
+(Operator Instructions) And we do have a question from the line of Michael Rollins from Citi Investment Research.
+A couple of questions for you.
+First if you look at the gross line additions on slide nine can you talk about the impact that BasicTalk has on the 148 000 in 1Q’13 and maybe talk about what some of the changes you are seeing in distribution productivity for the core business? And then secondly if you could talk a little bit about a little more from the trial in terms of what you're seeing with respect to the risk of existing home replacement customers or Vonage customers moving to BasicTalk is that something when they see those price points or they see that brand they look at there is an opportunity to try to save money or the features of what you provide in the full-fledged Vonage product showing to be a significant point of retention for those customers? Hey Mike it’s Marc.
+I will take that.
+So looking at BasicTalk quarter over quarter so as you move from the fourth quarter to the first quarter volume of BasicTalk as you know last year we were doing a couple of different trials.
+We had launched nationally via direct mail in the spring going to people who had previously rejected the Vonage proposition in other marketing materials for people that cancelled us.
+And we built the run rate and then we saw there was some real success in that business people who were not taking our product but were anxious in BasicTalk.
+We then expanded in a couple of test markets during the course of the third and fourth quarter.
+As we look at all of those GLAs relative to Q1 we did come off of the gap in the first quarter largely because we were preparing for our national launch.
+We haven’t given specific breakout but BasicTalk was off a couple hundred sorry couple of thousand GLAs quarter over quarter that represented a small percentage of the drop.
+The other reconciling item that we didn’t actually talk about in the script that contributed to some of that drop because our international numbers were roughly flat was second line extension.
+So as you know we sell second line extensions into the base the first one is free the second one we collect $5 a month for -- we have over the last year been cross-selling into the base and obviously once you saturate your existing base that number tends to slow off.
+So that was a piece out in GLAs as well.
+That pretty much rounds out the reconciliation quarter over quarter.
+Let me move to your question about the trial for cannibalization because it’s savvy and an important one.
+We did start two test markets and then we actually expanded in the March period into a number of additional test markets to really understand the impact of both branded and unbranded meaning supported with the Vonage brand powered by attribution versus purely launching a startup fresh new BasicTalk brand but no mention of Vonage.
+And we did see differences in those marketplace results.
+We were hardened to find that in those markets where we did not put the Vonage attribution simply launched as a fresh standalone brand cannibalization was very very small low single digit percentages.
+In fact what we saw was the Vonage baseline of sales for premium rate plan remained basically flat and a couple of our test markets actually increased in the presence of the BasicTalk test market.
+So we believe that the idea of a pure flanker brand unrelated to Vonage while slightly more expensive to launch because Vonage certainly provides credibility in that regard is our best approach to competing in the ultra-low price segment.
+I'd point out that there are a few other major competitors that you're well aware of that compete at that ultralow price point.
+And while those folks have not taken a large bite out of our business all they do occasionally churn – you see our churn rates are extremely stable the likes of magicJack and netTalk and some of the other smaller players have been enjoying kind of free feeding at ultralow end and this is an area where we have a superior cost structure.
+We have the ability to execute we believe in a better way and there is no reason why we shouldn't be able to compete for that large segment without significant threat to Vonage.
+So we will watch it very carefully and it’s something that we do take very seriously and that’s the primary reason why we've launched the BasicTalk brand separately and frankly why we have partnered with Wal-Mart who is going to give us significant merchandising highly visual impact with displays along the launch of the product.
+We also expected that presence in Wal-Mart.com and this partnership is one that is exclusive for a period of time and it could be extended depending upon the success of the product over the next several months.
+Our next question comes from the line of Matt Sherwood from CCP.
+Just have a quick question on BasicTalk is there any way you can give us some sort of broad brush metrics on the potential GLAs that could contributed to if it’s successful? As you would well expect we have – we have done that work internally because we got enough test markets and we’ve run three periods most periods with actually very different levels of advertising and different marketing stimuli in multiple markets.
+And we benchmarked that against the overall size of core Vonage business.
+And while it’s premature for me on a national scale to give you an overall sizing I guess I am dodging the question until we talk again next and see what the national launch really brings us.
+We are quite confident that the investment levels we are putting in place we will see material results in the back half of this year.
+We think this could be a very significant marketplace and I am just going to leave it at that for now.
+I promise to give you an update perhaps when we speak later this quarter.
+And then how do you look at this sort of breakeven – I mean is this something where you can take $30 a sub a quarter and put like a 60 70% direct contribution margin on it and sort of look at that relative to the ad spend or how do you look at breakeven here? It’s a great question.
+So we look at everything on a customer life – net present value and aside from some of the initial spend which is required to build awareness and initial distribution of traffic the ongoing approach to this based on our test market and having a lot of experience with contracts no contract we understand what the churn rate on this is likely to be.
+And we do believe the churn rate to be ultimately be in the low mid 2s we’ve modeled it conservatively and had some up real experience on that at the low price we could find ourselves doing even better than that.
+We have taken a conservative view of what that churn number would be in our economics and then we look at how much acquisition costs we have to be able to invest to drive traffic.
+And we will invest to drive and take as much incremental revenue as we can up to point we’re getting a net present value which is getting you the shareholder return.
+You talked about some of the contribution margin on this business and it’s an important one to point out the pre-marketing operating income contribution margin was extremely high.
+We keep a large percentage of that $10 once we get past the initial acquisition period.
+So if we grow this business it can be a very nice cash flow contributor.
+And we do expect most of it to be incremental.
+Keep in mind since we are not paying international termination rates and domestic termination rates are extremely small and have been decreasing over time.
+And domestic usage tends to be a little bit lighter than what we see in the international side.
+There is an awful lot of margin in this product if we can get the acquisition cost in the right place.
+Obviously given that it’s just third of the price it’s probably – at least the third when it stabilizes it’s going to be a third of the whatever the 320 to 350 spending per sub.
+I think that you can think about it as south of $200 all-in.
+We feel pretty good about the return we get if we can have all-in acquisition cost in that range.
+(Operator Instructions) If there are no further questions operator we will conclude the call.
+Thanks everyone for joining us today.
+Thank you.
+Ladies and gentlemen thank you for your participation in today’s conference.
+This does conclude the program and you may now disconnect.
+Everyone have a good day.

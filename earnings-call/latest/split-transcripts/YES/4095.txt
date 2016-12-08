@@ -1,0 +1,529 @@
+Good day ladies and gentlemen and welcome to the Second Quarter 2012 Varian Medical Systems Earnings Conference Call.
+My name is Anissia and I will be your operator for today.
+[Operator Instructions] I would now like to turn the call over to Mr.
+Spencer Sias.
+Please proceed.
+Thank you.
+Good afternoon and welcome to Varian Medical Systems Conference Call for the Second Quarter of Fiscal Year 2012.
+Participating in this call are Tim Guertin President and CEO; Elisha Finney CFO; Dow Wilson Executive Vice President and Chief Operating Officer; and Tai Chen our Corporate Controller.
+Tim and Elisha will summarize our results and we'll take your questions following the presentation.
+To simplify our discussion unless otherwise stated all references to the quarter or year are fiscal quarters and fiscal years quarterly comparisons over to second quarter of fiscal 2012 versus the second quarter fiscal 2011.
+Please be advised that this presentation and discussion contains forward-looking statements.
+Our use of words and phrases such as outlook could should believe think appear opportunity can expect potential and similar expressions are intended to identify those statements which represent our current judgment on future performance or other future matters.
+While we believe them to be reasonable based on information currently available to us these statements are subject to risks and uncertainties that could cause actual results to differ materially.
+Some of the important risks relating to our business are described in our second quarter earnings release and in our filings with the SEC.
+We assume no obligation to update or revise the forward-looking statements in this presentation and discussion because of new information future events or otherwise.
+Before we start this call please mark your calendars for our mid-year review meeting with investors in New York at 11:30 a.m.
+on Monday May 7 at the Intercontinental Hotel Times Square.
+We'll issue more details on this meeting and webcast tomorrow.
+And now here's Tim.
+Good afternoon and welcome.
+Today we're reporting results for the second quarter of 2012 with healthy growth in revenue net orders and backlog but with mixed margin results.
+Earnings were $0.94 including a $0.02 restructuring charge associated with the realignment of resources to support our ongoing growth in emerging markets.
+I will comment on the operational highlights for the quarter as well as our exciting newly announced global collaboration with Siemens and Elisha will walk you through the numbers.
+To summarize our second quarter 2012 results compared to the year-ago quarter company revenues for the quarter rose by 11% to $720 million.
+Net orders were up nicely in all of our businesses and our backlog increased by 18% to $2.7 billion.
+Excluding proton order backlog was up 12%.
+Our company gross margin dropped by more than 3 points with a record margin in our X-ray Product business that was more than offset by reduced margin in our Oncology business and higher-than-expected proton revenues that were booked on a 0 profit percentage of completion basis.
+Turning to our Oncology Systems business second quarter revenues were $565 million up 11% from the year-ago quarter.
+However margins in this business declined to an unusually low level in the quarter due to a significant geographic mix to lower-margin countries weaker pricing in those markets and slower-than-anticipated progress in product cost reduction programs.
+These programs should begin to show results during the second half of the year when we expect margins to recover somewhat to more historical levels.
+Net orders totaled $565 million up 9% with a 14% increase in North America and a 4% increase in our overall international market which accounted for 55% of the total orders for this business during the period.
+Second quarter orders in the North American market which experienced some push outs in the first quarter of this year included a major win at Montreal General Hospital which replaced an -- which excuse me which placed an order for several TrueBeam systems.
+Several other sites placed orders for multiple TrueBeam units during the period including the Thomas Jefferson University Hospital system and New York-Presbyterian Hospital.
+Software orders in North America were also strong including competitive replacements or treatment planning and information systems at several sites.
+We are particularly pleased to have achieved double-digit growth in North America on top of double-digit growth in the comparable prior year quarter.
+In the international market compared to the second quarter of last year net orders rose 30% in Asia on an easy comp and increased 1% in Europe on a tough comp.
+In the rest of the world net orders declined versus very strong growth in the year-ago quarter.
+Second quarter orders in China rose by more than 50% reflecting a successful effort to revitalize and restructure our sales force there.
+Thailand and Taiwan also drove the strong orders performance in Asia.
+We booked our first TrueBeam orders in Japan and Taiwan and installed our first TrueBeam systems in Korea.
+We are hopeful that this platform will become a growth driver in this important region.
+In Europe we had mixed results many countries growing and others quiet.
+At this time it's difficult to draw any conclusions regarding the impact of financial and banking worries on the European market.
+It appears the market has continued to invest in better clinical capability albeit in a sporadic and somewhat lumpy fashion.
+TrueBeam comprised more than 45% of our high-energy machine orders during the quarter.
+We booked more than 60 TrueBeam orders during the quarter and we now have nearly 490 orders for this system since its introduction 2 years ago.
+It is gratifying to see the total accelerator unit order volume was up versus the year-ago quarter even as TrueBeam becomes a higher percentage of orders compared to our other high-energy models.
+We now have more than 230 installations complete or in progress around the globe.
+As you know our goal is to help save more lives every year by advancing the clinical capability of our technology.
+So I would like to update you on key studies that have been published in the last quarter.
+We believe that these types of studies play an important role in driving long-term market growth.
+The use of IMRT for prostate cancer treatment has been the subject of much debate.
+I'm pleased to report that a study published last week in the Journal of the American Medical Association supports the use of IMRT for this disease.
+Another prostate cancer study at Memorial Sloan-Kettering showed that image-guided IMRT is superior to IMRT without image guidance.
+This data appears in a paper that is in the process of being published by the International Journal of Radiation Oncology Biology and Physics or the Red Journal as it is known in the industry.
+Moving on to tumors of the brain and spine.
+Clinicians at the University of Alabama at Birmingham have published 2 articles on their use of Varian technology for radiosurgery.
+One group reporting in practical radiation oncology found that it could treat up to 4 brain metastases simultaneously using RapidArc radiosurgery and that it could do it within 15 minutes an order of magnitude faster than is possible with conventional cobalt and robotic surgery systems without any sacrifice in the position or quality of treatment.
+A second group which published its results in the Journal of Radiosurgery and SBRT used the fast-dose delivery speed of our TrueBeam STx system to treat tumors of the brain or spine in an average time of 11 minutes.
+Typically these demanding procedures can take upwards of an hour at lower dose delivery rates which is not only hard on the patient but also very expensive.
+These studies mark the progress that is being made in the fight to control cancer with radiotherapy and radiosurgery and enhance efficiency of these treatments methods.
+I recommend that you read them to fully appreciate the work that is being done in this field.
+We expect to see more of these studies as trials for lung and liver treatments get underway.
+Coincident with issuing our second quarter earnings performance we announced a major new partnership with Siemens today.
+This is an exciting development that will enable Varian to enhance and expand its clinical offerings to the benefit of cancer patients around the globe.
+By developing strong software connectivity and new architecture linking Siemens and Varian Systems together we can give clinics an important new options for imaging and treating patients.
+Another key objective of this partnership is to accelerate innovation and provide more efficient and effective solutions particularly in emerging markets.
+Varian will represent Siemens diagnostic imaging products such as CT PET-CT or MRI to radiation oncology clinics around the world beginning immediately in most international markets and expand it in North America later this year.
+Siemens Healthcare will similarly represent Varian equipment and software for radiotherapy and radiosurgery within its offerings to its healthcare customers.
+This will enable the companies to offer comprehensive solutions to support the entire clinical workflow from imaging to treatment.
+Siemens will continue to service and support its global installed base of approximately 2 000 medical linear accelerators.
+This agreement will give Siemens customers more choices for therapy equipment as aging accelerators are due for replacement.
+I believe this partnership will expand the growth opportunities for both of our companies and we're very pleased to be working with Siemens in this endeavor.
+Our X-ray Products business appears to be recovering from a weak first quarter when Japanese customers slowed purchasing in order to adjust their inventories.
+While the second quarter started slowly it ended on a strong note signaling that the inventory adjustment in Japan appears to be behind us.
+The business achieved record margins as the result of product mix improved quality performance and cost controls.
+Net orders were $130 million up 5% from the year-ago period and revenues rose 4% to $123 million.
+Sales of high-powered CT tubes in Japan were particularly strong.
+Orders in our somewhat longer-cycle plant panel business were up in double digits with strong demand for our digital radiography products.
+We have now completed our previously announced acquisition of InfiMed thereby adding imaging processing workstations hardware and software to the X-Ray Products portfolio.
+The addition of InfiMed's products and technical expertise will enable Varian to better serve our X-ray customers as a one-stop shop for X-ray tubes flat panel image detectors and workstations.
+We expect that we will be able to offer more fully integrated X-ray component solutions that can be incorporated more easily into our customers' X-ray imaging systems.
+It should help our customers to achieve improved performance and time-to-market for their equipment.
+Our Other category had a very good second quarter both in the Varian Particle Therapy business and in our Security and Inspections Product business.
+Combined net orders for the category were $168 million with $124 million in 2 orders for our ProBeam Proton Therapy Systems and $44 million in net orders for Security and Inspection Products.
+As was reported earlier in the quarter we booked an order for ProBeam system at a center that will be built in Saudi Arabia and another order for a proton clinic that will be built in St.
+Petersburg Russia.
+Since September of last year the Varian Particle Therapy business has booked $212 million in orders.
+We're delighted to see a gain momentum.
+Our ongoing installation at the Scripps Proton Center near San Diego is going well.
+And I'm pleased to report that we hit a historic milestone last week when we successfully accelerated and extracted a $250 million electron volt proton beam from the superconducting cyclotron that we have installed there.
+Our installation work is continuing and our next steps will be to commission the beam transport system and the gantry treatment rooms with a goal of enabling Scripps to commence patient treatments in 2013.
+The cyclotron is one of the key elements of the system and the realization of this milestone on schedule helps to validate the production testing transport and installation processes that were implemented over the past year.
+You also may have seen media coverage last week at the groundbreaking on a new proton therapy facility at the University of Maryland.
+We expect to book an equipment order from this center when the financing package of the project is complete.
+Orders in our Security business increased as customers won public tenders for more compact high-speed cargo screening installations with our materials discrimination technology in locations around the world.
+And so now here is Elisha to cover the financials.
+Great.
+Thanks Tim and hello everyone.
+Typically at the outset I talk about constant currency growth rates.
+But this quarter there is no need to discuss that as the U.S.
+dollar and constant currency growth rates for orders and sales are virtually identical for the quarter and year to date.
+Second quarter revenues increased 11% to $720 million.
+Oncology Systems posted an 11% increase with strong revenue growth in Europe and rest of world.
+Revenues rose sharply in our emerging markets including BRIC countries Turkey Ukraine Saudi and South Korea while the U.S.
+revenues were up in single digits.
+Japanese revenues were down significantly from the year-ago quarter when we benefited from stimulus-generated delivery.
+X-Ray Products posted a gain of 4% as revenues picked up in March with renewed spending in Japan.
+Revenues from businesses under the Other category increased by 42% including $14 million of revenue for the Scripps Proton Therapy contract.
+The Scripps revenue was above our forecast for the quarter as all of the remaining equipment was delivered on site.
+And for the year we now believe that our total proton revenue could approximate $60 million.
+The second quarter gross margin for the company fell by more than 3 points to 41.2%.
+Oncology Systems' gross margin declined by 3 points to 42.2% due primarily to a significant geographic shift away from our high-margin countries to our lower margin countries.
+For example in Japan where our customers tend to buy our most sophisticated equipment revenues were down nearly 40% quarter-over-quarter while the previously mentioned lower margin emerging market revenues were up nearly 30%.
+Additionally in certain international markets we are experiencing some competitive pricing pressure.
+For the second half oncology margins should return to a more normal historical level of 44% to 45%.
+X-ray Products' gross margin hit a new record climbing almost 3 points to 43% due largely to product mix and improved quality cost.
+The gross margin for the Other business and the total company was negatively impacted by the Scripps contract under which revenue is being recorded using the percentage of completion method.
+Under this method revenues are initially recognized equal to cost with the expectation that profits will be recognized toward the end of the project.
+The Scripps contract negatively impacted the company's second quarter gross margin by nearly 1 point.
+For the year we now expect that gross margin for the total company will decline by about 1 point from last year to between 42% and 43%.
+Second quarter SG&amp;A expenses were $106 million or 15% of revenues up slightly as a percentage of revenue from the year-ago quarter.
+SG&amp;A was impacted by our $2.5 million restructuring charge which involved a work force reduction in North America in order to support a realignment of resources and put more emphasis on sales and marketing activities in our emerging markets.
+For the second half we expect to see higher than previously anticipated SG&amp;A expenses due largely to increased legal expenses as well as start-up costs associated with our Siemens partnership.
+Second quarter R&amp;D expenses were $47 million or 7% of revenues down slightly as a percent of revenue with the year ago quarter.
+Moving down the income statement.
+Second quarter operating earnings totaled $144 million down 3 points to 20% of revenues.
+Excluding the restructuring charge and proton revenues operating earnings for the quarter were 21% of revenue.
+Depreciation and amortization totaled $14 million for the quarter.
+The effective tax rate was 25.3% for the quarter down about 6 points from the year-ago period due almost exclusively to the geographic shift in earnings toward lower tax jurisdictions.
+While the geographic shift had a negative effect on our gross margin much of this effect is offset in a lower overall corporate tax rate.
+For fiscal year 2012 we now estimate that the tax rate will be approximately 28% for the third quarter and the full fiscal year.
+Fully diluted shares outstanding decreased significantly from the year-ago quarter to $114.5 million due largely to our ongoing share repurchase programs.
+Including the $0.02 restructuring charge diluted earnings per share rose 9% to $0.94.
+Turning now to the balance sheet.
+We ended the quarter with cash and cash equivalent of $617 million debt of $162 million and stockholders equity of 1.4 billion.
+Subsequent to the close of the quarter we have continued to pay down short-term debt under our revolving line of credit.
+And as of today our total net debt is about $130 million.
+DSO increased by 4 days from the year ago quarter to 83 including a 5-day impact from the Particle Therapy business.
+Second quarter cash flow from operations was $105 million roughly equal with net earnings.
+Primary uses of cash were 75 million to repurchase 1.1 million shares of stock.
+At the end of the quarter we had approximately 6 million shares remaining under a repurchase authorization.
+Now I'll turn it back over to Tim for the outlook.
+Thanks Elisha.
+Overall in the second quarter we had a lot of good news including strong growth in company revenue orders and backlog 2 new proton system orders and a record gross margin in our X-ray Products business.
+We're now facing some margin challenges in our Oncology business as we invest and move into -- more aggressively into emerging markets and pursue product cost reductions.
+Including the impact of oncology's gross margin as well as increased costs for legal proceedings and start-up costs associated with the new Siemens partnership we're now adjusting our outlook for the remainder of the year.
+For fiscal 2012 we now expect earnings from continuing operations to increase over fiscal 2011 total by 9% to 12% to a range of $3.76 to $3.84 per diluted share.
+Annual revenue should increase over the fiscal 2011 total by about 10%.
+For the third quarter we expect earnings per share to increase by 10% to 14% over the prior year quarter to a range of $0.91 to $0.95 per diluted share.
+Revenues for the third quarter should be 9% to 10% over the third quarter of fiscal 2011.
+Thank you for your attention and we're now ready for your questions.
+[Operator Instructions] And the first question comes from the line of Jeremy Feffer with Cantor Fitzgerald.
+Research Division</strong> I wanted to ask first on the margin issues from the quarter.
+What is giving you comfort that it was just a one quarter hiccup in the geographic mix and price reduction things like that will rebound in the second half? Sure.
+Well -- I mean we had a -- really an unprecedented geographic shift in the second quarter where emerging markets up nearly 30% and our highest margin territory Japan where they tend to buy very rich feature set machines being down almost 40%.
+We have -- historically we've gone in and when we look at the backlog we look at region and we can apply some averages for Europe for Asia for North America.
+What we have now done is we've gone into the backlog machine by machine and we're really looking at it based on the profitability and getting more granular in terms of going into these emerging markets and really looking at the margin impact.
+So when we look out into Q2 -- into Q3 and Q4 it's not going to be at the margin level that we had first anticipated because of all of the issues that we've talked about.
+But we do think it's going to get back to a -- closer to the historical range of the 44% to 45% levels for oncology.
+Research Division</strong> And then staying with oncology when Elekta reported its January quarter they noted some particular weakness in Asia.
+You guys obviously saw some strength.
+Can you comment on the general market share trends there? Are you -- is this affirmation that you are picking up share in Asia? Well I think that everybody is seeing the same thing in Japan which is that Japan is way down from the stimulus a few years ago.
+And as Elisha mentioned earlier we were down -- I think it was 40% from a year ago.
+So I think everybody was impacted by that Elekta and Varian.
+I think we are doing better in China than people expected.
+I think we're doing better than anybody expected us to do in China and that's good news.
+I think our new team is doing well and that may be probably a majority of the explanation for the way Siemens -- I mean excuse me Elekta looks at it and the way Varian looks at it.
+Yes and let me just clarify to make sure that Tim and I aren't confusing you that the 40% decline is in revenues reflecting the prior year ending of the stimulus program.
+The orders for Japan and the Far East in general were very strong this quarter.
+And the next question comes from the line of Steve Beuchaw with Morgan Stanley.
+Research Division</strong> A quick one on gross margins.
+Understanding of course that the geographic mix is a critical driver.
+Could you speak to the trends in terms of gross margins in developed markets over the last quarter let's call it 2 quarters.
+I mean has there been any breaking trends there? And then on the COGS programs that you referenced how much would you expect these to contribute in terms of dollars or a fraction on margin? Yes.
+Well what we're seeing is that some countries are okay; other countries other territories are not.
+And what's happening is it depends on the competitive profile of those countries and it depends on the budgets in those countries.
+What we're seeing is that some of these locations they just don't have the budget but they still have an appetite for our very high-end machines.
+And so our sales forces are having to accommodate this in order to get this business.
+And so that's put pressure on certain countries.
+And so what we've seen in Q2 and what I think we're going to see more in Q3 and Q4 than we thought 3 months ago is we're seeing more of these shipments to these kinds of countries than was expected just even 3 months ago.
+And so as our backlog is filling up for the year it helps us to get more and more accurate as the year goes on about what's going to happen.
+But as we fill out that backlog it's becoming clear that countries like the United States and Japan that formerly were a big part of our business and had -- and where people bought favorable mixes of machines are being replaced by locations where the mix is not so favorable.
+So that's kind of the general picture.
+And I don't want to break the cost reductions down to exactly how much we're going to get Steve but suffice it to say that we're going to be aggressively going after it.
+We're going to be chipping it away chipping away at it little by little and this is something that we'll continue into next year as the plan is to put some more engineering resources on cost reduction areas as it's becoming apparent that certain markets just aren't going to pay full price for some of the features that we've come out with.
+Research Division</strong> Great that's really helpful.
+And then one on TrueBeam.
+Could you comment on how the TrueBeam mix has trended in the developed markets specifically over the last couple of quarters? And then that Montréal order that you mentioned you said it was several systems I take that to mean 5 or 6.
+Am I off base there? So you're talking about orders and not sales? Research Division</strong> That's right.
+Okay.
+The Montréal system was -- I'm trying to remember 5 something like that 5 or 6.
+Boy it's embarrassing that I don't know that number.
+And in the TrueBeams in Europe -- and you got to remember we just -- only --  it wasn't very long ago we got permission to sell TrueBeam in some of these countries like Japan and China and places like that.
+And so now of course we're seeing a marked rise in that business.
+I don't -- I can't calibrate it for you exactly at this moment to give you how many TrueBeams in these developing territories but all I can tell you is it's quite a bit more because last year we were just getting started in these territories.
+Research Division</strong> And then on the U.S.
+in particular given that there's more of a data to build the trend on? I think our take [ph] rate of TrueBeams in the United States is about what it was before.
+And the next question comes from the line of Amit Bhalla with Citi.
+Research Division</strong> Elisha a question for you.
+I mean if I look at the guidance you're taking the midpoint from your prior previous guidance down by about $0.15.
+And if you gross that up that's about $20 million to $25 million of additional expense between now and the end of the year between the 3 points that you laid out: oncology legal and Siemens start-up.
+Can you break that amount between the 3 of those categories and talk to us about how long going forward these added expenses are going to take place? Sure well to give the 50 000-foot answer Amit is it's about 50-50 of that $0.15.
+But let me kind of give you the guidance walk if you will from where we are today versus where we were last quarter.
+The sales number in total is really not changing at about that 10% increase.
+However what we're seeing is that the sales shift we've got a lower about $10 million sales coming across the board from our businesses a little bit in oncology a little bit in X-ray little bit in Security offset by $10 million of proton revenue carrying a 0 margin.
+So that alone has call it a $4 million impact.
+The gross margin down about a little more than a point from what we had previously thought is largely due to oncology and all of the issues that we've mentioned.
+And then when I look at the operating expenses that includes the risk charge it includes Siemens start-up cost we have a break-up penalty we have training we're going to do we're hiring people to support this agreement.
+We have some additional legal cost over some of the losses that you're aware of as well as the acquisition of InfiMed which is increasing the SG&amp;A cost as well.
+It's dilutive to the bottom line but it is increasing SG&amp;A.
+A lot of that is in offset in the tax rates so that you get to your Delta that you mentioned of the $0.15 to $0.16.
+Research Division</strong> So let me understand.
+I mean you guys have been pursuing an overseas strategy because that really is where a lot of the growth in the market is coming from.
+Are we entering kind of a new normal for profitability for the company going forward? Well I think that there is -- the strategy of the company dictates that more and more of our business over time is going to come from international.
+If that international mix comes from territories like Japan and certain countries in Europe especially Northern Europe where the mix tends to be good that's -- then that's great.
+If it's going to be coming more and more from BRIC countries then we're going to see margins affected.
+So the consequence is what do you do when you know that you're going to go into territories where you're not going to have this favorable a mix as you've had in the past? Well to some extent that is going to impact gross margin.
+The way you deal with that is you do cost reductions you try to add features that you think you will be appealing in those markets you try to add new services that you think will be appealing in those markets you try to build sales forces in those markets that can get proper value for what you're selling.
+And so it's a combination of new products and services and cost reductions in order to deal with this.
+Now will this benefit the bottom line? Yes over time I think that this has a good effect on EBIT and it has a good effect on EPS but it will make gross margin more challenging in the future.
+I think we all knew this.
+I don't think anybody here expected 3 months ago that the effect would be this strong in 2012 for this.
+But in our long-term strategies we recognize that this was a situation we're going to have to cope with and we're putting those plans into effect.
+So you'll see this speed of some of our plans and probably slow down some other things to try to make -- take this into account.
+And I just do want to reiterate that if you exclude the proton revenue for the full fiscal year the total company margin decline that we're talking about is about 1 point.
+We're still at 43% to 44% and it was small...
+Yes the proton effect was pretty -- what was it $50 million -- $60 million of proton sales with 0 margin? That was a real anchor on gross margin percentages.
+Now ultimately I think the Proton business is going to be great for the company.
+It won't be great at the gross margin level.
+It will be great at the EBIT and EPS level.
+So there's businesses like this that we think we have to get into that it's appropriate for us to get into that were going to give us a lot of revenue and are going to give us rapid EBIT but temporarily they're producing effects like this.
+Research Division</strong> I apologize with the follow-up but I really just need to understand at the operating margin level do you still feel comfortable that the company is in the low 20s or is there the potential that the operating margin of the business can deteriorate further from where you are at this quarter? Well again if you exclude the proton business and there is some proton revenue in FY '11 in Q4 that has to come out as well as what we -- what -- the $60 million in FY '12.
+The RoS once you pencil this out is going to be about 21.5% so it's still I would say low 20s.
+But we have we've gone back we've scrubbed.
+It's the best we can predict at this point based on all of the information that we have.
+But that's not saying what we're going to do going into next year.
+I can tell you that the biggest torque we're going to get on it going forward is that we can get this proton therapy business profitable as opposed to being significantly diluted that it is today.
+And the next question comes from the line of Anthony Petrone with Jefferies.
+Inc.
+Research Division</strong> Just a couple of housekeeping and then a little bit more on the margin and the North American trends in the quarter.
+The service revenue growth I don't know if that was actually given in the prepared comments and if it was then I apologize but do you have that number handy? It was in line with the overall Oncology growth rate in the quarter.
+Yes it was pretty good.
+Inc.
+Research Division</strong> Okay okay.
+And then just on last quarter Tim you had mentioned or Elisha that a couple of orders in North America were delayed and you're expecting perhaps those to hit in this quarter or some of the following quarters.
+Did those orders hit this quarter or are you still expecting that in the second half of the year? Yes that's why you saw the nice 14% growth in North American orders for Oncology because a number of them hit.
+Inc.
+Research Division</strong> So if we go back I think it was about 3 deals that slipped and so all of those were booked this quarter.
+Or do you still expect...
+No no not all were booked.
+But some of the ones that I really wanted to hit in the first quarter hit in the second quarter but it's never perfect like that.
+Inc.
+Research Division</strong> Sure.
+And then I guess one on Siemens on the collaboration.
+I don't know if it's clear at this point but are you going to receive distribution fees on their MR and CT placements? And likewise on conversely the Siemens is there any distribution fee that goes to them when they place a Varian linear accelerator? Yes and yes.
+Yes.
+Just a little clarity on the former: We'll get a distribution fee when it goes into radiation oncology driver [ph] not in a radiology customer.
+Right.
+Inc.
+Research Division</strong> All right.
+So is part of that -- is it too early to suggest that part of that is already being reflected in the gross margin or...
+Oh no.
+We just signed this agreement yesterday...
+Inc.
+Research Division</strong> But as we look in the guidance that you have for this year...
+No there's -- the only effect this year is actually -- is preparatory.
+In the United States we have a current arrangement that is going to take 6 months to expire.
+So this will have no effect in the U.S.
+which is of course where the bulk of our sales efforts were -- for -- and so we're -- there'll be no effect in the U.S.
+and we're just going to be in getting started mode in Europe so -- and our revenue it comes when those units are -- I mean our -- any payments would come when those units are installed which is not likely to be this year.
+So I suspect this is going to have a positive effect on 2013 but it has an I don't know like a $0.02 effect in -- a negative $0.02 wind in 2012.
+Yes the big win for us in this deal is we get connectivity between the Siemens installed base and our ARIA oncology information system.
+That's access that we have not had in the market before.
+Siemens customers have not been able to connect to the ARIA installed base so we are very encouraged about that connectivity.
+And that's where the real driver both from a top line and a margin perspective are going to be for us in the long term with this relationship.
+Inc.
+Research Division</strong> So last one for me and I'll get back in queue.
+So just to clarify the entire Siemens base will eventually get ARIA as definitively.
+Or does the sales force have to go and offer up that option and then they have that option to add in ARIA? And then ultimately how do you see this deal benefiting Varian as it relates to the newly freed up linear accelerators that are going to be on the market? We do have to sell it.
+So it is -- there is -- Siemens customers either have no information system or something called LANTIS which was a joint venture between Elekta and Siemens.
+And as they upgrade -- especially in multi-Linac departments as they upgrade they want new information systems.
+LANTIS is quite old.
+They need new functionality especially for managing imaging and new advanced features so they have to upgrade.
+We've really not been able to participate in that market historically.
+That's what this opens up for customers and we're very excited about that.
+Of course our global footprint and bundling of orders when it's -- it's bundled with diagnostic imaging.
+They have 2 000 around 2 000 machines in their installed base.
+Most of those customers are -- those customers have years to replace those machines.
+But generally when a company exits under these circumstances a fair number of customers will try to replace those machines faster than they otherwise would.
+So if they try to replace those machines faster than they otherwise would and we can now interface with Siemens' machines that remain in the department and we have the cooperation of Siemens sales and management team in these situations especially at those hospitals where hospitals that favored Siemens diagnostic equipment it gives us an edge that we just simply did not have before.
+So we are very pleased about that.
+The next question comes from the line of Sean Lavin with Lazard.
+Research Division</strong> Congratulations on a nice quarter and the Siemens agreement.
+Thank you.
+Research Division</strong> I wanted to ask about Siemens.
+On one hand now you're going to be working with them but at the same time we know some hospitals may be walking away from their backlog.
+How do you compete for those machines and also juggle partnership? I guess my view of it Sean is Siemens has just signaled who their preferred partner is yes.
+We got to go compete on it.
+It's not a done deal per se but...
+Research Division</strong> So they don't mind you stepping in there with kind of past orders of theirs? Well on their backlog they clearly liked to deliver their backlog.
+I'm sure if you were to call them and ask them to deliver their -- what their backlog position is they'd still love to deliver their backlog.
+But if they have a customer that wants to get out of their backlog's position we'd certainly have a shot at it.
+And this is really -- I think our perspective is as Tim said before there's 2 000 units out there.
+Their backlog is actually not that big and we -- we're -- our interest is competing on those 2 000 machines and making sure that we've got the best alternative for those customers.
+Research Division</strong> And then as you talk about software for those 2 000 potential machines what kind of revenue would upgrading a machine kind of entail? Well that's of course -- the biggest piece is the machine trade-out and that would be depending on the configuration sold anywhere between $1.8 million and $3 million for the machine itself.
+And then the software you have the software cost depending on the configuration of what's there.
+It could be anywhere between $75 000 and a couple hundred thousand dollars depending on the configuration.
+And then of course there's treatment planning in play as well as service tail that is very profitable.
+So it's -- over time it's a very interesting opportunity for us.
+There's another element here too which is that right now the impact piece the piece that was sold by Siemens is a software under license to Elekta.
+If -- and so we want to see that replaced by ARIA because right now whenever we add a new machine Elekta gets a certain amount of money to that new machine.
+And this way revenue comes to us instead of Elekta when Varian gets the machine and I think that's nice to see.
+Research Division</strong> Is this deal with Siemens exclusive such that they couldn't do something with Elekta? Well they have commitments to Elekta that they have to fulfill under their existing agreement but we are their preferred choice going forward for information systems and for linear accelerators.
+This really levels if not tilts the plane the field in our favor.
+Before this is access we did not have.
+We could not talk to these machines.
+It was a major weakness in our oncology information system strategy.
+Research Division</strong> And then my last one is on -- I guess since Siemens has left the business and you're moving towards a duopoly have you seen Elekta make any changes in their pricing strategy? I would -- I'm going to ask for more time to answer that question because the -- I only have one quarter's worth of information on this.
+But frankly I don't think a duopoly has made Elekta any less of a discounter.
+If anything it may have made them go the other way.
+I think Elekta is now seeing the possibility of more business and they want to get that more business and they see the growth possibilities.
+So ordinarily in a situation like this you would hope for different behavior but I think we're just going to get more of the same.
+And the next question comes from the line of Tycho Peterson with JPMorgan.
+Research Division</strong> I apologize I'm going to ask you one on Siemens as well.
+But I'm just trying to understand the thought process here: Was this out of kind of necessity or opportunity? In other words Siemens has been an ineffective competitor for a long time.
+You know where their Linacs are.
+I understand you need the connectivity but couldn't you do that through a software collaboration and not at the distribution component which is presumably going to be lower margin? We think this is a huge opportunity.
+We've talked about the installed base.
+The other thing is Siemens' presence has been very good in international and emerging markets so this is a very exciting opportunity for us globally.
+And it also helps us in that part of the market where there's good growth.
+And this installed base has some age to it.
+So we want every opportunity we can get to sell into that installed base.
+And on the margin side I -- just to be clear in many instances we're actually just replacing an existing distributor relationship with Siemens so this is not dilutive to margins in that case and clearly opens up a big white space for us to go after in terms of just a much bigger global footprint.
+And just dealing -- going back to the comment you made earlier: It was not possible to talk to Siemens machines without the cooperation of Siemens.
+They have to provide test facilities.
+They have to provide interface specifications and all of those specifications were kind of co-controlled by Elekta and Siemens and they were closed to us.
+So a lot of deals in Europe.
+This was not all that much of a problem in the United States but it was a big problem for us in Europe because Dow and I would go to meetings in Europe and our salespeople would point out to us: "Hey we can't sell ARIA to this customer.
+We can't sell our RV system." And so our most advanced clinical capabilities that we might sell on our machine are not available to this customer so it effectively enables -- you can sell this great machine and our customers can't fully use it.
+And so this was a very frustrating situation for us.
+And it required a partnership with Siemens to do it and that partnership was not possible until we created this arrangement.
+Also Siemens is planning on improving these things.
+We have given Siemens information and feedback on how we'd like to see the new interfaces designs.
+And they're very cooperative with us on this so that's very good.
+And the last I want to point out unless we lose track of it: Siemens is an incredibly advanced imaging company.
+And they would like to build stronger relationships with us in a variety of ways so all of -- we've only talked here about linear accelerators and interfaces and connectivity and selling information systems.
+The fact is this is a wonderful imaging company and they have technologies that I think would be very useful to radiation oncology customers and they want to work with us in those areas.
+So I think that although specifically we're not talking today about what those things might be I think that there's great possibility for nice enhancements to product lines in the future.
+Research Division</strong> Okay.
+And then on the margins Elisha I think you had mentioned in your comments some of that was obviously geographic mix but then you mentioned I think slower progress and some product cost programs.
+Can you just elaborate on that latter point? I mean how much can you kind of control in the margins by working down manufacturing and input costs? Well again this is just going to be something Tycho that we just constantly are going to start chipping away at.
+I mean it's -- I mean we're looking everything from freight to what can we do in terms of our purchasing and vendor pricing.
+I mean we are -- it's an all-out program to just attack this $5 000 at a time until it gets to the point where it's significant.
+So I can't just point to one thing and say that's the magic bullet.
+Again we're going to be increasing engineering resources in this area to specifically focus on how do we cost-reduce this product line.
+Yes.
+To give you an example: On freight alone because of higher fuel cost we've seen about a $0.02 -- I mean excuse a $0.01 impact to us this year just on fuel costs alone.
+And I'm not going to make the machines lighter so that we won't solve the problem that way but it's an example of the kind of thing that's motivating us to look at everything we can.
+So we're -- we have projects that are underway.
+I would've liked them to come into play in the second half of the year but I think we're going to see them come into effect later in this year and in 2013.
+Research Division</strong> Okay.
+And then last one Tim or Dow.
+Do you want to just talk on dynamics in the freestanding market? I mean you talked about some of those order delays from last quarter coming through.
+But just in general how do we think about the underlying dynamics for freestanding clinics? I'd say in the quarter we did see some life there so that was a positive event in the quarter.
+I'm reluctant to point and say that's a trend but we did see some life in the second quarter freestanding market.
+Research Division</strong> Okay.
+So is that market back to growth then you think for the year or...
+I -- Tycho I'd be really reluctant to say in a one quarter a trend mix.
+And we're going to have to come back to you on that next quarter.
+We did have -- again it was positive.
+We're going to just put a dot on the graph and we'll come back to you next quarter and connect the dots and tell you what we see.
+Research Division</strong> And just how about to elaborate one -- for one second just the dynamics between freestanding centers and hospitals clinics? I mean can you just talk on that where we are in that process of hospitals kind of building out outreach clinics and then competing with the freestanding centers? I think as we said last quarter we're seeing that trend continue.
+Hospitals are strong.
+The strong are playing aggressively especially.
+And we are seeing them do more community outreach than we've seen in the past.
+So I'd say that trend is maintaining.
+And the next question comes from the line of Dalton Chandler with Needham &amp; Company.
+LLC Research Division</strong> You touched on this a little bit already but you did cite pricing pressures as one of the issues driving down margins in the quarter.
+It sounded like it was specific to the emerging markets but can you just elaborate on what you're seeing there? It's certain territories in the world.
+And yes emerging markets tend to be those more than other places.
+I guess I'm not shocked that the BRIC countries and other countries would have this problem.
+I was just -- I think we continue to be struggling with strong competition with our few remaining competitors in terms of getting business in those countries.
+And this is a kind of a land grab here everybody's going to fight it out and that's what's going on.
+In addition these people have more limited budgets than other people do.
+So part of what we're trying to do is to adapt what we offer and to the situation so that we can improve and get better margins than we're seeing on these deals going forward.
+Some of that's going to be product changes and some of it's going to be just doing a better job of selling.
+LLC Research Division</strong> Would you say you're seeing stable pricing in the established markets? We're definitely seeing stable pricing in North America.
+We are -- as Tim said earlier we are seeing a little bit of richer product mix but stable pricing in North America for sure.
+And Japan I'd say stable as well in that market.
+And the next question comes from the line of Jason Wittes with Caris.
+Inc.
+Research Division</strong> A couple of follow-ups here.
+First of I know you saw signs of life on the freestanding clinics in the U.S.
+Does that have any relation to slightly better optimism on the reimbursement front or is that reading too much into it? It think that's -- we would love to read that into it but I don't think we can at this point.
+Inc.
+Research Division</strong> Do you have a read by the way into that at this point? No no.
+It's still way too early.
+Inc.
+Research Division</strong> Okay.
+And then in terms of proton I think you've increased it to $60 million in revs this year.
+I guess first that assumption is that's all coming from Scripps.
+That's not an additional project going online.
+Or how do I think about that? No it is -- it's about half is Scripps roughly speaking and the rest we're assuming that Saudi and/or Russia.
+We will get the project started at which point revenue will start.
+So there's still some big assumptions in there for Q4 in particular but we would expect that at least one of those projects will start in this fiscal year.
+Inc.
+Research Division</strong> But the $10 million increase is basically half due to Scripps being ahead of schedule and half due to Saudi is that right? Roughly roughly.
+Inc.
+Research Division</strong> Okay.
+And just a follow-up to that and that would be: Are you still thinking about a 2-year installation time? Or are you a little bit more optimistic it might be a little quicker than that given you're a little ahead of schedule at this point? About 1.5 years...
+The building is 12 months.
+And so from groundbreaking usually the building is about 12 months.
+And then we're...
+[indiscernible] 1.5 years.
+And the machine is about a 1.5 years.
+And obviously we're going to be trying everything we can to get that down.
+Inc.
+Research Division</strong> Okay fair enough.
+But that's a slight improvement over I think your initial 2-year assumption? Yes.
+Inc.
+Research Division</strong> Okay that's good to hear.
+Also obviously you can't speak for Elekta but you can speak to your own strategy here.
+You're obviously making a pretty strong push into emerging markets.
+And it's not that you haven't been there in the past but I don't think you've been as aggressive as you have this year.
+And obviously it looks like early results are good especially in Asia.
+So I guess my question is -- one I know Asia you've done -- you've put a lot of focus in.
+Are there other areas where we should expect an increased focus from you? Number two I assume you are being more aggressive in pricing than you have in the past given you do kind of look at this as a land grab situation.
+And so I'd just be curious to get your thoughts on what's going on over there.
+I'd say in terms of focus we're really looking at a number of theaters.
+It's not just Asia.
+Yes Japan and China have been a focus for us continue to be.
+That will not change but Southeast Asia is -- we're growing there and adding resources and seeing more of a market.
+Middle East has been terrific for us the last 18 months and there's always some lumpiness that goes with that market.
+These markets tend to be tender-driven large markets and so it's kind of comes and goes.
+But the overall trend is very positive in the Middle East.
+Brazil is a major focus for us Turkey Eastern Europe.
+So those are just kind of going around the board those are some of the places that we're playing.
+Northern Africa actually there's some action in Northern Africa which we typically haven't had them on the list but that looks very very good for us.
+I'd say that pricing environment in -- it depends in each country.
+So I mean Elisha and Tim talked about the geographic mix hitting us pretty hard this quarter as we do have some different pricing largely driven by what feature sets that people want and whether especially they want to pay the premiums for stereotactic radiosurgery and some of the advanced capabilities that we have on the machines.
+So those tend to be the markets that are a little bit more aggressive where folks maybe don't value those -- they're not doing those capabilities.
+Inc.
+Research Division</strong> Right.
+But also just based on comments you guys have made in the past I know in Asia you've set up some training facilities.
+I don't know have you done similar -- have you set up similar training facilities in other regions? I mean it seems as if that was a big success at least very early on seeing it.
+We have training facilities in Japan China and India and we are looking at adding incremental training facilities as part of this theater strategy that I briefly mentioned.
+And Brazil will be a major focus of that where we're very committed to the Brazilian market.
+We haven't put that training facility in yet but we're committed to it and see a big education capability growing in Brazil as well as probably the development of some local manufacturing capability in Brazil.
+We see Brazil and other parts of Latin America as just beginning large -- well Brazil is well advanced along this growth but other countries are beginning a big potential growth spurt.
+And they're going to want more radiation therapy equipment.
+And so this is a big opportunity.
+So our -- the things that we're looking at in Brazil are an example of what we're going to have to do a lot of in Latin America over the next few years.
+Inc.
+Research Division</strong> One last question then I'll get off -- jump off For proton you had 2 orders basically materialize this quarter which were not expected.
+I believe you still at this point -- if you -- you have about 3 in the wings.
+And how do we think about it in terms of the pipeline of potential products? And what's a good expectation for what we should expect to see on an annual basis for proton orders right now in the first couple of years? Well I am hoping to get -- I would love to get 3 to 4 deals a year.
+And what will those deals be? I think that we might be able to see 100 -- less -- somewhat approaching $200 million in business per year in this not counting services.
+And of course once the centers are up we'll get additional service revenue over that.
+Long term I'm aiming for $250 million a year.
+Inc.
+Research Division</strong> Okay but $200 million seems like a pretty reasonable bogey.
+Yes I think it is.
+And the next question comes from the line of Jeff Johnson with Robert W.
+Baird.
+Research Division</strong> Tim just a couple more questions on the pricing comments the margin outlook  that you've put out there.
+Is there any change going on in the orders that are in backlog? I mean typically your backlog visibility is very high.
+I'd be surprised 2 quarters in that you have -- all of a sudden you're hit over the head with this geographic mix issue.
+You hadn't realized that some of these margin pressures were going to hit.
+So it's my sense that this might be kind of a book-and-ship order kind of thing just some of the orders that are coming in right now that you still expect to translate to the P&amp;L later this year are the ones that are coming in at -- with some of the pricing pressure or maybe the less rich feature set.
+Yes.
+I -- our ouija board has been pretty good for 13 years on this stuff but I will say that forecasting is a complex task around here that takes a lot of effort.
+Book-and-ship clearly is one aspect of what has happened to us as in the second quarter as we look at our book-and-ships certainly that has an effect.
+Our mix by territory matters the pricing and competitive behavior the delivery timing.
+Every time we go through backlog I can tell you when we go through backlog at the beginning of a quarter and then look at what actually shipped in that quarter 90 days later it's often quite different than what we expected.
+Product cost and the cost of accessories depending upon where they came from and we use a lot of expensive materials to build these machines so that can have an effect: the locally supplied vendor parts that we have to get and those parts can vary by where we are.
+And then there's turnkey activity in some of these deals and then there's deal packages.
+There's what all they want as part of the deal and then to top it all off there's currency effects.
+So when you roll all of these together I would say that our models have worked well for us but it is clear that short-term effects going forward are having a stronger effect than we've seen them have before.
+And so we're going to do our very best to analyze things and keep you up to date on that.
+But the nice thing now is we're halfway through this year and at least for this year the backlog picture is clarifying and that makes us feel better about our forecast for this year although there's still some variation which we've shown you in the way we've constructed our guidance and -- but we're going to have to get into October before we really know what next year looks like.
+Research Division</strong> All right.
+Let me ask one follow-up there and then I have one modeling question for Elisha.
+But you've been a staunch advocate I think over the last few years that you're just not going to sell on price that you're going to sell on features and if others want to sell on price so be it.
+But it sounds like that has changed a little bit.
+What in your mind has -- I'm assuming some of these discounts filter all the way up to your level.
+Where -- what has changed in your mind to sign off on some of these discounts? Well I think what happens is -- and I will admit that I try not to keep every piece of paper in the company from coming to my office.
+But I would say that if you're talking to a customer who has $2 million and he wants to buy $2.5 million worth of stuff he's not going to get everything he wants.
+But -- and then competitors are going to come in and so there's going to be -- it's going to be a difficult conversation.
+And so that's when deals get complicated.
+It's -- so I would say a combination of budget limitations and just competitive pressures especially in these countries where all of us want to take higher share.
+At least now we're down to 2 companies or 2.5 companies that want higher share and so we're going to try and get that any way we can.
+But you're right: I am going to push for higher prices.
+Mr.
+Wilson is going to higher -- push for higher prices.
+Ms.
+Finney is going to push for higher prices.
+And we have ways to do that that I probably shouldn't go into too much more detail on in this call.
+Research Division</strong> And then Elisha just the modeling question.
+So it looks like you're trimming the guidance range by maybe $0.15 or $0.16 or so and obviously $0.02 of that was the restructuring this quarter.
+I think you explained well that $0.01 or $0.02 may be the lower oncology revenue is offset by the higher proton revenues.
+I think Tim made a comment that the Siemens relationship is maybe $0.02 or so.
+The last couple of buckets I just can't fill in is the litigation side.
+Litigation is about $0.02.
+Research Division</strong> Litigation is about $0.02.
+Is there -- in that litigation -- I'm assuming that's the UPMC.
+Is there any presumed royalties on RPM or Trilogy clinic sales or anything that you're now starting to kind of assume in there? No.
+We're assuming we're going to fight this.
+We're assuming ultimate victory in it.
+And I want to make it clear: it's the University of Pittsburgh not UPMC.
+We're not in a battle with UPMC.
+They're a customer.
+The University of Pittsburgh is the university.
+Research Division</strong> Right yes.
+No that's fair.
+So that's $0.08 there and so the rest of the bucket is just kind of this lower margin and pricing issue.
+Yes.
+Thank you for -- we need to end the call at this point because we've run overtime.
+So thank you for participating.
+A replay of the call can be heard on the Varian investor website at www.varian.com/investor where it will be archived for a year.
+To hear a telephone replay please call 1 (888) 286-8010 from inside the U.S.
+or 1-617-801-6888 from outside the U.S.
+and enter confirmation code 10075622.
+The telephone replay will be available through 5 p.m.
+this Friday April 27.
+Thank you.
+Thank you for your participation in today's conference.
+This concludes the presentation.
+You may now disconnect.

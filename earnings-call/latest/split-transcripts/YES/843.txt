@@ -1,0 +1,373 @@
+Good morning and welcome to the Rockwell Collins' Fourth Quarter Fiscal Year 2012 Earnings Conference Call.
+Today's call is being recorded.
+For opening remarks and management introductions I would like to turn the call over to Rockwell Collins' Vice President of Investor Relations Steve Buesing.
+Please go ahead sir.
+Thank you Bonnie and good morning to all of you on the call.
+With me on the line this morning are Rockwell Collins' Chairman and Chief Executive Officer Clay Jones; and Senior Vice President and Chief Financial Officer Patrick Allen.
+Today's call is being webcast and you can view the slides we will be presenting today on our website at www.rockwellcollins.com under the Investor Relations tab.
+Please note today's presentation and webcast will include certain projections and statements that are forward-looking.
+Actual results may differ materially from those projected as a result of certain risks and uncertainties including those detailed on Slide 2 of the webcast presentation and from time to time in the company's Securities and Exchange Commission filings.
+These forward-looking statements are made as of today and the company assumes no obligation to update any forward-looking statement.
+With that I'll turn the call over to Clay.
+Thanks Steve and good morning everybody.
+As we conclude our fiscal year 2012 I believe it will be remembered as one of the most unpredictable in our history as a public company.
+Headwinds for the year included the delay of some domestic and international orders defense program cuts and a bankruptcy at one of our key business jet customers.
+All of which were beyond our control and which in aggregate brought our revenue forecasts down about 4% when compared to our original guidance.
+However as we work through that challenging market environment we took actions to react quickly and manage the things within our control.
+These actions and our focus on execution resulted in full year earnings per share within the original guidance range excluding the onetime charges taken this fourth quarter.
+I'd like to have seen a better market environment.
+It should not mask the great work of our people who responded to deliver higher rates of profitability and preserve future growth opportunities.
+Now nowhere is this more evident than in our Commercial Systems fourth quarter results that were strong across the board.
+Total revenue was up 9%.
+And if you exclude the impact of wide-body in-flight entertainment which we no longer invest in the core business would be up 13%.
+OEM revenue grew 15% led by 26% growth in air transport and that's after absorbing the headwind created by the reduction in output due to the Hawker Beechcraft bankruptcy.
+In the commercial aftermarket revenue increased 12% driven by cockpit and cabin upgrades across both business segments.
+It's interesting that in the year of unpredictability this is the one we got right.
+We suggested in our third quarter that flat results in this area would return to growth in Q4 which is exactly what happened.
+We expect continued revenue growth in the aftermarket as we go into 2013 driven primarily by new product introductions that enhance aircraft efficiency and early equipage of TCAS and data link mandate.
+I think you can also see the diligent work of our people in Government Systems as well despite results that were weaker this year and this quarter than we originally projected.
+Looking back over this past year accurately forecasting revenue in this sector was extraordinarily difficult especially considering the realities of congressional gridlock continued Pentagon re-prioritization and the uncertainty created by the pending impacts of sequestration.
+Revenue for Government Systems was down 10% in the quarter resulting from several anticipated declines including E-6 DAGR JTRS Ground Mobile Radio and other surface-based programs.
+However what did not happen as expected was the conversion of about $75 million in growth programs that due to order delays customer requests or changing priorities were slipped out of the year.
+Let me give you some color around 2 of the largest programs that impacted the majority of this unexpected reduction in Q4.
+We'd expected the Defense Acquisition Board review for the JTRS Handheld Manpack and Small Form Factor radio to take place on July 26 resulting in an approval of the Low Rate Initial Production order and product deliveries beginning in our fourth quarter.
+However due to a request for more testing this review was delayed to October where as you know the program go-ahead was approved.
+The other issue resulted from a European customer for a ground-based software-defined radio that has requested some enhanced capabilities to that radio which they funded.
+So we agreed to their request to curtail shipments until next calendar year to incorporate the additional functionality.
+And while unfortunate these kind of developments reflect the uncertainties that's seen in over abundance within the defense markets at this time.
+So in total company revenue declined modestly in the fourth quarter but we were able to achieve a 260 basis points expansion in operating margins by containing cost and focusing on operational efficiency.
+We saw much of the same results for the full year as the balance of our business continued to shift toward Commercial Systems which represents about 45% of total company revenue today and is moving toward parity in FY '13.
+Now looking ahead to 2013 we provided our initial guidance about a month ago and it remains unchanged.
+Market conditions impacting our guidance will be directionally the same with good growth in commercial offset by continued weakness in government.
+However as you know we have factored in our estimate of the sequestration impact on U.S.
+Defense budgets which I think many of you feel will not happen.
+Well I hope you're right and that sanity will somehow be restored in Washington.
+Nevertheless even if sequestration is delayed and replaced by a long-term continuing resolution that effectively kicks the can I expect that the potential impacts from the continuing resolution and an ongoing overhang of sequestration at a later date could be similar to the current sequester scenario.
+So knowing that we cannot control this outcome we are preparing for all scenarios and taking actions early this time.
+For example we've announced significant headcount reductions and the plan to reorganize our European operations with some of those resources that redistributed into other international growth markets.
+We are also consolidating some U.S.
+facilities and heightening our focus on bringing commercially-based solutions to the military like our Pro Line Fusion-based KC-390 flight deck in Brazil and another recently announced Pro Line Fusion position on Agusta's 609 helicopter.
+We believe these actions will not only help us address the challenges we face this year but also provide enhanced leverage to capitalize on longer-term growth.
+So with the silvering results in FY '12 and the prospects I've outlined for this year it's fair to ask how I feel about that longer-term for Rockwell Collins.
+Well let me say that I have never felt more optimistic nor been able to see more clearly those opportunities that lie ahead in FY '14 and beyond.
+And here is why.
+Commercial Systems which will be the primary growth driver sits on the cusp of a raft of market share gains that begin to roll out and accelerate in FY '14 and beyond.
+They include 787 Airbus 350 CSeries Japanese MRJ Chinese ARJ21 Brazilian Embraer 450 and 500 Bombardier's Global 7000 and 8000 Lear 85 and several we have yet to disclose.
+And if that's not enough I can tell you that we were selected for one of the commercial programs referenced in our guidance release although I'm not yet at liberty to disclose the customer or other details at this time.
+As for Government Systems nothing goes down forever.
+And at some point we'll get past this sequestration circus reach a rational funding level and the bleeding will stop.
+While it is very difficult to accurately predict that market right now improvement in 2014 or 2015 is not unreasonable.
+By that time we will have a solid core business run very efficiently with more international content and a number of surviving development programs transitioning to production to supplement our strong legacy portfolio.
+This includes Tanker Program software-defined radios network communication next-generation GPS navigation cockpit upgrades to aging fixed and rotary wing fleets and forward air control targeting systems.
+These are the reasons I look forward to this company's future.
+Stay tuned for us to further quantify the future impact of our growth opportunities in the coming months.
+So with that let me turn the call over to Patrick for additional detail.
+Thanks Clay and good morning to everyone as well.
+Let's get started by first reviewing our results for the total company that are shown on Slides 3 and 4.
+Total company sales for the quarter came in at $1.27 billion a 2% decrease from last year.
+Income from continuing operations decreased 4% while earnings per share from continuing operations increased 4%.
+Earnings per share increased even as net income declined due to the benefit of our share repurchases.
+Income and earnings per share from continuing operations in the fourth quarter of 2012 included a $0.26 or $37 million after-tax restructuring and net asset impairment charge.
+About half the charge is related to severance costs while the remainder of the charge primarily related to the write-off of impaired accounts receivable.
+We expect to realize an annual benefit of about $75 million from the restructuring actions a portion of that benefit being realized in FY '13.
+Now if I exclude the $0.26 restructuring and asset impairment charges from 2012 and the $0.11 restructuring charge recorded in 2011 for each quarter's results fourth quarter earnings per share would have increased by 17%.
+Turning to Slides 5 and 6 we have the fourth quarter results for Commercial Systems which reported sales of $565 million up 9% from last year.
+Sales related to aircraft OEMs increased $39 million or 15% to $307 million driven by increased Boeing 787 sales higher production rates at Boeing and Airbus and increased product deliveries to Bombardier and Cessna.
+These increases were partially offset by lower deliveries to Hawker Beechcraft.
+Aftermarket revenue grew 12% to $239 million driven by increased retrofit sales to both air transport and business jet customers as well as increased service and support revenue.
+Commercial Systems' operating earnings increased to $122 million or 21.6% of sales compared to operating earnings of $101 million or 19.5% of sales in the fourth quarter of last year.
+The increase in operating earnings and margins was primarily due to higher sales and lower employee-related costs.
+On Slide 7 Government Systems revenue declined 10% to $701 million.
+Avionics sales decreased $20 million or 5% due to the completion of certain rotary wing and unmanned aerial system programs and lower development sales as the E6 Program transitions to production.
+We did see an increase in tanker revenue this quarter from the KC-135 545 and KC-46 programs.
+Communication products sales declined $12 million or 6% driven by the wind down in the JTRS GMR development program.
+Surface Solutions sales decreased 40% principally driven by our previous decision to discontinue investment in public safety vehicle systems and the completion of certain surface-based development programs.
+Finally Navigation Products sales were down 9% to $73 million driven by fewer deliveries of our GPS receivers.
+Slide 8 shows Government Systems' fourth quarter operating earnings which were $175 million or 25% of sales compared to $170 million or 21.8% last year.
+The improved operating performance was primarily due to lower discretionary spending as we completed a number of significant company-funded product developments and lower employee-related costs.
+These benefits were partially offset by the lower sales volume.
+On Slide 9 we have our full year total company financial results for sales EPS from continuing operations income from continuing operations and operating cash flow.
+In 2012 sales decreased by 2% as the headwinds in Government Systems were mostly offset by the growth in Commercial Systems.
+Our year-to-date operating cash flow of $534 million is lower than last year due to increased payments from employee incentive compensation and higher income tax payments.
+Our cash flow for the quarter came in short of expectations driven by revenue delays in Government Systems and the timing of collections on the last few days of the fiscal year.
+Moving to Slide 10 we show the status of our capital structure.
+As of the end of the fourth quarter we had $779 million in long-term debt outstanding compared to $528 million at the end of fiscal 2011.
+We do believe our debt to total capital ratio of 38% in combination with our investment-grade credit ratings provides us the necessary access to liquidity in a cost-effective manner.
+If you turn to Slide 11 we provide details related to the updated status of our share repurchase program as of the end of 2012.
+During the year we repurchased 13.3 million shares of stock at an average cost of $54.41 per share and reduced outstanding shares by 7%.
+This brings our total repurchase activity since 2002 to 76 million shares or $3.7 billion return to share owners through maintaining an active share repurchase program and we've reduced our outstanding share count by 23%.
+Currently our available authorization is $481 million.
+Now on to our final slide Slide 12 where we provide the details of our fiscal 2013 financial guidance which is unchanged from where we originally provided the last month.
+We expect revenue of $4.6 billion to $4.7 billion with Commercial Systems increasing 7% next year although that growth is not expected to be linear.
+In the first quarter headwinds from the lack of Hawker jet production and a negative 787 spares comparable will most likely offset growth in the rest of the commercial business.
+However after a flat first quarter growth should accelerate across the year as the headwinds from Hawker abate and the 787 spares transition from a headwind to a tailwind.
+In 2012 most of our 787 spares were delivered early in the year.
+While deliveries this year we expect will be in the back half.
+We expect regulatory mandates increased retrofits and higher OEM production rates to drive increasing growth across the year for Commercial Systems.
+In Government Systems we forecast revenue to decline 10% with about half resulting from the impacts of sequestration.
+Even though sequestration goes into affect partway through the year we anticipate revenue will be down about 10% each quarter.
+Early in the year we will see reductions resulting from the completion of some development programs as they transition to production.
+Later in the year the headwind from these programs will moderate.
+But then the impacts from the sequestration begin to impact our revenue.
+At the total company level we anticipate first quarter revenue will be down mid-single digits.
+The revenue decline should then moderate the remainder of the year as commercial growth almost offsets the government reductions across the remainder of the year.
+Additionally most of the benefit realized from our restructuring actions in 2013 will likely affect the back half of our fiscal year.
+However full year operating margin should maintain at about 21% in Government Systems with Commercial Systems expanding by 200 basis points.
+These increases coupled with continued share repurchase program should result in earnings per share in the range of $4.30 to $4.50.
+That completes my review of the financial results and projections.
+So Steve back to you to kick off the Q&amp;A.
+Thank you Patrick.
+[Operator Instructions] Bonnie we're now ready to open the lines.
+[Operator Instructions] Our first question comes from Sam Pearlstein of Wells Fargo.
+LLC Research Division</strong> Can you talk a little bit about this $15 million decrease in the company-funded R&amp;D in government? Is that disinvestment on public safety or other spending and really how long can you sustain this $20 million a quarter kind of run rate for company-funded R&amp;D? Well first let me say Sam we don't expect that kind of a rate decline to continue into next year.
+I think that was a year-over-year comparable.
+That's very explainable by 3 things.
+First of all the public safety investment which you rightly cited which was going strong at the end of last year which we suspended as you recall at the beginning of this year and stopped investing in it so that was a part of it.
+And then there were 2 development programs of products that we've completed one for a Generation 5 ARC-210 which we had invested a lot of our own money in to evolve that under commercial practices.
+And the second was a new micro product for our GPS chip.
+That is a very small GPS driver introduction which also was being developed last year which we had completed.
+So both of those were completions of internal development.
+And there was as you know not a lot of investment to replace it for future programs because of the direction of the -- of that market.
+Now if I were looking at the relative discretionary flow of Government Systems over FY '13 it will be basically flat from where we ended in FY '12.
+So what we've done is we've sized our R&amp;D down aggressively in '12 and according to what the developments we were doing and now we believe we can sustain that through next year.
+Your next question comes from Yair Reiner with Oppenheimer.
+Research Division</strong> If we assume that you're keeping government R&amp;D flat next year it would imply that the investment in commercial is actually ramping up very significantly.
+Could you talk about that for a second? I sure will be glad to.
+If you look at it -- first thing if you look at a year where our overall corporate sales are actually declining slightly and you look at all-in R&amp;D and by that I mean company discretionary still significant amounts of customer funding from the government although that's declining and then R&amp;D that we're deferring under our balance sheet that if you add all that together our R&amp;D will be increasing 9% in FY '13.
+And the relative split is mainly as a result of the customer funding decline in Government Systems it will be going down around I'd say 8% to 10%.
+And the government -- and the commercial funding all-in will be increasing somewhere between 25% and 30%.
+And so we are fishing where the fish are we are funding these growth initiatives I talked about in my opening remarks and we're sizing our government to where it should be with this market.
+I would also mention that for our company a great deal of the sales we anticipate in the government market will be coming from many of these commercial developments such as Pro Line Fusion that we'll be cross marketing.
+Research Division</strong> Got it.
+And then just one more if I could it's related.
+It doesn't seem like R&amp;D lower R&amp;D was a quarter-on-quarter benefit for margins in the Government Systems business.
+Was there any type of reversal of accrued comp? And if not what really drove that 25% margin? You're right company-funded R&amp;D wasn't a significant driver.
+It was roughly flat from third quarter to fourth quarter.
+There was a compensation adjustment in the fourth quarter as sales and cash flow came down from our expectations.
+So yes probably the biggest driver sequentially on the Government Systems side would have been -- I'll call it all-in employee-related costs lower headcount and the incentive compensation adjustment.
+And Yair that's why if you think about normalizing it for '13 what we're saying is we believe we can hold those government operating margins at around the 21% level not at this concluding 25% level that you've seen here in the fourth quarter.
+Research Division</strong> Got it.
+So last quarter I think you said that higher incentive comp would be about a $30 million to $40 million headwind next year.
+Should we think about it as being a little bit higher now? No actually it's about the same.
+We set our incentive compensation at a 75% payout under this sequestration scenario and we were a little bit under 50% for the year this year.
+So I would say -- I'd say that $30 million headwind is still about right.
+Your next question comes from Myles Walton with the Deutsche Bank.
+Research Division</strong> To go off of the Government side the Government Systems side so you fell a little short on the sales forecast for the fourth quarter and looking at the 10% decline level you're looking at for '13 it looks like it's putting you kind of at the low end just as the starting point of the sales range given the 7% growth in commercial.
+And so that's fine.
+I just want to make sure that's right and accurate and under a sequestration scenario assumption.
+And then tied to that Clay I think I just want to understand more broadly I think you said even under the kind of continuing resolution stopgap measure it might look like a sequestration.
+So are we kind of fair to assume that the 10% is kind of a baseline growth rate almost no matter what happens? As it relates to the guidance for the year what I would say is that given all of the uncertainties I think we're operating within that range.
+I wouldn't take the mathematics as being an absolute law.
+I would say we're still pointing towards the middle of the range.
+And Myles to your second question we size it based on sequestration.
+If sequestration doesn't happen nobody knows what is going to happen.
+And so if there's a CR through the full year that's going to have some impact hardly know if this is exactly sequestration but it will have some.
+If they kick the can only 6 months we get the privilege of going through the whole sequestration drama in this fiscal year period.
+The point we're trying to make here is something bad is going to happen out there and we think we've accommodated it here but I wouldn't run to the other side of the boat and say "Well sequestration doesn't happen now we're back to a full appropriations bill and it's life as once we knew it." I think this year is going to be very turbulent.
+My point is we're planning for it we are structuring our company to do it.
+If all of a sudden peace breaks out and everything is rosy and we got a grand bargain we're more than ready and that means we've been conservative.
+Research Division</strong> One quick follow up if I could on cash.
+So it sounded like the cash missed the 2012 number because of the timing of payments which -- or revenue which I would assume would slip into '13 which brings to a question of '13.
+I know you have the preproduction headwind but it looks like incentive comps and nice tailwinds kind of offsetting that.
+So can you walk through maybe Patrick is there any other cash taxes or other things that are disproportionally negatively affecting pension contributions anything like that affecting '13 cash? No I would say first of all we've gotten off to a gangbusters October because we collected about $40 million of cash on the first day of our fiscal year.
+So that is probably a bit of a tailwind.
+In terms of headwind I think you've identified the ones that I would identify which is the deferred engineering that we talked about in our guidance.
+Pensions year-over-year are about flat and actually incentive compensation will provide a little bit of a tailwind.
+Our next question comes from Joe Nadol of JPMorgan.
+Research Division</strong> I'd like to continue down the cash flow path.
+Just looking at this big picture guys you converted something like 65% of income after the charge into cash flow this year.
+It was 80% last year you guys historically have been 100% or more given the comp situation and I know you're up to a good start this year and you have the capitalized R&amp;D.
+But even besides that it just seems like this continues to slip.
+Patrick any other high-level thoughts you can put around this? And if we're ever going to see a recovery from here or something else is changing besides just the capitalized R&amp;D? I think the biggest change we've seen over the course of the last few years is the capitalized R&amp;D.
+And when I think about the value of the investment in that R&amp;D when you think about the investment next year it's going into 4 programs.
+One is one we can't talk about but then there's the A350 there's the CSeries there's the Bombardier Global 7000 and 8000.
+And these all represent market share gains and significant investments for the company and for the company's future.
+So I think it's cash well spent but that's the -- to me that's the biggest difference between cash flow let's say 5 years ago and cash flow today.
+Research Division</strong> And your guidance for capitalized R&amp;D for this coming year you won one of those programs but there's more than 1.
+So how much of the cake is baked on the capitalized R&amp;D number for 2013 given that 1 win? I would tell you the cake is fully baked now.
+Our next question comes from David Strauss of UBS.
+Research Division</strong> Clay your forecast for next year I think is double-digit aftermarket growth overall.
+Can you just help us give us some color there I guess more comfortable with that.
+I think a component of that is related to these couple of mandates how much might come from that side versus just your normal sparing and service kind of stuff? Yes Dave I'll try to do that realizing the aftermarket is a wide-ranging group of things.
+But I guess I would put it in just a few buckets.
+The mandates that you mentioned are certainly one of them and they're beginning to lace in even though those mandates don't go in effect until 2015.
+People that have to accommodate that are having to manage their fleets as they go through normal C and D checks which is logically the way they do this.
+We've already been in discussion with those customers.
+We already understand what their maintenance schedules are.
+And we've begun to already have production discussions on when we're going to provide that material to them.
+So we feel reasonably good about that kicking in as an increment.
+The second thing that's going on actually is the I guess the benefit of a very slow recovery in the business aviation market.
+Anytime that you're not building or buying new aircraft you do what you do with your house you paint it every once in a while you get maintenance on it.
+And we're seeing not only that routine maintenance happen but we're seeing some very useful upgrades to both their cockpit and their cabin systems.
+So we've seen a good move this past quarter and we expect it into next year for venue solutions for cabins and Pro Line 4 to Pro Line 21 upgrades and also glass cockpit upgrades for I'll say aging business jets.
+And then the third thing are the continuation of I'll call it aircraft efficiency airspace modernization moves where we see GPS-aided landing coming in.
+Heads-up guidance is selling very very well as we see the safety and the efficiency inputs to that.
+Our synthetic vision systems are selling quite well.
+And as we introduce more large-format displays people are seeing that as an efficiency mechanism as well.
+So I'd say all of those many of those are new products that we're just getting into the market right now or being introduced are the things that will drive our aftermarket.
+Research Division</strong> Okay.
+And I might have missed this but did you address broadly the bookings the Government Systems' bookings environment in the fourth quarter if you saw actually a slowdown or a pick up out of your government customer and the pace of booking awards? I did not address that.
+What I would say is we did not see any dramatic I would call institutional slowdown let's say as a result of sequestration.
+What we saw and what is a far more impactful than the relative lethargy of booking orders is just the budgetary pressures causing programs to slip.
+I think endemic of that is the discussion I had about JTRS HMS.
+I mean it just took a longer time to get those kind of program gate approvals because there is not only more difficulty getting that through there is also somewhat of a risk aversion to doing that right now.
+I think in this specific case we had some testing results that came back that were a little ambiguous and the government want to take one more look at that test and of course we passed with flying colors then.
+So I think that's sort of delaying impetus.
+If you look back over FY '12 I can look at about $110 million of revenue that were delayed out of the year compared to what we would have thought in our original guidance in the beginning and all of them were just programmatically -- programmatic inefficiencies where we just didn't get things done.
+Some are more domestic orders some are more international orders like the Middle Eastern FireStorm order which by the way we have that order now for those of you that are following that.
+But I think it's more of just the mood and the environment than there is anything that's end of the year.
+Our next question comes from Cai Von Rumohr of Cowen and Company.
+LLC Research Division</strong> Just so I understand your commercial R&amp;D excluding deferred engineering how much is that going to be up in fiscal '13? In '13 if you look at just commercial discretionary R&amp;D it's up slightly low-single digits.
+LLC Research Division</strong> Okay.
+And then what's the -- kind of I think you said that incentive comp is going to be basically $75 million something like that $75 million to $80 million that's the plan? Well roughly yes.
+LLC Research Division</strong> And then -- so last year basically it was negligible in the second half.
+As we do our modeling should we assume it's kind of equally spread as a percent of sales? I would spread it equally as a percentage of sales I think that is the way we book it.
+Our next question comes from Michael Ciarmoli of KeyBanc Capital Markets.
+Research Division</strong> Clay maybe just one on the government side.
+This $75 million of opportunities or revenues that slid out of this quarter is it safe to say when you constructed the guidance and put that out a couple of weeks back that that was known? And I'm just thinking why wasn't that bumped up into the forecast or was that a known kind of issue already? I would say a majority of that was known.
+For example the 2 that I cited that were the majority of it were both known when we put out the guidance.
+Research Division</strong> Okay.
+And then just a last one.
+On the 787 is there any update there or have you guys thought about when sort of your OE shipments get back more in sync with Boeing's actual production plans? No update Mike from what I've already disclosed.
+And that is that we're anticipating that that synchronization of our build-ahead inventory will occur in the second half of our year and some of that calendarization that Patrick talked about will be impacted by what we anticipate to be an accelerating production rate on 787 as we get to the back half.
+So it's a kind of a front half-back half story where that's concerned.
+Our next question comes from George Shapiro of Shapiro Research.
+Patrick I just want a little clarification on this sequential improvement in the Government Systems margins.
+I mean it looks like from what we've got that maybe 80 basis points of the margin increase was due to sequentially $5 million lower R&amp;D.
+And then if the incentive comp was similar in Q4 to Q3 where did you still pick up the other $15 million difference to give you the 25% margin? Well I'd tell you 2 things George.
+First of all incentive comp I don't think was comparable sequentially.
+It was a little bit lower in the fourth quarter.
+Probably the biggest change sequentially in addition to that would be volume.
+I mean even though we were off our expectation fourth quarter volume tends to be higher.
+The other thing I'd say is if I look at the mix particularly after the orders that slipped out which we're largely low-margin of say development-related programs the mix was richer in the fourth quarter for our Government Systems revenue.
+Okay.
+So that -- what was it -- was incentive comp maybe like $5 million in the third quarter and 0 this quarter? No it was a mild benefit to the margin sequentially less than $5 million I think.
+Our next question comes from Howard Rubel of Jefferies.
+Inc.
+Research Division</strong> Clay you've been successful in taking the 787 cockpit to a couple of applications so far.
+Is some of the thought that there's a broadening opportunity either in pieces or in parts for that product going forward? We believe that to be the case yes.
+Our next question comes from Robert Spingarn of Credit Suisse.
+Research Division</strong> Clay at the front end of the call you talked about a few mandates I guess in the retrofit area.
+How long do these last this opportunity or these various opportunities? And can you quantify that in the '13 guidance? And Patrick I'm wondering if you could parse out the $210 million just generally how it divides between the programs and when -- will we hear about that unannounced program next week? The mandates I think we talked about this in the past there are 2 specific mandates both driven by European airspace.
+One is an upgrade to the collision avoidance system the TCAS they call it 7.1.
+The other is a data link router Link 2000 is the name of it.
+Both of these mandates are already in effect for forward fit airplanes but we really don't see that because that is a function that goes into new aircraft.
+But their mandate is for retrofit in other words the existing fleet out there both of them by 2015.
+So it will be an opportunity for us between now through 2015 as we move from the early adapters to usually the surge at the end for the late adapters.
+It's typically the way these things go.
+So I would say we have a good 3-year run on these specific mandates and I would prefer not to quantify it at this time right now Rob just because I don't want to do that.
+Research Division</strong> But it's a rising number? It should be a rising number through that mandate period is the way it normally works.
+Research Division</strong> Okay.
+So we don't have a comp issue later? At least at this point in time we shouldn't have it as we look at '13 and '14.
+And then it really depends on how it ramps into that how many people do it.
+And as I look at the 210 of deferred I mentioned the 4 programs: the one we can't disclose the 350 the Bombardier Global and the CSeries.
+If I look at those 4 programs they make up the majority of that spending.
+And actually they're all probably about the same between $40 million and $50 million each.
+Research Division</strong> And will we hear about that fourth one next week? I'm not going to give you a timeframe for that because obviously that's dictated by our customers and our discussion with them.
+Our next question comes from Noah Poponak of Goldman Sachs.
+Research Division</strong> Quick one for Patrick.
+I just wanted to ask you what the share repurchase assumption is in the fiscal '13 earnings guide? And then Clay I was -- separately I was wondering if you might be able to elaborate on the strategy and thought process behind the management changes that were announced last month.
+As it relates to share repurchases we as you know no I don't typically disclose the amount of our share repurchases.
+I can tell you that we've been pretty aggressive over the last couple of years and I don't see that changing.
+Relative to your second question Noah as I've been meeting with a number of you all over the last year there seems to be an inordinate interest in our succession program here at Rockwell Collins.
+I'm only suspicioning it's because of my age but it could be something else.
+Anyway I think that is better known today with the selection of Kelly Ortberg to be our President.
+Kelly comes with extraordinary experience I think most of you know him running both our commercial and government business and I would say running him through both difficult market conditions.
+He's really proven himself there.
+He's been with the company for 25 years he's part of our system he knows the people he knows the product he knows the customers.
+And I think he's going to do a good job as our President managing through some of these tough issues we face over the next year or so not only ensuring that we execute the restructuring programs and all of the other operational things we have to do but also positioning us for these development opportunities that I cited going out in '14 and beyond.
+So that's the reason we did it and that's who he is and like I said I think it suggests as I've always said that we have a robust succession planning program at this company and it's beginning to manifest itself.
+Our next question comes from Cai Von Rumohr of Cowen and Company.
+LLC Research Division</strong> Yes just a quick follow-up.
+You mentioned that the $75 million government slip was in your guidance.
+And yet we're looking for down 10% each quarter.
+I mean I would think now that Manpack kind of is done GD is talking about "Gee we might see a little bit of a plus in the next quarter." You've now gotten the FireStorm order.
+So isn't there any goodness? I mean did other things slip out of the year? So first thing Cai let me make clear what I said I said some of it was known not necessarily all of it was known.
+So again I think the majority of that has been baked into that.
+I have a couple of things that we're concerned about Cai.
+First of all if it can happen this year it can happen next year too.
+And so given the environment that I talked about here just the fact we've had some of that move into FY '13 doesn't mean that bad things aren't going to happen to good people as we go through this very uncertain period.
+And so I think it's too early to start parsing either -- even a portion of that money is being incremental to the guidance or something that's happening.
+Let me characterize next year for Government Systems that I think is useful.
+If you look at the growth programs that we have the JTRS the FireStorm the Tanker Program.
+They basically offset what the programs we've been talking about for sometime that have been a drag the DAGR downer some SATCOM programs that we're focused on the OPTEMPO Eurofighter is coming down a number of those cancellations like Brigade Combat Team public safety still will flow into a part of the comparability in that year.
+Those kind of offset each other.
+The biggest impact for the downer in Government Systems next year that is not sequestration-related are program transitions from research and development into production.
+These are the E-6 E-2 simulators the CRIIS program FAB-T CH 47 are all timed to go through a sort of end of development testing and then we're waiting on decisions for go-aheads for production in the future.
+As I said before Cai the decisions about those productions are very ambiguous now in the Pentagon and so there's a lot of uncertainty as to when those decisions are going to be made.
+Although we hope they are made in FY '13.
+Regardless when they get made we will see I think some growth engines be able to come in when we look at that '14 and beyond period.
+That's one of the reasons I have a little more confidence.
+If we can get through any additional impacts of sequestration or continuing resolution we can actually see a very stable government business beyond '13.
+But the uncertainty Cai is the reason that you can't go in and say 20 goes in here 30 goes in here and therefore there's an opportunity at this point.
+Just too much uncertainty.
+LLC Research Division</strong> No I certainly agree with that.
+I guess the question was really focused on we have these 2 good things happen.
+We've had Manpack happen we've had the FireStorm order.
+Presumably they would help you in the first quarter we don't have sequestration in the first quarter.
+I agree with the full year but just that down 10% in the first quarter.
+Well the reason that it doesn't help us as much as you think is because originally we would have thought we would have been into the second quarter of production there and therefore you would've seen an increase in production and the ramp rate.
+What we've done is we've taken that ramp up and just slid it to the right if you will as opposed to all of a sudden there's a glut of production coming off the table and that's what we have -- already have factored in there.
+Our next question comes from Jason Gursky of Citi.
+Research Division</strong> I wanted to just focus in on business jets and the outlook for fiscal '13 and get a sense from you on what is baked into your expectations for the year with regard to the overall market the business jet market itself? We've had a couple of business jets OEs that have reported results since you issued your guidance and I wanted to get a sense of whether that changes your mind at all about the outlook for fiscal '13 and how much cushion you've offered up yourself on the outlook for business jets as we move in to your next fiscal year? Well if you look -- it depends on how you look at the market.
+If you look at it for just business jets only we're looking at a basically flat market in '13.
+We think there will be some mix in rates but generally flat.
+If you add in turbos then we think there is actually going to be growth because things like the King Airs even Hawker Beechcraft are actually selling quite well and they're very economical and there's a lot of places of demand there.
+So if you kind of look at the range of results in business you're looking at very low to mid single-digit growth there.
+And if you look at the market dynamics they're about the same in '13 as they were in '12.
+You're seeing more strength in backlog at the high-end you're seeing not much movement at the low end and I think that's what the OEMs have been talking about here.
+And what everyone's waiting for is the end of uncertainty and an improving global market.
+Once we get that I feel strongly that this pent-up demand and the improvement in this market will return.
+But it's the same thing you're hearing whether it's business jets whether it's construction equipment whether it's farm equipment there's just a lot of uncertainty out there and I think that's stifling the relative rates of growth and we factored about that into our next year or this year I should say.
+Our next question comes from Robert Stallard of RBC.
+LLC Research Division</strong> [indiscernible] Hawker Beechcraft I was wondering if you could let us know if there's anything else left outstanding from Hawker Beechcraft on the balance sheet and whether you have any expectations for Hawker moving into next year? We do have a small receivable remaining from Hawker which represents the amount we expect to collect from them.
+So that there is a little bit of -- there's still a little bit of exposure of Hawker Beechcraft out there.
+LLC Research Division</strong> And whether you baked any revenues from them into the FY '13? Oh yes.
+We've got -- I'm sorry we've got -- we do have revenues related to the King Airline no jets at all.
+And if you remember Rob that's one of those negative comparables at the first quarter or 2 which is we did have jet production in there in '12 before they went bankrupt.
+We are not counting on any jet production in '13 and that's what's going to kind of dampen down the relative commercial growth in that sector in the '13 time period.
+LLC Research Division</strong> And Clay as a follow-up you've talked in the past about maybe some of your strategic option whether there were any parts of your portfolio that maybe you might think of divesting or running down.
+Are there any changes to that? Nothing that we can discuss right now Rob.
+It certainly -- that's something that continues to be on our mind.
+We are doing careful analysis of that.
+We are also very mindful of timing where that's concerned.
+You look around the horizon you're not seeing a lot of government defense transactions right now because of that uncertainty and the ability to define value during this period of time but it's certainly something we continue to think about.
+Our next question comes from Carter Copeland of Barclays.
+Research Division</strong> Clay just a one quick question.
+On one of your peer's calls there was some commentary suggesting that the CR we find ourselves in is particularly onerous in its terms and that there's a lack of really any exceptions on new starts and that could cause some problems.
+Would you agree with that assessment? And is that really what's behind your earlier commentary behind even without sequestration we could see a tough environment? Carter I guess I have not looked closely enough at the CR to be able to confirm that's my understanding of it.
+I'm taking it more from our past experience with extended CRs.
+If you remember in FY '11 we had a particularly difficult time for the 6 months CR because of the ability once that CR had cleared for them to convert that inefficiency into orders.
+And it's really from that experience that I'm suggesting that the natural dampening effect that any CR has relative to what you have to fund to what new starts could happen the fact some of those have to seek waivers to do it just puts a great inefficiency in the system.
+So it's more from my experience than any of my particular knowledge of this CR.
+Our next question comes from Ken Herbert of Imperial Capital.
+LLC Research Division</strong> Clay I wanted to ask you just at a higher level it's clear that you're putting some more resources into the commercial markets you faced a little more competition at the lower end you seemed to be certainly continuing to take share at the higher end and you are increasingly confident in your commentary around sort of the opportunities here and how you see the landscape evolving over the next few years.
+As you look at this opportunity not so much for 2013 but -- because that sounds like there are some good news ahead.
+But 2013 '14 '15 where do you see the company in the commercial business on the original equipment side as this competitive landscape continues to evolve? And really the bigger picture opportunity for you in this marketplace? Well I hope I at least answered that in the main in my formal comments.
+If I look ahead at the deliveries new deliveries that are going to happen between 2014 let's say 2018 we know what all those are.
+Those are already spoken for both in the positive and in the negative speaking specifically of Cessna on the downside.
+And we've accommodated those in that sort of picture I tried to paint earlier in my optimism of the future.
+In my view the opportunities and the gains far outweigh far outweigh any losses that are perceived by the 1 OEM where we've been sort of addressing for some time.
+And those are what's already there.
+Now there will be future programs that come along the way but they will unlikely deliver in that timeframe I just painted from '14 to '18.
+And so they will be beyond that window because it takes typically 4 to 5 years to develop these systems and get them into the market.
+And so this investment that you see that I think Patrick talked very well about is not going into speculative ventures.
+It's going into real programs that are underdeveloped now that will hit the market during that time period and which will provide great revenue growth and market share gains to this company.
+Now specifically to your answer as I alluded to we hope in the coming months to give you a little more granularity around that so you can kind of see the quantification of that.
+I'm not prepared to do that today but that's coming to a theater near you.
+Operator I think we have time for one more question.
+And that question comes from Sam Pearlstein of Wells Fargo.
+LLC Research Division</strong> Clay I just wanted to get a clarification from you on the Hawker situation.
+Is Hawker actually building any jets right now and you're just assuming 0.
+And then are they in fact building King Airs right now? They are in fact building King Airs right now and at least to the best of my knowledge meaning I'm not shipping them any product they are building no jets.
+LLC Research Division</strong> Okay.
+All right.
+And that -- and so that's how you're assuming for this fiscal '13? That is correct.
+This concludes the question-and-answer session.
+I'd now like to turn the call back over to Steve Buesing for any closing remarks.
+Thanks Bonnie.
+We plan to file our Form 10-K in a few weeks so please see that document for additional notes and disclosures.
+Thank you for joining us and participating on today's conference call.
+Thank you.
+This concludes today's conference call.
+You may now disconnect.

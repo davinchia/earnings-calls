@@ -1,0 +1,433 @@
+Ladies and gentlemen thank you for standing by and welcome to the Level 3 Communications Fourth Quarter and Full Year 2011 Earnings Conference Call.
+[Operator Instructions] As a reminder this conference is being recorded Wednesday February 8 2012.
+I would now like to turn the conference over to Valerie Finberg Vice President of Investor Relations.
+Please go ahead.
+Thank you Frank.
+Good morning everyone and thank you for joining us for the Level 3 Communications Fourth Quarter and Full Year 2011 Earnings Call.
+With us on the call today are Jim Crowe Chief Executive Officer; Jeff Storey President and Chief Operating Officer; Sunit Patel Chief Financial Officer; and our Vice Chairman Buddy Miller.
+Before we get started as a reminder our press release and the presentation slides that accompany this call as well as our detailed supplemental schedules are all available on the Level 3 website in the Investor Relations section on the Quarterly Financials page.
+I need to cover our Safe Harbor statement which can be found on Page 2 of our 4Q '11 earnings presentation and that says that information on this call and in the presentation contain financial estimates and other forward-looking statements that are subject to risks and uncertainties.
+Actual results may vary significantly from those statements.
+A discussion of factors that may affect future results is contained in Level 3's filings with the Securities and Exchange Commission.
+Finally please note that on today's call we will be referring to certain non-GAAP financial measures.
+Reconciliations between the non-GAAP financial measures and the most comparable GAAP financial measures are available in the press release which is posted on our website at www.level3.com.
+With that I'll turn the call over to Jim.
+Thanks Valerie.
+As is our normal custom in our prepared remarks we'll start with our Chief Financial Officer Sunit Patel who will discuss results for the quarter and the year and provide an outlook for 2012.
+Jeff Storey will take over and discuss operational and matters including segment results pricing trends status of integration.
+I'll provide some strategic commentary and then we'll open it up for questions.
+Sunit? Thank you Jim and good morning everyone.
+Before I review the details I'd like to start on Slide 3 with some highlights of the combined company and our performance for the quarter.
+Our quality and diversification revenue base improved significantly with the combination with Global Crossing.
+By now we have about $6.3 billion in annual revenues with 62% of the revenues from enterprise customers and we expect that percentage to grow in the future.
+By comparison in 2010 only about 40% of Level 3's revenues were from enterprise customers.
+About 71% of our CNS revenue are from the U.S.
+17% from EMEA and 12% from Latin America.
+Our credit profile improved sharply as we reduced net debt to adjusted EBITDA from about 7x at the end of 2010 to less than 6x at the end of 2011.
+On a standalone basis Level 3 had a great year.
+We grew CNS revenues every quarter throughout the year with sharp improvement in the fourth quarter and grew adjusted EBITDA 13% for the full year 2010 (sic) [2011] excluding the effects of the Global Crossing acquisition.
+Turning to Slide 4 of our presentation for an overview of Level 3 standalone fourth quarter results we ended the year on a strong note.
+Please keep in mind that all -- in all of the results in my discussion here exclude the effects of intercompany eliminations and purchase price -- purchase accounting adjustments with Global Crossing and acquisition-related costs.
+Core Network Services revenue grew by 2.6% sequentially and 7.9% year-over-year on a constant currency basis.
+Adjusted EBITDA increased sequentially at 15% year-over-year.
+We had a great quarter for free cash flow generating $103 million of positive free cash flow.
+For Global Crossing on a constant currency basis Invest and Grow revenues declined 1% sequentially and increased 3% year-over-year.
+Sequential declines were a result of expected declines in U.K.
+government revenues.
+Excluding U.K.
+government revenues Invest and Grow revenues were roughly flat sequentially.
+Invest and Grow revenues for GC Impsat grew 2% sequentially with particular strength from enterprise customers.
+We continued to improve our maturity profile and liquidity position through transactions during the quarter and earlier this year.
+Turning to the detailed results for the fourth quarter on Slide 5.
+Level 3 on a standalone basis saw a sequential and year-over-year growth in Core Network Services revenue across all of our customer channels.
+Our CDN revenue grew 14% sequentially compared to 9% in the prior quarter.
+Compared to the fourth quarter in 2010 CDN revenue grew 91%.
+With our larger revenue base CDN services revenue now represent 1.6% of our CNS revenue.
+Also Voice Services revenue was $144 million this quarter compared to $152 million in the third quarter.
+As we are continuing to manage our combined Wholesale Voice platform for margin growth we expect continued volatility in Wholesale Voice Services revenue going forward.
+At the bottom of Slide 5 for the fourth quarter of 2011 Level 3 CNS revenue churn was approximately 1.2% compared to 1.3% in the third quarter of 2011.
+Turning to Slide 6.
+Gross margin as a percent of revenue improved to 63.4% in the fourth quarter of 2011 compared to 63.1% in the third quarter of 2011 and 61.1% in the fourth quarter of 2010.
+This was primarily as a result of growth in high incremental margin Core Network Services revenue continued network expense savings and a decrease in lower margin Wholesale Voice Services revenue.
+SG&amp;A expense decreased slightly to $337 million in the fourth quarter of 2011 compared to $338 million in the third quarter of 2011.
+We incurred $26 million and $11 million in acquisition-related costs in the fourth and third quarter of 2011 respectively.
+We'll continue to provide updates on integration costs as they are incurred.
+Turning to Slide 7.
+Adjusted EBITDA increased sequentially to $255 million in the fourth quarter compared to $247 million in the third quarter of 2011.
+For the full year 2011 adjusted EBITDA grew 13% over the full year 2010 to $961 million.
+The increase was a result of growth in high incremental margins CNS services and continued cost optimization on our network expense.
+At the bottom of Slide 7 as you can see for the full year 2011 capital expenditures were approximately 12% of revenues on par with 2010 levels but with improved revenue growth performance in 2011 as we take greater advantage of our existing network assets.
+Turning to Slide 8.
+Free cash flow was positive $103 million in the fourth quarter of 2011 compared to negative $34 million for the third quarter of 2011 and positive $71 million for the fourth quarter of 2010.
+We had strong cash collections in the fourth quarter and working capital was a source of cash.
+Turning to Slide 9 I'd like to review Global Crossing's results on a standalone basis.
+These results are presented using historical Global Crossing definitions for all metrics and once again exclude the effects of intercompany eliminations with Level 3 purchase accounting adjustments associated with the acquisition of Global Crossing by Level 3 and excludes transaction and integration costs.
+In the fourth quarter of 2011 Global Crossing generated Invest and Grow revenue of $603 million.
+Excluding the effects of the $7 million of customer buyouts and long-term obligations in the third quarter of 2011 which we talked about last quarter Invest and Grow revenue grew declined 1% sequentially and increased 3% year-over-year on a constant currency basis.
+Sequential declines in Invest and Grow revenue for the quarter were driven by declines in U.K.
+government revenue partially offset by growth in GC Impsat revenue.
+On a constant currency basis GC Impsat revenues grew 2% sequentially and revenues from enterprise customers in Latin America grew approximately 4% sequentially.
+Excluding U.K.
+government revenue Invest and Grow revenue was roughly flat quarter-over-quarter on a constant currency basis.
+Turning to Slide 10.
+OIBDA in the fourth quarter was $89 million compared to $105 million in the third quarter of 2011.
+The decline was primarily as a result of the $7 million from early termination revenue recognized in the third quarter of 2011 which did not recur this quarter and lower revenue from GCUK.
+For the fourth quarter of 2011 Global Crossing generated free cash flow of $23 million compared to negative $13 million in the prior quarter.
+Turning to Slide 11 I'd like to take a moment to discuss our results on a pro forma consolidated basis.
+The company generated approximately $1.37 billion of Core Network Services revenue in the fourth quarter of 2011 and $5.4 billion for the full year 2011.
+On a consolidated basis Wholesale Voice and Other was $915 million for the full year 2011.
+As I mentioned earlier we plan to manage Wholesale Voice Services for margin contribution versus revenue growth so we expect to see continued volatility in that line.
+Other Communications revenue was roughly 1% of total consolidated revenues for the full year 2011 and we expect it to decline at the rates we've seen over the past several years.
+For 2011 the total revenue and adjusted EBITDA excluding acquisition-related transaction and integration costs but including the effect of intercompany eliminations and purchase price accountings was $6.318 billion for total revenues and $1.303 billion for adjusted EBITDA.
+Our adjusted EBITDA margin for 2011 with those figures is 20.6%.
+Going to synergies.
+In the fourth quarter of 2011 we achieved approximately $37 million of run rate adjusted EBITDA synergies with network expense synergies of roughly $10 million and operating expense synergies of roughly $27 million.
+Our revenue reporting format for 2012 is provided on Slide 12.
+Core Network Services is based on the combination of Level 3 CNS revenue and Global Crossing Invest and Grow revenue with some minor reclassifications between the Invest and Grow revenue and also Voice Services revenue categories to reflect a common alignment of revenue definitions for 2012 reporting for the consolidated company.
+As you can see we are reporting CNS revenue by region and further by wholesale and enterprise revenues within each region.
+Additionally we are providing a separate breakout of U.K.
+government revenue within the EMEA region which grows up into overall enterprise revenue for the company.
+Also we are combining Wholesale Voice and Other Communications revenue.
+A few highlights on the results in this reporting format.
+On a constant currency basis enterprise revenue was up 2% sequentially or 3% if you exclude U.K.
+government revenue.
+We expect U.K.
+government revenue to continue to be under pressure this year.
+Latin America enterprise revenue remained strong with 4% sequential growth this quarter.
+North American Enterprise revenue also grew nicely at 3% sequential growth in the fourth quarter.
+Also revenues declined 1% sequentially while overall CNS revenues was up 1% sequentially on a constant currency basis.
+Turning to Slide 13.
+We announced 2 capital markets transactions since our third quarter 2011 earnings call.
+During the fourth quarter we obtained a $550 million aggregate principal amount Tranche B III Term Loan that matures in 2018.
+The net proceeds were used to prepay the $280 million term loan and redeeming the $274 million aggregate principal amount outstanding of the 3.5% convertible notes due 2012.
+We recognized a loss of $27 million or $0.13 per share on these prepayment and redemption transactions.
+After the close of the quarter we issued $900 million of 8 5/8% senior notes due 2020.
+In conjunction with this transaction we are redeeming the $807 million to the outstanding principal amount of our 9 1/4% senior notes due 2014.
+In the first quarter of 2012 we expect to recognize a $22 million loss associated with this redemption.
+As of December 31 2011 we had cash on hand of $918 million or $951 million pro forma for the capital markets transaction in early 2012.
+We feel very good about our improving credit profile maturity schedule and liquidity position and we'll continue to be opportunistic in managing our debt maturities.
+Turning to Slide 14 on 2012 business outlook.
+We expect Core Network Services revenue to continue to grow sequentially.
+From a consolidated adjusted EBITDA in 2011 of $1.216 billion we expect 20% to 25% growth for the full year 2012 over the full year 2011.
+Both years include acquisition-related integration and transaction costs.
+We expect our 2012 acquisition-related costs most of which will be integration costs to be roughly comparable to the $87 million of acquisition-related costs in 2011.
+We expect the strong adjusted EBITDA growth to come from growth in Core Network Services revenue and cost synergies.
+We expect GAAP interest expense of approximately $740 million and net cash interest expense of approximately $680 million for the full year 2012.
+Capital expenditures are expected to be approximately 12% of revenue including capital expenditures associated with integration for the full year 2012.
+Free cash flow for the full year 2012 is expected to be negative.
+We expect working capital to be a use of cash as we reduce the average number of days to pay suppliers across the company and other integration costs to deal with previously disclosed tax and litigation matters for Global Crossing.
+We're quite confident about the timing and amount of synergies we expect as a result of the Global Crossing acquisition and continue to expect run rate EBITDA synergies of $300 million and CapEx synergies of $40 million as we had previously guided.
+As part of the acquisition of Global Crossing the company evaluated and revised the estimated useful lives of its fixed assets and determined that the period it expected to use core [ph] fiber and transmission equipment was longer than the remaining useful lives originally estimated.
+While this change was made for the fourth quarter 2011 as a result for the full year 2012 depreciation and amortization is expected to be approximately $780 million.
+For the first quarter 2012 as is consistent with previous years free cash flow use is heavy in the first quarter driven by working capital uses due to annual bonus payments prepayments maintenance contracts property and payroll tax payments and $60 million in higher sequential cash interest expense.
+In summary we had a strong 2011 and are now focused on operational execution for 2012.
+With that I'll turn the call over to Jeff.
+Thank you Sunit.
+Good morning everyone.
+I'd like to start off with the highlights on the overall company and follow that with a review of the performance of Level 3 and Global Crossing on a standalone basis.
+In the future I will only report on the results of the combined company.
+But today given that the transaction closed in the fourth quarter I will address the standalone companies as well.
+At the time of our third quarter earnings call we had just closed the Global Crossing transaction a few weeks earlier.
+Now we recently passed the milestone of 100 days as a combined business.
+We are pleased with the progress we've made in coming together as the new Level 3 and we continue to be excited about the opportunities we have across our extended network our product portfolio and our people.
+We are maintaining our intense focus on the customer experience we provide and our customers continue to be excited about the strength of our business.
+For the past few months our sales teams have been working to reduce channel and account manager overlap.
+In reality this is an ongoing process that never ends but we feel that we've made good progress so far.
+We are also rationalizing our product portfolio and identifying the key go-forward products for the company.
+Through ongoing training and the operational support model we've established we are working to enable every salesperson to sell the full product portfolio appropriate for the opportunity and the geography.
+We are progressing from a network integration perspective as well.
+The voice networks were interconnected quickly and we have been exchanging voice minutes for several months.
+Interconnection of our transport backbone continues and we are very focused on reducing third-party expenses for off net capacity.
+As Sunit mentioned we've already begun to make progress in realizing synergies in this key area.
+Further our procurement and network teams are aggressively targeting ways to reduce equipment costs and combine the extent of both companies in order to benefit from greater volume purchases.
+We remain confident that we will meet our targeted NetEx and CapEx synergies.
+From our customers we continue to hear that they are excited about the opportunity for Level 3 to be the new type of telecom company they've been seeking a company with a broad set of solutions to meet the challenges they face a network with the scopes to deliver those solutions worldwide but also an organization that's easy to do business with and focused on delivering the best customer experience in the industry.
+We feel we are well positioned to meet their expectations.
+Turning to the standalone results for legacy Level 3 we are pleased with another quarter of Core Network Services revenue growth.
+CNS revenue grew across all of our customer groups with strong growth from our large enterprise and federal business growing 5% sequentially this quarter.
+Mid-market grew 1% this quarter and 9% year-over-year which represents the sixth consecutive quarter of sequential CNS revenue growth for this customer group.
+Wholesale services grew 2% sequentially primarily a result of strong seasonal growth in our media and entertainment business.
+Our European business continues to do well growing 4% this quarter on a constant currency basis.
+We also saw good traction in the quarter with the European Enterprise market as well as content providers.
+Throughout 2011 Level 3 focused on the disciplined investing and high margin services and expanding our enterprise focus.
+Our performance for the year demonstrates the results from this approach.
+Turning to Global Crossing.
+On a standalone basis results were more mixed.
+For the rest of the world region as we mentioned last quarter Global Crossing had a $7 million one-time benefit from early termination revenue in the third quarter.
+Excluding the effect of this one-time item Invest and Grow revenue for the Rest of the World was flat sequentially.
+As expected GCUK saw continued pressure from declines in U.K.
+government revenue as well.
+For GC Latin America revenue from enterprises continued to show strong performance increasing 4% sequentially on a constant currency basis.
+Wholesale revenue in Lat Am was negatively affected by a large known disconnect that occurred in the beginning of October.
+As we look to the 3 regions of the company on a going-forward basis North America EMEA and Latin America I'd like to give some color on our progress and what we are seeing in the market.
+Overall as you can see in the 2012 reporting format in the press release enterprise growth globally was strong growing 2% sequentially on a constant currency basis.
+If you exclude U.K.
+government revenue the growth would have been 3% sequentially.
+We believe we are well positioned to take share in all of the regions where we do business and we'll continue our disciplined approach to investing capital to bring more buildings on-net and other investment in support of this growth.
+Globally our combined wholesale business declined 1% sequentially.
+And while we do expect some pressure going forward we see opportunities to leverage our global network footprint to carriers.
+Demand for subsea capacity both Transatlantic and Transpacific remains strong.
+Execution of our cross-sell/upsell strategy for the combined service portfolio especially collaboration international transport and VPN is expected to result to new opportunities and a broader penetration of customers purchasing multiple product lines.
+In North America we continue to see growth opportunities with our large and mid-market enterprise customers as well as with our government customers.
+These customers are looking for a scalable reliable provider with a product portfolio to meet their global needs.
+As an example Level 3 provides network connectivity to meet the bandwidth needs of Shriners Hospitals for children.
+Shriners Hospitals is a one-of-a-kind international health care system of 22 hospitals dedicated to improving the lives of children by providing specialty pediatric care innovative research and outstanding teaching programs.
+Like many health care providers Shriners is faced with significantly increasing bandwidth requirements while also dealing with budget pressures.
+Level 3 connects all of Shriners' 22 locations with VPN services.
+And by providing multiple services over this network Shriners is able to meet their full range of communications need including data voice video support for telemedicine and other requirements in a cost-effective and easily scalable manner.
+In EMEA we see the opportunity to leverage our rich intercity U.K.
+network our extensive long-haul network across continental Europe and the continued expansion of on-net buildings to grow our enterprise business.
+We already have plans for the EMEA team to mitigate and reverse revenue declines with the U.K.
+government.
+We are organizing our business to win in new central government departments and local government and implementing measures to mitigate the effect of known revenue declines on the overall gross margin.
+I'm very excited about the opportunity to sell to U.K.
+enterprises.
+Prior to closing Global Crossing already had efforts underway to sell to the significant portion of enterprises passed by our network.
+I believe we can accelerate this effort given the company's stronger financial and operational capabilities.
+We are focused on maximizing the productivity of our EMEA sales force most notably around enterprise quota-bearing headcount which increased 29% in 2011.
+We have seen an increase in sales productivity from QBHC that had been on board for at least a year compared to those whose tenure is 6 months or less.
+Going forward we are working to increase sales by reducing the ramp time of our sales people enabling them to sell the full-service capabilities of the company through cross product training and marketing campaigns as well as the investment in new building ads that will create new opportunities for our U.K.
+sales force.
+By the end of the first quarter of 2012 we expect to have the majority of our enterprise sales people fully trained and able to sell the complete portfolio.
+Across EMEA our sales teams are primarily focused on selling high incremental gross margin monthly recurring revenue services.
+And we will reduce the focus on early termination fees and lower margin equipment sales.
+I mentioned the results for Latin America when discussing Global Crossing standalone but we continued to see strong growth opportunities in the region.
+Throughout 2011 the Enterprise business showed strong sequential revenue growth on a constant currency basis.
+The market continues to experience strong demand and we believe that we are well positioned to address these demands.
+Brazil Colombia and Argentina represent particular areas of opportunity for us.
+Today we believe we have good opportunities to grow and intend to leverage the North American and European sales forces to sell our Lat Am infrastructure.
+In general we are confident that just as we have demonstrated over the last several quarters at legacy Level 3 the combination of an excellent customer experience great products additional sales people and an expanding addressable market resulting from our disciplined investment in connecting our network to buildings data centers and other customer locations is a proven formula for increasing revenue growth rates.
+That formula has resulted in a very positive revenue growth rate with the last 3 consecutive quarters of growth averaging 2.2%.
+The new Level 3 will continue to follow the same approach that has driven our growth in 2011.
+Turning to pricing we have seen little change in the competitive environment from what I have been reporting earlier in 2011.
+We continue to see aggressive pricing for High Speed IP CDN and point-to-point labeling services particularly in Europe but offset by increases in demand.
+As a point of reference IP and CDN services represent about 11% of our CNS revenue.
+Before I close I'd like to provide additional remarks on where we are focused as we look to 2012.
+Customer experience remains a key priority.
+With every acquisition we've done we've learned valuable lessons.
+We know without a doubt the more you listen to your customer the better off you are.
+To that end we continue implementing a comprehensive set of metrics to monitor customer satisfaction as an early warning system for the company.
+Jim and I both take escalations directly from customers.
+On at least an individual basis I know that I've not seen a marked increase in the number of escalations I've received from customers since the transaction closed.
+Since I provide my cell phone number and my e-mail address to our customers I take this is a good sign.
+However this is an area where you can never be too diligent.
+We will keep our eyes wide open and focus on the customer.
+I have no doubt we'll make mistakes but when we do we will react quickly.
+We've reduced headcount at the executive level.
+But closely related to our customer experience focus our approach to headcount synergies for the broader organization remains milestone-based.
+That is our first priority is to integrate functions before identifying reductions.
+From an overall perspective I expect us to grow as an organization as we ramp to meet the opportunities in front of us.
+In summary we are optimistic about our opportunities.
+We are maintaining our customer experience and have consolidated the organization into 3 regions to fully address customer opportunities within each region.
+We remain confident about our synergy targets and the strength of the company.
+With that I'll turn the call back over to Jim.
+Thanks Jeff.
+As Jeff and Sunit said after this earnings release we'll no longer refer to Level 3 and Global Crossing separately.
+We're one company.
+So I'd like to take this opportunity to make some comments about Level 3 standalone performance.
+Since Jeff Storey arrived at the end of 2008 he and his team have made some outstanding improvements in almost every operational area from sales effectiveness to customer satisfaction.
+I point to improvements in the CNS revenue growth rates as an example of what's been accomplished.
+From the fourth quarter of 2008 to the fourth quarter of 2009 CNS revenues declined by approximately 10% in part because of our problems installing services we've sold within the kind of standard time frames we promised and because of the customer buying strike that resulted from the credit crisis.
+Contrast that with the fourth quarter of 2010 through the fourth quarter of 2011 where our CNS revenue increased by just a bit below 8% and importantly has displayed an accelerating quarterly trend line culminating in the 2.6% discussed in the press release.
+I believe this is industry-leading performance for larger wireline service providers and I'd like to recognize Jeff and his team for this turnaround.
+Turning to the combined company's strategic outlook I'd like to make 3 points.
+We indicated that we expect adjusted EBITDA including all transaction expense to grow between 20% and 25% in 2012.
+Given that CapEx and interest expense will grow at a much smaller rate than this our ability to generate free cash flow should improve markedly over the next 4 to 6 quarters.
+I believe the demand for our approximately $1.5 billion of debt that we sold last year is a clear indicator that the debt markets understand this trend line.
+For some time now we have said that video delivery over the Internet will come to dominate global communications traffic.
+We've also said that combining an IP optical network with CDN technology is a tremendous advantage in meeting this demand.
+Since owning bandwidth is a major determinant of both the cost of service and the product quality and features we think we're in a great position not just to meet the demand created by more and more video sold to individuals at their home entertainment gaming et cetera but also the clearly growing demand to embed video in every enterprise communications a trend we see clearly.
+A good portion of the growth that we see comes for instance from the federal government that increasingly embed videos in their websites as do other enterprises.
+The growth in our CDN product a revenue highlighted by Sunit is evidence of our leadership in this strategic product line and positions us well over the coming years.
+Now finally I'd like to underline something Jeff said.
+The turnaround in Level 3's revenue growth rate was the result of actions we think we understand clearly.
+We are laser-focused on offering great products and great service sold by an increasing number of effective salespeople who sell to a growing addressable market created by connecting more and more customers directly to our network.
+We expect and are applying that same formula to the combined company with the added advantages that we now have substantially more network reach on a global basis.
+We have clearly more financial and operational resources and we expect results to be clearly visible in the coming quarters.
+Operator that ends our prepared remarks.
+Please describe the Q&amp;A process.
+[Operator Instructions] Our first question comes from the line of Donna Jaegers of D.A.
+Davidson.
+Research Division</strong> I have a question just on the Latin American growth.
+The Enterprise growth looks good but can you sort of clarify what you meant by the loss of the wholesale customer? And then also give us some visibility on data center capacity that you have in Latin America? This was driving a lot of Global Crossing's growth and I think they were getting a little tied on capacity.
+Sure.
+The wholesale customer was a known disconnect that a big customer of ours from a few years ago was acquired by somebody that had network themselves and at the termination of that contract that circuit went away which occurred at the beginning of October.
+So it was largely realized through the first -- through the fourth quarter.
+On the data center data center is great part of our business in Latin America and we continue to invest in the data centers.
+There are places where we are tied in capacity.
+And the Latin America team is working to augment capacity.
+We have given them capital focused on those opportunities.
+There are places where we have plenty of capacity and so it's a key part of our business and we can expect to continue to grow it.
+Our next question comes from the line of Michael Funk of Bank of America Merrill Lynch.
+Research Division</strong> First a clarification on the EBITDA guidance that you gave.
+It's pretty clear there.
+If I back into a revenue growth guidance it seems you're suggesting a mid-single-digit top line growth estimate for 2012.
+I just wanted to clarify if my math is correct on that.
+And then just second on the CapEx can you have more clarity or conversation around the breakdown of the growth versus maintenance CapEx? And how do you plan on allocating that geographically during 2012? For example Latin America versus North America and some of the growth expectations around those projects? Sure.
+So on the EBITDA guidance as it pertains to revenue growth Michael I think that the incremental margins we've talked about before meaning 60% incremental margins to the EBITDA line that continues.
+If you back compute from there I think you get generally in the range you're talking about but I think that again it's tough to say at this stage as Jeff pointed out we're so focused on investing -- which leads to your second question -- to position us for more revenue growth which is that if you look at our CapEx guidance the combined company last year CapEx as a percent of revenue was in the 10-plus percent range; we're spending 12%.
+So even though we have some level of integration CapEx in 2012 we also have savings from synergies from the CapEx line.
+So I think in general we're investing more this year than we did last year as a combined company.
+And I think that your question on maintenance CapEx we think maintenance CapEx is probably about $200 million or $250 million.
+And in terms of allocation of CapEx it's allocated in several different places.
+I walked through that.
+So number one generally we're going to invest more in metro as we establish more on-net connectivity to our customers not just for cost savings on the NetEx side but also to win more business and create more stickier business with our customers.
+And that applies in the U.S.
+where we have extensive metro networks in Latin America where we have extensive metro networks and in the U.K.
+In addition we'll do other investments on the product side along the lines Jeff talked about for example on data centers in Latin America wiring up more life-supporting menus across those 3 continents so delve on the product side.
+And we'll continue with the Level 3 strategy on geographic expansions.
+As you know our EMEA business has been adding a couple of new geographies every year.
+We'll continue to do that.
+So I think our allocation of capital we now have more growth engines.
+One of the big benefits of a more diversified revenue base is we have more growth engines which means we can spread our bets across more places and we have plenty of more places to put money to work which means we can maintain our payback criteria that we had as a standalone company.
+So I think the combination of more investment and taking advantage of more network that we can sell to more customers and more products we feel pretty excited about.
+Our next question comes from the line of Simon Flannery Morgan Stanley.
+Research Division</strong> You referenced the strong CNS revenue growth at Level 3 of 2.6%.
+Can you just talk about the drivers behind that? To what extent are you seeing macroeconomic improvements that businesses are really becoming a lot more confident in the future and that this is sort of a sustainable recovery? And then on the synergies Sunit I think in the past you said $300 million in OpEx synergies should get 2/3 of that in 18 months.
+Is that still the right sort of time frame? So by sort of at the end of this year you're looking at $200 million or so on an annualized rate as part of that EBITDA improvement? Yes let me go to the synergy question and Jeff can go to the other one.
+On the synergy what we say is we expect to hit 2/3 of the $300 million run rate in EBITDA synergies 18 months from closing so that will be sometime early next year.
+And yes we remain quite confident of that.
+With respect to the 2.6% CNS revenue growth in the quarter primarily predominantly we're seeing that come from enterprise customers; federal government included in the enterprise customer group.
+We're seeing strong growth in Enterprise data services so VPN and transport and the other types of products that we can offer on the regional and the national and the global basis that many cannot provide.
+And so from a macroeconomic environment I've said for the last couple of years that our ability to win is based on the quality of the service we provide the quality of the products we provide and the scope and reach and cost effectiveness of our network.
+And we think those are the key drivers just right behind 2.6% growth in the last quarter and the growth that we've seen over the past several quarters.
+I’d comment that the trend line growth you've seen is right through any broader economic disruptions and we think it's the result of some trends that are durable.
+Those trends include the word "virtualization " which is used a lot and sometimes imprecisely.
+But virtualization of computing capacity that is Cloud computing where customers gain both economic and service value by in effect outsourcing IT to those who specialize in particular vertical forms of applications.
+That kind of virtualization clearly a big driver.
+It doesn't work without virtualization of connectivity so there's this big trend towards virtualization of IP IP VPN virtualization of Ethernet Ethernet VPNs.
+There's a major trend given that's connected to both virtualization of processing and virtualization of network to focus on network-based security.
+I'm sure everyone on the call is more than well aware of the importance of network-based security.
+We are a clear leader in all 3 of those areas.
+Sunit mentioned investment.
+Those are 3 areas we're certainly focused on.
+Finally I'd say there's this secular trend towards distribution of video with bandwidth requirements literally thousands of times greater than a webpage browsing session.
+That requires some pretty sophisticated technology we started working on 5 years ago.
+We think you're seeing the results today.
+So you add them all up we think you may find some weakness in the macro-economy certainly that affects additional services provided by traditional carriers.
+But what we're selling to customers that we're addressing we've seen no evidence.
+Let me put it this way.
+If we didn't read the papers we certainly wouldn't see any weakness in demand.
+Our next question comes from the line of Tim Horan of Oppenheimer.
+Research Division</strong> You don't have the breakdown of EBITDA by the quarter on a consolidated basis for the year do you? Because it looks like you don't -- what you're reporting this quarter is kind of well above what you're saying in the full year as in $1.2 billion $1.6 billion.
+Or maybe you can just talk about what really drove up the increase this quarter versus what we saw for the full year.
+And then just secondly on the overall competitive environment maybe you can just discuss how the customers feel about your global footprint now and who you're really looking at for -- your main competitors now in the global basis.
+I'll take the EBITDA question.
+I mean I think that we have provided EBITDA in several different ways so you can look at both -- well one is for the fourth quarter of 2011 and for the full year 2011 with or without acquisition-related cost.
+And as I mentioned for the full year it was $1.303 billion excluding the acquisition-related costs.
+And for the fourth quarter I mean the run rate in the fourth quarter excluding acquisition-related cost was about $1.328 billion roughly.
+I think that you see that in the presentation on Slide 11.
+So I think that with everything going on the increase in EBITDA in the fourth quarter for Level 3 was driven by as I said revenue growth and just continued network expense optimization.
+So Tim I don't if that's the question you're asking...
+Research Division</strong> Yes sorry Sunit I missed that at that the beginning.
+I apologize.
+But is this -- I guess the bigger question is this revenue you reported this quarter in EBITDA is this a good run rate to build off of for the future as you're looking at all the puts and takes? Yes yes.
+I think both the fourth quarter and the annual numbers are -- they are pretty close if you look at them from an EBITDA perspective.
+So yes the answer is yes that's a good run rate to build from.
+And Sunit underlined a couple of times and I'd underline the projections -- the year-over-year projections include integration expenses.
+So the guidance is comparable fourth quarter to first quarter.
+With respect to your second question over the last I guess from the time of closing to right up to today Jeff Storey Buddy Miller -- our Vice Chairman who handles Corporate Development M&amp;A who's here in the room myself Sunit and several other executives have been touring the country and in extended meetings have been interacting with customers.
+I think the number is several high several hundred.
+I think personally I've interacted with about 300 in several meetings on both coasts.
+We also have hired now a couple of different third parties to interview existing customers of both Level 3 and Global Crossing.
+So to answer your question it's at least informed by an effort to really dig deep.
+As Jeff said and I think anyone that talks with customers will hear over and over again customers have for some time wanted an organization with the depth the breadth and the perceived stability of an AT&amp;T or a Verizon but somebody that's easy to do business with.
+I've said a number of times that AT&amp;T and Verizon are outstanding companies great competitors and serious business people.
+But they've got a lot on their plate.
+They're focused on wireless broadband to the home the multinationals that happen to be headquartered in their industry.
+And at least in our point of view the broad business market is lower down on the priority list in terms of capital in terms of intellectual investment.
+And you can see it in the top line; they're shrinking.
+We think that creates an enormous opportunity to do exactly what customers tell us they want invest in connecting their networks with the kind of products that meet future needs the kinds of products I've discussed with the last conversation about with Simon Flannery about the security virtualized networks -- communications networks virtualized IT infrastructure and applications at least the part of the supply chain we participate in and then security.
+So we are absolutely focused on doing what our customers tell us be stable be a good partner invest in what we need globally.
+And we think the results are visible.
+We think it's a formula we can duplicate we'll continue to duplicate and the results are clearly visible in our results.
+Our next question comes from the line of Colby Synesael of Cowen &amp; Company.
+LLC Research Division</strong> First off I was wondering can you tell us what FX assumptions you're using in your 2012 guidance.
+I know it's a much bigger component now to the overall business than it was previous to Global Crossing.
+And then my second question I was wondering what your comfort level is on additional M&amp;A perhaps in the second half of 2012 and whether or not we would potentially see you look to get involved.
+If you're just going to take a clear approach and say no we're not interested in acquisitions for x amount of time until we get further along with Global Crossing.
+Just a little bit of color on that will be helpful as well.
+All right.
+Let me take the FX question.
+So just as a give a backdrop before we get to specific assumptions or anything like that for the expected guidance just keep in mind a couple of things.
+One predominantly our revenue continues to be denominated in U.S.
+dollars.
+So from a revenue by currency perspective close to 80% of our revenue base is in dollars.
+The next exposure is bond sterling; it's about 10%.
+But at the EBITDA line since our regional headquarters in EMEA is in London from an EBITDA perspective you're effectively hedged on the bond.
+The next one is euro.
+Our euro-denominated revenues are probably about 5% of the revenue base.
+So some exposure there but obviously more limited.
+And the next one is Brazil which is about roughly 4% of the revenue base.
+And then after that it drops pretty rapidly.
+Argentina is the next since [ph] about 1% we're hedged there too since our Latin America headquarters are in Argentina.
+So really the only exposures we have of note is from an unhedged perspective if you like the EBITDA line is euros and the Brazilian real.
+But as I indicated in some it's less than 10%.
+So I don't think the guidance is that sensitive to the EBITDA guidance.
+It's not sensitive the currency rates.
+Obviously if we had big movements and the dollar appreciated a lot we might have something to talk about.
+But I think within small movements we're in fact in a good place.
+With respect to global M&amp;A and our appetite and what's in the market I'm going to ask our Vice Chairman Buddy Miller.
+I said earlier repeat Buddy handles Strategy and Corporate Development our business development M&amp;A.
+So Buddy? As we've said from the time we've announced this Global Crossing merger our top priority is going to be making sure we get this integration done right.
+We learned some measures the hard way in the past and so we're very very focused on making sure we get through this integration right and that we don't distract ourselves from that task.
+As you know M&amp;A transactions take a long time to gestate.
+And there are parts of the world where we don't have a lot of integration work going on.
+And just by the nature of the combined company we're getting a lot more inbound calls than we used to and we of course have typically made a lot of outbound calls.
+So our level of interest both by us and by others in us is high.
+And so we'll continue to have discussions that are forward-looking not without a particular closing date in mind but just for industry-shaping kinds of discussions we've always had those continue to have those.
+It's going to be a judgment call on our part when we're close enough to on the one hand finishing the integration tasks we've set for ourselves.
+And on the other hand how long we think it would take before we could close the transaction and it would pose any meaningful load on the people we're looking to for the integration.
+So it's a combination of a lot of factors that will determine when we can do anything what part of the world it's in whether we have integration activity.
+And then beyond that when we get to a point on integration activity we can continue to -- that we could resume looking at any kind of an acquisition.
+I don't want to try to put any kind of prediction on the timescale on that.
+We will be very cautious.
+As just said in the start our first priority is making sure we get the integration done right.
+You can be certain; we're going to make sure of that.
+But you can also be sure we'll maintain our typical interest in M&amp;A.
+And as I said the interest level in us is higher and we're happy to see that.
+That answers your question Colby? LLC Research Division</strong> Yes that's perfect.
+I think we're closing in on the end of the call.
+We have time for one more question I think.
+Our last question comes from the line of Romeo Reyes Jefferies.
+Inc.
+Research Division</strong> Just a couple of questions on the integration for Jeff.
+We talked a couple of quarters ago about kind of the all the different components.
+In the last 3 months have you seen anything that would make it -- make the transition or rather the integration more or less difficult or is it about just what you expected? And then a quick question for Sunit.
+You have a fair amount of bank that come in due in 2014 Sunit that's relatively low cost.
+Are you looking at all with the favorable market environment and the momentum that you have with Global Crossing? Are you looking at all to potentially push that out at some point in 2012? So Romeo first for the integration question.
+There are no real transition or integration surprises.
+If there -- it isn't exactly a surprise but one of the things that I've found that I'm really pleased about is the quality of the Global Crossing team and the ability of the 2 teams to come together as one.
+That is a big differentiation for us and our ability to go to market our ability to represent the company going forward with customers to get the customers excited about the opportunities of the new company and that's been tremendous.
+So we're very pleased with that.
+We think that overall that makes transition and integration much more successful.
+You've heard us talk that the primary thing we need to do is to continue to maintain the customer experience and drive growth getting our sales team combined as one organization with a common focus and a common set of products to go to the worldwide geography that we sell to is pretty critical.
+There are no negative surprises about networks or any of that.
+It's pretty much as we expected.
+But we're really very pleased about the opportunity and have been that way since April when we announced the transaction.
+And then Romeo on your question on the term loan yes we have $1.4 billion coming due on that term loan in 2014 we have some time.
+And as we've always said we maintain to keep in close eye on the marketplace balancing that with our current profile and the improvement we continue to expect in our current profile.
+From a debt-to-EBITDA perspective our liquidity position currently is quite comfortable.
+But as always we continue to look at the market and be opportunistic and try to move ahead of when maturities come to you.
+So we'll continue to monitor that.
+Inc.
+Research Division</strong> One quick question Sunit on the guidance if you don't mind.
+How much of the integration expense do you have baked in 2012 EBITDA? It seems like for -- the number that we have on -- the pro forma combined number it was around $86 million or so of the integration expense.
+What's the comparable number for 2012? Well I mean as we said in our remarks we think that the integration expense in 2012 will be comparable to 2011.
+So without getting too specific obviously we'll be reporting on our integration expenses every quarter that we report.
+It's tough to be too precise based on the timing of [indiscernible].
+But generally it will be in the same vicinity or comparable as I said to what we saw in 2011.
+Obviously the mix changes a little in 2011.
+We had a higher mix of transaction expenses so we'll have much less of that since the transaction is done in 2012.
+But we'll continue to have expenses mostly in the area of severance retention and then other integration expenses.
+As we consolidate various platforms together we'll have some integration expenses so comparable to last year.
+Okay I'd sum it up this way.
+I think we have the great products.
+We're clearly investing in more and more experienced salespeople and you heard a fair amount of discussion about increasing our addressable market.
+You put those 3 together.
+You've seen the results over the last 6 or 8 quarters and we look forward to reporting those same kind of improvements over the next 6 or 8 quarters.
+Thank you very much.
+That ends the call.
+Ladies and gentlemen that does conclude the conference call for today.
+We thank you for your participation and ask that you please disconnect your lines.
+Have a great day everyone.

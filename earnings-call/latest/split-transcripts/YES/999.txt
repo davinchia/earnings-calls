@@ -1,0 +1,522 @@
+Good day everyone and welcome to the DuPont Fabros Technology First Quarter 2011 Earnings Conference Call.
+Today's conference is being recorded.
+At this time I would like to turn the conference to Chris Warnke Investor Relations Manager of DuPont Fabros.
+Please go ahead sir.
+Thank you.
+Good morning everyone and thank you for joining us today for DuPont Fabros Technology's First Quarter 2011 Results Conference Call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; and Mark Wetzel the company's Chief Financial Officer and Treasurer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income are contained in the company's earnings release issued last night which is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+To manage the call in a timely manner questions will be limited to 2 per caller.
+If you have additional questions please feel free to return to the queue.
+I will now turn the call over to Hossein.
+Thank you Chris and good morning everyone.
+Thank you for joining us on our first quarter 2011 earnings call.
+As noted in last night's press release we again delivered solid financial results which Mark will discuss later in the call.
+Our focus always has been to grow our business in a prudent and fruitful manner to increase not only our revenues and data center portfolios but also shareholder value.
+Since going public in 2007 we have increased our leased critical load from 75 megawatts to 141 megawatts an increase of 88%.
+Over the same period we have increased our revenues 135%.
+These achievements would not have been possible without our highly diligent and committed employees at DFT.
+I thank each of you for your contribution.
+Leasing has and continues to be the primary focus and catalyst for growth.
+So let me begin with an update.
+As of today we have signed 6 leases totaling 16 megawatts of critical load in 2011.
+This compares to 23 megawatts in all of 2010 or 70% of last year's total.
+This is a great start to the year.
+Five leases are with existing tenants and one lease is with a new tenant.
+One of our existing tenants in Phase I of Chicago who has preleased space in Phase II requested that they be able to relinquish 2 small pods totaling 0.9 megawatts.
+We agreed to take back this space since we have no available inventory.
+This enabled us to sign a 3.9-megawatt prelease in Phase II of Chicago with the same tenant.
+This tenant simply prefers the larger rooms at CH1.
+We were happy to accommodate them.
+New Jersey remains 22% leased.
+We see good demand.
+Leasing as always will be lumpy.
+Tours and traffic remain solid.
+We are touring approximately 3 tenants a week in New Jersey.
+Pricing remains solid and in the range we expected.
+We continue to expect to be 50% leased at the end of this year and 100% leased by the end of 2012.
+We continue to expect GAAP  unleveraged 12% return at 100% lease-up.
+Entering in new markets and pursuing a new tenant base require time to lease up.
+Decision-making for financial and enterprise companies typically takes longer than those of technology companies.
+From what we have experienced in New Jersey we do not expect a single tenant to take down large amounts of space.
+We have cast our nets wide to land many fish instead of a few large ones.
+These buildings have been designed so that rooms can be broken out into smaller increments.
+We're able to accommodate wholesale tenants as small as 250 kilowatts with dedicated PDUs.
+Each small tenant would still be able to enjoy the reliability and redundancy this facility offers just as much as the larger tenants would.
+As these small tenants' requirements grow we believe that they will take additional space with us.
+Subsequent to the end of the first quarter we signed one prelease with a tenant in Santa Clara.
+This prelease was for 2.28 megawatts or 13% of Phase I.
+This tenant is a Fortune 50 technology company with excellent credit.
+To have a leading-edge company make this decision to choose DFT to provide for a portion of their data center needs reinforces the excellence of the building designs and operating teams.
+We continue to have very good traffic in Santa Clara.
+As a reminder we expect to be 22% leased in Santa Clara at the end of this year.
+We have reconfirmed an 18-month lease-up from opening and remain confident with these lease assumptions.
+We have seen many companies are realizing the value of outsourcing their data center requirements to DFT.
+We provide them with the reliability and dependability of an experienced operating team who intends to be in the business for a very long time.
+A cost-effective solution to their data center needs calculated on a per kilowatt basis our tenants are able to optimize their cost savings from: the bulk energy pricing we're able to achieve the large-scale cooling infrastructure our facilities offer and the shared operating expenses spread across a very large building platform.
+And lastly with just-in-time inventory it is very difficult for most companies to capacity plan what their requirements will be in 3 to 5 years.
+It takes a long time and money to build a data center.
+If projections are unrealized the excess capacity would be unutilized.
+As our tenants' demands grow they are able to take additional space when needed.
+We pay close attention to the developments in the data center design.
+Although there is a market for a modular product we firmly believe this is not a replacement for the wholesale data center.
+At the same redundancy the construction costs are similar.
+From a quality standpoint our facilities are superior and provide a significantly longer useful life.
+The per-kilowatt operating cost of the larger data centers are lower.
+Our development team continues to make improvements in the construction process which will result in a shortened development timeline.
+Our 3 current developments are on budget and on schedule.
+Both Phase Is of ACC6 and Santa Clara are scheduled to be delivered in the third quarter of 2011.
+Chicago Phase II is scheduled to be delivered in the first quarter of 2012.
+We are actively preleasing all 3.
+With our current developments in progress our 2011 guidance assumes we do not start any additional developments in 2011.
+Our primary focus is to lease and prelease our current inventory.
+Our top 3 tenants represent 58% of our annualized base rent as of March 31.
+Our top 2 tenants represent 40%.
+The remaining lease term for our top 2 tenants is 7.2 years.
+The average lease term for our entire portfolio is 6.8 years.
+We expect our fourth quarter 2011 lease expirations to be extended.
+The tenants have an option to terminate the lease but it should be renewed in conjunction with government approving the funding for our customer.
+Now I will turn the call over to Mark who will take you through our financial results.
+Thank you Hossein.
+Good morning everyone and thank you for joining us.
+I want to cover 3 main topics today: our first quarter results a capital markets update and a 2011 guidance update.
+For the first quarter of 2011 the company's FFO was $0.38 per share compared to $0.30 per share in the first quarter of 2010 an increase of 27%.
+This was due primarily to increased operating revenue from lease commencements.
+Quarterly revenues were $68.5 million an increase of $11.6 million or 20% over the first quarter of 2010.
+AFFO was $0.25 per share for the first quarter compared to $0.18 per share quarter-over-quarter an increase of 39%.
+Sequentially as compared to Q4 revenues increased 4% from $66 million to $68.5 million.
+Three leases commenced during the quarter.
+FFO per share increased from $0.33 to $0.38 or 15%.
+As to a quick capital markets update all of which has been previously discussed we amended our $100 million line of credit by eliminating the 1% LIBOR floor.
+Currently we have not borrowed against this line.
+In March we sold 4.1 million shares of perpetual preferred stock raising approximately $97.5 million.
+Cash on hand stands at $190 million today and the $100 million revolving line of credit is fully available to us.
+We are fully funded to complete our 3 current developments.
+As noted in our recent proxy and at last night's press release we agreed to purchase an undeveloped parcel of land for $9.6 million.
+The land will be acquired from an entity controlled by Lammot and Hossein our Chairman and CEO.
+The purchase price was based on the average of 2 independent appraisals and managed by the audit committee of our Board of Directors.
+The location of this parcel which consists of approximately 23 acres is adjacent to our ACC data center campus in Ashburn.
+This allows us to build a 36.4-megawatt facility identical to ACC5.
+Our FFO guidance range for the second quarter of 2011 is $0.39 to $0.42 per share.
+Full year FFO guidance range guidance remains unchanged at $1.50 to $1.70 per share.
+Speculative revenue for 2011 is approximately $5 million or $0.06 from new leases forecasted to be signed and commenced subsequent to this call in 2011.
+This is primarily weighted to the fourth quarter of this year.
+As a reminder our 2011 guidance has lease commencements in New Jersey at 50% ACC6 at 30% and Santa Clara at 22% by year end.
+G&amp;A for Q1 may appear high sequentially but we expect it to drop and be in the high side of our guidance range of $16 million to $18 million.
+Interest capitalized totaled $6.3 million in Q1.
+We expect between $8 million and $9 million in each of Q2 and Q3 and the remainder to fall in Q4.
+Straight-line rent was $11.9 million in Q1.
+We expect it to drop to $11 million in Q2 and approximately $8.5 million each for Q3 and Q4 hitting the $40 million midpoint guidance range.
+Increased cash rents for the leases signed over the last 2 quarters drive this down on a sequential basis.
+We expect AFFO to increase faster than FFO on a percentage basis year-over-year.
+We tightened the range of our Santa Clara development by $20 million ACC6 by $10 million and provided a Chicago Phase II midpoint range of $195 million or approximately $10.7 million per megawatt.
+This detail is on Page 11 of our press release.
+We continue to expect a 12% return on cost in Santa Clara and Chicago and a 15% return on cost in Ashburn when 100% of leases have commenced at each location.
+As to our cash/CapEx/development spend this year plan on $100 million in Q2 $100 million in Q3 with a total spend of approximately $375 million for the year.
+We believe our solid financial condition and balance sheet flexibility puts us in a great position to continue to grow the company.
+We continue to improve on every financial metric in our required covenants sequentially quarter-after-quarter.
+With that let me turn it back over to Hossein.
+Thanks Mark.
+Our top priorities at this point are: to continue to lease up New Jersey; to prelease Santa Clara ACC6 and Chicago Phase II; to complete the development and open Santa Clara and ACC6 in the third quarter of this year; to complete the development and open Phase II of Chicago in the first quarter of 2012; and to maximize property operations by taking care of our current tenants and provide organic growth for new leases.
+With that we'll be happy to open up the call for questions.
+[Operator Instructions] Our first question will come from Michael Bilerman of Citi.
+And I've got Mark Montandon and Quentin Velleley on the phone with me as well.
+Hossein can you just talk a little bit about the land purchase? I know when we did this at that time of the IPO it was left out and obviously you didn't feel like you were going to get the value for the land at the IPO pricing.
+But I'm just curious as you think about you couldn't sell that land into any other data center developer DuPont Fabros was the only person.
+How did the appraisals or even a discount to appraisal take that into consideration? And then in terms of the compensation that you got for it how did you -- how did the board get comfortable paying cash versus paying in stock? Yes I'll be happy to address those.
+Well first of all I think it's an untrue comment.
+At the time of the IPO we could've very easily sold the land to the REIT and I think we would've gotten a very good pricing on it.
+And money 4 years ago would certainly be more valuable than money today.
+So I think the premise that we couldn't have done it is not true We could've.
+I think in a sense what I have to do and make the decision and the board has to agree is to have a deal that is fair and equitable to the investors on the private side because Lammot and I are not the only investors on that side.
+I think in the aggregate -- we're small I think we're about 40%.
+And personally we're about 40% of the seller and on the other side we have the REIT.
+So we wanted a deal that would be fair on both sides.
+And when we took that into account the appraiser took into account the fact that what data center lands have sold in the area.
+And I also disagree with you.
+There could've possibly been scenarios where we could have sold the land to a possible user of data centers.
+And we could've also possibly sold the land to a retail player that is not a direct competition of DFT.
+But in a sense I think our private side of our business has helped the public company so that the private company in my world have essentially a free option at a fair price on all the land that we control.
+So I think of it as a benefit.
+And in terms of taking stock versus cash? I think the seller certainly wanted cash.
+We could've taken stock but the seller certainly wanted cash for some obligations.
+So whether we have sold the deal to anybody it would have been for cash.
+No I'm saying from the REIT buying the land from you why wouldn't you take back stock in the REIT versus -- your other partners could've taken cash but you and Lammot as large shareholders to align the interests that the REIT -- obviously you're a large shareholder already but to align net interest of taking back currency rather than taking back cash.
+Mike this is Mark Wetzel.
+I think that the theory was from the audit committee running the process it was independent it was fair.
+The idea of how the currency was paid there was other partners involved and it was just cleaner to make a clean deal with cash.
+Just a question on New Jersey and then we'll hop back in the queue.
+I know last quarter we had asked about going smaller.
+And I think you said that was certainly a possibility but you didn't believe you had to go down that road.
+And now it appears that you are going down that road.
+And I guess how do you think you're -- given that you have a very large facility how do you think you're going to be able to compete in smaller sizes relative to other competitors in the area? And how do you think that's going to parlay into Santa Clara as well about your leasing strategy as you enter these new markets? It would appear that New Jersey certainly has been different than what you thought when you originally started developing it a number of years ago.
+I disagree with 2 things that you said.
+The first of which is yes we always thought New Jersey would be taking smaller increment data centers.
+That has not changed from the start.
+Also if you remember from the very start we've always said New Jersey will take 2 years from opening to lease.
+So the lease-up of New Jersey is very much in line with our expectations.
+We always thought this would be the case.
+And in fact the way we've designed the building and we've spent significant money to design it so it does have the flexibility that we can have larger tenants or smaller tenants.
+So the physical space of the building and the corridors that the decision was made to build those corridors 3 years ago when we originally designed the building always took into account that so we can accommodate smaller tenants.
+From a tenancy standpoint having multiple tenants would be a better deal than having single tenants.
+What I did say is that I have been surprised in markets like in Virginia that there were always such large tenants available.
+But we've designed all our data centers from the start to take multiple tenants.
+The buildings can accommodate more than 40 different tenants in one building.
+It just so happens in Virginia that we have say 12 tenants in a 36-megawatt building.
+But the reverse is true.
+New Jersey is panning out exactly as we thought.
+And Virginia has exceeded our expectations in leasing and on tenant sizes.
+Our next question comes from Jordan Sadler of KeyBanc.
+I wanted to just touch base on Santa Clara.
+It looks like you've got some success there which is nice this being a new market for you on the preleasing front to be able to sign a tenant.
+I'm curious is this an existing tenant within your portfolio either in Chicago or northern Virginia maybe more obviously? No it's a new tenant that we're very proud to have.
+Okay.
+So I know you said Fortune 50.
+So it's not Google Microsoft or Yahoo! just another...
+We can't comment on who the tenant is but it's a new tenant.
+Okay that's helpful.
+But being a Fortune 50 tenant the size of the lease I mean it's obviously probably significant in terms of overall scale for an average tenant.
+But that doesn't seem like a huge lease.
+Is there upside to this deal or expansion options maybe? We're not going to comment on that on any options tenants may or may not have.
+But it's been our general modus operandi that each one of our tenants has multiple -- in the end they expand multiple times and I'm cautiously optimistic that this will be the case.
+And can you just give us some feeling for the terms or the duration of the lease? And maybe are rents consistent with original underwriting or what have you? Yes Jordan this is Mark.
+The rents are consistent with our underwriting.
+And I think -- I thought we might have disclosed this.
+It's a 7-year lease.
+And then the new land the timing of the close on that? It should be sometime in Q2 or Q3 but definitely this year.
+Okay.
+And does it need to be a sort of worked through with the entitlement process at this point or is it more...
+We have all the entitlements of the land in place.
+Okay.
+And then you touched on some of the existing rolling leases.
+I know you only have 3 leases rolling through 2012.
+I think you'd touched on the one later this year that you expect to renew.
+What would be the expectations in terms of rents on that renewal? And would you need to commit additional capital the leasing costs et cetera? No that Q4 '11 lease expiration is really a termination option that we basically disclosed that  it could be terminated.
+But the rent will stay the same and increase on 3% bumps.
+Okay.
+So that's not the one lease that was scheduled to expire for...
+No I mean it's scheduled to expire in the termination option because the tenant has work with somebody in the government space.
+We disclosed it as an expiration but it's really a termination right.
+The lease will go on.
+I got you.
+And then so can you maybe update us on the 2012 roll any sort of discussions or expectations? Obviously we're again cautiously optimistic but we have nothing new to report there.
+Our next question comes from Brendan Maiorana with Wells Fargo.
+LLC</strong> I had a question I just wanted to follow up a little bit on New Jersey.
+It sounds like the traffic trends there are good.
+But I guess going downstream in terms of tenant size and still having good traffic I'm a little bit surprised that you would still expect to see kind of lumpy leasing progress.
+I would think that that would make the leasing progress a little bit more ratable towards -- as you go out towards the end of 2012.
+Can you just kind of talk about the dynamics of not getting a couple of 250 or 500 kW tenants in there thus far and sort of the outlook as you go through the remainder of the year just given that you're going down in terms of size? Well I think the issue -- I think we always had a 250-kilowatt things in mind.
+Leasing will always be lumpy.
+And I think I've said that on every single earnings call we've had.
+And if you straight-line it in the perfect Excel world right now we should be at I guess I don't know 23% or 25% and we're at 22% which is the same thing.
+So we're in line where we expect to be on leasing.
+And we have very good traffic.
+We feel very good prospects in our pipeline.
+And as I mentioned we have about 3 tours a week.
+We feel that we have the best product in the market at a very competitive price.
+So I think a lot of questions will be asked on New Jersey just like 2 years ago we had many questions asked on Chicago.
+And we came around and we leased up that site in 21 months when we said it would take 24 months.
+So we expect it to continue to grow with our expectations.
+And I think Brendan decision-making is just a little longer as Hossein said in his prepared remarks.
+It does take time it doesn't always match up with our earnings calls but we remain comfortable that we are on the right path.
+We have the right team up there they're hustling.
+We acknowledge there's competition but we think we have a better product.
+LLC</strong> And is there -- I know your returns and the pro formas that you're looking at have held steady.
+But are you seeing that your competitors in that market are getting any more aggressive in terms of pricing? We're not really here to comment on our competitors.
+The way the leases work are not always the same.
+We've got our triple-net model some people don't have the triple-net model.
+Their operating expense pass-throughs may look different.
+So I don't really want to comment on our competitors but we've seen our returns hold and I can only really comment on ourselves.
+LLC</strong> Okay fair enough.
+Then just second question on straight-line rent Mark you kind of mentioned that you'll be down a little bit in Q2 and then down significantly in Q3 and Q4.
+Given that you've got leasing expectations for New Jersey Santa Clara and ACC6 for the back half of the year it seems like -- are you suggesting either that there's going to be very little contribution from those assets in 2011 even though they're going to be fairly leased or that you expect free rent trends at those projects to be less than maybe what some of your development projects have been historically? Well I think you've got to almost look at each asset standalone because let's face it 2 buildings we're not opening until mid- to late Q3.
+So it's really a little bit in Q3 and then Q4.
+So we have one lease in hand in Santa Clara.
+We only have penciled in 2 small leases between now and year end to get the 22% leased.
+In New Jersey we're at 22% we're projecting to go to 50%.
+Those leases are kind of Q2 3 and 4.
+Obviously full run rates as you hit the end of the year.
+And then in ACC6 again we're not opening until late Q3 so the same issue there.
+So the burnoff of free rent as you call it for leases signed late last year early this year is where you're seeing that come mostly into play.
+LLC</strong> But I guess is it fair to assume that you'll have an initial free-rent period in most of the new development projects in leasing...
+Yes I think that's a fair statement that we...
+We really like to call it the ramp in that these tenants would -- say a 2 megawatt room will need -- will conceal [ph] about 8 000 servers.
+That tenant doesn't necessarily put in 8 000 servers in day one.
+They will build into that and typically that process may take about 18 months.
+And on a 10-year lease we'll have some level of ramp which call it a year call it sometimes 6 months sometimes 18 months for that ramp to be -- for the rent to follow the ramp as the tenant builds up on a must-take basis.
+LLC</strong> Right yes.
+The cash rent follows the ramp but the GAAP rent is kind of flat throughout...
+Exactly.
+No different than the commercial office guys.
+Our next question comes from Sloan Bohlen of Goldman Sachs.
+I just have one question.
+We've had 2 quarters now where you've had an existing tenant give back some space to take bigger space in a newer facility.
+Can you give us a sense of whether you've got other tenants that are looking at that type of opportunity? And maybe just give us a sense as to why it's not expansion space as opposed to just taking on new space.
+I think it depends on the application of each tenant.
+I wouldn't put them all in the same category.
+In this particular case it was simply that the tenant initially was worried that we would not build Phase II -- and I'm presuming this -- and so they took everything we had in the building.
+When they realized we're going to have Phase II available the rooms that were smaller that were less optimum for them they asked if we could give those back assuming they took a big chunk which was 3.9 megawatts in Phase II.
+And we accommodated them.
+And I think one of the advantages of being a data center operator/landlord in multiple jurisdictions that is constantly building is that we can accommodate the tenants' needs from one market to another.
+Or if their demands change many times we will look at the leases in place and make accommodations for them although those accommodations are generally not written in the lease.
+Okay.
+And then in general most of these tenants they're not looking to migrate out of markets right? One of your competitors had said that location relative to their operations is generally a pretty key determination.
+Yes that's absolutely true.
+I mean there are tenants that generally -- let's face it 95% of our tenants is new expansion space.
+It's not consolidation.
+So typically is whether they'll expand into a new market and whether they want to go into a Phase II of a current market.
+It's not moving out it's simply where they want to expand next.
+Our next question comes from Jonathan Schildkraut of Evercore.
+Listen I just want to get an understanding Hossein.
+I think there's been a lot of concern that the market has sort of changed over the last 12 or 18 months.
+And from your perspective if maybe you could give us some color as to how you see the playing field today versus 12 or 18 months ago.
+And as a subpart of that question while I know that you see different customers in different geographies has there been any change in terms of the customer profile that's been coming through in terms of some of the tours? First of all I would say no.
+We have not seen any change in profile.
+Obviously I think what you're talking about there was a big pent-up demand 18 months ago that some of our competitors may -- took advantage of of getting some extraordinarily high rents in the say the Santa Clara area where the social network sites.
+But those rents were not really sustainable or achievable.
+We never achieved or we never went after getting a 30% rent hike at the time because those customers were repeat customers with us and we would always give them the then-escalated rent even though they were squeezed for space.
+So we haven't seen any rent drop but we never saw the rent spike 18 months ago.
+And as far as the tenant profile well Internet tenants grow very very rapidly.
+And a tenant that grows beyond 15 megawatts or so they'll start looking at building their own space.
+But we're in the outsourcing business.
+But behind that tenant there is always 5 new tenants that are growing very rapidly.
+And those 5 new tenants we see them interested in the space and their business is growing and slowly their valuation's increasing and then coming to us for new space.
+Right.
+And in terms of that customer evolution though we really haven't seen any customers move out of your data centers though at this point.
+They may have started to build some of their own space but we haven't seen anybody make a move to leave.
+Yes that's consistent with what we've seen.
+And generally they are building their own for just expansion space.
+It doesn't necessarily mean they're moving out.
+We provide a good product and a good service which we think is a fair price and we mean to please our customers all the time.
+So I think your comment is correct.
+All right.
+One last question if I may.
+Facebook put out some information around open source data centers kind of laid out some different architecture.
+We've also been hearing a lot about containerized data centers for expansion in a more modular sense.
+DuPont Fabros has its own design for its data centers which has been very consistent across your footprint.
+How do you feel about some of the new designs that are coming into the marketplace? Have you guys considered implementing any of the energy-saving or scalability elements of some of those new designs? And how do you think they rate relative to where you guys are? I think some designs are very innovative but not for everyone.
+And I'll give you -- I was by the way there at the Facebook event the day they had their presentation.
+And I think on certain applications for them and not for everything they do for certain types of things they do that design is perfect.
+But for example that design relies on servers running outside of the actuary range with essentially no air-conditioning.
+They've got some air movement of air.
+Now our customers in general want air-conditioning.
+So if a tenant is willing to take certain aspects of risk they can save costs.
+And that's essentially is how much risk does the tenant want to take.
+We need to run our business kind of in the middle of the road where we feel that most of our tenants have a risk tolerance.
+And with certain designs you could increase risk and reduce costs.
+Now Facebook has been very successful to do that and they'll be using it for certain applications.
+And it's a similar saying with the modular design of data centers.
+The modular design we feel there's absolutely a place in the market for it.
+The initial cost what we're seeing -- and we look at this very very carefully -- is on an N plus 2  system it's similar to our construction costs in Virginia.
+So there's not -- and for the same cost we're getting like a real building versus than the modular metal trailer of a data center.
+Now if you're a tenant and have a 400-kilowatt need and absolutely want your data to be near your office building that trailer is perfect to hook up at the back of your parking lot of your office building but it not necessarily will replace the data center.
+We're also seeing operating costs on a 36-megawatt building drop significantly on a per-kilowatt basis than some of the smaller designs.
+So again we're looking at it.
+Whatever aspects of design we can use we are using.
+And some of them is not really things like that are -- it's things that everyone in the data center industry has been thinking about.
+For example many people have been thinking about some of the Facebook design and running higher voltages.
+So some of those aspects all of us are looking at very carefully and incorporating from one design to another.
+But the way we see it right now is that these innovations are good for certain applications but the mainstream low-cost high-efficient buildings will always be a demand for.
+We'll go next to Romeo Reyes of Jefferies.
+Inc.</strong> Just a couple of quick questions here.
+The $375 million of CapEx for 2011 the Santa Clara I and Chicago Phase II how much will you have built by the end of the year with that $375 million of CapEx? Those will be completely finished so expect on those -- those buildings will be opened and commissioned in late Q3.
+There'll be obviously some contingency fallout spend after the fact maybe in Q4 but the bulk of that will be finished by the end of the year.
+Inc.</strong> Okay.
+Second quick question.
+On NJ1 and Chicago Phase I the $47 million of base rent that you have in Q1 how much of the leases for NJ1 does that -- does that represent all 22% in Chicago? It was 9%.
+The last lease will commence April 1.
+So I think in the details of our press release we had a chart that laid out.
+It was 9% as of 3/31 and one lease beginning in Q2.
+Inc.</strong> Okay.
+So that doesn't represent the full 22% prelease? That's correct.
+Only 9%.
+Inc.</strong> And Chicago Phase I? Chicago was the full -- at 95%.
+Obviously we had the 5% the 2 rooms to give back.
+But it's 95%.
+We'll go next to Rob Stevenson of Macquarie.
+Can you tell me a little bit about what you're seeing in terms of development costs today? If you were to start either ACC Phase II or Santa Clara Phase II what the construction cost differential would wind up being on a per square foot basis versus their Phase Is? Well I mean the Phase IIs to the extent that we've built the shell and the land we obviously don't need that money and we've also spent the design.
+So that money aspect of it would be saved.
+But as far as any inflationary pressures on us everywhere the markets that we're in the labor is unionized.
+So that labor generally doesn't go down and if anything it goes up with inflation.
+As far as equipment costs there have not been dramatic increases or reductions in equipment costs that we're seeing on new equipment.
+On precast concrete we're seeing some savings only because the precast concrete plants can't be shut down.
+But on aspects of the construction costs like a sand and gravel operation to the extent that there is a recession and the sand and gravel operation needs business the owner of that sand and gravel operation simply shuts down that business.
+And so we don't really see dramatic reduction in construction costs.
+So what we've generally done and again I'm speaking very broadly with our innovation and design we're able to get -- produce data centers in each of the markets similar to the last data center that we built.
+So we're keeping up with inflation but not going down or up any other way in general.
+Okay that's helpful.
+And then a quick question on land.
+At the IPO you guys had -- you and Lammot had like 40 acres in Phoenix and 500-and-some acres in northern Virginia.
+Can you sort of talk about whether or not that stuff is -- how much more of that stuff might be applicable for data center and whether or not it might come into the REIT at some point? I think in northern Virginia to the extent I kind of -- as a feel of the REIT I think the REIT has tremendously benefited from our personal landholdings in that the REIT essentially has a free option which has a value that they're not paying for that they can take land down from us as they need it.
+And like other REITs that they continuously have to in the best market in the country which is northern Virginia look for land and buy it we essentially as the REIT needs it we'll sell the REIT land at fair market prices.
+But Virginia is the only place where that exists.
+And the amount of land that we own in Virginia I would look at it as infinite almost as far as the REIT is concerned in the near future.
+The REIT -- I mean if I had to put a number of years we have enough land for the next 10 years for the REIT.
+So that's never going to come into play that the REIT is going to need -- to run out of land.
+So it's a huge benefit to DuPont Fabros Technology that as they need it they can take down land from us.
+Okay.
+And then I guess the other question that sort of dovetails in with that is how aggressively are you guys looking for land in other markets today? Because I would imagine that even though that you could grow for well into the future in New Jersey -- I mean into northern Virginia that that would be sort of problematic to you guys ever getting sort of investment grade debt rating et cetera given the concentration of assets issue.
+Well don't forget that our landholdings in the other 3 markets we're just getting into the Phase IIs.
+So in New Jersey in Chicago we're just building the Phase II and in Santa Clara we have enough expansion space for Phase IIs.
+So that's an additional 18 megawatts of growth already in place.
+So we don't want the REITs holding necessarily more land in those areas and having to carry it when we have an expansion option that can essentially double our footprint in each of the 3 markets.
+Our next question comes from Sri Nagarajan of FBR.
+I have two specific questions.
+First in follow-up to the earlier question.
+Curious as to the timing of the land purchase in particular since you have ACC6 Phase II as well as ACC7 in tow what background can you give us on the timing of the land purchase this quarter? Don't forget design of data centers and it takes us the way we improve them generally 6 months of the year to design it.
+So the timing of the -- typically we want to be a few years ahead of that.
+So the timing of the close would be sometime in the next 6 months.
+Okay.
+I guess there was no urgent need per se in terms of closing it in the next 6 months right because you have ACC7 as well? That's correct.
+I mean obviously ACC6 Phase I is -- we're opening the doors this summer.
+We have obviously Phase II.
+That's a smaller footprint.
+So that -- 13 plus 13 is 26 megawatts.
+But the idea of -- we do have an ACC7 piece of land it's roughly a 10-megawatt building.
+Obviously we like the bigger platform 36-floor and most tenants like that.
+But I think what we would do is after ACC6 Phase II is done we would move to build a building on the new land that can accommodate a 36-megawatt building and we would keep what was previously called ACC7 land for a user.
+Fair enough.
+Second question there have been a myriad of questions on New Jersey but here's another angle at this.
+What competitive supply are you tracking in New Jersey? And does that worry you today? No I think if you look at -- some of the analysts have done a very decent job as a supply report.
+And I think that some of the supplies -- if someone is building a shell we don't call that a supply.
+If someone has intention of building a data center we don't call that a supply.
+And if someone has built a retail space we don't call that a supply.
+So once you take those elements out we're comfortable that the demand in the market is ripe for the supply.
+We'll go next to John Stewart of Green Street Advisors.
+Inc.</strong> Hossein on the remaining land that you own outside the REIT is the ownership structure similar there where you and Lammot have a 40% interest? No it's different but I'm not -- no it's not.
+It's different.
+Inc.</strong> Okay.
+And the partner on the parcel that was just acquired were they in any way affiliated with the REIT or completely independent? There was one party that was affiliated with the REIT and they were not allowed to make any votes on the voting.
+Inc.</strong> Okay.
+And just to make sure I understand on New Jersey specifically should we infer from your comments that basically standard terms would be a year of free rent on a 10-year deal with 3% bumps? I don't want to go there because we have -- it depends on the rents depends on the credits depends on the size of the deals.
+I don't want to necessarily model that in.
+So it's too generic to say yes to that.
+Inc.</strong> Okay.
+And then lastly on the 4Q '11 termination option.
+Sorry if I missed this but did you handicap whether you think they are likely to renew? Or is that government contract at risk? We believe it's more likely they will renew.
+From what we hear on the ground it is not at risk.
+Our next question comes from Tayo Okusanya of Jefferies &amp; Company.
+Inc.</strong> Yes most of my questions have been answered.
+I just had a quick question about ACC6.
+Hossein would you venture to say that one of the reasons that you haven't leased up any space in that asset at this point was because you did have availability in ACC5 and so as a result potential tenants wanted that space first before going over to ACC6? I think the need for the tenants that we saw in ACC5 was an immediate need so they took the space in 5.
+I think the quality of the assets they're both very similar.
+If anything ACC6 is slightly superior.
+But Tayo we just leased 4.5 megawatts at 5 this past quarter so I think you're on the right track that they obviously grabbed that space because they needed it now they didn't need it this summer.
+Inc.</strong> Got it that's helpful.
+And then NJ1 that's 22% leased but only 9% occupied.
+Can you give us a sense of when the other 13% of the signed leases commence? It commenced April 1 so the first day of Q2.
+Inc.</strong> Okay.
+So they've started up already.
+Yes.
+We'll go next to Ross Nussbaum of UBS.
+On the land parcel so when do you envision actually starting construction on the land you just purchased? I don't want to say it because that would mean I'm telling you when we're announcing it.
+But we don't have an immediate plan for the REIT to have inventory as other REITs you may have noticed.
+It takes us a significant amount of time at least for DuPont Fabros to develop the next product.
+And from ACC4 to ACC5 we made 250 changes only 2 of which are visible with the naked eye.
+So we want to control our future to be able to design a product that we're very proud of and improves on what we currently have.
+So after the purchase we'll start that engineering process.
+But Ross specifically ACC6 Phase I would have to be 100% leased.
+Phase II we would be in the middle of building that.
+That would have to be well on the way leased before we'd even think of putting the shovel in the ground on that new 36.4-megawatt building.
+So if you assume an 18-month lease-up on 6 Phase I whether that goes faster that would be great.
+We will build it as fast as we need from an inventory perspective.
+What we don't like is to sit here today with no inventory in northern Virginia.
+I guess that all makes perfect sense to me.
+I guess it begs the question then why did the REIT buy the land now? It sounds like the free option isn't so free because now you're going to be carrying this land for 18 months before you start building on it.
+Well I think it's just part of the growth story.
+We think -- obviously there's other folks buying data center land in northern Virginia and can tout the fact that they can grow and we want to do the same.
+For $9.6 million we think that's the right carry for us.
+And frankly the price that the land is on the contract is significantly lower on a per-acre basis and significantly lower on a per-buildable-foot basis than any other data center that's created.
+So it's a terrific price for the REIT to own it.
+Okay.
+On the development yields you quoted that the 12% on New Jersey Santa Clara and Chicago and the 15% on Ashburn are those GAAP or are those cash just to confirm? It's GAAP at the first quarter of stabilization -- of lease commencement for all buildings.
+So let's take say on New Jersey what do you think the initial cash yield is the day these things are 100% occupied? And how long does it take -- I guess you're saying it's going to take 6 to 18 months before it hits its fully stabilized cash yield.
+Well cash is a mixture.
+Obviously there's base rent that potentially has this free-rent period of time.
+But the tenant pass-throughs recoveries typically start day one.
+So we focus on leasing the building.
+Free rent is a function of as Hossein explained who the tenant is how long how much space they want et cetera et cetera.
+So at a minimum it's 6 months.
+It could be a year.
+Our next question comes from Chris Lucas of Robert W.
+Baird.
+Hossein I guess on the land parcel one last question at least from my perspective.
+I did notice on a recent trip out to the development site at ACC6 that all of the trailers had been moved much of the construction equipment had been moved to what appears to be the parcel you're going to acquire.
+I guess I was curious as to whether or not the REIT is paying any rent for the usage of that storage right now to the current owners of the parcel.
+No I mean in a sense of again just us controlling this land and I hope this is the last question is a huge benefit.
+The partnership allowed the REIT to store dirt on the land to store trailers on the land and use it at will without paying any additional rent or anything.
+So whenever we had dirt moved on it we allowed that.
+Whenever they needed fill from it we allowed that and to essentially use it as a storage site without paying any rent.
+Okay great.
+And then on the demand in northern Virginia I guess it's been almost a year since the President issued an executive order mandating a reduction in real estate expenses broadly and specifically on a consolidation of data centers within the federal government.
+Have you seen any movement either from the federal government or from the contractors that might support that effort in terms of potential demand in northern Virginia at this point? From time to time there are various RFPs that we bid on but I wouldn't model it in on any event.
+And I think part of the misconception here is the federal government has said they'll close 800 data centers.
+But what was being very unclear and I've been saying that for a year is what is their definition of a data center? And there was a recent article that came out that calculated some of these data centers are 500 square feet or 1 000 square feet or 10 000 square feet.
+So some of these are very very small.
+And it's unclear what that definition is of the closure of these.
+And they said they're closing 137 data centers.
+And one of the analysts I believe it was Tier1 did a writeup that actually came out and it validated my point that some of those data centers are very very small and that I wouldn't even call them a data center.
+Right.
+But it's really a consolidation rather than a closure.
+And I think it will be big.
+But I mean to answer your question we haven't seen a huge interest from the federal government other than the typical stuff we bid on.
+[Operator Instructions] We'll take a follow-up question from Michael Bilerman of Citi.
+It's Mark Montandon here with Michael.
+Just had a question on possible refinancing of your $500 million 8.5% notes.
+It looks like the public market is giving you a much lower rate than that.
+I didn't know if you had given that any consideration and what the possible timeline would be on that.
+On the secured loan or the unsecured loan? On the unsecured loan the 8.5%.
+Well I believe that's a 4-year period that we can't touch it or obviously pay a premium if we take it out.
+But we're -- obviously our bonds those bonds are trading very nicely right now.
+The idea of taking that out in the near-term is not on the radar.
+We will obviously look at that secured loan that has a Q4 '14 maturity date to deal with that.
+But at that point we may look at it.
+But sitting here today we don't envision touching that at least in 2011.
+And have you priced what the take-out price -- I guess what you could achieve in the market today? I think you can look that up on Bloomberg.
+Notes are generally trading around the 6% range.
+And you think you could achieve that? Have you talked to your lenders recently? Well it's not a lender it's a bond right? So you as the bondholder so if you wanted to you would go out.
+But we can't because of the prepayment penalty.
+But typically they're trading at that range and you would think if you wanted to do it it would be in the range that they're trading now.
+Our next will be a follow-up question from Jordan Sadler of KeyBanc.
+I'll try to make this quick.
+We've got a reasonable handle on supply.
+Can you maybe help us out on the demand ranking your markets where you're seeing the most rank today in terms of tours or demand? Just maybe ranking the 4 markets.
+Yes I think you guys at KeyBanc did a great job on your supply report and the recent one you published.
+I think on the demand side I would say the New Jersey is the fourth out of our market the fourth-best market.
+The third-best market I would say is probably right now may be Chicago tied with Santa Clara.
+And the best would be probably Virginia in terms of overall demand.
+That's sort of an interesting combination because in terms of availability of existing sort of stock we've got sort of almost nothing available in terms of wholesale inventory in northern Virginia yet you've got this strong demand.
+So is it safe to assume that we should expect a significant level of activity there? We're talking to people.
+But don't forget the majority of the demand that's coming online will be us delivering 13 megawatts.
+Your supply.
+Right.
+Yes.
+So the majority of the supply will be us supplying the big supply in northern Virginia.
+And I think other people know others developers know there's no secret that we're supplying 13 megawatts and they may not necessarily want to compete with us.
+I was just going to say do you expect the demand to come from inside of your existing park there as we've seen in sort of previous instances? I think there always will be good demand from inside.
+I would say probably 50-50.
+I think northern Virginia I would rank has always been the best market number 1 or number 2 in the country.
+I think in terms of supply Chicago is very very tight right now.
+But the Chicago demand I wouldn't say necessarily is as strong as northern Virginia or Santa Clara.
+Again so in Santa Clara on the other side we have more supply available but better demand as well.
+And again we're seeing many tenants that we have in Virginia also look at Santa Clara.
+And the way our buildings are designed which is essentially the same engineering same infrastructure they can look at their pods that they're in in Virginia and essentially cut and paste their design into a product in Santa Clara which would save them time expenses and a lot of thinking.
+Our final question will come from Brendan Maiorana of Wells Fargo.
+LLC</strong> Just a quick follow-up for Mark.
+The other revenue line was down fairly sharply in this quarter.
+I think -- it looks like you kept the guidance about the same.
+So I guess the forward expectation would be kind of $2.5 million to $3 million per quarter from that line item.
+Is that still accurate? Yes I'd probably steer you toward the low end of that $8 million.
+Obviously this other income line is a function of the one-time projects with regards to building out rooms as they open.
+So as we envision buying up new leases between now and year end that work we have to bid on that work.
+We win the majority of it but we don't win all of it.
+So it's margin business only because the other expense line is down as well.
+So from an EBITDA or a FFO perspective it's not big dollars but it is something we like to help our customers and prospective tenants when they do that.
+But it's a function of winning leases and then in round 2 winning the buildout of the rooms.
+So it's one-time nonrecurring type of work.
+That does conclude today's conference.
+Thank you all for your participation.
+Thank you for joining us today.

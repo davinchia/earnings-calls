@@ -1,0 +1,501 @@
+Good day ladies and gentlemen.
+And welcome to the Navistar's First Quarter 2015 Earnings Results Conference Call.
+At this time all participants are in a listen-only mode.
+Later we will conduct a question-and-answer session and instructions will follow at that time.
+[Operator Instructions].
+As a reminder this conference call is being recorded.
+I would now like to turn the call over to Kevin Sadowski Vice President of Investor Relations.
+Please begin.
+Good morning everyone.
+And thank you for joining us for Navistar's first quarter 2015 conference call.
+With me today are Troy Clarke our President and Chief Executive Officer; and Walter Borst our Executive Vice President and Chief Financial Officer.
+Before we begin I'd like to cover a few items.
+A copy of this morning's press release and the presentation slides that we will be using today have been posted on our Investor Relations website for your reference.
+The non-GAAP financial measures discussed in this call are reconciled to the U.S.
+GAAP equivalent as part of the appendix in the slide deck.
+Finally today's presentation includes some forward-looking statements about our expectations for future performance.
+Actual results could differ materially from those suggested by our comments made here.
+For additional information concerning factors that could cause actual results to differ materially from those projected in today's presentation please refer to our most recent reports on Forms 10-K and 10-Q and our other SEC filings.
+We would also refer you to the Safe Harbor statement and other cautionary notes disclaimer presented in today's material for more information on the subject.
+With that I'll turn the call over to Troy Clarke for his opening remarks.
+Okay.
+Hey thank you Kevin and good morning everyone.
+Before we get started I want to thank those of you who took part in our Analyst Day last month.
+I hope you walked away with a sense of our accomplishments over the past few years and how we are building on that progress to return this company to profitability.
+As we outlined at the event it’s uptime at international.
+Turning to side six we remain focused on finishing our turnaround but we have laid the foundation to lead the industry on our plans; products processes and services designed and validated to keep trucks on the road the mission is uptime.
+We are not there yet but we are well underway and I am excited about our progress.
+2015 is an important year for Navistar and our plans called for us to kick it off with a stronger first quarter which we did.
+We delivered Q1 adjusted-EBITDA of $54 million up $91 million over the same period one year ago.
+This performance reflects continued progress on both the revenue and cost sides of our business.
+On the revenue side sales momentum is building across all of our core truck markets and continues in the parts business.
+As for cost we achieved savings in all areas of spending material cost manufacturing structural cost and warranty.
+But before I go into more detail on these points let me restated our revised view of the current industry that we shared during the Analyst Day.
+On slide seven we see the U.S.
+economy improving that has had a positive impact on our industry.
+2015 continues the stronger sales trend that began in 2014.
+We believe this is driven by improved new truck fuel economy rising tonnage improved transportation company profitability and the replacement of aging fleets.
+The recent dip in oil prices also helps boost commercial vehicle sales and spending in most segments such as on highway while slowing sales in others particularly oil and gas applications where we don’t have a strong presence.
+We believe these conditions will remain favorable through 2015.
+We also think the modest expansion in consumer spending and steady gains in construction will continue which is favorable for the medium truck market.
+We maintain our industry retail forecast for class 6 through 8 including bus to be in the range of 350 000 to 380 000 units this year versus the 342 000 units last year.
+Looking at our volumes we expect to be up in all segments in 2015 as we continue to grow with the market and importantly regaining market share loss during the changes of the last two years.
+Turning to slide eight we saw this play out in the first quarter as chargeouts in our core markets were up 17% year-over-year.
+This is highlighted by a 25% increase in Class 6 and 7 medium truck chargeouts and a 42% increase in school bus.
+We also saw gains in heavy and severe service.
+We are pleased with this performance as unit growth in core markets was inline with our full year forecast.
+We are seeing increased sales for important parts of the market specifically in medium we are regaining sales with leasing and rental customers and also seeing increased sales through the very important dealer led channel.
+We are confident sales will continue to grow and our backlog is up by 27% year-over-year.
+Another positive in the quarter was our parts business.
+This has been a consistent good news story.
+This quarter parts sales improved by 7% year-over-year and EBIT improved by 34% compared to the first quarter last year.
+We still face some headwinds in the marketplace.
+However we are seeing great acceptance of our new products and customers are seeing excellent performance great fuel economy and outstanding uptime.
+Our mission is uptime at international course [ph] supports sales efforts but uptime is more than a marketing campaign.
+Uptime is about designing and building quality trucks that stay on the road longer and it’s also about our renewed commitment to deliver innovation tools and services that keep our customers moving.
+Nowhere is that more evident than in the growth of on command connection our remote diagnostics offering.
+On command connection helps to increase vehicle uptime supports quicker repairs and helps to control maintenance and repair cost.
+Today we have more than 87 000 vehicles in the system.
+Turning to cost we’re building on the significant progress we have made over the past two years and we still have opportunities to capture additional savings in 2015 and beyond.
+Let me start with warranty which continues to move in a positive direction.
+We are reducing our warranty spend thanks to the improved quality of our new products and lower cost of warranty for our legacy products.
+Demonstrated improvements in campaign spending and repair costs have helped us to contain warranty expense.
+Warranty as a percentage of sales excluding preexisting adjustments is now 2.9% and improving.
+We also remain on track to meet our material cost savings target for the fiscal year an example of that is our 2016 model year 13 liter ProStar which we launched in January.
+You’ll remember that we set a target to reduce its cost by $1 400 per unit.
+In fact we accomplished $1 650 per unit in cost reduction.
+On the manufacturing front our goal this year is to deliver $40 million to $60 million in savings and we are on track to do that.
+Key to hitting our full year target was securing a new agreement with our UAW represented employees.
+It recently ratified a new four year labor agreement which will help our representative facilities further embrace lean principals that will lead to additional cost savings and improvements.
+Our engineering expenses for Q1 were in line with our plan.
+We continue to achieve efficiencies through a variety of initiatives that will enable us to control cost and become leaner while still delivering on the important product programs that we have in the pipeline.
+We are also continuing to make progress in SG&amp;A spending.
+For the balance of the year we have identified additional cost reductions in a number of areas that will yield benefits and create a leaner enterprise.
+Now let me turn it over to Walter who will provide you with more details on our financial performance.
+Thank you Troy and good morning everyone.
+Before we begin I want to briefly address the realignment of our business segments inline with the charges in organizational structure that took place in the first quarter.
+These changes reflect how we assess the performance of our operating segments.
+And the principal change relates to our export truck and parts businesses moving from the global operation segment to the truck and parts segments respectively.
+In addition defense parts will move from the parts segment to the truck segment and be combined with the rest of our defense operations.
+These changes allow us to run the business in a more efficient and integrated manner as well as provide better transparency in the performance of our operations.
+One other quick note we referred to core markets throughout our remarks and this refers to our sales of class 6 to 8 trucks and buses in the U.S.
+and Canada and excludes Mexico export and Blue Diamond truck sales.
+Now let's shift our focus to the results for the first quarter.
+First quarter revenue grew almost 10% to $2.4 billion compared to the first quarter of 2014.
+Revenues from truck segment grew 18% reflecting higher sales in our core and export markets.
+Revenue growth is primarily due to a 2000 unit increase in core truck charge-outs compared to Q1 2014.
+This growth is consistent with the full year plan we've previously communicated.
+Sales from our parts segment increased by 7% in the quarter continuing our momentum in the North America commercial market.
+Revenues in our Global Operation segment decreased 28% versus the same period a year ago reflecting 18% lower engine volumes due to challenging economic conditions in Brazil and a large government truck order in 2014.
+EBITDA for the first quarter was $101 million a reversal of the loss of $110 million in the first quarter of 2014.
+The significant year-over-year improvement in our results reflects the increase in sales and favorable product mix within our core markets as well as the continuation of lower warranty expense and reduced operational and structural cost.
+As shown on slide 12 adjusted EBITDA for the quarter was $54 million which is above the high end of our guidance range.
+There are few adjustments that I'd point out.
+Number one we reversed $57 million of pre-existing warranty accruals primarily related to big bore engine reserves for both standard and extended warranty.
+And two we had $10 million of one-time charges related to impairments and restructuring charges that are relatively small in comparison to what we have seen in prior quarters.
+Turning to slide 13 let's take a look at the results for our realigned segments.
+We continue to see improvements in our truck operations.
+The truck segment lowered its year-over-year loss by $190 million to an $18 million loss.
+Contributing to the improvement were higher truck sales in our North American and export markets declining warranty expense and lower material manufacturing and structural costs.
+The parts segment profit of $145 million was significantly higher than a year ago.
+The 34% increase in parts segment profit reflects increased sales and margin improvements in our commercial markets.
+The Global Operation segment lost $15 million in Q1 2015 mainly due to lower volume.
+This however is a $20 million improvement versus Q1 2014 reflecting the benefit of cost reduction initiatives we've implemented in South America.
+We remain focus on returning these operations to profitability.
+The Financial services segment continues to perform in line with our expectations.
+Segment profit for the first quarter improved to $24 million reflecting an increase in average wholesale notes receivable balances.
+Slide 14 graphically depicts our progress on certain key operating metrics.
+As you can see all the metrics show strong improvements versus the first quarter of 2014.
+For example charge-ups -- chargeouts are up 17% versus Q1 2014 and are up in each of our product segments as Troy pointed out earlier.
+The growth in chargeouts in the first quarter is consistent with our 2015 full year expectations as our new products build traction in the market and we continue our focus on uptime.
+Lower structural costs remain a priority.
+In the first quarter of 2015 structural costs were 1.8 points lower as a percent of manufacturing revenue compared to the first quarter of 2014.
+We continue to trend favorably towards our structural cost goal of less than 10% of revenues as additional cost initiatives take hold and quarterly revenues increase.
+Warranty expense continues to be a good news story and the quality of our new products continues to trend favorably.
+For the first quarter of 2015 current warranty expense as a percentage of manufacturing revenue was 2.9% compared to 3.7% in Q1 of 2014.
+The decrease in warrant expense was largely due to a change to preexisting warranty.
+In the first quarter of 2015 we've recorded a benefit of $57 million compared to charges of $52 million in the first quarter of 2014.
+As we've previously indicated we've implemented engineering product redesigns on newer model years and improved manufacturing quality.
+We've also been able to refine the design and manufacturing processes to reduce both the frequency and severity of warranty claims.
+This has allowed us to lower repair cost which in turn has had a significant positive impact on warranty expense.
+The adjusted EBITDA margin for the quarter was 2.2% versus negative 1.7% in the first quarter of 2014.
+The nearly 400 basis point improvement reflects continued cost improvements and increased unit volume.
+Turning to growth material savings we're looking to reduce costs by 1.5% to 1.8% of manufacturing sales in 2015.
+Key initiatives that will get us there include further consolidating our supply base increasing spend in best cost countries and design cost reduction activities.
+During the first quarter of 2015 we achieved a quarter of our annual savings target and we're on track towards the near-term material cost savings goal.
+Manufacturing is another area where we expect to further performance.
+We expect to benefit from continued manufacturing efficiency gains from our lean initiatives as well as the benefits of our capacity consolidation efforts.
+And we're on track to reduce manufacturing cost by $40 million to $60 million in 2015.
+Turning to slide 16 gross used truck inventory grew 14% compared to the prior quarter.
+We finished Q1 with $365 million of gross used truck inventory including inventory held at our finance company versus $320 million at the end of Q4 2014.
+This is the result of higher receipts of late model units moving through the trade cycle as we've indicated previously.
+Additionally our used truck reserves increased by $25 million in the current quarter compared to Q4 2014.
+We believe used trucks inventories will continue to increase in 2015 before they trend down as we increase used truck sales activities to address the elevated inventory levels.
+As shown on slide 17 we ended the quarter with manufacturing cash cash equivalents and marketable securities of $733 million.
+Adjusted EBITDA was more than offset by the cash used for capital expenditures interest payments and pension and OPAB contributions.
+Moreover working capital was a use of cash in the quarter due to seasonality with lower production days in our fiscal year Q1 due to the holiday shutdown at year end.
+Warranty cash payments continued to exceed warranty expense in the quarter.
+However monthly warranty cash payments have continued to decline year-over-year for the last year and remain an early indicator for lower warranty expense as we've seen in the last three quarters.
+Moving to slide 18 we expect manufacturing cash at the end of the second quarter to be in the range of $700 million to $800 million essentially around breakeven from a cash flow perspective.
+Consolidated adjusted EBITDA is expected to be in the range of $100 million to $150 million which excludes preexisting warranty accruals and one-time items consistent with prior quarters.
+We expect cash used for capital expenditures interest and pension and OPAB funding to be lower versus Q1 due to seasonally lower cash interest payments.
+Net working capital is expect to be favorable in the second quarter to the higher volumes or higher used truck inventories and warranty cash payments greater than expense are expected to be a use of cash.
+Slide 19 provides some perspective on our EBITDA goals for 2015.
+As we stated at our analyst day we expect adjusted EBITDA margins to improve in each quarter of 2015.
+In the first quarter our adjusted EBITDA margin was 2.2%.
+In the second quarter we expect an adjusted EBITDA margin of 3% to 5% resulting from continued revenue growth favorable mix and lower operational and structural cost.
+To summarize our results continue to improve.
+In the first quarter of 2015 we had a number of notable accomplishments including increase core truck charge outs continued growth of our core North America parts business improved quality performance contributing to lower warranty expense and continued reduction of material manufacturing and structural costs.
+Our progress this quarter demonstrates that we are headed in the right direction and we remain on track to achieve our EBITDA margin target of 8% to 10% exiting 2015.
+I’ll stop here and turn it back to Troy.
+Okay.
+Hey thank you Walter.
+As I said earlier we’re off to a good start and we’ll build on this momentum.
+Turning to slide 22 we expect chargeouts in core markets to increase more than 20% in Q2.
+In medium we’re expanding our ISB product offerings this year to include crew cabs beverage bodies and emergency vehicle ratings and four wheel drive.
+We also continue to focus on leasing and dealer led sales as key enablers to our success in this segment.
+In addition we anticipate incremental growth opportunities for our school bus business with the introduction of our purpose built propane buses which we will began deliveries in July in your service.
+We recently announced the availability of the Cummins ISB engine in the WorkStar our leading severe service model.
+This will generate incremental sales throughout the year and into next.
+And in heavy our 2016 model year ’13 leader ProStar has improvements over the 2015 model year including a 300 pound weight reduction and better fuel economy.
+We also just announced that we’ll offer the new Bendix next generation active safety system on our ProStars the first in the North American commercial vehicle industry.
+This is an example of what we called best in class integration and you’ll hear more about that at the Mid-America Truck show in March.
+We believe our Diamond renewed used truck reconditioning program is the leading certified used truck program in the industry.
+It allows us to offer previously owned trucks that are refurbished to the operating standards of the best vehicles in the used truck marketplace providing like new truck benefits to the second owner.
+On the cost side we continue to look harder at all discretionary spending and applying lean practices across the entire organization.
+The new culture at NaviStar is to be leaner faster and more efficient.
+I’m both pleased and encouraged about how our employees are embracing these concepts and I’m really proud of the team.
+Let me conclude by saying our results this quarter show our progress is accelerating and I trust that our Q1 performance and the plans that we shared with you at Analyst Day give you confidence that we are on track to meet our 8% to 10% EBITDA margin run rate exiting 2015.
+And with that let me turn it back over to Kevin.
+Thank you Troy.
+That concludes our prepared remarks.
+As you heard today we realigned our business segments.
+For additional information related to the recasted segment results please visit our investor website after the call.
+And before we go to questions I would like to let you know that in addition to Troy and Walter also joining us today is Persio Lisboa our President of Operations; and Bill Kozek our President of Truck and Parts.
+To be fair we ask that each of you limit yourself to one question including an optional follow-up.
+Operator we’re now ready to open the lines for questions.
+Thank you.
+[Operator Instructions].
+The first question is from David Leiker of Baird.
+Your line is open.
+Good morning everyone.
+Good morning David.
+So I want to dig in on this 8% to 10% target margin for end of Q4.
+And as we I know what you started 2015 but the question is where does that margin need to be in 2016 to hit 8% to 10% for full year ’16.
+Is there I know we can’t get specific numbers but can you give some given the seasonality where do you need to see the Q4 ’16 number to get 8% to 10% for the full year? Q4 ’16 number David? Right.
+If you want to have… I mean say everyone’s kind of talking the 8% to 10% EBITDA margin for the full year which you’re not going to hit this year but your target is for Q4.
+But in a context of hitting that target range for the full year of ’16 and the seasonality that Q4 number needs to be higher.
+Is there a sense you could give us how much higher it would need to be to get the full year to that level? Yeah I think there is a couple of ways to get there David one would be to have a very strong Q4 ’16 the other would be to improve every quarter in ’16.
+And so we would anticipate that we would do better in the first quarter of ’16 and of course first quarter ’15 and obviously our 8% to 10% run rate exiting this year was not meant to just be for one quarter but something that we’d like to achieve over the course of a year.
+But I don’t think we’re in a position today start giving you quarterly guidance for ’16 and in particular Q4 of ’16.
+We’re focused on the balance of ’15 and improving our results every quarter here to put ourselves in good stead heading into ’16.
+And then just a follow up on that do you think as you exit this year at that 8% to 10% rate we would -- just let’s say Q4 do you think that’s consistent with an annualized rate at that level in ’16 or do you need some additional volumes incrementally to get there or some additional cost actions? Yeah as we have indicated at our Analyst Day we would be looking to have full year EBITDA margins of 8% to 10% in ’16 and ’17 and our plan continues to have both revenue growth and cost reduction elements to it.
+So when we get to the fourth quarter of this year there will be additional activities that we would expect both on the revenue and the cost side in ’16 to help get to those margins on a full year basis.
+Okay great.
+Thanks so much.
+Thank you.
+Thank you.
+The next question is from Stephen Volkmann of Jefferies.
+Your line is open.
+Good morning Steve.
+Hi good morning gentlemen.
+I'm wondering if we can look into the used situation just a little bit.
+I think it’s said in the Q if I read that right that the used sales were actually down which surprised me a little bit.
+Maybe you can just give us a little bit of an update of sort of what you’re seeing in that end market and how things are kind of flushing through the system there? Hey Stephen this is Bill Kozek.
+The used market we still anticipate 2015 to be a strong used truck market and really to exceed our 2014 which was a record for us.
+Having said that the last quarter I think the whole market took a little bit of a breather.
+So we’re in a position we’re taking a lot of action to move our which are like models used truck taking -- kind of looking at it from how do we get those trucks out into the market to be the best used trucks that the market can buy and that includes our diamond renewed which I talked about at our Analyst Day which is a certified pre-owned vehicle inspections and that includes the remote diagnostic system and then a menu of used trucks warrantee options.
+So yeah while the first quarter was lighter than we anticipated we still expect a strong 2015.
+And Bill can you comment on what you’re seeing in pricing at all on your product specifically? Yes there is pressure on residuals mainly because our trucks tend to be early trade versus the competition but that’s one of the reasons that we’re out there with diamond renewed looking at special lease plans for owner operators and what gives me confidence is that we sold a number to companies that then sold those into their operator division and those customers are coming back for more Maxxforce Engine ProStar and so that’s pretty positive.
+But I think you’re right the residual value is going to be challenged for the short-term but we think we have ways to address that and we’re looking at a lot of other options for selling our used trucks.
+Okay and Walter just the accounting here I think it said that you had a $300 million reserve against the 365 of warranty does that mean you’d have to lose more than that before you have to take a write-off? We have $300 million reserves Steve? Maybe I read that wrong I'm trying to digest your whole 10-K in 30 minutes here.
+I'm just trying to get a sense of how that pricing would have to be before we start to worry about write-offs on that product? Yes I'm not sure I'm following your question quite there but basically what we do is we take a look at our used inventory every quarter and we decide whether there’s any write-offs necessary to that portfolio.
+You would have seen here in Q1 that we did take a $25 million increase in the reserves and that is largely coming from the amount in inventory that we have and our look at how do we sell that efficiently back into the market overtime.
+So we look at that every quarter and we did here at the end of Q1 is kind of our best look at it.
+Okay thanks I’ll pass it on.
+Thank you.
+The next question is from Ann Duignan of JPMorgan.
+Your line is open.
+Good morning Ann.
+Hi good morning guys.
+Hi Ann.
+I just had a question more generally we saw cancellations like in January in the orders numbers to about 9.2% on the heavy duty side up from about 4.7% the month before.
+What are you guys seeing out there in terms of I know you are focused more on medium duty but it would helpful to hear your perspective on what is going on out there? Are we beginning to say an increase in cancellations into the oil and gas sector or what’s going on? Ann we are not seeing large cancellations for our vehicles and we still expect 2015 to be a strong year.
+Yes there is some headwinds from oil and gas but as Troy mentioned that’s an area that we don’t participate as strongly in but if you look at the foreseeable future economic activity is still pretty strong unemployment’s low housing starts and automotive production is pretty strong and the ATD ATA truck tonnage is still at an old time high.
+And so our customers’ trucks are operating at high utilization rates.
+So we are not seeing the cancellations and we still anticipate a very strong 2015.
+Okay that’s helpful.
+Thank you for the color I appreciate that.
+And then in the Q a lot of the changes in the Q were in relation to [indiscernible] litigation would any of you care to just summarize where are we on the various lawsuits et cetera et cetera? Yes Ann we really don’t -- can’t provide much more clarification then really what’s in the Q.
+All those processes are proceeding and as we can we will make sure that everybody is advised of anything material that comes out of that.
+Okay I will leave it there; I will get back in queue thanks.
+All right thank you.
+Thank you.
+The next question is from Jeff Kauffman of Buckingham Research.
+Your line is open.
+Thank you very much.
+Hi guys.
+Hi Jeff.
+Could you talk a little bit about what benefits you are expecting to see in the manufacturing operations as a result of the new labor contract and kind of how that helps get you to that $40 million to $60 million of manufacturing cost savings? Yeah this is Persio Jeff.
+And what you are seeing today is really we part of the master agreement we agreed with the unions to get much more flexible conditions in our operations.
+So as you have heard we have been deploying -- we increased the [indiscernible] our facilities.
+We have been making significant progress in Mexico for instance in the last two years and that is going to be expanded right now to Springfield and our operation out there which is a key operation for us.
+So we do believe that all the improvement we have made in working capital that you saw in the last year or so and also the material flow the ability to deploy lean principles in all our facilities is much better suited right now after the agreement.
+Okay.
+And then we are going to be looking at a pickup sequentially in CapEx for the next few quarters of the year.
+Can you talk a little bit about where that capital is being deployed? Yes so it’s going to future product.
+We have some plans in both the heavy and the severe segment as well as in bus.
+So I think we have indicated previously that we are going to be bringing out propane in bus.
+So that would be in one of those examples and as we have discussed at our Analyst Day we have some additional product initiatives one and two years out.
+So that’s where to go as well as you know we are starting to take a look at emissions for 2017 as well.
+But I mean suffice it to say it’s primarily product spending and I think we have been fairly forthcoming with regards to the fact that we are kind of ending and have ended this cycle of spending a lot on our engine emissions programs and now we get back into spending on our trucks so that we don’t get behind on that.
+And so I would say that the CapEx spending that you see growing in the succeeding quarters are all related to new truck programs which we believe will come to fruition here over the course of next 24 to 36 months.
+So more innovation-related.
+Yes and upgrading and improving I would point to my comments related to the 2016 ProStar that we launched just in January significant wage savings significant fuel economy improved quality better cost attributes from contracting [ph] and design indicatives so a lot of stuff I think that’s just going to benefit customer but also benefit the business as well.
+Okay guys.
+Thanks so much.
+Congratulations.
+We'll see you at the show.
+Thanks.
+Thank you.
+The next question is from Andy Casey of Wells Fargo Securities.
+Your line is open.
+Thank you very much.
+Good morning everybody.
+Hi Andy.
+First question on parts.
+You had a really big margin improvement about 480 basis points year-over-year versus the restate.
+I'm trying to understand how much of that is really driven by this change in access fee that you mentioned in the 10-Q or is it totally volume and mix? Yes a lot of this is due to volume as well as margins.
+And the margin side we continue to work the cost side of equation as well as the pricing side where we can.
+So that's where most of it's coming from.
+I think if you look at it and if you can back-up the math you find out that the access fee is probably in the neighborhood of a point or so.
+Just to give you some color on the size of that.
+Okay thank you very much on that.
+The rest of the impact as Walter indicated is revenue and margin based.
+Okay great.
+That's helpful.
+And then separately we've -- in our channel work we've noticed one of your competitors seems to be realizing pretty substantial increase in their backlog.
+Could you comment on whether you've noticed any aggressive marketing tactics particularly in the large fleet deals that have occurred in the beginning of the year? Yes I think there are some of our competitors -- their backlog they're a little bit larger than ours.
+Ours is up 27% year-over-year.
+It's tough to correlate the order intake because I think some of those order intake numbers relate to full year production or production into 2016 and 2017.
+But I don't think there is anything of that other than to say the market is still very strong across the board medium heavy severe and even buses it's continues to be strong as ever.
+Yes I think Andy this is Troy.
+I mean on any deal we're winning deals which would imply to me that we're providing a better proposition in some cases and we're losing deals which would indicate that somebody else is providing a better proposition than ours.
+So I think it is a market that's fairly mature and the product offerings are really well understood and we have some very good competitors.
+So it's a good market for buyers right now.
+I think they've never been able to get a better truck and quite frankly it's in all of our interests I think to serve this market well.
+But I don't think we're not competitive.
+That's the point that you're getting to that we don't have the ability to compete.
+I think our ability to compete is enhanced even this year just over last year from some of the structural changes we've made to the business.
+So we feel pretty good about it.
+We feel pretty good about the offering that we got and the ability we've got to get the right kind of price and value into our customers’ hands.
+Okay thank you.
+And now it was more a kind of attempt to understand what's going on with your competitor not you product initiatives.
+The last question the 20% chargeout growth in Q2 versus Q1 it’s splitting hairs a little bit but last year it was around the 28% increase.
+Is that just the difference in the market environment right now we’re at a higher level or is there product transition that might be dampening that sequential growth rate.
+It really isn’t a product issue we do have some more expanded product into our SCR but I think it's just a situation of the profitable markets there issue continues to be significantly important to us and we see the market growing and we also see that our share certainly in medium and bus and severe those are the three we're concentrating on growing with that.
+And Andy it's Walter again I’d probably say maybe there is a little bit of splitting hairs there we booked over 20.
+And we're coming off of a stronger Q1 here in '15 and we had a weak Q1 '14.
+So I think that's you should factor that into your thinking as well.
+Okay now that makes sense.
+Thank you very much.
+Thank you.
+Thank you.
+The next question is from Jerry Revich of Goldman Sachs.
+Your line is open.
+Hi good morning.
+Good morning Jerry.
+I wonder if you can just provide more color behind the preexisting warranty adjustment was it the number of breakdowns that was lower or the cost per repair and can you just flesh out for us if there are any additional opportunities for pre-existing warranties to come down? Yes it was both frequency and severity so both I guess to your first part of your question and we're doing a great job on our new products.
+The quality is excellent and as we shared with you at the Analyst Day we found ways to make high quality repairs for less money too.
+So really doing very well in the warranty area to bring those down to levels that we can be more proud of.
+In terms of going forward again just as in used we look at it every quarter and what we've been able to reverse on the accrual in the reserves here this quarter is our best look at it.
+So we'll keep working on it and then I think if I were you I would continue to watch and ask us about is how's warranty spend moving and as I indicated in my prepared remarks that continues to come down here every month over the last year and that's not a perfect predictor but a very good predictor of where warranty expense might go in the future.
+And Walter just to clarify can you just provide a number to the lower frequency what percent lower and the severity what percent lower just what our magnitude? Yes I think we’ll probably have to follow-up with you on that I don't have that at my fingertips here.
+Okay.
+Thank you.
+And then I am wondering if you could just talk about your progress on the trade-ins you gave us an update on the inventory side.
+But how many trade-ins have you done to-date on the class A trucks that you're targeting.
+I think getting a big chunk of the trade-ins done within the next call it 18 months or so and can you update us on how much progress you made on the quarter.
+In the first quarter it was a little bit less than the prior quarter mainly because of the holidays.
+But we've been through about 13 000 or I'd say mid-20% of the total MaxxForce 13 Leader EGRs and we expect based on Walter's comments we expect 2015 that number will grow.
+But it's important to note that this isn't just a random situation.
+This is a planned process of the trades we're taking back and it's a highly choreographed deal to make sure that we're taking them out.
+And on the other side talking about selling and the Diamond Renewed we recently sensed -- recently introduced the Diamond Renewed program to our dealer bodies so they are now doing Diamond Renewed as well and we anticipate growth in that throughout 2015.
+Okay.
+Thank you.
+Thank you.
+The next question is from Brian Sponheimer of Gabelli &amp; Company.
+Your line is open.
+Hi.
+Good morning.
+Good morning Brian.
+Just to add a point with Diamond Renewed now extending to the dealers what's the length of time for the re-certification process roughly speaking? You can completely Diamond Renew a truck a 180 point inspection in less than four hours.
+Now that's kind of the inspection.
+There may be some issues you may need to work on but it's a very quick inspection and just making sure that truck is the best truck on the road.
+Then when you need to add on command connection it would take a little bit longer than that.
+But we've got dealers that are doing that today and they're seeing significant improvement and once you do one you obviously get better after you do about 10 to 15 of them.
+So it's a process that we'll gain a lot of momentum throughout 2015.
+But I think if you think about it today it’s a couple of day type process on average probably decreasing from that as they get better at it.
+And where you're having the most success in finding partners to take the Diamond Renewed trucks? That's probably our biggest success is in companies that have owner operator programs where they don't want to buy new and they've got I'll call it a pool of drivers that want to own their own vehicle that want a late model vehicle instead of a six and seven year old used truck that's where we're having the most success.
+Is that limiting at all as you kind of go through the next 18 months with this process where does that demand really need to be coming from in order for you to fully work through this used truck problems? Yes I don't think the entire used truck that we have can be absorbed into I call it the United States.
+So that's why we're looking at other areas thinking of exports the lease plan is another way that we're looking at it but I think the important thing is to give the customer the confidence of those vehicles and that will grow the demand for the vehicles as well.
+Okay and just last one from me as we go through your appendix looks like on highway Class H here roughly speaking 10% for the quarter.
+Do you support see an inflection point as far as when you think you've bottomed from a share perspective and if we are thinking about your Q4 for this year does that begin to bump up again.
+Yeah the heavy share was down slightly first quarter over first quarter and we see -- we anticipate that growing throughout 2015.
+So I'm not sure if that answers your question fully but we… But I mean as you look at your on backlog is there a point in which both April and July et cetera were your chargeouts pick up materially where you can expect roughly speaking some pickup in share versus the rest of the market.
+Yes we anticipate from this month forward really from February forward growth in the heavy segment throughout the rest of this year.
+The way our year our fiscal year ends causes some numbers to be lower in the first quarter than our competitor.
+Understood.
+Thank you very much guys.
+Thank you.
+The next question is from Andrew Kaplowitz of Barclays.
+Your line is open.
+Good morning guys.
+Good morning.
+So in your parts business you continue to show very good momentum.
+Can you guys talk about what's driving your success in parts.
+And do you have a sense that you're taking market share and if so from whom do you think? Yes we had a very strong first quarter and especially in North America where we are up 13%.
+And I think our strategy is on all mix growth and our private label brand growth which was double digits for the first quarter.
+Also it's on aggressive cost management and lean processes to improve our margin.
+We knew the Blue Diamond was going to be down but that's been more than offset by the revenue in other parts of the business.
+And as we launch joint command connection that gives us an opportunity for related part sales as well and even the addition of the Cummins ISX and Cummins ISB that gets us opportunity to sell and service more competitive make vehicles in our dealership and gives our dealers access to greater population of the engine and offering.
+So it's really not one thing the market is up.
+Tough to tell if you’ve taken market share because the market is so enormous and there is a lot of players but I would tell you that our parts team had a really really strong first quarter and we anticipate that growing throughout the rest of the year.
+Operations business.
+How -- you guys have made very good progress there but how soon do you think business can get to breakeven and based on your current plans can that business be profitable at current market volumes or do you need market improvement there to get back to profitability? Hey Andrew could you do us a favor and just speak a little closer to the microphone.
+We're having a hard time hearing it.
+I want to make sure that we answer the right question not that.
+Yes sure sorry about that.
+In your global operations business how soon do you think that business can get back to breakeven and then based on your current plans can that business be profitable at current market volumes or do you need market improvement to get back to profitability in that business? Yes so couple of things what we -- I think you starting to see some of the cost actions that we've taken in South America helping our results here in Q1 versus Q1 of last year.
+That really stems from efforts that's started last year to find a way to get to at least breakeven the volumes that we saw in the market last year.
+Now the year started out a little softer than that.
+So we’re going to have to redouble our efforts and Persio and his team are doing just that.
+So ultimately we would expect the South America market and particularly Brazil to comeback some from these levels.
+But it’s going to be a slog in ’15 but our response to that is to focus on the cost side just as we did there last year and as we are doing in our North America markets as well but perhaps Persio would like to add something.
+No I echo that.
+We have a strong team leadership team down in South America and they are very sensitive to the market situation.
+We monitor very closely the movements in the market and we are actually taking action right now in the next quarter in terms of better adjusting the structure there.
+So faster initiatives the same lean principles that we are now implementing in the U.S.
+is part of what they do down there.
+So we will navigate to orders I think on the market size as is today but we are confident that we are going to keep the operation there healthy.
+Yes I think if you look historically the second half of the year tends to be stronger in South America than the first half of the year.
+I’m not projecting anything for ’15 but if you look at it typically that would be the case.
+So while we’re not happy with the loss in that segment $50 million loss is a $20 million improvement versus last year and tends to be in one of the weaker quarters that we see.
+Yes.
+But I mean I think you appropriately noted.
+I mean a big part of the earnings opportunity down there has a lot to do with the Brazilian market itself and the Brazilian economy.
+So we can probably fight this thing back to a breakeven kind of basis and even maybe to some marginal profitability but it’s a cyclical market just like the U.S.
+and basically this is a business that provides great returns when the market is functioning in a normal fashion and there just a little stress down there right now.
+So better days are ahead I think.
+Okay that’s very helpful thank you.
+I’ll get back in queue.
+Thank you.
+The next question is from Adam Uhlman of Cleveland Research.
+Your line is open.
+Hi good morning.
+Good morning.
+Good morning Adam.
+I was wondering if you could talk to the order trends that you saw as the quarter progressed.
+And then maybe you could talk about what you’re seeing so far in February orders were they better or worse than what you saw in January? Our orders were greater in February than they were in January in the market again it’s tough to tell when -- in industry report but I will say the order intake still very strong.
+But it’s hard to tell if those orders are for build this year or 2016 or even beyond.
+So I tell you certainly in medium our order intake is very strong in bus our order intake is strong and then in February we were strong across the board.
+So we’re definitely trending in the right direction.
+That’s good to hear Bill.
+I guess related to that than when you in the back of the slide deck you have your reconciliation of your Class 8 forecast compared to ACTs forecast.
+I guess where is the conservatism coming with your forecasting below what ACTs is for the year orders are still pretty strong? The only headwind we see is really oil and gas exploration and that from us that’s not a big piece of our business.
+So other than that we continue to see it be pretty strong throughout the year.
+I’m not a 100% sure what ACTs number is.
+But in terms of Class 8 we see it is better than 2014.
+Okay got you.
+And then Walter just a clarification at what point does the truck business achieve profitability on like an adjusted basis before the warranty accruals as the year progresses.
+Will we see that in second quarter is that more towards the back half of the year? Like you we’ve taken note that we’re getting pretty close.
+And we can’t wait to report out a quarter where it’s positive.
+But I think we’ll both have to wait to see exactly when that’s going to be.
+Okay.
+Thank you.
+Thank you.
+And the next question is from Ted Grace of Susquehanna.
+Your line is open.
+So I’m going to ask two kind of margin related questions.
+The first is on structural costs and there were down about some $9 million year-on-year which is comes a smallest improvement we’ve seen I realize you're facing some really tough comps on the back of some pretty extraordinary achievements but just in terms of thinking about how structural cost should progress and incremental savings I know Walter alluded to more opportunity in the back half but could you just talk about kind of what happened in the first quarter and then how we should think about kind of the back of the year? Yes first of all I think on the engineering side we continue to do really well.
+Costs were down about 12% in the quarter and in part that's due to the great work that Denny Mooney and his organization are doing to make sure we get high quality designed products while doing that more efficiently.
+There is also an element of as we kind of move through some of our transition to the SCR-based product and we're buying some of our engines from Cummins now we don't need to spend as much in engineering.
+So that trend has continued here in the first quarter.
+On the SG&amp;A side it's relatively flattish as you indicated and there are some puts and takes there and so on one hand we do continue to have productivity in terms of reducing cost and SG&amp;A but there is some inflationary impacts there as well including on OPEB expense which runs through SG&amp;A for us where we have seen some higher expenses than what we had in '14 that we need to offset.
+So we were able to do that in the first quarter and we hope to build through that and post more positive results on the SG&amp;A side over the balance of the year.
+And then the other side of that is as revenues grow keeping that SG&amp;A expense in check and we plan to do that and so the way we tend to measure it as SG&amp;A as a percent of manufacturing revenues so that percentage will improve as our units continue to grow.
+Yes so we had some inflationary pressure in the quarter and quite frankly the timing of our initiatives that will reduce SG&amp;A more are timed out later in the year.
+We didn't have a lot of those land in the first quarter.
+Okay.
+That's helpful.
+And then the second related question would be kind of the market share goals that you outlined and reaffirmed at the Analyst Day to kind of the exit rate or at least the absolute EBITDA generation for the fourth quarter I mean you talked about kind of 24% to 27% market share in class 6-7 I think which you exited 1Q at 21% the biggest gap was probably in class A heavy and I know Bill talked about that improving from February on and I think severe probably is closest but as we get to the second quarter and we're not either in line with those or within spitting distance does that put 8% to 10% at risk or do we see more cost-cutting and it's just dollar issue on lower sales volume I'm just trying to think through that kind of counterbalancing dynamics? Well no I mean I think so the one thing I think in your trailing comment there I think is part of it right.
+So it certainly it is possible to have a circumstance where we don't hit the exited share target but we do hit the volume target because the market is strong.
+So I think the absolute number is really a function of the volume that we get.
+That said look we're in there fighting everyday for market share.
+It is important to us it is a proof point I think on the quality and caliber of the products that we have and certainly the relationship that we've built with our customers.
+So we anticipate making progress in every quarter and it'll be lumpy.
+There'll be some fits and starts largely given the way our customers put orders into the system and when they're kind of in a buying mood.
+But as Bill indicated February was better than January and we're going to fight this thing I think one inning at a time and we're pretty confident in the progress that we're seeing.
+That will be in the right range to support the 8% to 10% EBITDA run rate at the end of year.
+Now look we're -- we've been a part of this movie from the beginning and we're pressing every cost lever we have and the cost levers aren't just aimed at the 8% to 10% EBITDA in the spirit of the lean enterprise and we stated clearly in the past if we're spending money and it doesn’t benefit the customer our shareholder or enhance our capability to do good things in the future that we just got to stop spending that kind of money and we're still finding those opportunities as we're actually finishing up I think the restructuring of our business.
+That said I mean may be I'll turn it over to Walter if he has additional comments with regards to the math but we're still in line with I think what we shared with you at Analyst Day with regards to the expectation.
+Yeah I’ll just reiterate what Troy said.
+We ultimately -- our bottom-line is a function of units and our share in -- the markets been stronger and so we've been able to get the units a different way.
+So Bill and his team are really re-doubling their efforts to participate more on the share side even as the market is growing which could provide us some upside actually.
+In terms of that final point and I'll get back in queue after this I mean you talked about chargeouts are most important and I think we all understand that.
+Is there any chance you might be willing to give us at least for class 6-7 and class 8 heavy kind of some markers for what you think second quarter share should be just so we can see kind of a trajectory or a path to reaching those full year goals? Well I guess short of giving you an exact number I do expect growth across all four of the segments that we participate in.
+So I hate to predict the number right now but you saw what we are predicting at the Analyst Day.
+So I think the walk from first quarter to second quarter is going to be in line with our Analyst Day presentation and the walk there.
+Okay.
+Well thank you very much and best of luck this quarter guys.
+Thanks.
+Thank you.
+Thank you.
+And the next question is from Steven Fisher of UBS.
+Your line is open.
+Great.
+Thanks.
+Good morning.
+For Bill do you have any more color on what drove that breather you mentioned in used sales in Q1? You know the market has been extremely hot obviously around the holiday’s things change weather typically impacts the first quarter although I would tell you at least around here November-December were pretty good January was a different animal but I think that has a slight degree to do with it.
+So those are and I think it just will -- it kind of comes as a natural cycle that there is going to be some breathers.
+But overall again like I said I think 2015 is going to be another record year on top of our 2014 record year in terms of used truck sales and our dealers inventory as well.
+They expect record years in their used truck inventory operations.
+Okay.
+In the interest of time I'll leave it at one there.
+Thanks.
+Thank you.
+And the next question is from Seth Weber of RBC Capital Markets.
+Your line is open.
+Hey thanks.
+Good morning everybody.
+Good morning.
+Just a couple of quick clarifications.
+Does Global Ops do you think that is profitable by the end of the year for the fourth quarter do you expect Global Ops to be positive margin I guess is my first clarification.
+Yeah I think we're going to have to see how the Brazilian market develops and that's anybody's guess right now.
+So tough to predict.
+Okay.
+Whether it will be profitable by the end of the year but we are putting the foundation in place so I think that’s the point we're trying to make on the cost side so that when that market does start to recover that will hopefully be in your breakeven at the bottom of the cycle and making money as it improves.
+Okay but you're Walther your margin guidance for the company is not predicated on that being profitable.
+That's correct.
+Okay.
+Thank you.
+And then just kind of a ticky-tack one but you actually took your CapEx number up a little bit from where it was at the Analyst Day was there anything that you could call out that you pulled forward there? Actually not following your question we took it up for the year or the quarter or what you mean? Yes for the year I think you had at the Analyst Day I think it was I think you raised it relative to where it was at the Analyst Day by maybe $25 million? Okay I don't think there is actually any change versus Analyst Day.
+So let me take a look at that.
+We had said I think $125 million to $150 million for the year probably focused more on the 125 at the Analyst Day.
+No change in CapEx is the short answer.
+Okay.
+So nothing has changed.
+Great.
+Thank you very much guys.
+Thank you.
+Thank you.
+And that's all the time that we have for questions for today.
+I'll turn the call back over for closing remarks.
+Okay as I indicated this is Troy again as I indicated we certainly appreciate your interest in the progress we are making here at Navistar.
+We are really pleased to be able to share with you not just an accounting of our accomplishments but how we see the year unfolding.
+Q1 I think performed there were puts and takes but performed very much in line with our expectations I think as Walther indicated we plan on building on that every quarter this year.
+So we look forward to giving you an update on the progress that we will make in the course of the second quarter.
+Thank you very much.
+Thank you ladies and gentlemen this concludes today’s conference.
+You may now disconnect.
+Good day.

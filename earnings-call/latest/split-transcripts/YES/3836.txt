@@ -1,0 +1,296 @@
+Our first question comes from the line of Paul Steep with Scotia Capital.
+Please go ahead.
+Inc.
+(Broker)</span></strong> Great thanks.
+Jim maybe we could talk just a little bit with regards to where we're at on the overall platform shutdown and migrations across F&amp;R to date and what's to come and maybe the rough timing as we move into 2016.
+Thank you.
+Chief Executive Officer &amp; Director</span></strong> Sure.
+Look I think we're right on track.
+And in fact I think if you look at the road maps that we've put together everything's coming together quite nicely.
+We – if you'll look back over the last couple of years when we started this journey we laid out in fact on a slide at Investor Day a series of platforms that we were going to be shutting down.
+Some of them were big and some of them were small and we've just been ticking them off exactly on the schedule that we had anticipated.
+In fact we're pushing harder and looking at more things to add to the consolidation road map.
+And I think we've got a – if you look inside the company I think we've got a really good operational plan we've got accountability design (28:31) and I think we have a pretty solid road ahead of us and a lot of opportunity to continue to accelerate that consolidation of platforms onto fewer more common more modern reliable robust platforms.
+So we're right on track and achieving everything that we laid out two years ago and in fact I think we see increased opportunity to go even further.
+Inc.
+(Broker)</span></strong> And just I guess the only follow-up on that would be around customer service.
+How close do you think you are in terms of consolidating a lot of customer service operations across the various platforms? Thanks.
+Chief Executive Officer &amp; Director</span></strong> Sure.
+I don't quite know what you mean by consolidating customer service operations but I do think that we have some real pockets of excellence and made a lot of progress on customer service.
+In fact the person who runs the customer service operation and the financial business accepted an award from Salesforce this year for best deployment of that technology to improve customer service.
+So we're quite proud of that.
+So I think we'll begin to spread more common excellent platforms across the organization.
+And I think that if you look at it I think our customer satisfaction rates continue to go up so I think that has a lot to do with the fact that we are doing a better job with customer service around the organization.
+And we'll look to be more consistent with those practices and we'll look to leverage more common technologies but as far as consolidating into one customer service operation that's not on the road map at this point.
+Hi it's Andrew.
+Stephane I have a nerdy question to begin with.
+The D&amp;A looked much lower in the third quarter $273 million for both D&amp;A together.
+Is this a new run rate for D&amp;A going forward? Yes Andrew I mean if you look at the details by segment I think you see it was primarily in our Legal business that you saw the D&amp;A expense drop a bit and that's a reflection I think primarily of the fact that the WestlawNext – that the investment associated with WestlawNext are starting to be more fully depreciated.
+So I think overall if you recall when Jim and I took our respective roles we put a much bigger emphasis on what we refer to internally as cash OI as a key metric which is what's the absolute level of cash that we spend.
+Doesn't matter if it gets capitalized or expensed through the P&amp;L and that has led on a fair bit of discipline.
+We've kind of like kept our CapEx spending very flat over the years and for a number of years depreciation has been running way above our CapEx as a percentage of revenue.
+Eventually the two should start converging as the discipline on cash spending is starting to shine through.
+And so I think what you just mentioned is the beginning of seeing that impact.
+Great.
+And Jim if I could ask about the migration of FX desktops to Eikon how is that going? When do you anticipate that migration for FX desktops to be complete? Chief Executive Officer &amp; Director</span></strong> I think the majority of the commercial arrangements have been completed.
+I think the...
+80%.
+Chief Executive Officer &amp; Director</span></strong> Yeah about 80% that's what I thought.
+80% of the commercials have been negotiated.
+We're beginning now to roll out the actual desktops themselves.
+So that will come in two phases.
+And we suspect that we'll be completed with that in the first half of next year.
+Great.
+And the same comment for just the buy-side desktops in general migrating to Eikon? Chief Executive Officer &amp; Director</span></strong> Early days very very early days on that.
+Okay thank you very much.
+Hi thanks.
+Good morning.
+In F&amp;R you're heading into the important 4Q renewal season.
+Could you give us any sense of whether or not based on current conversations you think we'd see positive net new sales in the fourth quarter? Chief Executive Officer &amp; Director</span></strong> I'll take that.
+Stephane you can add any color that I miss.
+As you know the fourth quarter has traditionally been the biggest quarter for us and it's also been the most volatile quarter for us.
+So it – and last year was the first year that we ever had a positive net sales since the Reuters acquisition in the fourth quarter.
+Because of the – that tends to be the quarter in which the biggest banks adjust up or down based upon their plans for the coming year.
+It's a difficult quarter to predict.
+So I wouldn't want to call any quarter.
+And as I've said in the past when you're slightly above positive or slightly below positive any one of those big bank negotiations could offset progress in a dozen smaller buy-side firms where we're making progress.
+So it's a tough quarter to call.
+I would say for – we've never been in a better competitive position going into a Q4 and I would not expect the swing either above or below to be of the material amount that it had been in prior years from 2008 through 2013.
+Okay great.
+And then following up on that I know it's still early so maybe a little bit of an unfair question but as we start to think about organic revenue growth in F&amp;R next year you've had the positive sales so far over the last several quarters.
+Next year you get less of an impact from lower pricing in the second half but still negative recoveries.
+And so I'm trying to think through whether or not low single-digit organic constant currency revenue growth might be a reasonable expectation somewhere in the 2-ish% range.
+You've got a number of dynamics.
+Let me take that question.
+All the dynamics are I think positive on the recurring revenue base for all the reasons you've mentioned.
+We get the benefit of improving net sales.
+We do have the benefit of this annual price increase that will shine through to the revenue performance next year.
+There's going to be still the impact of these commercial pricing adjustments but I would say that the peak of these – the peak impact if you want will probably be in Q4 maybe Q1 and then it starts – going to be diminishing from there pretty rapidly.
+So on the recurring revenue base I would say you can see the trend starting to improve probably after Q1.
+Now remember the comments I made in our prepared remarks about recovery revenues these ones will continue to decline and I think we could see an acceleration of the decline as more of our partners are moving to these direct billing arrangements.
+It really has no impact on EBITDA or free cash flow generation and as you know that's really what we're very focused on.
+So we'll continue to like provide you with the numbers as they look like if you exclude recoveries because they will – they may distort a little bit the reported figure for a while.
+But as I said they're not very profitable revenues.
+So there's – we don't really mind so much about these ones.
+And then transaction your guess is as good as mine.
+So hopefully these are the factors you need to take into consideration as you look at F&amp;R's organic revenue growth rate for next year.
+And I'm sure we'll be able to give you a bit more color as we give you guidance for the full year 2016 next February.
+Thank you.
+Inc.</span></strong> Thanks very much.
+Jim or Stephane just switching gears over to Legal.
+A little bit better on the margin side ex-FX versus what we were expecting.
+Just wondering with the reacceleration or renewed growth in U.S.
+Online which is obviously higher margin is that where we're getting the year-over-year margin expansion? And then secondly as you sunset the legacy Westlaw do you expect some cost savings associated with that? Thank you.
+Yes Drew let me take that question.
+I think you're right.
+We were very pleased in this quarter to see our U.S.
+Online segment grow 2%.
+I mean it's been a long time we haven't seen that kind of growth and it's massively important given the profitability of that segment.
+So I think that you're absolutely right this is one of the factors that has enabled a better margin performance in the business.
+Now the shutdown of Westlaw Classic will have some impact.
+It's not huge.
+If I'm correct I think it's about $10 million this year and maybe another $10 million or so next year.
+That's – so it will have a positive impact.
+But what has to be pointed out is the really remarkable work that the management in our Legal business is doing to continuously try to offset that negative mix impact that I've been speaking about for a number of quarters now where our Solutions business are growing faster than the rest of the businesses and they've got improving very very markedly improving margins but the margins are still much lower than the rest of the business.
+So keeping the margins flat while this change in mix is happening is quite a phenomenal performance.
+Inc.</span></strong> And if I could just follow up.
+Just with respect to the timing factors just on the top line sorry if I missed this in your prepared remarks just the – can you just drill down into those a little bit more granularity? Sure.
+So just what I said was that we do expect that the third quarter will mark the trough for Legal in terms of the revenue growth performance.
+So it should be better in Q4.
+The timing event that I referred to were twofold.
+First U.S.
+Print declined by 8%.
+And the decline in the first half was closer to a 6% decline.
+So that has an impact on the overall growth rate.
+And second our Legal Solutions business grew by about 4%.
+And for the full year we would expect that business to be closer to 6% and that's also what it has been year-to-date.
+So by definition you can assume what we expect for the fourth quarter.
+We expect that the growth rate in that business to rebound a little bit from the 4% this year – this quarter sorry.
+Inc.</span></strong> Thank you.
+Chief Executive Officer &amp; Director</span></strong> If I might just add one little bit of color on that and thinking about the Print it's really dangerous in our business.
+We try to look at this on an annualized basis and not look at every quarter as setting a trend.
+And frankly some of that just has to do with the timing of either product introductions one year to the next shifting or in the case of Print when publications – when titles are published and they tend to get published on a recurring basis every year every two years or – and they don't line up necessarily to compare to prior quarters.
+So that print was – or a result of just the publishing schedule as opposed to an acceleration of a trend.
+Inc.</span></strong> Thank you.
+Inc.</span></strong> Hi good morning gentlemen.
+A quick question for you.
+Maybe it's early I'm not sure but I was wondering if you could provide any color if you've seen it in terms of – we've heard or started reading in the papers a lot more about how the volatility is hitting performance and so you're seeing funds and so forth that are closing down.
+I was just wondering if that sort of head count type production if you started to see any of that impact at all in the business.
+You're referring to the Financial business I assume? Inc.</span></strong> Yes correct sorry yes.
+Chief Executive Officer &amp; Director</span></strong> No I think if you look at what happened in terms of the quarter I wouldn't say – we've had – there's been a long trend in the financial industry of the restructuring that we've been dealing with.
+You saw the financial – you were just referring to the same reports that we've seen throughout the third quarter.
+But if you break that apart I think what we've seen in our business is a continued increase in the buy-side activities and a decrease in that kind of transaction volumes in the bank-to-bank market.
+So I suspect that bank-to-bank market is not going to return to a growth footing anytime soon but we are still seeing overall increased transactional revenues in our buy-side activities.
+Inc.</span></strong> Got it.
+And I – just within that I was wondering is there any particular notable trends and maybe there isn't just in your pricing and reference data businesses? I mean is there competition or just any trends there to call out? Chief Executive Officer &amp; Director</span></strong> A very strong business force is performing well this year.
+Inc.</span></strong> All right.
+Thanks a lot guys.
+Yeah good morning.
+I was wondering if you could just talk a bit about some of the cost saves that are kind of known and reliable that you carry into next year.
+You've touched on a couple MPLS and sunsetting Westlaw Classic.
+Are there any others that are notable that you'd highlight? And then just separately how do you see CapEx developing really over the next couple of years? Thank you.
+Yes.
+Bill hi.
+This is Stephane I'm going to try to take these two questions.
+Let me start with the CapEx question.
+We have tried to maintain our CapEx budget very consistent over the last four years and we would expect it to remain like that.
+Now we do make changes in the allocations of our investments.
+We really are increasingly focused on what see as the highest areas for growth and that's where we're directing the CapEx and we're doing that by effectively redeploying the savings we achieve in combining some of our infrastructure investments.
+But the overall size of the CapEx spending hasn't changed and I would not expect it to change in the near term.
+In terms of the other question about like the various cost savings that we're doing and what we can rely upon there's a pretty broad and ambitious transformation program that we're moving forward with.
+You're seeing the impact of some of the simplification initiatives primarily in our Financial business so far.
+As Jim alluded to we see surely more opportunities as we dig deeper into this program.
+But I would say that our focus is probably going to be less – it was very important for us in the Financial business to hit that target of ours which was nearly 30% margin.
+And as we said on the call we hope that – hopefully we can hit the target in the fourth quarter.
+The focus now is really evolving as Jim always says maximizing the level of free cash flow for share growth and earnings per share growth over time.
+And I would say we're very cautious to try to really work on both levers at the same time meaning continue to drive reduction in our cost structure but at the same time make sure that we invest behind what we see the growth opportunities of the business.
+And because we define success not just in terms of hitting our EPS target but also hitting the target while at the same time improving the underlying organic growth rate of the business.
+And we've seen progress as Jim said you cannot look at it quarter-to-quarter but year-over-year we expect to see continuing progress on that metric.
+Thank you.
+Good morning thanks for taking my question.
+I just was wondering if you could give us an update on the longer-term cost rationalizations that you discussed in the previous Investor Day.
+I'm referring to sort of the broad economies of scale around your technology and content and your international offices.
+I think you were targeting something around the range of $400 million in savings by 2017.
+I was wondering where you were in that process and how much more we have to go as we look ahead to the next couple of years.
+Yeah.
+Jim said we're very much on track with that program.
+It's hard – we don't really want to say where we are with that program (46:09) specifically because at the end of the day what matters is hitting our overall bottom line target that we've laid out.
+We redeploy a number of these – of the savings that we generate in the business.
+We really reinvest pretty heavily in the business but doing that while at the same time being able to improve profitability and you can start seeing that – payoff of that strategy in that – in these numbers.
+But anecdotally we're making good progress.
+I'll give you one example; Jim can give you like 100 others.
+It looks that the program covers technology content real estate everything.
+On the real estate side for instance we used to have back in 2012 over 500 different sites.
+I think we're down – on the last report I saw we're down to 303 sites around the world.
+So it gives you a sense of the magnitude.
+Our goal is to get to 250.
+So it gives you a sense of we're certainly not where we want to be yet but we're making good good progress.
+Great thank you.
+Hi it's from Morgan Stanley but thank you.
+As you've been rolling out Eikon I just wanted to get a sense of if you've changed your sales strategy over time.
+I know you're still focused on converting the legacy customers to shut down platforms but have you changed to also hunting new prospects? And is the upsell success similar to what you've had in the past? Thanks.
+Chief Executive Officer &amp; Director</span></strong> Yeah I think that's right.
+We're doing a lot more hunting and prospecting than we were.
+If you think about the Eikon journey the Eikon journey was always just quickly as we could to get the conversion done on the sell side.
+And now we're focused on – and we did that successfully we did it right along the schedule we'd laid out.
+And today we're going after new customers and new ground.
+And I think if you look at both the combination of the gross sales performance that we have supported by the strong improvement in retention rates that we have that's proving very very successful particularly on the sell side.
+As we now move into the asset management space we do have a slight change in the way we're going to market.
+And that is as opposed to selling what are 14 or 15 different kind of buy-side information feeds as we did with the old Thomson ONE products.
+We're now grouping them into kind of three-tiered packages for the asset management industry.
+We think we're going to have much more attractive commercials for our customers there and also much more attractive packages.
+Because folks who were taking one or two products couldn't really appreciate and can't really appreciate the full power of the full depth of book that we offer.
+So – and I can tell you having been in some of those demos myself folks are reacting very well to the – both the added depth and breadth of the content that they're getting and how that functionality's been put together in a very useful format.
+So it is a bit of a different strategy there in that we're bringing a different approach to kind of a tiered pricing structure to the asset management side and then continuing to execute on the sell side.
+All right great.
+And just as a follow-up it sounds like Europe got a little bit worse in F&amp;R in terms of the EMEA net new sales being negative.
+Could you give us a sense of in the fourth quarter if you're continuing to see weakness there? Thanks.
+Chief Executive Officer &amp; Director</span></strong> No I think – I wouldn't overread that one.
+We were positive in the Americas and in Asia and slightly down in Europe right? And I wouldn't look to that as to some kind of acceleration of a trend.
+And I think when I look back to prior year and we make prior-year comments as well last year was our strongest net sales performance in Q3.
+And the leader of the pack in Q3 last year was Europe.
+Europe had a particularly strong Q3 in 2014 so I wouldn't overread that.
+Thanks a lot.
+Thanks.
+Good morning.
+There's been a lot of press speculation on a recent startup called Symphony and its potential ability to disrupt some of the businesses that you're in and some of your competitors.
+Jim I'm wondering if you could comment on any thoughts you have on what Symphony represents and any potential alliance you might have with them.
+Chief Executive Officer &amp; Director</span></strong> Sure.
+And I won't go into any specifics on any discussions obviously but let me just start at a higher level and say this.
+We've been pretty consistent for a long time in a couple of statements and views which we're becoming even more convinced of.
+First and foremost the industry does not want to be overly reliant on any one platform or provider.
+And I think that's behind a lot of discussions that have been going on around messaging over the last few years.
+We've been involved in all of those discussions and – or at least all of those discussions we know about – and we've had a pretty consistent approach there.
+And that approach is that we believe what the industry needs is an open solution and we believe what the industry needs is – what will win in the industry is an open solution.
+We're pushing the concept of a common dial tone or chat tone if you will for the industry.
+Because it's hard to imagine that in any scenario if you move to a mobile phone analogy that in the future it's going to work if Verizon cell phone customers can only talk to other Verizon cell phone customers.
+They need to talk to AT&amp;T customers and Rogers customers and Vodafone customers.
+So we think ultimately an open federation there is going to win.
+The exact nature of what that will look like will play out over time but we're committed to being a part of that to helping support that and I think that's where the industry will move toward without getting overly specific there.
+As far as the nature of competition that that opens it's hard to say which messaging platform's going to win in the end.
+I suspect that the nature of competition overall will get more fierce on all kinds of fronts.
+And I think the world that we imagine is an open world in which our ability to help connect the financial services community means that we'll supply content and other third parties will supply content on our platforms and perhaps other platforms and this notion of coopetition is something that's going to be very real.
+It's very real today and it's going to become increasingly prevalent in the future.
+I think we'll see all kinds of new competitors and I think we'll see all kinds of new alliances and partnerships just as we've announced a few in the last couple of weeks.
+And we've got a really interesting approach with our open Eikon approach and we've got an app store up now.
+We've got developers working on applications that run on our platform to our standards and be interoperable with other networks.
+So we think an open platform is going to win at the end of the day and that's what we're designing for.
+Thank you.
+Thanks good morning.
+I was wondering if you could talk a little bit about the transactions business in F&amp;R.
+I know 3Q was flat organic versus 3% in the first half.
+And we know the FICC businesses have been under pressure at the bank but I was just wondering is that softer comp year-over-year a function of just the macro? Or is there something else that you're seeing in terms of decoupling of volumes or anything else in that business? Yes Andre it's Stephane.
+Let me try to address this one.
+It's – we actually have seen a – the conversions coming back between volume – transaction volumes and volatility.
+The problem is it happens at a lower level in Q3.
+It was overall in the quarter a little bit less volume overall.
+Where we've seen that much much more strongly than anywhere else I think Jim alluded that earlier is really in the interbank trading market.
+We see like a marked decline in volumes there which obviously results in less liquidity being available in these markets.
+On buy-side businesses – transaction businesses are actually all growing.
+But the interbank markets or primarily are (55:45) foreign exchange dealing and foreign exchange matching products where we are seeing the decline.
+It's pretty clear that large banks are staying on the sideline at this point in time.
+You've seen it in the trading results that most banks have reported in the last year the trading volumes are down dramatically.
+And so it's not so surprising that you see it happening in our results also.
+One thing I would say though is that I would keep that into perspective right? Transactions for us represent 10% of F&amp;R's revenues.
+So 5% of the total revenue of the company.
+And although we would love to see that growing faster it's not having a dramatic impact on the overall revenue picture of the company.
+Thank you.
+Stephane I know you said you liked the 2.5 times leverage ratio but I'm wondering just in the context of the success you've had in driving the margin improvement the free cash flow improvement if you'd be potentially thinking about stretching a little bit on that over the next year or two and how you think about perhaps the buyback strategy beyond 2016.
+Thanks Peter.
+It's a good question.
+When we look at our capital strategy it's something that we look at over a very very long period of time.
+And so when we decided in 2013 to modify our leverage target from what was at the time 2 times to 2.5 times we really did that with a view of that being a decision for the fairly long term.
+So I don't think that you're going to see us changing that in the near term certainly.
+Thank you.
+Thanks very much.
+Most of my questions have been answered.
+So let me ask about a sector we don't talk about much IP &amp; Science.
+Do you see any risk there going forward given the pharmaceutical industry seems to be coming under a fair amount of regulatory scrutiny? Any discussions with your clients that may lead you to think they'll be trimming back some of their R&amp;D budgets? Chief Executive Officer &amp; Director</span></strong> No I think we're still bullish on R&amp;D in lots of places around the world.
+So I don't see that as a particular material risk at this point.
+We do remain concerned and you see it in the numbers this year particularly in the scientific side of the business.
+This is a year that's been tough for the transactional businesses.
+And particularly we sell a lot of database products to governments and to universities.
+I mean one way or another funded by government grants and whatnot.
+And this has been a tough year for discretionary purchases of additional databases for libraries particularly where we're building out in emerging markets and particularly in emerging markets that are heavily dependent upon oil prices which have been strong for us in the past.
+So we think those are temporary one-off issues related to the transactional revenues.
+We don't see a huge threat there Vince.
+Thanks so much.
+Operator we'd like to take one final question please.
+Good morning.
+18 months ago you gave us your EPS growth targets.
+And if I remember correctly about 25% to 30% or so of that extra dollar of EPS was going to come from revenue growth.
+You seem to be very comfortable with the target but I was wondering whether you believe that the revenue component of that growth will turn out to be as significant as you predicted a year ago or whether you will have to – or 18 months ago – or whether you need more cost savings and more buybacks effectively to make up for some of the revenue or whether you still think that the mix is roughly right.
+That's a good question Claudio thank you for asking it.
+I'd say the following.
+As you said when we laid out our target achieving that target rested primarily on our ability to drive transformation and simplification savings and also to a lesser extent but to a large extent also on the capital strategy changes that we had announced.
+So that's why we set it mostly with levers that are under our control that we can achieve that target.
+That hasn't changed and you can see the progress we're making from a margin perspective.
+You can see in the pace of our buyback program that we are obviously moving swiftly on those two levers.
+Now on the revenue component it was I would say based on a couple of things.
+We assume some level of modest acquisition in that revenue target.
+If anything I would say the level of acquisition has been even lower than we thought it was going to be.
+The organic performance though is very much in line with what we were expecting.
+There are great (01:01:24) puts and takes we were hoping to do a little bit better on the transaction side with F&amp;R but on the other hand we've done better than we expected in other areas which is always what you would expect in business.
+So I would say overall not much change maybe – other than the fact that as I said our acquisition volume has been a little less even than we thought as we really – as the organization has really taken to heart that call to arms as Jim said to focus on driving organic growth through innovation and investments behind the highest growth opportunities and also importantly driving scale by taking away the complexity that had been accumulated over years of acquisition activity.
+Chief Executive Officer &amp; Director</span></strong> Just a little bit qualitative way Claudio to answer that as well.
+I think we have incredible visibility into what we need to do on the cost side to deliver and I think we have the plans in place.
+And if we have to squeeze harder that's capable – that's possible as well.
+But that's not what we're planning on.
+We think we execute as we have planned we will get there.
+And if anything we're more encouraged by what we see on the revenue line long term.
+I desperately do not want to be in a position where we drive to some number we've given you and hit that finish line out of gas.
+I've spent most of this year focused on the top line.
+I'll continue to spend most of this year focused on the top line.
+When I look at our growth prospects I'm very encouraged by what I see particularly on the underlying trends.
+As Stephane says transactional stuff will come and go currency can come and go but if we can keep those subscription revenues flowing and we can capitalize on some of the opportunities we're seeing around risk and compliance around KYC around the new Org ID product that we're getting a lot of traction on around global tax solutions I think there's a really good opportunity for us on the revenue line as well.
+And so we're trying to manage both lines for the future.
+Thank you.
+So that will be our final question and we very much appreciate you joining us for this call today.
+And we'll speak to you again in February.
+Thanks.
+Chief Executive Officer &amp; Director</strong> Thank you.
+we view them as an important resource for bloggers and journalists THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION THERE MAY BE MATERIAL ERRORS OMISSIONS OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS.
+IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts please contact us at: <a href="mailto:transcripts@seekingalpha.com" rel="nofollow"><u>transcripts@seekingalpha.com</u></a>.
+Thank you!

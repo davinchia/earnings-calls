@@ -1,0 +1,457 @@
+Good morning and welcome to the Rockwell Collins first quarter fiscal year 2015 earnings conference call.
+Today's call is being recorded.
+For opening remarks and management introductions I would like to turn the call over to Rockwell Collins' Vice President of Investor Relations Ryan Miller.
+Sir please go ahead.
+Thank you Shawn and good morning to all of you on the call.
+With me on the line this morning are Rockwell Collins' Chief Executive Officer and President Kelly Ortberg and Senior Vice President and Chief Financial Officer Patrick Allen.
+Today's call is being webcast and you can view the slides we will be presenting today on our website at www.rockwellcollins.com under the Investor Relations tab.
+These slides include certain non-GAAP financial information and a reconciliation to the related GAAP measure.
+Please note today's presentation and webcast will include certain projections and statements that are forward-looking.
+Actual results may differ materially from those projected as a result of certain risks and uncertainties including those detailed on slide two of this webcast presentation and from time to time in the company's Securities and Exchange Commission filings.
+These forward-looking statements are made as of today and the company assumes no obligation to update any forward-looking statement.
+With that I will now turn the call over to Kelly.
+Thanks Ryan and good morning everyone.
+We are off to a great start to our fiscal year 2015 plan.
+After our strong fourth quarter last year I am pleased to say that we have followed up with another great quarter of sales and earnings growth led by our Commercial Systems and Information Management Services businesses.
+And as we expected we are seeing continued stabilization in our government systems revenues.
+We were also able to deliver some really strong margin performance in all of the businesses which I think demonstrates our ability to provide the incremental margin growth that's an important element of our plan.
+Our first quarter results are very consistent with our outlook that we projected at our Investor Day now almost a year ago.
+And if you recall at that time I said that the priorities for increasing shareowner value would be accelerating our topline growth expanding our free cash flow and deploying our capital to balance both growth and shareowner returns and we are doing that.
+This quarter we delivered 16% topline growth as we again benefited from the acquisition of ARINC in addition to the organic growth.
+We delivered 20.6% operating margins with expansion across all of our businesses.
+And we delivered 29% earnings per share growth as a result of our strong performance aided by the retroactive R&amp;D tax credit as well as share repurchases.
+Now I would like to also highlight a few of the important program related milestones we hit during the quarter.
+As you all know Airbus made the first delivery of its A350 which features the most Rockwell Collins content of any aircraft at Airbus.
+This starts the wind down of the very significant investment phase and we begin reaping the return on this investment which we will enjoy for years to come.
+We also saw the first flight of the Boeing KC-46 tanker which features significant content from Rockwell Collins both from an avionics perspective as well as a mission systems perspective.
+This marks a major milestone in our strategy to bring commercial technology and products into the military market.
+And then the much-anticipated new business highlights for the quarter was the finally announced wins on the 777X.
+This includes the standard large-format flight displays as well as optional dual head-up displays the standard integrated surveillance system which incorporates our weather radar our traffic collision avoidance system or TCAS our terrain awareness system or TAS and the transponder for the aircraft all of which are selectable BFE on existing 777s and now will be sole-sourced to Rockwell Collins on the 777X.
+The integrated surveillance system also provides the onboard traffic computer for current and future ADS-B applications.
+We were also selected for a number of flight control systems in addition to the previously announced integrated flight control electronics fly by wire system for the aircraft in partnership with BAE.
+These results represent a significant market share win for Rockwell Collins and all in I expect the 777X will represent about $2 billion in sales for Rockwell Collins over the life of the program.
+Now let we remind you that with this position we now provide the common state-of-the-art flight deck technologies and products for all of Boeing's next-generation airplanes including the 787 the 737 MAX the KC-46 or 767 and now the 777X.
+So we feel really good about the continued growth in revenues that these positions should provide our company.
+And as I have been indicating all along our plan is to fund the 777X development within our existing R&amp;D expense budget.
+So we won't be further leveraging our balance sheet for this program all very consistent with our improved cash flow plan.
+Now looking beyond the quarter at the balance of fiscal 2015 with one quarter in the books and everything is looking good.
+So we are flowing the full R&amp;D tax benefit into our full year earnings per share and cash flow guidance.
+Longer-term I believe we are on path for our sustained growth we are seeing the stabilization in defense in business aviation and we are seeing anticipated growth in air transport and information management services.
+And fitting the 777X into our expensed R&amp;D budget is an important indication of our serious focus on improving our cash flow performance without sacrificing long-term growth opportunities for the company.
+And finally we are committed to maintaining our capital deployment strategy as we continue pursuing growth opportunities while returning capital to shareowners through additional share repurchases.
+So in summary the first quarter was a great start to our year.
+It tells me our strategies are working and I believe we are well positioned to carry that momentum through the balance of fiscal 2015 and beyond.
+So with that as a little bit of an overview let me turn it over now to Patrick to walk us through the financial details of the quarter.
+Thanks Kelly and good morning to everyone as well.
+I would now like to walk you through today's presentation slides that summarize our results for the first quarter of 2015.
+I will begin on slide three where we highlight our total company first quarter sales net income earnings per share and operating cash flow.
+Total company sales for the quarter increased $172 million or 16% compared to first quarter 2014 sales.
+Now our first quarter 2015 sales did include $137 million of ARINC revenue compared to $6 million in the first quarter of 2014.
+Income from continuing operations improved $35 million due to the retroactive extension of the Federal R&amp;D tax credit as well as higher earnings from both commercial systems and ARINC.
+Earnings per share from continuing operations increased $0.28 to $1.26 due to higher net income as well as a lower share count due to our share repurchase program.
+Looking next to our operating cash flow from continuing operations for the first quarter we used $60 million of cash compared to use of $24 million last year.
+The higher use of cash is due principally to the timing of receivable collections which was partially offset by a full quarter of cash flows from ARINC higher organic earnings and lower tax payments.
+As we turn to slide four Commercial Systems achieved revenue of $568 million in the quarter up 9% from $521 million in the first quarter of 2014.
+Sales related to aircraft OEMs increased $45 million or 16% to $331 million primarily due to higher OEM production rates improved share of airline selectable equipment and higher customer funded development program sales as the trend toward higher customer funded R&amp;D in commercial systems continues.
+Aftermarket sales increased $5 million or 2% to $221 million due to higher service and support revenues partially offset by the absence of a large delivery of spare parts for the Boeing 787 GoldCare program in the first quarter of 2014.
+Now Commercial Systems first quarter operating earnings increased 13% to $125 million in 2015 with operating margins expanding 70 basis points from 21.3% to 22%.
+The increase in operating earnings and margins was primarily due to the higher sales.
+Moving on to slide five.
+Government systems revenue decreased by 1% to $509 million in the first quarter of fiscal 2015.
+As you look revenue by category sales of avionics increased $3 million or 1% from higher deliveries of tanker transport hardware.
+Communication product sales declined $9 million or 9% primarily due to lower JTRS Manpack deliveries partially offset by higher ARC-210 hardware sales.
+And both surface solutions and navigation product sales were about flat.
+Government first quarter operating earnings increased $1 million to $106 million resulting in an operating margin of 20.8% compared to 20.4% in the first quarter of last year.
+The increased operating earnings and margins resulted from favorable mix partially offset by higher working expense due to favorable warranty adjustments recorded in the first quarter of 2014.
+Turning to slide six you see information management services which includes ARINC as well as our legacy flight services business.
+During the first quarter ARINC contributed $137 million of revenue compared to $6 million in the prior year which represented just a partial week of revenue since the date of acquisition was December 23 2013.
+All remaining revenues are related to the legacy Rockwell Collins flight services business.
+Now on a pro forma basis information management services sales increased 20% over the prior year.
+About half of this increase relates to double-digit sales growth in aviation related sales and about half relates to some unfavorable contract adjustments recorded in the first quarter 2014 which related to some rail programs.
+Information management services had an operating margin of 14.1% in the quarter and during the quarter ARINC delivered EBITDA margin of 23.4% reflecting a significantly improved performance over the prior year where ARINC had adjusted EBITDA margins of 20.9%.
+Slide seven provides an update of our total R&amp;D investment through the first quarter of the year.
+Total R&amp;D investment increased $12 million in the first quarter of 2015 compared to the same period last year.
+The increase was due primarily to $20 million in higher customer funded R&amp;D on international commercial systems programs $4 million of higher company funded R&amp;D and $12 million of lower preproduction engineering spend.
+The lower preproduction engineering spend was due primarily to lower spend on the A350 program.
+And looking to the full year we expect total R&amp;D to be about $1 billion which is up $50 million from our initial guide with the majority of the increase coming from customer funded R&amp;D in both commercial systems and government systems.
+Moving to slide eight we show the status of our capital structure as of the end of the first quarter compared to the end of last year.
+During the quarter our debt to EBITDA ratio edged up to 2.0 from 1.9 at year-end.
+The increase was primarily due to an increase in commercial paper used to fund share repurchases.
+I believe this level of debt still provides us the necessary cost-effective access to fund our capital needs and I expect it to come down over the balance of the year as a larger portion of our cash flow traditionally results later in the year and we pay down a portion of that short-term debt.
+And we expect to continue paying down the commercial paper balance over the course of the next few years.
+The updated status of the share repurchase program as of the end of the first quarter is detailed on slide nine.
+During the first quarter we repurchased 2.2 million shares at an average cost of $80.45.
+Our repurchase authority remaining at the end of the quarter was $131 million.
+I would like to turn now to our final slide slide 10 where we provide the details of our updated fiscal year 2015 financial guidance for continuing operations.
+Guidance for sales operating earnings is unchanged from our initial guide last September.
+Due to the retroactive extension of the Federal R&amp;D tax credit we improved our guidance range for earnings per share by $0.20 and our guidance range for cash flow from operations by $25 million.
+We have also increased our research and development investment by $50 million to about $1 billion as I mentioned previously.
+And our guidance for capital expenditures remains unchanged at about $200 million for the year.
+That completes my review of financial results and projections.
+So Ryan back to you to kick off the Q&amp;A session.
+Thank you Patrick.
+In order to give everyone the opportunity to ask questions we ask that you limit your questions to one per caller.
+If you have further questions simply reinsert yourself into the queue and we will answer those additional questions as time permits.
+Operator we are now ready to open the lines.
+[Operator Instructions].
+Your first question comes from line of Carter Copeland from Barclays.
+Your line is open.
+Hi.
+Good morning guys.
+Good morning Carter.
+Just on just a quick question just to start on ARINC and IMS just as we try to learn this business a little bit better.
+It obviously grew a lot year-over-year.
+Pat you talked about the negative adjustment there given about half of that growth.
+But if you look at that business sequentially it looked to the to be down and I wondered if you might come and give us some color if that's seasonality or if there is lumpiness in that airports and rail business that I think we have seen in the past couple of quarters? Can you give us a sense of what that business look likes sequentially and maybe in the component pieces of airports and rail and other? Yes.
+I think it's a little bit of both Carter.
+If you are thinking about the projects business there is a seasonality element to it just because we have fewer working days in the quarter.
+The other part of it though is some inherent lumpiness particularly in the airports business between the fourth quarter and the first quarter.
+The combination of those two things really led to the sequential decline.
+So I think going forward as we understand the business more you are going to see a sequential or you are going to see a seasonality component to our first quarter but there will always be that lumpiness that's less predictable in the airports business.
+Okay.
+So it's reasonable to assume that going forward and if we exclude airports and rail we will still see a seasonal a very modest decline in Q1? I think that's a fair way to think about it.
+Yes.
+Okay and just as a quick follow-up is there any financial implications to know because of the Lear 85 pause? How are you think about that? Well from the Lear 85 we have about $30 million a little bit less than $30 million deferred on our balance sheet.
+We do have a contractual guarantee related to it and we been through the contractual and legal reviews.
+We feel very comfortable that it's an enforceable contractual guarantee.
+What we are working through right now with Bombardier is what is the future of that program and I think it's fair to say there is a lot of uncertainty around that right now but we have $30 million deferred and we anticipate no write-off.
+Okay.
+Carter this is Kelly.
+Let me give you a little more maybe longer-term color there.
+This doesn't come as a surprise that the program was paused.
+We took the revenue as you know out of our forecast for 2015.
+Now we do have the Lear 85 program baked into our long-term outlook.
+So it will be interesting to see does the program come back on or do we go to termination.
+As Pat said I am not worried about the liability of the deferred engineering.
+In terms of long-term impact to us it kind of depends on what happens.
+I am sure if the program doesn't come back online that the demand for the airplanes won't go away.
+It will just go to different places then Bombardier will likely try to move them into one of their other aircraft like a Challenger 350.
+If they lose those customers they are likely to go either to Cessna Embraer or Gulfstream IAI.
+So it's kind of depending on how that all works will determine whether there is net impact to us in the long run.
+My feeling on this is that if this allows Bombardier to be more successful on their schedule on CSeries and the Global 7000/8000 I think it's probably net a good thing for us.
+Okay great.
+Thank you for the color Kelly.
+Yes.
+Your next question comes from the line of Joe Nadol from JPMorgan.
+Your line is open.
+Thanks.
+Good morning.
+Hi Joe.
+So Patrick on the receivables could you outline a little bit the higher-than-expected level I guess from my standpoint in Q1? Just outline whether it was largely billed or unbilled? And then maybe any color you can give by business line or customer? First of all it's largely billed.
+And when I say timing it really is timing.
+As a matter of fact we saw significant collections week and week following the quarter-end.
+And that happens to us every once in a while just because most of our customers have 12/31 year-ends and they are managing their cash flow carefully.
+So I don't anticipate any issue for the full year with respect to cash flow.
+It really was just a quarter timing issue.
+In terms of on a by customer basis it was sort of all over the map there.
+There were no significant individual customers that I would point to.
+Okay.
+The increase in your cash flow guidance obviously you had the tax credit you upped your R&amp;D.
+Could you just build a bridge for us how you are able to raise the cash flow guidance despite the higher R&amp;D? Yes.
+Well the higher R&amp;D is largely customer funded.
+So it's not going to be in a way it’s going to be a positive cash flow impact for us.
+And then the R&amp;D tax credit I think it's probably to the tune of about $30 million of cash flow for us.
+So when you combine the two that leads us to the cash flow increase.
+Okay.
+Fair enough.
+Thank you.
+Your next question comes from the line of Myles Walton from Deutsche Bank.
+Your line is open.
+Thanks good morning.
+I wanted to start on the defense side.
+So if you correct for R&amp;D and the warranty claims on a year-on-year basis you had pretty nice margin expansion and you attributed it to mix but given it is pretty low volume here in the first quarter I imagine the volume is going to help you through the rest of the year.
+Is mix actually going to start to hurt you through the rest of the year? Or is there more upside in government margins than usual? We always hope there's upside to the margins but I would say that the mix will probably be a slight negative over the course of the balance of the year.
+Myles we also will see a little bit of increased spending on the year in expensed R&amp;D and government systems.
+So that will offset a little bit of that as well.
+All right and then on customer funded R&amp;D or the increase in R&amp;D is customer funded that's putting upward pressure on your sales I imagine.
+Is it effectively pushing you to the top end of the range already? Or are there some offsets in the end markets that you are kind of -- We certainly hope that it presents revenue opportunity for us for the full year.
+The one thing that's impacting us a little bit just on the topline more than the bottomline is currency.
+We have always said that we don't have a significant exposure to currency but it has moved so significantly since we have set our plan that if rates stay where they are particularly the Euro exchange rate with the dollar we are looking at probably about $30 million impact for the full year.
+That's the ones negative that we are watching but on balance I think it does indicate some level of opportunity.
+Okay great.
+I will stop there.
+Thanks.
+Your next question comes from the line of Ron Epstein from Bank of America.
+Your line is open.
+Hi.
+Good morning guys.
+Hi Ron.
+So Kelly just maybe a broad question for you.
+How would you characterize what you guys are seeing in the business jet market now from your customers? And then I guess everybody is trying to understand if we are really seeing mids and lights pickup? Would you characterize it that way? How would you describe it? Well Ron remember for if to pick up for us means OEMs have to increase their rates of production.
+We are clearly seeing early indicator signs with utilization rates and that things are picking up a little bit.
+I would say nothing that changes our outlook at the low-end in terms of production rates.
+As you know we forecasted that most of the market recovery will be through the new products that are being brought into the market and I think that's what we are seeing.
+So the new demand is going to the new airplanes.
+Nothing material yet.
+If you look at the overall environment if the oil effect drives a little bit of GDP growth maybe we will see better than we have expected recovery there in the market but nothing meaningfully yet.
+Okay that's great.
+Thank you very much.
+Your next question comes from the line of Peter Arment from Sterne Agee.
+Your line is open.
+Yes good morning gentlemen.
+Kelly could you give us maybe just a clarification.
+How does the wind down investment base kind of flow through on the A350? Is it done something where it's basically already completed? Or do we still have to finish some for the remaining part of this fiscal year? For all practical purposes we are through the major development.
+We always have a little bit of work to do associated with entry into service and supporting the initial customer.
+So it's not completely done but getting through the certification and entry into service really marks the milestone of the end of the major expenses.
+And recall that a lot of that is in our deferred engineering spend.
+And that's been a part of our plan all along to get that program into service and start bringing down our spending in deferred engineering.
+Okay and Kelly if I could just ask a quick one on that.
+Is there anyway to quantify what the spare parts demand in terms of the aftermarket would have been in commercial without the absence of the large delivery of spare parts tied to the GoldCare program? Yes probably mid-single-digit.
+Mid-single-digit.
+Okay.
+Thank you very much.
+Your next question comes from the line of Robert Stallard from Royal Bank of Canada.
+Your line is open.
+Thanks very much.
+Good morning.
+Good morning.
+Kelly a question on the aftermarket.
+You can talk about large jets and small jets in this context.
+Do you think the oil price coming down and the increase in airline profit should help your sales of discretionary product? Yes.
+In my opinion the one big positive and probably the earliest positive impact we would see associated with lower oil prices would be in the aftermarket.
+Now you know that's going to be muted by the fact that most of the major airlines are hedged.
+So the windfall will be over time.
+I actually think it's more likely that we will see faster impact in business aviation because the fuel price isn't typically hedged there and it is in a common budget element the whole operating costs.
+So we may see higher utilization because the flight departments have more money that they didn't spend on fuel and they could either fly more or afford some discretionary mods for the aircraft.
+Now I will also say we haven't baked into any of that yet into our forecast I think the timing of that is yet to be seen a little bit.
+But maybe towards the end of the year we should start seeing some.
+If oil stays low we should start seeing some flow through of that spend.
+Okay and as a quick follow-up on the after market.
+I was wondering if you could tell us what the business jet after-market trends were like in the quarter.
+The flight MRO trended pretty consistently.
+We did have a little bit of lumpy timing in some of our mandate updates in business aviation.
+But there is nothing in the market that -- we posted pretty low 2% aftermarket numbers which isn't a surprise.
+We kind of signaled that.
+There is nothing I see in the market that's going to keep us from achieving our forecast of high single digits in the overall aftermarket.
+Great.
+Thanks so much.
+Your next question comes from line of David Strauss from UBS Securities.
+Your line is open.
+Good morning.
+Kelly on the growth rate commercial air transport OE you cited airline selectable market-share gains.
+Can you give us a little bit more color there in terms of product and maybe platforms where you are really seeing share gains come through? Yes.
+On the legacy aircraft most of our equipment is buyer furnished equipment or selectable at the airlines.
+And so you have seen we have been doing quite well over the past several years in capturing that business.
+And that just flowed through in that.
+This quarter we had a really nice mix of customers that had selected our buyer furnished equipment.
+From an aircraft perspective it was really more driven on the 777 and the A320 products this past quarter  Okay and as a follow-up could you talk about your progress on the KC-46 program? Obviously Boeing there's a lot of speculation out there in terms of how Boeing is doing but can you talk about from how you see things? Yes.
+We are on-schedule on-plan supporting them.
+The first flight included obviously our flight deck equipment.
+It did not include the mission package equipment.
+That gets put on after the green aircraft flight.
+But everything is going really well.
+And in fact we are ramping down our development on the program.
+We will be ramping down throughout this fiscal year.
+And then we will start to pick up when we get the follow-on order.
+Right now we are on order for just the four FDD aircraft.
+And so we have got the follow-on 18 airplanes to start building here next year.
+Everything looks good David on that program.
+Really proud of the team both in terms of meeting all the expectations but our financial performance in the development is doing quite well.
+So we are doing a good job.
+Great.
+Thanks Kelly.
+Your next question comes from the line of George Shapiro from Shapiro Research.
+Your line is open.
+Yes.
+Good morning.
+Question if I look at the incremental margins in commercial air about 30% now it may have been a little higher Patrick.
+I don't know how much of the $4 million increase in R&amp;D was commercial.
+But I also wanted to ask was there a change in the incentive comp in the quarter where you have been running? Or was this kind of a normal quarter? I would say it's a normal quarter for incentive comp.
+If you adjust for the R&amp;D I think the incremental is about 35% and we have signaled that there are going to be quarters where the incrementals aren't quite as high just because of the volume of customer funded R&amp;D.
+And that's really what's driving the incremental margins down a little bit from where we normally are.
+You have always commented in the past that you make up a similar margin in OE versus aftermarket.
+I assume that hasn't changed.
+Or is that a little bit more biased less for the OE? No.
+But I think it really hasn't changed much.
+What we have talked about in terms of lower margin stuff one is the customer funded R&amp;D that we have already talked about and the second is when we are introducing new products they tend to come at slightly lower margins.
+But if you think about our legacy OEM business and our legacy aftermarket business both very high margin.
+Okay.
+Thanks very much.
+You next question comes from the line of Cai von Rumohr from Cowen &amp; Company.
+Your line is open.
+Yes.
+Thanks so much.
+So you indicated that most of the $50 million increment in R&amp;D is basically customer-funded.
+Can you give us some sense is most of that in commercial in air transport OE? What programs what areas and also what does that imply for deferred engineering and company-funded R&amp;D? Thanks.
+Hi.
+I think company funded has actually taken up a little bit to our deferred spend.
+I don't think if it's going to change much at all.
+And in terms of the composition of the increase in customer funded R&amp;D about equal parts government and commercial.
+The commercial piece is really development programs on international platforms as we have talked about before.
+And the government side it's a scattering of other programs.
+Okay.
+Well given you are up 22% in air transport OE in the quarter even all the explanations you gave a spectacular gain.
+Does that mean that air transport OE this year would look like you could maybe be up 12% to 14% something like that even with deceleration later on? Is that a reasonable guess? That's not a bad guess.
+No.
+Okay.
+Thank you very much.
+Your next question comes from line of Jason Gursky from Citi.
+Your line is open.
+Good morning.
+Thanks.
+Kelly I was wondering if you could just update us on your assumptions with regard to CSeries volumes both this year and the ramp going forward to start? I am sorry.
+I didn't hear the question.
+Was it CSeries you asked? Yes CSeries.
+Just the assumptions that you have on volumes for this year and going forward.
+Yes.
+As you recall we de-risked the plan quite a bit with CSeries.
+So I think we had about a half a point of commercial systems revenue associated with CSeries and we don't need any kind of a ramp to meet that revenue.
+So I am pretty confident that we are going to meet the revenue plan for this year.
+And then we haven't provided any guidance in terms of the ramp-up and I think we are still waiting to see from Bombardier in terms of the ramp-up in production in the out years.
+Okay and then can you just provide an update as well on the business development efforts and where there are opportunities to garner some more content on various programs either on the military side or the commercial side? What are you guys actively working on these days? Well there is obviously some big programs in DOD that are in the competition phase and you can imagine we are probably involved in almost all of those programs particularly for airborne platforms.
+Internationally we have got helicopter platforms additional opportunities in the marketplace next-generation JTRS is still of pursuit for us as we try to move from development and low rate initial production to the production competition for those.
+In terms of the commercials BFE remains a big part of our portfolios.
+So every day we are out competing for the buyer furnished equipment associated with any of the legacy aircraft buys.
+And then we are out really focusing on optimizing our aftermarket positions with these new standard airplanes.
+And that presents some big opportunities for us to work with the airlines for provisioning plans sparing plans and support plans going forward.
+You know I don't see a lot of right now in the commercial space a lot of new clean sheet aircraft I think everybody is really focused on finishing what they have got on their table and getting those aircraft into service.
+Okay great.
+Thank you.
+Your next question comes from the line of Sam Pearlstein from Wells Fargo.
+Your line is open.
+Good morning.
+Patrick on the last conference call you talked about timing of taxes and talked about how the first half was going to be a much higher rate than the second half.
+With the R&amp;D tax credit now approved does that still hold true for the second quarter? Yes.
+What I think I signaled in the last conference call was about 33% rate for the first half of the year.
+Obviously with the R&amp;D tax credit flowing in the first quarter that's not true anymore.
+But as I look into the second quarter we get a partial benefit of the R&amp;D tax credit.
+Think about the tax rate as being about 32.5% for the second quarter and then coming down from that in the back-half of the year.
+Okay and then with an aftermarket growth of the 2% but you had said it was mid-single if we took out last year's big provisioning.
+It still needs to accelerate a decent amount to get to a high single-digit for the year.
+What's really going to be behind the pick up that we see in the remaining three quarters? Well you are going to see that pickup right away here in the second quarter.
+And the real growth drivers are going to be around mandates.
+This is as we said the peak year and we are seeing the order flow associated with the mandate pick up and then retrofits HUDS in China cabin and flight deck updates are the key drivers there for the retrofit in the second half.
+Okay and then if I can ask one more on the 777X.
+I know you said you are going to expense it.
+Can you just talk about the timing or the profile? And I don't know if there's any way to size how much spending and over what period of time you are going to have to absorb? Yes.
+What I would say is there is going to be a relatively modest spend this year and it will be accelerating over the next couple of years.
+And I would say probably peak spending will be in 2017 and coming down from there Okay great.
+Thank you.
+Your next question comes from the line of Richard Safran from Buckingham Research.
+Your line is open.
+Hi.
+Good morning.
+Good morning.
+I just had a quick question here on pre-production engineering.
+If I did the math correct it looks like pre-production engineering was down or maybe a bit I am sorry less negative by about $6 million year-over-year up or more negative by about $1 million quarter-over-quarter.
+And I am looking at the numbers on the cash flow statement not what's on slide seven.
+So if you could maybe can you talk about the trajectory what it's going to look like for the rest of the year? Is this going to be lumpy? Well maybe more linear? Have any of the drivers changed since last quarter? What I would say is Richard it is going to be pretty linear.
+As I look at the profile and I am looking at it right now we may see a modest uptick in the second quarter in our deferred spend but think of it as being pretty linear across the rest of the year.
+Okay.
+Thank you.
+Your next question comes from the line of Ken Herbert from Canaccord.
+Your line is open.
+Yes hi.
+Good morning.
+Kelly I just wanted to follow-up on your comments specifically regarding the mandate pick up.
+To what extent are you seeing that for your 5-7 and 6-7 replacement packages that you recently announced in terms of the cockpit of the avionics? Yes.
+So the mandate pick up that I was talking about was specifically related to the Link 2000 and the TCAS change.
+So not driven by the flight deck up update.
+We do have our second customers.
+I commented that the last call.
+So we are pretty firm.
+That will also drive some growth in the second half as we deliver those updates to our unannounced customers for that.
+Okay.
+But just to follow-up you are getting a sense that on those particular planes the airlines are maybe with what's happened with the fuel environment a little more open to spending there on those upgrades? Maybe they are a little easier to process? Or how are you seeing that? Well I would say the fuel is not going to hurt.
+It certainly is going to help.
+But even before fuel was what it is today we were seeing strong interest from customers who are going to fly those aircraft for a lot longer to go ahead and do the mods.
+I think we will have some additional customers in terms of orders by the end of our fiscal year.
+It probably won't convert to any sales just because of the timing from order to sale there.
+So I think for this year we are pretty firm in terms of what we need to do on those aircraft.
+Yes fuel should be in that good news for that product line offering.
+Great.
+Thank you.
+Your next question comes from the line of Michael Ciarmoli from KeyBanc.
+Your line is open.
+Hi good morning guys.
+Thanks for taking my questions.
+Maybe staying on the after-market theme can you guys talk about will A350 sparing create some of a tailwind? And can you also talk about just some of the trends you are seeing at your Intertrade unit with surplus parts? Is that market becoming tighter given fuel prices? Maybe just some color there.
+I don't think we have seen any meaningful change in our Intertrade used business as a result of fuel prices.
+In general this fuel price I think the impact is going to come later.
+I think the fact of the matter is everybody is still operating on the same budgets that they had when they started their year.
+So you know I don't expect to see significant change here in the near-term associated with fuel prices.
+The other part of your question it was the A350 spares and the magnitude what we are going to see this year.
+I would describe it as being pretty modest and the reason is because there is really only one significant customer in 2015 and that's Qatar.
+So we don't have quite the volume of mix that we had in the 787 rollout.
+And so I think there will sparing activity at least this year.
+Got it that's helpful and then just Kelly on the synergies with ARINC.
+I know you guys called out $10 million a year climbing to $50 million.
+Any update there? Have you guys identified additional synergies? Or do you think you can boost those numbers as we progress and the integration moves on? Yes.
+We continue to track to our plan there.
+I have discussed the synergies of combining our flight services business for international and domestic under our new product brand ARINCDirect and that's a combination of additional customers as well as cross-selling capabilities that each independent company had and we continue to track to our plan and gain new customers but also gain more volume with the existing customers.
+So I feel really good about that tracking to our plan.
+Some of our longer term synergies now we have got a well-defined.
+We have got development activities underway for our product or service offerings.
+Nothing we are ready to announce right now but those are coming.
+And then more importantly our cost synergy performance is really good.
+And as part of what's allowing us to achieve those 23% EBITDA margins for the quarter.
+Got it.
+Very good thanks guys.
+Your next question comes from the line of Howard Rubel from Jefferies.
+Your line is open.
+Hi.
+Good morning gentlemen.
+Thank you.
+Kelly you talked a little bit earlier about the strength of the dollar.
+And so how are your international and emerging market customers coping with this unexpected headwind relative to in many cases their natural currency? We really haven't seen any change to-date but we are pretty early in the process.
+Most of our orders that we delivered in the quarter were placed last year.
+So no we haven't really seen much impact at least to-date with respect to our international customer base.
+No I am not sure about the timing.
+I mean I think it's probably a watch item and in some cases obviously they have natural hedges.
+It just struck me that it's such a sharp move.
+Also related to that is the sanctions in Russia seem to have had some impact on some companies.
+How are you managing to continue to support your business jet customers in that market? No change and we are not overly exposed in Russia.
+So I don't anticipate any impact there.
+Thank you both gentlemen.
+Okay.
+Your next question comes from line of George Shapiro from Shapiro Research.
+Your line is open.
+Yes.
+As a follow-up can you provide at all what your content per plane is going to be on the 350 and the 777X versus the 777 currently? Well you know George we do not disclose our shipset content on any of the aircraft.
+I will repeat what we have said in the market.
+We said that the A350 will be about $2.5 billions.
+The 777X will be about $2 billion the 787 and the 737 MAX are similar in size combine them there will $7billion to $8 billion of total revenue.
+So that gives you kind of magnitude of the programs going forward.
+Now recognize the quantities of the business cases across all those are different.
+Okay let me ask one follow-up then one Kelly.
+If you could describe I don't know much about the SITA business that you compete with with ARINC.
+But if I just look at some of the data that you can get it seems like they are seeing much slower growth rates like maybe 3% 4% where you are saying you are seeing like 10%.
+So maybe you could describe a little what it is that you are doing that's different than what they are doing that's giving you the higher growth rates? Well if you look at their portfolio and our portfolios they don't really there are no one-for-one overlap.
+They are our biggest competitor in our ARINC business but they have got other support businesses that we don't have.
+And I don't think they disclose their revenues at least I am not aware of it in a way that you can do a one-to-one comparison.
+I would suspect they are seeing higher growth in the comparable business that they do because we are seeing it driven by the market.
+It's not as significant.
+What we are seeing is not significant market share gains beyond the synergy areas.
+Most of it is market uplift.
+Okay.
+Thanks very much.
+Your next question comes from the line of David Strauss from UBS Securities.
+Your line is open.
+Thanks.
+So as a follow-up any update on the ASES potential to sell that business? Well we are still working it.
+We had a buyer last quarter.
+That deal fell through.
+But we are currently working with another potential buyer.
+So hopefully within the next couple of quarters we will get the thing sold.
+Okay.
+Kelly the NTSB yesterday came out with a whole bunch of recommendations around getting basically flight information faster.
+Could you talk about how that could potentially help your ARINC business? I know they are only recommendations at this point but it seems to be that we are moving in that direction.
+Yes.
+Most of the more frequent updates would go likely over the ACARS network which will drive revenue.
+I said this in the past that all the capability exists to report the position of the aircraft.
+They aren't doing it at the frequency that they could.
+I don't think it's going to drive a material impact to our overall business.
+It's not going to take a lot of data to provide more frequent updates to aircraft position.
+Okay.
+And Patrick was there any change in the forecast for ARINC on the intangible amortization side? No.
+No it's staying steady.
+Okay thank you.
+This concludes the question-and-answer session.
+I would now like to turn the call back over to Mr.
+Ryan Miller for any closing remarks.
+Thank you.
+We plan to file our Form 10-Q later today.
+So please review that document for additional disclosures.
+Thank you for joining us and participating on today's conference call.
+This concludes today's conference call.
+You may now disconnect.

@@ -1,0 +1,454 @@
+Thank you for standing by and welcome to the SunTrust's Second Quarter Earnings Conference Call.
+[Operator Instructions] Today's conference is being recorded.
+If you have any objections you may disconnect at this time.
+Now I will turn the meeting over to Kris Dickson Director of Investor Relations.
+Thank you.
+You may begin.
+Good morning everyone and welcome to SunTrust's Second Quarter Earnings Conference Call.
+Thanks for joining us today.
+In addition to the press release we've also provided a presentation that covers the topics we plan to address during our call today.
+The press release presentation and detailed financial schedules are available on our website www.suntrust.com.
+This information can be accessed by going to the Investor Relations section of the website.
+With me today among other members of our executive management team are Bill Rogers our Chairman and Chief Executive Officer; Aleem Gillani our Chief Financial Officer; and Tom Freeman our Chief Risk Officer.
+Before we get started I need to remind you that our comments today may include forward-looking statements.
+These statements are subject to risk and uncertainty and actual results could differ materially.
+We list the factors that might cause actual results to differ materially in our press release and SEC filings which are available on our website.
+During the call we will discuss non-GAAP financial measures in talking about the company's performance.
+You can find the reconciliation of these measures to GAAP financial measures in our press release and on our website at www.suntrust.com.
+Finally SunTrust is not responsible for and does not edit nor guarantee the accuracy of our earnings teleconference transcripts provided by third parties.
+The only authorized live and archived webcasts are located on our website.
+With that out of the way I'll turn it over to Bill.
+Okay.
+Thanks Kris.
+In our normal fashion I'll begin today's call with some brief comments on our performance this quarter and then pass on to Aleem to provide details on the results.
+The high-level points are shown on Slide 3 of our presentation.
+Core performance continued to steadily improve this quarter.
+Net income to common shareholders was $270 million and earnings per share was $0.50 a $0.04 increase over last quarter and a $0.17 increase over last year.
+On the revenue side total revenue was up $28 million over last quarter driven by higher noninterest income.
+Strong Mortgage revenue drove a $64 million or 7% sequential quarter increase in fee income while our net interest income declined $36 million due to decrease in swap income.
+Mortgage production volume remained high this quarter.
+To date this year we've closed almost $16 billion in Mortgage loans up over 50% from last year which helped over 62 000 clients buy or refinance a home this year including many through the HARP program.
+Now moving to expenses.
+They were stable the last quarter and last year.
+Included in this quarter's expense was a $13 million noncash charge associated with redemption of a $1.2 billion of trust preferred securities.
+These were higher-cost fundings and as such we moved quickly to redeem them once the capital treatment of that occurred allowing us to do so.
+We've made significant progress in our efforts to reduce expenses through our PPG program.
+To date we've generated annualized savings of $250 million and we're now well within our sight of $300 million goal for the program.
+Now at the risk of being redundant I'll reiterate that we're committed to establishing a more efficiently-run organization.
+The PPG program was the catalyst but was never intended to be the final goal for us.
+So what I'm saying here is that when PPG is done our work is not.
+The ultimate objective is getting our efficiency ratio under 60% and we have high intensity around both revenue and expense initiatives to help us achieve that goal.
+Now taking a look at the balance sheet.
+Targeted loan growth particularly in C&amp;I drove a $1 billion increase in average performing loan balances over last quarter and nearly a $10 billion increase over last year.
+At the same time we've been actively managing down certain real estate-related loan balances.
+Though average client deposits were stable to last quarter's record level we continue to see the favorable mix shift this quarter.
+Average DDA balances were up 3% from the prior quarter and 23% from the prior year while CD balances declined.
+Credit quality also continued to improve across-the-board.
+Net charge-offs are 1.14% of average loans down 17% from the prior quarter.
+Nonperforming loans were down 7% and early-stage delinquencies declined 7 basis points.
+Lastly we generated additional positive capital growth with Tier 1 common ratio estimated at 9.4% at quarter end.
+Now before I wrap up my comments and turn it over to Aleem I'm going to take a minute to address our resubmitted capital plan under the 2012 CCAR process.
+As you're aware we submitted our revised capital plan in mid-June.
+While the fed is in the process of reviewing our plan I wanted to share with you in advance that we elected not to request any increase in the current level of the dividend or any other return of capital at this time.
+We made this decision in light of the fact that this submission only covered capital actions for the fourth quarter of 2012 and the first quarter of 2013.
+Additionally we considered the close proximity of the resubmission to the 2013 CCAR process which is expected to begin in the fourth quarter of this year shortly after the time we expect to hear back on this plan.
+And we think this is the best course of action for the short term but it's not indicative of our long-term plans to return capital prudently to shareholders.
+As a reminder in their review of our original plan submission the fed did not object to the trust preferred redemptions which as I noted earlier have been completed or to maintaining the quarterly common stock dividend at $0.05 a share.
+The 2013 CCAR process will begin later this year will provide us an opportunity to evaluate capital deployment alternatives for next year.
+So overall we made continued progress this quarter with momentum building in several key areas of our company.
+Of note was the solid noninterest income growth mainly driven by strong Mortgage production though with a pick up in several other fee categories as well.
+We also saw a continuation of a multi-quarter trend in increased performing loan balances particularly in our C&amp;I book.
+So looking ahead challenges remain with the less-than-ideal operating environment but I believe SunTrust is well-positioned to capitalize upon our opportunities.
+And with that said let me turn it over to Aleem.
+Thanks Bill.
+Good morning.
+Thank you for joining us today.
+I'll begin my comments this morning on Slide 4.
+Bill had a lot of the highlights so I'll be brief here and then we'll delve deeper on subsequent slides.
+As Bill noted earlier we're pleased to report higher earnings per share this quarter of $0.50 which is a $0.04 increase from the prior quarter and a $0.17 increase from last year.
+This sequential quarter income growth is attributable to higher revenue and a lower loan loss provision.
+Revenue grew $28 million as higher noninterest income more than offset the swap-related decline in net interest income.
+Provision declined $17 million due to lower net charge-offs and continued improvements in other credit metrics.
+Higher revenue and a lower loan loss provision also drove the growth from the second quarter of last year where revenue increased by $48 million by a combination of higher net interest income and higher fee income the latter of which was primarily mortgage-related.
+Improvements in credit quality were widespread driving a $92 million decline in the provision while noninterest expense was essentially unchanged.
+Year-to-date EPS was $0.96.
+This is more than double the $0.41 reported during the first 6 months of last year.
+Revenue was higher up 2% on a reported basis but by a more meaningful 5% net of the usual quarterly adjustment items we detail in the appendix.
+Other drivers were a lower loan loss provision and the redemption of the capital purchase program preferred shares.
+Let's take a look at each of the major income statement categories beginning with net interest income on Slide 5.
+On a sequential quarter basis net interest income declined by $36 million or 3% and the net interest margin fell by 10 basis points to 3.39%.
+Both of these declines were almost entirely due to the previously disclosed reduction in income for maturing commercial loan swaps.
+Excluding the impact of the swap net interest income and margin were relatively stable as lower loan yields and a smaller securities portfolio were offset by the benefits of higher loan balances and an improved deposit mix.
+Despite lower swap income net interest income increased from the prior year by $20 million or 2%.
+Interest income declined by $49 million as lower asset yield outweighed the favorable impact of higher loan balances.
+However this was more than offset by a $69 million decline in interest expense driven by favorable liability trends including strong DDA growth a 17 basis point reduction in deposit rates paid and a 65 basis point decline in long-term debt costs.
+I'll spend a few minutes discussing some of the major drivers of future net interest income and margin.
+First on the asset side.
+With a slightly improving economy we expect to see continued loan growth which would be additive to net interest income.
+Although as you're well aware most going-on rates are lower than the portfolio's current yield.
+Our securities balances declined somewhat this quarter as we didn't see many attractive alternatives in light of the continued decline in yields.
+But we'll continue to monitor the market and we'll pick our spots to reinvest.
+Commercial loan swap income is expected to stay relatively stable through the next year at its current level of about $120 million per quarter assuming no major changes to LIBOR.
+Turning to the liability side.
+During the third quarter we'll begin to benefit from last week's redemption of $1.2 billion in higher-cost trust-preferred securities which had a weighted average cost of about 7%.
+Deposit pricing opportunities are obviously becoming limited at this point given their low absolute rates but this is something that we do continue to evaluate and manage carefully.
+We'll also benefit from higher-cost CDs maturing and rolling into lower rate products.
+So all told there are headwinds and tailwinds.
+As we look specifically to the third quarter we expect those headwinds and tailwinds to largely offset one another such that the net interest margin is relatively stable.
+Look at noninterest income on Slide 6.
+Second quarter noninterest income was $940 million a sequential quarter increase of $64 million on a reported basis or $39 million net of the adjustment items we detail in the appendix.
+Mortgage production income was strong this quarter as origination volumes and gains on sale remained high.
+During the quarter we closed over $8.2 billion of loans which was up 8%.
+Purchase volume was $3 billion an increase of over $1 billion.
+Refinance volume declined modestly but remained healthy at $5.2 billion.
+Mortgage production income was $103 million this quarter or $258 million exclusive of the mortgage repurchase provision.
+Sequential quarter growth and the reported figure was $40 million $20 million of which was attributable to a lower repurchase provision and $18 million due to a gain in conjunction with the sale of a portfolio containing government-guaranteed mortgages.
+And I'll discuss both of those in more detail on subsequent slides.
+In addition to the increase in mortgage production we saw growth in numerous other consumer and commercial fee categories.
+As a couple of examples loan commitment fees recorded in the other charges and fees line item were strong and card fees grew due to increased client usage.
+Relative to the prior year noninterest income was up $28 million on a reported basis and $59 million or 7% on an adjusted basis.
+The largest driver of the adjusted fee growth was a $99 million increase in mortgage production with core mortgage production income up $164 million partially offset by a $65 million increase in the repurchase provision.
+Trading income was also a driver of the year-over-year growth due to improved market conditions.
+On the flip side card fees declined due to the implementation of caps on debit interchange income.
+We also saw a decline in investment banking income on lower syndicated finance volume.
+Let's turn to Slide 7 for a discussion of this quarter's trends in mortgage repurchases.
+Mortgage repurchase demands shown in the top-left box were $489 million this quarter.
+That's an increase of about $40 million from last quarter but within our range of expectations and well below the elevated levels we saw in the fourth quarter of last year.
+Demands continue to be concentrated in the 2006 to 2008 vintages which have accounted for roughly 90% of all demand activity over the past several years as well as this quarter.
+While demand levels may remain elevated in the coming quarters consistent with what we've expressed for several quarters now the underlying trends in demands and full file requests continue to suggest to us that the agencies are making progress in working through these higher-loss content vintages.
+For example full file request volume has moderated somewhat and continue to transition toward loans that are delinquent but not yet in foreclosure.
+Pending population shown in the top-right portion of this slide increased to $652 million up roughly $90 million from the prior quarter.
+This was the result of the increase in new demands as well as a slower rate of demand resolution.
+We're taking a deliberate approach to the demand review process ensuring that we repurchase loans where appropriate yet cure or moderate losses wherever possible.
+Mortgage repurchase reserve shown at the bottom left of the page increased to $434 million up $51 million from the first quarter.
+The increase relates primarily to the higher level of the pending population.
+Said differently the reserve increase is in part due to the higher level of demands and in part to a reduction in charge-offs which is merely a function of loss recognition timing.
+Similar to prior quarters some summary statistics of our sold mortgages are displayed at the bottom right of this page and we've also provided some additional detail on the 2006 to 2008 vintages in the appendix.
+Overall I'd note that our expectations around mortgage repurchases remain generally unchanged from what we've shared with you in recent quarters.
+We foresee demand volume remaining high and variable in the coming quarters.
+However if recent patterns and full file requests continue as anticipated we expect to see a reduced income statement impact towards the end of this year.
+Let's move on to expenses on Slide 8.
+Expenses were essentially stable compared to both the prior quarter and prior year.
+On a sequential quarter basis employee compensation and benefits declined by $35 million due to the seasonal reduction in benefits.
+This decline was offset by growth in a handful of other categories.
+Bill mentioned earlier the $13 million noncash charge that we incurred related to the redemption of trust preferred securities.
+Additionally operating losses increased $9 million due to specific mortgage-related losses and legal accruals.
+FDIC premiums increased $8 million.
+This line item was a bit lower than normal in the first quarter and the Q2 level is expected to be a more normal run rate.
+In credit-related expenses which we detailed for you as usual in the appendix increased by $7 million.
+I will point out that this quarter we refined our methodology for recognizing tax payments on delinquent loans which resulted in an approximate $10 million increase in credit and collection expenses.
+As a result of this change we should not experience the seasonal fourth quarter spike in this line item that we've seen in prior years.
+Relative to the prior year adjusted expenses declined $11 million driven by lower FDIC premiums credit-related expenses and marketing costs.
+These declines were partially offset by a modest increase in compensation and higher outside processing costs.
+Before we turn to the balance sheet starting on Slide 9 I'll summarize this quarter's income statement by noting that we drove continued improvement in our core earnings this quarter.
+Obviously our low -- our absolute level of profitability is still well below our profit-generation capability.
+But overall we were pleased to note continued progression toward a more normalized level of earnings.
+Average performing loans increased again this quarter up sequentially by a little over $1 billion or about 1%.
+Growth was driven by commercial loans specifically C&amp;I which was up $1.3 billion.
+Within our Wholesale businesses growth continued to be concentrated in larger corporate clients and to be well diversified.
+Specific industry verticals within our Corporate Investment Bank that drove the bulk of this quarter's growth were healthcare diversified financial services and media.
+We also booked some modest growth in our Diversified Commercial Banking business driven by auto dealers and not-for-profit clients.
+While we saw a continued runoff of legacy assets in our commercial real estate book the pace of decline moderated again this quarter.
+The residential portfolio was relatively stable this quarter.
+Within it we grew non-guaranteed loans by about $700 million driven by high FICO jumbo loans.
+The guaranteed portfolio was down approximately $600 million largely due to the sale of $0.5 billion in loans this quarter.
+Relative to the prior year performing loans grew almost $10 billion or 9% with the growth coming entirely from our targeted categories namely C&amp;I guaranteed mortgages and consumer loans.
+C&amp;I led the way up $5.6 billion or 12% driven by large corporate and middle market borrowers.
+Consumer loans increased almost $4 billion or 24% with growth across all loan categories most notably student loans.
+And government-guaranteed mortgages were up $1.5 billion or about 33%.
+The overall portfolio growth was partially offset by intentional declines in certain portfolios including CRE construction and home equity which were managed down by a combined $2.3 billion.
+The continued impact of this derisking is evident on Slide 10.
+Portfolios that we've categorized as higher risk declined by $14 billion or 60% over the past few years and they were down by another $400 million this quarter.
+Higher-risk balances were managed down by over $2 billion or 18% from the prior year with the decline split relatively evenly between the 3 major categories.
+This can be seen at the bottom of the page.
+The overall decline and the higher risk balances over the past few years has essentially been offset by increases in government-guaranteed loans.
+This combination has helped to significantly improve the risk profile of the company in a relatively short period of time.
+Additionally the increases in government-guaranteed balances also served as a bridge to a time of organic loan growth.
+Recent quarters' higher-risk loan balances have declined at a slower pace in light of the smaller size of this portfolio and its improving risk characteristics.
+Additionally we've seen a pickup in organic loan demand.
+As such and as part of our continued active management of the balance sheet we elected to sell about $0.5 billion of government-guaranteed mortgages this quarter and this resulted in an $18 million gain.
+Let's turn to Slide 11 for a review of credit trends.
+Credit quality continued to trend favorably this quarter with meaningful declines in delinquencies nonperforming assets nonperforming loans and net charge-offs.
+Early-stage delinquencies excluding government-guaranteed loans were down by 8 basis points from the prior quarter driven by residential loans.
+Non-guaranteed mortgage delinquency rates declined by 23 basis points and home equity improved by 11 basis points.
+Nonperforming loans declined sequentially by almost $200 million or 7%.
+Improvements were evident across the portfolio most notably in commercial real estate and residential and commercial construction.
+Nonperforming assets declined by over $300 million or 11% driven by the decline in nonperforming loans as well as reductions in other real estate owned and the completion of the sale of the nonperforming mortgage loans that we commenced last quarter.
+Year-over-year nonperforming loans were down $1.2 billion or more than 30%.
+All loan categories showed improvement with the highest declines coming from commercial construction CRE and C&amp;I.
+Net charge-offs declined by $72 million or 17% sequentially and the net charge-off ratio fell by 24 basis points to 1.14%.
+Non-guaranteed mortgages home equity and commercial real estate were the biggest drivers of the improvement.
+Relative to the prior year net charge-offs were lower by $155 million or about 30% with meaningful improvements seen across most of the portfolios.
+The allowance for loan and lease losses was $2.3 billion at quarter end or 1.86% of loans.
+In light of the continued favorable trends in credit quality the allowance declined this quarter albeit at a more modest pace than recent quarters.
+Excluding government-guaranteed loans from the denominator of the allowance calculation the ratio stood at 2.07%.
+Overall we were pleased with our trends in credit metrics and the improvements exceeded our expectations particularly in net charge-offs.
+As we look forward a recovering economy should continue to support our positive asset quality trends with improvements primarily driven by the residential portfolio as most of the commercial and consumer portfolios are currently nearing more normal credit metric levels.
+Looking specifically at the third quarter we currently expect to see additional declines in nonperforming loans and relatively stable net charge-offs.
+Let's take a look at deposit performance.
+Average deposit balances were stable with their record first quarter level of approximately $126 billion.
+A favorable shift in deposit mix continued as DDA and savings increased while higher-cost time deposits declined.
+Compared to last year client deposits were up $4 billion or 3%.
+Lower-cost deposits drove the increase with DDA up almost $7 billion or 23%.
+Conversely time deposits were down almost $3 billion or 14%.
+This favorable mix shift has contributed to our year-over-year net interest income growth.
+Slide 13 provides information on our capital metrics.
+Tier 1 common increased for the eighth consecutive quarter up sequentially by approximately $300 million primarily from increased retained earnings.
+The Tier 1 common ratio ended the quarter at an estimated 9.4% up another 7 basis points from last quarter's 9.33%.
+While not shown on this slide I'll mention the capital impact of our decision to call the $1.2 billion of higher-cost trust-preferred securities.
+The redemption of these securities resulted in a reduction of our Basel I Tier 1 ratio of about 90 basis points and that impact is already reflected in our second quarter capital ratio estimates.
+As you're aware this will not impact our fully phased-in Basel III Tier 1 ratio as trust preferreds are not Tier 1 qualifying instruments.
+As it relates to our recent Basel III notice of proposed rulemaking we continue to evaluate the potential impact to our capital ratios.
+Under this proposal we expect to see some increase in risk-weighted assets and a corresponding decrease in capital ratios primarily due to the ranges of risk weightings for residential mortgages and home equity.
+If implemented as stated in the recent NPR our resulting capital ratios should still comfortably exceed all proposed regulatory requirements.
+Bottom part of this slide shows our tangible common equity ratio and tangible book value per share.
+Both were up this quarter due to increases in retained earnings and other comprehensive income.
+Tangible common equity ratio increased by 17 basis points to 8.15% while our tangible book value per share climbed about 2% to end the quarter just above $26.
+Let's turn to Slide 14 for a discussion of our Playbook for Profitable Growth expense program.
+As you can see we made continued progress against the $300 million expense savings goal for the PPG program.
+To date we've reached $250 million in annualized savings.
+As you know this program is comprised of numerous expense savings initiatives broken into 3 main buckets: strategic supply management Consumer Bank efficiencies and operations and support staff.
+This quarter we garnered savings in each of these categories.
+And on the slide you can see the activities that were the primary drivers of the savings.
+In our strategic supply management initiatives we achieved additional savings through further contract renegotiations.
+Additionally we have successfully managed down our own spending on items we consider discretionary items such as travel temp labor print and wireless service.
+Our teammates are finding ways everyday to cut out expenses for things that once seemed like a necessity.
+There's a high level of commitment here throughout the company and this is something every teammate can do to improve efficiency and meet our goals.
+In the Consumer Bank efficiencies category we've achieved savings primarily due to 2 key initiatives.
+First we revamped our branch staffing model to better align market needs with staff from both a capabilities and a volume perspective.
+We're achieving greater efficiencies by differentiating staffing by client segment served and market opportunity.
+Furthermore we've changed our incentive compensation structure for certain types of positions and this is now yielding real dollar savings.
+Several initiatives have driven our operations and support staff savings though the chief component of our savings this quarter came from tighter spans and layers with further reductions in FTEs.
+We also made additional progress in our efforts to leverage digital technology making significant reductions in the number of paper statements that we now process.
+Though we are rapidly approaching our goal of $300 million in savings as Bill mentioned earlier this by no means should imply that we are done with our work here.
+PPG was the beginning of a process of transformation of SunTrust.
+We will continue to leverage the strong momentum we have generated to drive toward our ultimate goal of a sub-60% efficiency ratio upon the abatement of elevated credit and mortgage-related expenses.
+PPG program is only the start of our efficiency improvement efforts.
+That wraps up my comments for today.
+So I'll call -- I'll turn the call back over to Bill.
+Okay.
+Thanks Aleem.
+And before we move into Q&amp;A I'd like to take a few moments to highlight some of the progress we've been making in our lines of business.
+These results punctuate the core momentum we're building.
+I'll start by noting that the efficiency ratio is down at each of the lines of business relative to last quarter and last year.
+Of course their absolute levels are too high but each business has specific plans that aimed at driving continued improvements.
+In our Consumer Banking and Private Wealth line of business we generated solid DDA growth of 11% and loan production volume was up a healthy 19% during the first half of the year.
+From a revenue perspective -- I mean regulatory headwinds continued to challenge noninterest income in this business.
+However you'll notice that expenses were down 7% from the second quarter of last year due in large part to reductions in staffing driven by our PPG initiatives which Aleem highlighted.
+Another encouraging statistic is that client loyalty continued to increase in our retail business this quarter solidifying our position as an industry-leading bank and our footprint for this metric.
+Also of note here is our credit card business.
+Our relaunch of this business is in its early stages but it's going well thus far with new account sales more than 4x the levels generated in the second quarter of last year.
+We've been delivering strong results in our Wholesale business.
+Year-to-date net income was nearly double what it was a year ago.
+We saw a record net income and revenue in Corporate Investment Banking and it generated the lion's share of the 8% Wholesale loan growth over last year.
+DDA balances were up over 20% driven by our Diversified Commercial Banking business.
+We're also beginning to generate some core commercial real estate growth.
+Like credit card we're in the early stages here but we're pleased with our progress and believe commercial real estate loan balances are nearing an inflection point where we'll start to see some growth in this portfolio in coming quarters.
+We're also seeing improving trends in our Mortgage line of business.
+Year-to-date Mortgage production volume was up $5.5 billion or over 50% and core Mortgage production income was $320 million higher.
+The overall profitability of our Mortgage business continues to be negatively impacted by legacy issues and still operating a net loss position this quarter but the trends are improving.
+Given the current rate environment and some overall improvements in the housing market coupled with the HARP pipeline we expect to have near-term Mortgage production revenue to remain strong.
+So overall line of business performance is trending positively and we're seeing the results more clearly in the company's financial metrics.
+Our SunTrust team is working hard in delivering better results and I'd be remiss in not recognizing them and thanking them for their collective effort.
+So with that said Kris let me turn it back over to you.
+Candy we're ready to start the Q&amp;A.
+[Operator Instructions] [Operator Instructions] Our first question is from John Pancari Evercore Partners.
+Research Division</strong> Can you give us some more color around your decision to not request deployment as part of the CCAR resubmission? I mean was it influenced by the Basel III NPR? I know you didn't give us the basis point impact but that would be helpful as well on Tier 1 common.
+Yes.
+John it's Bill.
+I'll take the first crack at that.
+First of all it was not influenced by the -- by Basel III.
+I think sort of in its simplest form I mean the resubmission gave us 2 more quarters of better performance.
+Waiting until 2013 gives us 4 quarters of continued performance and you've seen we're on the steady trend.
+That might ought to give some indication of our confidence.
+So it was more just continuing to wait for the company's performance to improve both on the income side and the credit metric side not actually more complicated than that.
+Research Division</strong> Okay.
+So do you have what the basis point impact from the Basel III NPR changes...? I'll let Aleem take a swing at that.
+John let me take a crack at that.
+First of all I think we -- I've got to say we were pleased to see the NPR.
+Having that out I think is going to provide more clarity to the industry as to what the capital -- expected capital ratios are going to look like going forward.
+Having said that parts of the NPR I think came as a little bit of a surprise.
+On the numerator side it came out pretty well as much as the industry expected.
+But on the denominator side some of the changes to RWA for example were not expected and aren't actually part of the Basel proposal.
+These are U.S.
+regulatory proposals.
+We are along with the rest of the industry responding to that proposal now and I think the industry has a deadline of sometime in September to respond back to that.
+At that point the regulators will take a look at all of the response letters and come out with final rules at some point probably next year.
+As we try to estimate what we might look like under this proposal I think you've seen a lot of banks over the last few days estimate that their final numbers are in -- are going to be in that 8% range using these proposals on our current portfolios and prior to any management mitigation.
+And I think it'd be fair as you look at our portfolio to say we'll come in around that same kind of level as most other banks are estimating.
+Next question is from Josh Levin Citigroup.
+Research Division</strong> So given how challenging the rate environment is for all the banks one of your peers yesterday said it was going to close up to 5% of its branches.
+As you think about the environment rates and regulatory costs and how you want to drive costs down are you considering branch closings or some kind of infrastructure reduction in order to save costs? I think I'd put it more in the category of just general efficiencies.
+And particularly in the Consumer Banking area I mean if you look at what we've done expenses being down 7% there that's a combination of just being efficient.
+Clearly transaction volume in branches are down.
+I mean nobody is sort of missing that.
+I'm a believer in that -- that branch is a sales center as much as it is a service center.
+So physically having people there on the sales side is a benefit.
+Whether we close a few branches or open a few branches I mean we'll sort of be netting around that number.
+We'll look at that as a consideration long term.
+But the real efficiency just is in what we do within the branches and you're already starting to see that from us.
+I mean I think we're sort of ahead of the game on that front.
+Research Division</strong> Okay.
+Some of your peers have suggested that over the last few weeks given the macro uncertainty customers are becoming a bit more reticent about investing in their businesses.
+Are you hearing that or sensing that from your customers when you're out in the field? It's sort of a tale of 2 cities.
+I mean you see what's going on with our loan growth particularly on the upper-end side.
+Our pipelines on the commercial side are actually quite strong and ahead of where they were significantly this time last year.
+But if you're out there and I'm out there a lot and you talk to primarily sort of on the small business side yes I think there's a lot of uncertainty in the -- all the things that would cause that uncertainty from fiscal cliff to tax to healthcare to all the things that they're concerned about and you see it in the cash build-up.
+But having despite all that we're still seeing some good loan growth.
+Next question is from Chris Mutascio Stifel Nicolaus.
+Nicolaus &amp; Co.
+Inc.
+Research Division</strong> Aleem if you can walk me through something I would appreciate it.
+On Slide 14 you talked about the cost saves that you've realized about $250 million of the $300 million that you've planned for.
+But then I go to Slide 26 in the presentation and look at your own adjusted core noninterest expense and on a year-over-year basis you're only down $10 million.
+So I would've expected that quarterly number to be down more like $60 million or 1/4 of the $250 million of savings that you've gotten already.
+So I guess my question is where are the cost saves coming? Yes Chris let me help you a little bit with that.
+There have been cost saves pretty well across-the-board.
+There've been cost saves for example in compensation.
+There've been cost saves in areas -- discretionary expenses.
+And as you go down our income statement those cost saves have showed up pretty well all the way down the line however some of those have been offset by cost increases in some other areas.
+For example our -- we've got some consulting costs for now that have come in as a result of the mortgage foreclosure review that were not originally anticipated.
+So you'll see some of those in there.
+And you'll see some compensation increases as a result of increased revenue.
+And so just as a result of revenue-related compensation increases we've got some increases there.
+And so that's why overall you see a netting but that netting is -- I would consider that to be a really good trade in that we're paying people commissions on revenue they're generating while at the same time we're reducing core costs.
+Yes.
+I mean if you put some -- this is Bill.
+If you put some numbers around that just think of the 2 businesses that are most highly correlated to compensation in Mortgage and CIB and over a year-over-year comparison they're up about $350 million in revenue and about $50 million in comp.
+Well I think that's a pretty good trade-off.
+Similarly our core revenue is up about 5% and core expenses are up about 1.5%.
+So that -- those are driving us towards that lower efficiency ratio.
+Do we want it to be faster? Are we still frustrated by our level of expenses? Absolutely.
+It won't be an excuse-making category.
+But some of these trade-offs as it relates to revenue and comp I think are worth making.
+And next question is from Jefferson Harralson KBW.
+Bruyette &amp; Woods Inc.
+Research Division</strong> I wanted to possibly discuss this 60% efficiency ratio goal and what needs to happen to get there.
+So you assume the rest of PPG assume all of credit and collections.
+Do you need some -- or some percentage of credit and collections and credit-related expenses? And do you need to have a better margin or a better operating environment or higher rates to get all the way to the 60s? Jefferson this is Bill.
+Let me take it really high level and then we can just let it go down any tributary you want to go down it.
+And this is the way that I like to think about it just because it sort of makes it easy and it doesn't make it sort of dependent upon a bunch of exogenous factors.
+If you normalize a number of facts -- so let's assume sort of a flat revenue environment.
+Let's assume we actually don't get another penny's worth of revenue.
+If you normalize for a net charge-off/provision at some basis so normalize it wherever you want to but call it 50 to 70 basis points which is clearly higher than we've trended in the past.
+If you normalize for FIN 45 mortgage repurchase and just put some number in there pick a number but it's -- it would be appreciably smaller than where it is today.
+Then you normalize for the credit-related expenses so there they've run about $800 million sort of annualized a little higher now they're running closer to $700 million annualized and we're starting to see that benefit.
+It used to be about $200 million.
+I don't think we'll get to there.
+So pick a number just cut it in half as a thought process and then put $300 million in PPG on top of that and you get to at that point essentially a 60% efficiency ratio and a 1% plus ROA.
+So at a really high level I mean that sort of what gives us confidence.
+Now it won't work out that way exactly and there'll be puts and takes.
+And the timing will be different and one quarter will be up one quarter will be down.
+But if you think about that in sort of a goal that's it.
+Now to the point of PPG if some of those things don't materialize if the credit expenses don't come down like that or if the charge-offs don't normalize the way I've described or in fact if revenue is down for some reason unforeseen then the number on the savings will be higher.
+I mean that's how I like to think about it just sort of about a really really high level.
+Does that make sense? Bruyette &amp; Woods Inc.
+Research Division</strong> It does.
+It does.
+And next question is from Paul Miller FDR.
+Research Division</strong> On Slide 7 of the mortgage repurchase trends you -- I love this detail by the way guys best detail out there.
+There was a particular company yesterday at one of your competitors that said that they felt that repurchase claims would increase by the end of the year from discussions with the GSEs that they were going to get requests from every loan that has defaulted that they sold to them over the '05-'09 time period.
+I know you took a big charge-back in the fourth quarter.
+Was that due to that same type of discussions? Are you getting all your files requested from the GSEs? I'm just wondering a lot of guys are guiding us to higher numbers towards end of the year and you're guiding to lower.
+So have you already been through that process with the GSEs? I'm not sure where others are in their progress with the GSEs.
+But we feel like last year was our peak and probably the fourth quarter of last year was our peak in terms of total demand and provisions.
+As we look to the next several quarters the trends that we're seeing are for example changes in full file requests and the nature of the full file requests which we're seeing now.
+And as you know those are a precursor to where future demands are moving more toward loans that are earlier stage in delinquency and not in foreclosure.
+And given that -- given those trends it looks to us like demands will decline over time.
+Now there's always going to be some volatility.
+You never know one quarter to another.
+But directionally it does look like that given where we're seeing in full file requests demands will actually decline.
+Research Division</strong> So you've been getting full file requests since last year? Yes.
+We've been getting full file requests all the way through.
+Research Division</strong> All the way through? The nature of those full file requests as they move away from foreclosed loans and toward delinquent loans is a key indicator for what we're expecting to see in future demands.
+We -- I think we're improving our dialogue with the agencies all the time.
+And as we continue to improve communication and dialogue and continue to gain confidence in what we expect to see we're starting to feel a little bit better about these numbers.
+And next question is from Matt O'Connor Deutsche Bank.
+Research Division</strong> I'm sure you've seen some other banks try to take an upfront hit to reserve for the mortgage repurchase cost.
+And I guess I'm just wondering one do you just not have enough information to do this or do you not really believe in kind of kitchen sinking the quarter? Or how should we think about it? Because you've seen others think that it's estimated well what the lifetime losses would be at this point.
+You've just made our CFO perspire a little bit.
+Matt I think yes you've seen a couple of banks that have provided a lifetime loss but most haven't.
+Most banks including us have got a reserve that -- which reflects losses that are both probable and estimable.
+And that line around probable and estimable losses in the reserve as the industry learns more from the GSEs probably converges with the line of an estimated lifetime loss.
+And you might have had a couple of banks this quarter that feel confident enough in their communication and what they're seeing and there've actually seen those 2 lines cross.
+I think for the whole industry that's not the case yet.
+But probably over time as more and more communication improves with the GSEs yes you will see those lines continue to converge and then cross.
+Research Division</strong> And I know it's difficult to know sitting here right now but would you hope that by the end of the year to have enough visibility that you could put this issue behind you as we think about 2013 and beyond? Or is your best guess that that won't happen? Well I'm not sure exactly when it will happen.
+But Matt if your question is do I hope it will happen? Yes I hope it will.
+But I don't know that I can say with complete confidence it will be by the end of this year.
+Obviously the sooner the better.
+Research Division</strong> Okay.
+And your comments about the actual cost itself coming down kind of towards the end of year by the end of the year I guess that would imply costs in 3Q similar to 2Q and then hopefully down the fourth quarter? I don't know that I can give you an exact quarter.
+But I will say yes by the end of this year they will be down.
+Next question is from Ed Najarian ISI Group.
+Research Division</strong> So I guess my question my first question is a follow-up on Chris's question about operating costs.
+When I sort of look at your year-over-year op costs and then I normalize for the TruPS redemption cost this quarter but then I get about $21 million of lower FDIC-related costs on a year-over-year basis this quarter versus last quarter.
+And then again I try to factor in the $250 million of PPG savings.
+It looks like your internal expense growth rate is running about 5% to 6% annually.
+Probably that's a little bit higher than what you would call sort of a normalized growth rate x the PPG savings because of the revenue you talked about and because of the strong mortgage quarter but can you give us a sense of what you think that sort of normal internal growth rate is x expense savings going forward? Would it be 3% 4% 5%? How should we think about that? Well I think the 5% number that you referenced is generally about right.
+However remember that includes the effect of the increased revenue growth also.
+So looking just at the expense line alone without looking at the revenue growth and the effect -- the positive effect that's had on the bottom line might be a little bit one-sided.
+In terms of what we expect to see as a normalized expense growth number going forward what we're shooting for is low single digits.
+And so certainly lower than 5% is what we would expect our core expense growth to be on a normalized basis.
+Research Division</strong> Okay that's helpful.
+And then as a quick follow-up.
+When I'm looking at the average balance sheet and I'm looking at your funding costs specifically sort of aggregated interest-bearing funding costs in the first quarter they were 77 basis points.
+They fell 1 basis point to 76 basis points this quarter so pretty flat.
+Now I recognize that you're going to get some benefit from redeeming the TruPS in the third quarter.
+But other than that TruPS redemption benefit do you feel like you're starting to run out of room to further drop your funding costs? That's what it would look like just on a -- sort of a one-quarter look basis.
+Or do you still feel like there are some areas again excluding that TruPS benefit to continue to drive down funding costs? And I'm glad you referenced this was only a one-quarter look.
+And you're right.
+We only dropped 1 basis point this quarter but I don't think that's actually the start of the flattening trend.
+Now having said that deposit rates are at absolute low levels.
+So it's hard for us or anybody to grind them down by double digits from here.
+But we do believe we still have some runway to drop deposit costs further from here and you may see some of that this quarter.
+One of the levers we have is maturing CDs.
+We've got several billion dollars of -- $4 billion of CDs that are going to be maturing between now and the end of the year and they have the weighted average cost of north of 1%.
+So you would expect to see those renew at much lower yields between now and the end of the year and that'll drop our deposit costs I think much more than the 1 basis point you saw in Q2.
+Next question is from Gerard Cassidy RBC.
+LLC Research Division</strong> The question I have is when you look at your slide I think it's 25 or so where you have the detail on the put-back numbers by vintages.
+The question is the ever 120 days past due that you list there $21.5 billion are those outstanding so we could take it relative to the number you have up above the outstanding UPB at $31.7 billion? Or is that $21.5 billion really reflective of the $120 billion which is the total sold number? Yes that's reflective of the $120 billion.
+LLC Research Division</strong> Okay.
+So the $21.5 billion includes loans that have been paid off then? Yes that's part of the $120 billion that was totally sold.
+LLC Research Division</strong> Okay.
+Do you know how much of the $21.5 billion is in the outstanding UPB bucket? I don't right now.
+But if you try giving Kris a call later he may be able to help you.
+LLC Research Division</strong> Okay good.
+And then second on the cost savings program that you guys announced.
+One of your competitors yesterday KeyCorp announced a cost-savings program which is a second one for them.
+They had one in place that ended at the end of 2011.
+What kind of environment would you have to see where you would announce another similar type of program as the one that's in place now? Yes I think sort of this goes back to my earlier comments.
+This isn't so much about a program as it is about a culture and it is about driving to a goal.
+So I'll continue to talk about what we're doing to drive to a 60% efficiency ratio and in fairness I'll probably talk less about programs.
+As I mentioned in my comments the program was really the catalyst.
+I mean that was to sort of set the initial bar the starting gun to turn things around.
+So for us it's really driving towards that efficiency ratio.
+I mean every unit in our company has an efficiency ratio target.
+They know what they're driving towards.
+There are lots of corporate initiatives underway that help them get there.
+But there are lots of just good individual smart thinking and smart management and it's going to be more of that than the announcement of another program.
+Our final question comes from Terry McEvoy Oppenheimer.
+Research Division</strong> I'll move away from expenses.
+Bill in the Atlanta Journal last weekend you said SunTrust is Goldilocks today or just the right size.
+I guess my question is are there certain markets where you need to have a greater presence to get to that Goldilocks position? And in light of the cost-cutting efforts does it make sense to exit certain markets versus building a scale in investing? Yes thanks for reminding me of that reference.
+My point was right.
+I might have used a different reference.
+In -- we've been very careful and planful of having scale and relevance and I think relevance is the most important comment in all of our markets.
+There isn't a particular market today that I would say we're not relevant in that we're looking to have an exit in.
+Everywhere where we are we've got an opportunity and we're big enough either with branches or commercial lenders or CIB or mortgage or some combination of the businesses that we're engaged in in a market to be relevant.
+Now that being said are we constantly looking at everything and looking at efficiencies and do we have an opportunity intra-market with leveraging our in stores and traditional branches and loan production ops and all that? Sure we'll always be looking at that.
+But the great part about our franchise is the fact that we're in great markets and we're relevant in those markets.
+So as a general thesis no.
+Okay great.
+Well maybe just a quick comment before we wrap up the call and thank you.
+And though we cannot -- we can't change the operating environment or the pace at which the full recovery happens but there is plenty that we can do and that we have been doing and will continue to do here at SunTrust.
+We're building a more effective and efficient company.
+We're improving our talent base.
+We're ensuring that our teammates have the tools and training they need to uncover and meet more client needs and deliver the revenue results that we expect.
+A simple way of putting it is we're building more intensity around everything we do in virtually every corner of our organization.
+So with that being said again thank you for joining us today and please reach out to Investor Relations and Kris with any additional questions that you may have.
+Thank you everybody.
+This concludes the call.
+Thank you for your participation in today's conference.
+This concludes the presentation.
+You may now disconnect.

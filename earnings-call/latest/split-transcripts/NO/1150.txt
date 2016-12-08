@@ -1,0 +1,549 @@
+Good day ladies and gentlemen and welcome to the First Quarter 2012 VeriFone Systems Earnings Conference Call.
+My name is Derek and I'll be your operator for today.
+[Operator Instructions] As a reminder this conference is being recorded for replay purposes.
+I would now like to turn the conference over to Mr.
+Doug Reed Treasurer and Vice President of Investor Relations.
+Please proceed.
+Thank you Derek and welcome everyone to the VeriFone financial results conference call for the first quarter of fiscal year 2012.
+Today's call is being webcast with both audio and slides available via the link in the Investor Relations area of our website ir.verifone.com and a recording will be available on our website until March 12 2012.
+With me today in VeriFone San Jose California headquarters is our CEO Doug Bergeron; and our CFO Bob Dykes.
+First for the legalities.
+VeriFone desires to take advantage of the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Certain forward-looking statements in this conference call including management's view of future events and financial performance are subject to various factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements.
+For a description of these factors I refer you to our filings with the Securities and Exchange Commission.
+Any forward-looking statements speak only as of today and VeriFone is under no obligation to update these statements to reflect future events or circumstances.
+In addition today's call will cover certain non-GAAP financial measures on both historical and forecast basis.
+Our management uses these measures to evaluate our operating performance and to compare our results to those of prior periods as well as to those of peer companies.
+These non-GAAP measures are not substitutes for disclosures made in accordance with GAAP.
+Reconciliations of these measures to the most comparable GAAP measures are presented in our earnings release which is available on our website.
+[Operator Instructions] Now I would like to turn the call over to Doug Bergeron CEO of VeriFone.
+Thanks Doug and good afternoon everyone.
+We are delighted with the results of our first quarter of fiscal year 2012.
+For the ninth consecutive quarter we posted all-time record results.
+Q1 non-GAAP revenues were $425 million a 50% increase over the previous year.
+Excluding the impact of all FY'11 and FY '12 acquisitions organic revenue growth was 12%.
+Hypercom revenues were $73 million in the first quarter and our major integration activities are now complete.
+We continue to see the benefits of our new business initiatives as non-GAAP services revenue comprised 26% of total revenues in Q1 and 23% excluding the contribution from the Point acquisition.
+Operating income was over 20% of revenue a milestone achievement.
+We anticipate further progress on operating margin expansion towards the end of fiscal year 2012.
+Non-GAAP fully diluted earnings for the first quarter were $0.58 per share 35% higher than the $0.43 per share result a year ago.
+Today I will review our performance by region and follow with comments on some of our strategic initiatives including an update on the Point acquisition.
+Finally I will turn the call over to Bob who will provide a detailed review of the financials and update guidance.
+Our international operations continued to show great strength in Q1 posting year-over-year growth of 96%.
+Organic growth excluding all FY '11 and FY '12 acquisitions was 32%.
+Latin America had another amazing quarter with over 100% year-over-year revenue growth and 65% growth excluding acquisitions.
+We continue to see strong sales across the region with wins at Softek in Puerto Rico Credomatic Central America Credibanco Visa in Colombia and VisaNet in Peru.
+We are seeing increasing interest by banks in countries such as Colombia Venezuela and Mexico in creating private label networks to offer prepaid debit cards and credit cards that can utilize our PAYware CMS software and our managed service offerings.
+We also are seeing clear signs of market verticalization across the Latin America region as retailers health care providers and government agencies are all looking to implement targeted payment solutions to address their specific needs.
+In addition banks and processes are pointing customers directly to VeriFone for help with the complexities of integrated payment solutions in Multi-lane Retail since we are uniquely positioned to provide solutions based on EMV-bank certified software PCI-certified hardware and in combination with our multitude of services offerings.
+Our taxi solutions are also generating strong interest in markets like Mexico Argentina Columbia and Brazil where local taxi consortiums are interested in replicating our business models executed here in the U.S.
+with our taxi business and PAYMEDIA.
+Redecard the second largest processor in Brazil announced in early February that their plans to invest as much as $290 million in new point-of-sale infrastructure during 2012 to gain efficiency and expand their customer base.
+This is double the investment Redecard made in 2011 and represents an exciting opportunity for VeriFone.
+In Europe the Middle East and Africa revenues grew 102% over Q1 of last year and 20% excluding all of our FY '11 and FY '12 acquisitions.
+Revenues from Point were $18 million in Q1 which includes only the month of January.
+Due to the nature of the Point revenue model with a heavy emphasis on recurring revenues through their all-in-one offering we expect this monthly revenue to increase sequentially throughout the year.
+In the U.K.
+we continue to do well in the retail sector with wins at FEXCO Travis Perkins and Post [ph] and Punch Taverns.
+NFC and mobile activity is growing in the U.K.
+driven primarily by retailers' strong focus on positioning themselves to support contactless cards by the Summer Olympics.
+Our PAYware Mobile Enterprise solution offering is generating significant traction in the U.K.
+with wins at Adidas Whole Foods and Limited Brands.
+As a reminder with PAYware Mobile Enterprise retailers can equip store personnel with smart mobile devices that enable roaming checkout operations so that items can be scanned payment cards accepted and receipts e-mailed to customers or transmitted to a nearby wireless printer all in a PCI-compliant environment.
+Absa Bank the largest bank in Africa has now licensed the VeriFone software offering in South Africa and placed their first orders for the VeriFone VX Evolution solutions.
+Supplying to this customer during 2012 will be significant it will help drive our services margins in the region.
+Speaking to ASA one of the largest retailers in Africa is doing a full estate replacement using our VX product line.
+Again this will go hand-in-hand with our extensive software and services solutions.
+The Middle East is an expanding market for us with wins this quarter at Al Rajhi and BSF in Saudi Arabia and Bank Mashreq in Kuwait.
+We saw year-over-year organic sales growth of 84% in Russia and reached a milestone this quarter with the installation of the millionth VeriFone payment system through INPAS our local partner.
+Our London black cab initiative continues to progress very well.
+We have now signed over 8 500 cabs and have installed our system to nearly 3 000.
+To ramp up installations we are opening a 20 000 square-foot facility in Central London next week.
+While we may not reach our original goal of 10 000 installed by the Olympics we are still pushing towards it and expect to come very close.
+Moving onto Asia.
+We recorded solid results in the first quarter.
+Revenues were up 73% from 1 year ago and 3% excluding FY '11 and FY '12 acquisitions.
+Remember that this year the lunar new year and holiday week occurred in our Q1 versus last year when it was in our Q2.
+As we commented during the earnings call last quarter the holiday week always reduces revenue for Asia but we were able to plan around any supply disruptions.
+In China we had key wins at the 2 largest acquirers China UMS with 45% of the point-of-sale systems in China and Agricultural Bank of China one of the top 4 banks.
+In addition we made progress on our managed service initiatives winning a 2-year contract with Pullman Hotel to provide a gift card solution.
+Demand remains strong in India with key wins at Citibank and Axis Bank.
+Elsewhere in the region we had key wins at Narrow [ph] Indonesia and Touch 'n Go and e-pay in Malaysia.
+Now let's move onto North America.
+Sales were up 4% sequentially but down 7% compared to a year ago.
+As I've stated in the previous earnings call Q1 is the last difficult comparison because a year ago many multi-lane and petroleum customers were still purchasing systems during the mid-2010 deadline imposed by PCI.
+We expect to return to high single-digit growth rates beginning this quarter.
+We had an excellent quarter of advertising and taxi revenue and we continue to expand our market presence signing our first Canadian taxi solution contract for 400 systems in Toronto.
+But there have been a few news articles and in fact a lot of hype about our new challenge here in the taxi payment business seeking to run a test in 30 cabs.
+As a reminder VeriFone is now in 33 cities with over 17 000 taxi payment and media systems in operations.
+We added nearly 4 000 cabs in just the last 12 months.
+We've been running for years reliably and securely and we are continually upgrading capabilities to improve the experience for riders so we enthusiastically welcome the New York Taxi &amp; Limousine Commission's encouraging innovation -- encouragement for innovation and they have approved a 30-cab pilot of our new systems including our tablet-based solutions.
+VeriFone's state-of-the-art secure interactive media player entertains and informs passengers like never before giving them unrivaled freedom to select engaging content that suits their interest: news comedy sports celebrity features restaurant reviews the ability to play interactive games and much more.
+Also with our new systems many riders will enjoy playing the lottery printing location-based coupons or keeping a close eye on trending social media topics.
+VeriFone has a successful track record in New York cabs and in many other U.S.
+cities and increasingly outside of the U.S.
+We're confident that we will continue to build on our success with many exciting innovations.
+In December we announced a significant long-term strategic advertising sales agreement with NBC-owned television stations a division of NBC Universal.
+This new partnership will deliver audiences across the country access to NBC Universal's award-winning news entertainment and information programming.
+This agreement is the perfect strategic fit for us as we extend our payment-enabled media platform beyond taxi TV and into other verticals including our existing client base of over 60 000 gas stations and more than 1 million retail installations.
+At launch the collaboration will cover taxis in 9 markets including New York Chicago Boston Las Vegas San Francisco Washington D.C.
+and Miami and some gas stations with additional expansion planned.
+Our multi-lane retail sales remained strong featuring key wins at several national retail brands including Chico's Pacific Sunwear Finish Line and Petco.
+Our North American petroleum revenue remained at Q4 fiscal year '11 levels as we continue to transform from a model focused on one-time hardware sales to a model where software and other services play a much more important role.
+Approximately 80% of our stations using the Gemstone systems have now signed up for our annual software maintenance program.
+This percentage is up from 75% a quarter ago and is beginning to level off where we expected.
+In Q1 almost 50% of our petroleum business revenue came from services.
+We retrofitted 1 000 pumps in Q1 with Secure PumpPAY.
+Q1 is seasonally slow and we are working several sales opportunities for 3 000 to 5 000 pumps each.
+We have received orders for nearly 1 000 other pumps in February.
+We are keeping our target of securing 10 000 to 15 000 new pumps in fiscal year '12.
+We launched PAYMEDIA Managed Services programs in Q1 and the program is ramping up with more new units sold in Q1 than all of FY '11.
+Last week we announced a program to deliver lottery sales in taxis and at the pump.
+We are partnering with Link3 which is secure payments processing integration with many of the nation's leading payments and ATM processors creating a nationwide network to securely process lottery transactions in all 44 lottery station states.
+The first lottery pilot is scheduled to go live in Pennsylvania this quarter.
+On January 30 MasterCard announced the roadmap for the U.S.
+adoption of EMV Euro Pay MasterCard and Visa chip embedded cards the payment technology used in most countries and every developed country except the U.S.
+MasterCard's roadmap largely mirrors the roadmap announced on August 9 2011 by Visa.
+EMV cards will replace the much older and less secure mag stripe cards from the -- in the U.S.
+and force not only a reterminalization but also an overall market expansion for VeriFone.
+Now neither Visa nor MasterCard are currently mandating that card issuers payment acquirers or merchants move to EMV but MasterCard has echoed Visa's deadline of October 2015 when liability for fraud would shift to a U.S.
+retailer who has not deployed EMV systems.
+Seeking to promote the use of PIN-based cardholder authentication versus the signature MasterCard has unveiled a liability hierarchy that provides the retailer the highest level of fraud protection only if they deploy PCI-PTS-approved PIN-capable acceptance devices.
+In addition both Visa and MasterCard will dangle carrots in front of retailers to encourage them to replace magnetic stripe reading terminals with EMV terminals.
+For example both networks would allow retailers to forgo their PCI audits if they have widely deployed EMV terminals.
+Now given that an October 2015 deadline is over 3 years away most U.S.
+merchants with point-of-sale terminals could upgrade to EMV terminals in the normal course of refreshing their systems given that the average refresh cycle is roughly 5 years.
+But that still means that many merchants will be compelled to upgrade faster than normal.
+Small and medium-sized merchants who typically take longer to refresh that may not pay close attention to PCI rules and liability risks will need EMV terminals as more and more customers will be carrying EMV cards.
+Now there are in excess of 2 million points-of-sale in the U.S.
+that accept card payments but don't have customer-facing devices like those sold by VeriFone.
+For instance at small and medium-sized stores hotels airlines rental counters pay-at-the-counter food and beverage establishments.
+The clerk today simply takes the payers card and swipes it through a mag stripe reader connected to an electronic cash register.
+We believe that it is highly likely that those vendors will purchase EMV terminals as front ends to ECRs as in the case in Europe and Canada and other EMV geographies.
+In addition there are approximately 400 000 restaurants in the U.S.
+with wait staff providing table service.
+Similarly they will likely buy pay-at-the-table devices into which diners will insert the chip card and possibly enter a PIN rather than the practice of handing over a card to be taken out of their sight to be run through a terminal or an ECR in the backroom.
+In Europe and Canada VeriFone has done very well arming restaurants with EMV devices so that several at a time circulate throughout the restaurant.
+So given this new million plus EMV opportunities from pay-at-the-table and 2 million plus EMV opportunities at other merchants that today don't have customer-facing payment devices VeriFone's total U.S.
+addressable market should increase by approximately 50% over the next 3 to 4 years.
+Now let me take a few moments to give you an update on some of our strategic initiatives.
+Our end-to-end encryption software for securing cardholder data at a merchant generated 43% sequential revenue growth as we continue to make great progress with this initiative.
+The customer list now stands at 73 and over 45 million transactions were secured by VeriShield Protect in quarter 1.
+We made exceptional progress in our mobile payment solutions initiative during Q1 building on our November 1 acquisition of GlobalBay.
+Our GlobalBay Mobile point-of-sale and retailing solution allows retailers to service customers wherever they are with engaging content on tablet and smart mobile devices such as the iPod Touch and tie into loyalty systems with in-store experience at the e-commerce systems and take payment from anywhere in the store.
+Brighton Collectibles C.
+Wonder Stores Guess Coach and Eastern Mountain Sports are all transforming tablets and smartphones into roaming shopper-friendly system that can incorporate point-of-sale shopping assistance online catalogs and on-the-spot inventory management using these solutions.
+For every countertop system we can sell 4 to 5x the number of mobile systems because associates carry them throughout the store and these devices need to be docked to recharge.
+Even on a one-for-one basis the economics of a mobile solution is much better for us than a recurring -- than a traditional terminal sale because the mobile software deliveries recurring revenue.
+We also expanded our mobile offerings with the introduction of PAYware Mobile Enterprise for tablet a comprehensive secure payment acceptance solution compatible with VeriFone's GlobalBay Mobile point-of-sale and retailing solution.
+PAYware Mobile Enterprise for tablet provides the same award-winning card acceptance technology used with the iPod Touch and supports end-to-end security with VeriShield Total Protect card data encryption technology.
+The solution accepts traditional cards PIN EMV smartcards and NFC smartphone transaction.
+Last week we introduced Global Mobile Network Operators to our PAYMEDIA universal acceptance platform at the mobile Congress show in Barcelona.
+PAYMEDIA UAP services enables MNOs to easily download NFC wallet acceptance applications directly to merchant point-of-sale systems and allows merchants to collect the app to the provider.
+Utilizing the PAYMEDIA infrastructure mobile wallet providers maintain full management capabilities over their application with the ability to update them at any time with new features and services.
+Earlier today we announced an agreement with Isis the joint venture between AT&amp;T Mobility T-Mobile USA and Verizon Wireless to integrate the Isis Mobile Commerce Application in our future and current NFC-enabled product lines.
+We've also agreed that our sales marketing implementation teams will collaborate to target large retail and petroleum convenience store merchants in previously announced Isis launch markets of Salt Lake City in Austin.
+VeriFone customers will be able to leverage the integration of the mobile online experience to engage consumers with new payment options digital couponing loyalty location-based social media and value added services.
+Longer term upon successful expansion of the pilot program to a national rollout we will begin offering the Isis solution to our national customer base using a payment-as-a-service as a delivery model that eliminates the complexity for merchants to not only deploy Isis but also multiple other new services alongside the traditional payment acceptance method.
+In addition our work with PayPal and Google continue to go well as we actively engage merchants and collaborate with them both helping them achieve their 2012 objectives.
+PayPal's success Isis' success and Google's success means success for VeriFone.
+We completed the Point acquisition on December 30 and we are very excited by the transformational opportunities that this acquisition represents.
+Our vision continues to be focused on offering retailers everywhere a managed service to easily accept all payment types including the evolving alternative mobile payment methods being offered by Google PayPal Groupon Isis Visa MasterCard and American express.
+At the same time we can increasingly offer the new payment entrants easy and accelerated access to our worldwide installation of more than 20 million merchant lanes.
+VeriFone intends to extend the Point platform throughout the region and beyond with the aim of creating the world's largest infrastructure for the rapid deployment of alternative payment.
+Now I'd like to turn the call over to Bob to discuss in more detail the P&amp;L balance sheet cash flows and guidance.
+Thanks Doug.
+Before proceeding with the financial review I would like to remind our investors that a specific spreadsheet of our non-GAAP financials and reconciliation between non-GAAP and GAAP financials is available on our Investor Relations website ir.verifone.com.
+I want to call out one particular item in that spreadsheet unique to our Q1 results.
+An FX loss of 21 million from hedging the expected EUR 717 million purchase price of Point was excluded from non-GAAP.
+From the signing of the Point acquisition in mid-November to the close of the transaction at the end of December the euro market rate fell from $1.36 to $1.29.
+We conservatively accumulated euros over that time buying at a blended rate of $1.32.
+Because Point was added to our books at the market exchange rate at the end of December that is $1.29 that rate was compared to the higher rate we paid of $1.32 to determine the FX loss.
+The euro is now trading at $1.32.
+As Doug discussed revenue in some detail I will begin my discussion with our results with non-GAAP gross margins.
+Gross margins came in at 43% an increase of 3 points from the fourth quarter of fiscal year 2011.
+System solution gross margins improved by 2.9 points primarily driven by lower charges for excess and obsolete inventory compared to Q4 and our continuing efforts around cost reductions and supply-chain efficiencies.
+Services gross margins improved by 3.4 points.
+The sequential improvement in service gross margins reflects the addition of higher-margin Point services revenue and increased advertising revenues.
+Compared to the prior quarter non-GAAP operating expenses increased by $3.6 million to $95.3 million.
+This increase is primarily due to the Point acquisition.
+Non-GAAP other income and expense increased sequentially by $5.5 million primarily due to higher interest expenses as a result of our financing for the Point acquisition.
+Now let's take a look at our balance sheet.
+Our cash balance at the end of Q1 was $380 million.
+I want to point out that there is a further $279 million of restricted cash excluded from this cash balance and included in other current assets on the balance sheet.
+This cash has been set aside to repay our current convertible notes coming due in June 2012.
+Also on the balance sheet inventory balances increased by $27.1 million primarily due to $25 million as a result of Point acquisition.
+Days of supply at 58 days increased by 5 days but it's 2 days less than a year ago.
+Of accounts receivable day sales outstanding was down 1 day at 67 days.
+I want to spend a couple of minutes discussing our capital structure.
+To finance the Point acquisition and refinance existing debt we executed a credit agreement for $1.5 billion led by JPMorgan Bank of America Wells Fargo Barclays Capital and Royal Bank of Canada.
+The facility provides VeriFone with long-term debt capital at economical interest rates.
+The debt consists of 5-year term A loans for $918 million; a 5-year revolving line of credit for $350 million; and 7-year term B loans for $232 million.
+The company's previously arranged credit facility has been repaid in full excluding the convertible notes mentioned earlier.
+At the end of Q1 the outstanding amount of the new debt was $1.36 billion.
+Now let's look forward to fiscal year 2012.
+Our new guidance for the second quarter of fiscal '12 is for non-GAAP revenue to be between $465 million and $470 million.
+We now expect our non-GAAP earnings per share to be in the range of $0.59 to $0.60.
+On a full year basis for fiscal '12 our new guidance for non-GAAP revenue including 10 months of Point revenue is in the range of $1 900 000 000 and $1 925 000 000.
+We now expect fiscal '12 full year non-GAAP earnings per share in the range of $2.60 to $2.66.
+I will now turn it over to Doug Bergeron for some concluding remarks.
+Thanks Bob.
+To conclude let me say again that we're very pleased with our first quarter results.
+Looking ahead to the balance of 2012 and beyond industry developments and new payment entrants continue to create opportunities for VeriFone to leverage our broad product and services portfolio.
+Our ability to bundle encryption services content and advertising gateway services and cloud-based retail application processing is a great competitive advantage.
+The MasterCard and Visa announcements to push EMV in the U.S.
+create an opportunity that extends beyond just the potential replacement cycle.
+The level of complexity that U.S.
+merchants must manage at the point-of-sale will grow significantly.
+Unlike mag-stripe systems EMV systems require regular updates to the EMV kernel brought about by the continuing updates to the EMV compliance specifications.
+In Europe and in other parts of the world companies like Point grew out of retailer and acquired demand for ongoing services and support brought about by this complexity.
+When contactless and NFC mobile wallet applications are a layered on top of this it becomes essential for merchants to deploy their next-generation systems in a manageable way.
+Over time we see an opportunity to wrap our certified EMV products with managed services designed to allow merchants to maintain compliance and still have the broadest access to the new mobile and alternative payment platforms.
+Thank you for listening and we will now open up the call to your questions.
+[Operator Instructions] And our first question will be coming from the line of Darrin Peller from Barclays.
+Research Division</strong> Can you start off with the U.S.
+business? First of all I know it's sequentially higher.
+I know you gave some good color but Doug can you just give a little more disclosure on what you expect to be the major drivers? There are so many different drivers in the business between whether it's software or in the petrol side or encryption or taxi or we can go on and on around GlobalBay and others what was the major driver of the sequential pick up this quarter and what do you expect to be the biggest driver that will turn you to growth beyond just your year-over-year comps getting easier? Yes I mean typically Q1 is seasonally weak for petroleum.
+Q4 is usually typically very strong.
+The fact is our Q1 was excellent even -- it was equivalent to our Q4 numbers so we're seeing some pickup there not just with Secure PumpPAY but also with our Gemstone family of products.
+Multi-lane Retail as we said continues to execute also.
+And there's -- I'll tell you this it's GlobalBay tablet-based solution is the real door opener.
+We're getting -- we could be demoing that product 24 hours a day 7 days a week.
+And we're getting a competitive advantage in our bundled solutions with that and our traditional systems.
+Taxi continues to do well.
+Our overall taxi business will do well in excess of $100 million this year of taxi processing and advertising still nothing to write home about in the small business space.
+We've been planning for that for a couple of years so there are some signs of some improvement there.
+But net-net I think we've got a lot of irons in the fire in the U.S.
+and I'm expecting a return to good -- some good solid year-over-year organic growth this current quarter and beyond.
+Research Division</strong> All right.
+Just to hone in for a moment on the GlobalBay side.
+I mean as you said there's a lot of buzz around that.
+We saw the Retail Federation Conference recently in New York I mean a huge amount of interest from retailers on that product.
+Is there something that differentiates GlobalBay's product line on that versus others that will give you edge beyond just your market share? Obviously already with the retailers.
+And how big can that business be? It seems like it could be a really good cross-selling opportunity.
+Yes that's a great question.
+It's not just an application living on a tablet or an iPod.
+The business -- the guys at GlobalBay have built that business over several years with unique deep integration to back office inventory systems at the core SAP Oracle and others.
+There's a whole list that they can integrate to.
+And this proves once again that if both retailers large and small want to work and embrace new technology it has to work with everything else that exists in the organization.
+You can't have people walking out of your store without you being debited.
+You can't be ordering online from in an aisle unless you know if you've got that product in stock in your warehouse.
+That's the first true competitive advantage and we've looked at 10 or 11 of these much smaller businesses and we found they were uniquely positioned that way.
+The other thing is our distribution channel; we're the trusted provider to 163 of the top 200 retailers.
+When we walk in with the VeriFone name on a new piece of technology people stand up and listen and believe that they're going to be supported by the big VeriFone team.
+So we can get a very instantaneous wide access to the whole market coast-to-coast and customers are very confident that these products will be supported and enhanced over time.
+Research Division</strong> Okay.
+But just in terms of size you gave is this something that can be another taxi business over time? Our expectation this year is 50% or 75% growth which gets them to low double digits.
+But I believe -- or at that type of growth rate yes you can easily see a $50 million to $100 million business over several years.
+Research Division</strong> That's great.
+Just last question for you and I'll jump back in the queue.
+On the Asia business we obviously expected a pretty decent sequential drop from Chinese New Year timing although we didn't see that.
+I know you mentioned a couple of wins on the call earlier.
+Can you give a little more color on that? Is that sustainable this kind of growth? I mean that must have been a very strong quarter in the region to offset the timing on the Chinese holiday? Well we were well aware of the Lunar New year the Chinese New Year so we made sure our people on the ground sold ahead of it.
+We've got some great new managers in China and in Australia that we've mentioned in the past and they've now been in those offices for a few months.
+And our belief is that we're starting to really get some traction in Asia after -- in my personal opinion some sub performance over the past couple of years.
+So I'm very excited.
+Several of my Executive Management teams is in Hong Kong this evening or this morning and we're planning a very good year there.
+Your next question is coming from the line of Andrew Jeffrey from SunTrust.
+Inc.
+Research Division</strong> Pardon my voice; I'm a little under the weather.
+Doug this is a nice organic revenue growth quarter relative to expectations.
+I think a lot of us would have expected the underlying growth rates ramp as the year went on and I appreciate the additional disclosure by the way.
+Should this still be 1Q still be the trough organic revenue growth period for the company? Or should we still be thinking about 12% to 13% as North America gets stronger maybe Latin America which had an exceptional quarter really quite strong? Or is there still a ramp to organic revenue growth this year? I think our guidance implies about this type of organic revenue growth throughout the year.
+I wouldn't be surprised if some of the things that we acquired in mid-2011 by the end of this year start really flourishing and begin to record those as organic.
+I think the mix will shift a little consistent with the premise of your question.
+I don't think 65% organic growth in Latin America is sustainable but we'll have good strong plus 20% organic growth there for many years.
+And I think you're going to -- we're finally anniversarying out the difficult comps that we experienced in North America.
+So for your models Andrew I think 12% 13% 14% organic growth is probably the fair number obviously better earnings growth as a result of increased margins as well.
+Inc.
+Research Division</strong> Right.
+And with regard to margin services margin picked up nicely this quarter.
+You only owned Point for one month.
+Is that the right trajectory or in other words should we continue to think about services margin heading higher now that Point will be on the books for 10 more months this year? Yes.
+Well it's obvious.
+Yes.
+Yes exactly.
+We're just one month at this time.
+We indicated that with Point services we'll be around 30% so we're heading in that direction.
+Inc.
+Research Division</strong> Okay.
+And...
+The Point operating margins are well into the 30s so just as a matter of arithmetic blending in 2 months of that will be helpful.
+But our advertising is now running at above average margins for other services.
+And many of these services I mentioned this in past calls by their very nature have high incremental margins as you grow beyond kind of your first day stuff.
+So I think services as a percent of revenue and services margins both are going to be continued highlights of the story over the next couple years.
+Inc.
+Research Division</strong> Okay.
+One more quickly if I may.
+I appreciate the color on the competitive environment the New York taxi which caused maybe disproportionate press.
+Could you speak overall to the risk or potential risk that Square poses to VeriFone competitively? I'm recognizing that something like 2/3 of your North American business is petroleum and multi line I'm just wondering how you look at those guys as they evolve and move more toward the brick-and-mortar side of the business.
+We've had competitors.
+For 30 years we've had lots of competitors that we've taken care of euphemistically over the last 11 years and we will have competitors for the next 20 years.
+If VeriFone was to stand flat-footed not embrace new technologies that are out there not engage in great discussions with its customers about where it wants to go we would be yesterday's lunch.
+The fact is that's not the VeriFone that our investors expect.
+We're as innovative as anyone in Silicon Valley and we leverage that innovation with our incumbency.
+The fact around the New York taxi cab solution is we have long-term contracts for -- in the cab advertising on the cab advertising and taxi processing throughout the U.S.
+and we embrace it.
+I said in my prepared remarks we embrace all types of tests and pilots because we want to be a better company as well.
+I don't lose any sleep over this.
+And I would further point out Andrew that there's an interesting difference here with what Square is trying to do versus where we're at.
+Typically the new entrants into the market is coming with an advertising model or some other thing to take payments and create more value around it and therefore find an advantage versus old-time competitors the incumbents who were just purely in payments space.
+Interestingly enough in this case the Square is trying to attack this market where we're already entrenched with a very high advertising value and other values that we're continuing to enhance here.
+They're trying to attack it with purely a payment-based approach and so they're clearly getting some PR around it but the economics really lean in our favor.
+Your next question is coming from the line of Tien-Tsin Huang from JPMorgan.
+Research Division</strong> I know there's a lot of fun stuff to talk about but I guess I'll ask about EMV and NFC.
+Doug I'm curious how does EMV change this whole NFC or alternative payment adoption curve in the U.S.? I mean it sounds like looking at your release you might push some of your payment-as-a-service strategy in conjunction with EMV.
+Am I reading that right? Yes.
+And frankly I think EMV bends the curve favorably for NFC not to pollute everyone's mind with acronyms here.
+But a liability shift whether it's mandated or not incentives for retailers to replace system is a much more compelling motivator than NFC prior to these trials.
+My sense is if the PayPal and Isis and Google trials end successfully there'll be satisfactory standalone motivation for retailers to upgrade to NFC as well.
+But I think EMV because it will be replacing the vast majority of the U.S.
+payment infrastructure serves as an opportunity for NFC to slide in kind of -- without having to move the dial a lot.
+And on to your question on service yes I mean what we see in other places that have EMV complexity is that you can't just drop off a mag stripe terminal and replace it 4 years from there.
+There's an ongoing requirement for the merchant to be able to manage this fairly sophisticated piece of IT.
+So VeriFone using some of the lessons learned from Point is likely to offer many of its customers instead of a product a service that includes the product and also guarantees compliance and turns the lights on for all of these new alternative payment methods.
+Research Division</strong> Right.
+So just as a follow up you mentioned sort of bending the curve.
+Then could we see some more lumpiness then in general because of all this stuff happening all at once and merchants want to -- or acquirers want to reevaluate? I'm just trying to understand how this might influence at least just in U.S.
+obviously the buying behavior relative to before if you follow my question? Yes.
+I don't know.
+I mean what we suggested in the text was that if you look at typical useful -- the useful life of a customer-facing payment device today it's probably 4 years.
+For a noncustomer device it's a little longer than that maybe 5 years 5.5 years.
+So on average 4.5 years or so.
+If the liability shift deadline is October '15 yes maybe you could see 4 years of demand get jammed into 3.
+But I think the more meaningful metric that investors still to my mind but we have not grasped onto is that what we've talked about in the paper here and that is the market opportunity for VeriFone in the U.S.
+increases by about 50%.
+In front of every Micros NCR Fujitsu ECR in every point-of-sale lane in Europe and in Canada is a VeriFone or a competitor's payment terminal.
+You can't do that stuff from a cash register.
+So about 1/3 of the U.S.
+is still in that category be it -- be they restaurants or airline ticket counters et cetera and that's going to be a huge expander for VeriFone more than I think the 4 years and the 3 years phenomenon.
+And I'd also point out that unlike when we're upgrading to the PCI 1.3 which was really something driven by the associations and was reviewed by the merchants as a pure cost.
+In this case it's the merchants themselves that have already been pushing for EMV because they see that as a very [indiscernible] reduce the fraud costs and thereby their interchange costs.
+And so you have people like Wal-Mart who have been pushing this for a while but the retail associations et cetera have all been saying that the U.S.
+needs to get to EMV world so that they can reduce their interchange costs.
+So I think that you will see faster adoption here than might be the case -- was the case for PCI standards.
+Research Division</strong> Okay understood.
+I don't want to hog the call.
+So just 2 quick ones then I'll jump off.
+Latin America how much was Brazil versus non-Brazil meaning non-Yellow Redecard? And the other one was just gross margin.
+Did you give any guidance for what it might look like in the current quarter? No we -- well to answer the last one we just give the guidance in terms of the revenue and the EPS and I don't want to jump to make judgments in between.
+But with Point being a full quarter versus one month that's a positive for gross margin.
+And Doug did mention that margins overall would be increasing through the year.
+In terms of Brazil versus the rest of Latin America we don't break out the various countries.
+Brazil is clearly driving at a very high clip at the moment but the other Latin American countries are also pretty strong.
+Your next question is coming from the line of Julio Quinteros from Goldman Sachs.
+Research Division</strong> I wanted to sort of roast the question about the opportunity maybe a little bit differently.
+So if we assume that NFC and Chip and PIN and all these things are going to come online is there a way to sort of parse your -- sort of your current installed base between the pieces of hardware that are already installed that would need to be completely upgraded versus the pieces that could use say an antenna upgrade versus the pieces that would just need a software module turned on because maybe they already have the right technology but we haven't seen the modules actually turned on.
+Is there any way to think about how each one of those pieces would be -- would sort of have to ramp up in terms of really seeing this stuff translate to revenue for you guys? I think that would be a waste of time.
+I mean what I've seen with the NFC rollout is that nobody in his right mind wants a coily cord and an antenna sticking out of his payment terminal.
+He wants an integrated device where the NFC capability is integrated with the solution and the NFC wallet is inside operating the software.
+And with respect to EMV the -- an insignificant amount of low-single digits of U.S.
+payment systems even have a card slot.
+And none of them have the EMV kernel for the U.S.
+that still has not been specified completely by Visa or MasterCard.
+And you can't -- you're not going to attach a coily cord with a smart card reader either.
+So when we talk about the reterminalization we mean just that.
+These products out there will be replaced by likely EMV-capable NFC-ready replacements.
+Research Division</strong> Okay got it.
+And then maybe just one last one on the seasonality of gross margins.
+Actually I think someone just asked this let me skip that one.
+And I guess in terms of the recap on the North America and Asia I think that you are expecting an acceleration in North America starting this quarter.
+Is that correct? Yes.
+What we've been saying is starting in the second half of 2010 through the first quarter or so of 2011 we were -- we had an unsustainably high organic North American growth rate in some quarters around 30% largely caused by last minute panic buying for the PCI deadline.
+So those -- obviously those lumpy numbers were really hard to compare against.
+The fact that we've come close is a real tribute to our North American sales execution.
+But those numbers -- those anniversary numbers are now behind us.
+And we've always said that North America despite the relatively tepid macro environment can be and should be a high single-digit growth market for us complemented of course by our much faster growing international business.
+Your next question is coming from the line of Bryan Keane from Deutsche Bank.
+Research Division</strong> Thanks for the extra disclosures on organic growth.
+Just for comparative purposes what was the organic growth in the fourth quarter just so we can get an idea to compare it to the first quarter? We'll have to get back in January on that.
+I think it was about the same number wasn't it? If we look at FY '12 guidance.
+We don't have it on the tip of our fingers.
+I mean I think we didn't appreciate last quarter how hungry some of the sell side analysts were for that so we gave you the code the decoder and the table this quarter.
+And hopefully that's helpful for you.
+Research Division</strong> Okay.
+No I mean it's how we -- just looking at it.
+We can go back and calculate it.
+I just want to ask about Point.
+You guys said it was ahead of plan.
+Was it the margins that was ahead of plan or the revenue a little bit ahead of plan? I just want to be sure on that.
+I mean it in a more holistic way revenue but only one.
+One doesn't mean much.
+Margins are slightly ahead of plan but integration well ahead of plan.
+Management team is interacting with -- at all levels of VeriFone we're trying to use the term infect a lot of VeriFone with a lot of the great things that are happening at Point and frankly help Point with some of the things that VeriFone has to offer including things like GlobalBay.
+And get that GlobalBay product into their channel of 500 000 going to 600 000 merchants.
+So overall I'm very pleased with the progress there.
+And it wasn't a very complicated integration it's very standalone.
+The only complexities were in the U.K.
+and fortuitously we've got some great managers both inside of Point and inside of VeriFone who have taken that challenge by the reins and are moving the company forward.
+Research Division</strong> It sounds like the revenue of Point will pick up in this second quarter.
+Is it -- for the guidance do we know how much Point revenue we should expect for 2Q? We gave you an annual number.
+And we said that it will scale almost monotonically through the year because of the nature of the revenue model.
+We haven't and probably won't give you quarterly guidance for a business that we just acquired.
+But you would expect it to be that January levels times 3 plus some growth so how about that? Research Division</strong> Okay great.
+And then just 2 quick ones.
+Just there is some confusion you hear different things about EMV Chip and PIN that those terminals are at the same price or higher price than the existing terminal.
+Can you just help us understand that? Again we may be providing terminals for free maybe a lot cheaper because the services requirements are going to higher.
+In some markets in the world U.K.
+Germany they're significant higher than mag stripe terminals than the U.S.
+Other markets in the world like Brazil which is a very high volume location I think the prices are not dissimilar to a mag stripe terminal in the U.S.
+But generally higher and it kind of differs all over the place.
+Research Division</strong> Okay.
+And just the last question.
+You mentioned that you thought EMV would drop interchange.
+I guess I'm a little surprised to hear that.
+Is that something that just that's happened in other markets because I think most banks would still expect to see an interchange even with EMV Chip and PIN? No the argument is EMV has -- lowers the fraud costs.
+And it's generally considered that the fraud and particularly the higher fraud cost in the U.S.
+are effective but by no means the only factor but just a factor.
+And the fact that we have higher interchange rates in the U.S.
+versus Europe.
+Your next question is from the line of Gil Luria from Wedbush Securities.
+Research Division</strong> So it sounds like the Point integration is going well.
+How long do you still think you need before you feel it's fully integrated into your business? I would say Point as it is today will be done this quarter but moving payment-as-a-service into other jurisdictions will take much longer and we'll do it as is appropriate and as is a market requirement so integration per se never really ends in that respect.
+Research Division</strong> In terms of other restructuring costs that you're going to have to take going forward you've taken about almost $90 million over the last 4 quarters.
+How much more are restructuring and then other types of nonrecurring expenses do you expect over the next couple of quarters? We don't give guidance so I can't give you that number.
+But the large pieces are already done but there are some continuing integration costs.
+For example Point doesn't currently run on Oracle so we need to move that accounting system over to Oracle.
+That's going to take several quarters.
+And there are a few other things like as we took in Hypercom not an Oracle conversion but other system conversions.
+So there will be some expense going forward but nothing like the size that you've seen.
+And let me remind everyone Hypercom was a unique acquisition in the sense that we were buying a complete copycat competitor and there were just tremendous opportunities for expense reduction outside of Continental Europe.
+And we worked diligently to take those but they don't come for free.
+And as Bob stated those are largely behind us a few dangling things.
+The synergies and hence the accretion that we had expected from Hypercom are coming in just as we had hoped.
+Research Division</strong> So when should we expect the cash flow to catch up with net income? It's been a little depressed for the last couple of quarters compared to pro forma earnings per share.
+When should we expect that GAAP to close? Well that's pretty much the same question you just asked so we don't provide the GAAP forecast.
+But as I said a large portion of the cash differences now beyond us so the bulk of the difference is between GAAP and non-GAAP will be non-cash difference going forward so I think you'll find those are coming together.
+We have a strong multi-year record of operating cash flow.
+I look at it our board looks at it do it as a true unvarnished metric of a company's health performance.
+So it's -- unfortunately we have restructuring costs related to these acquisitions but they are what they are.
+And we're going to get back to where we were plus the synergies and I think it'll be a very impressive story.
+Research Division</strong> Sounds good.
+And the last question about the U.S.
+market have you seen any changes in terms of the competitiveness of the former Hypercom U.S.
+business under its new ownership? Are they investing in a new generation of products or is that an opportunity for you to gain share even from your high levels in the U.S.? Yes I have no idea what's going on over there nor do I lose much sleep over it.
+I'll tell you we're picking up R&amp;D investment.
+I would not want to be a $50 million company trying to compete with us in this arms race because it's not going to be a pretty picture.
+I have no idea what they're doing over at Hypercom.
+Your next question comes from the line of Philip Stiller from Citi.
+Research Division</strong> I just want to go back to the EMV opportunity in the U.S.
+MasterCard came out with some different guidelines related to PIN as what Visa had said previously.
+Does the presence of PIN matter to you guys at all in terms of making some of these opportunities more or less likely to just pay-at-the-table? Yes I guess at the margin we would prefer PIN.
+But by the way PIN is required for PayPal's solution as well so PIN debit continues to -- x EMV continues to be a very popular payment methodology for consumers.
+So I think everybody can safely say PIN is here to stay.
+But a few boundary conditions like restaurants I guess if you didn't have a PIN entry then you might be silly to still give away your EMV card and let it go into the kitchen.
+I wouldn't personally but I think MasterCard's announcement that rewards those who invest the most i.e.
+with PIN is going to help carry that forward.
+The total dynamics that we see in Europe that the card issue was quite dynamic on pressing the PIN.
+They may -- depending on the instruction down to the Chip but -- PIN only to be entered every third or fourth time for example.
+But when it's required it's required.
+Or the transaction size might be of a certain -- over a certain limit and therefore they request the PIN or they may be requesting they come out every transaction.
+So it can be very dynamic and an issuer can even have different rules about when they want PIN.
+So rather than just being a Visa or MasterCard issuer this can be a card issuer item that they can be driving.
+So I believe that most retailers will arm themselves with the ability to take the PIN.
+Yes I mean for instance a store like I still see in -- a European coming in with a card that was issued by a card issuer who is PIN-centric and they're going to want to be able to accept that entry.
+I'm just reflecting throughout Europe countries like Turkey are not -- they're EMV signature in countries like the U.K.
+or EMV Chip-and-PIN actually are businesses thriving in both countries and I can't even discern which is better or worse.
+So I guess the answer is we're relatively indifferent.
+Research Division</strong> While the uncertainty remains do you think that could potentially impact buying patterns in the near term? No.
+I mean I think that people still need a PIN-entry device because PIN isn't going away.
+PIN debit is a very popular modality with consumers.
+A large retailer today who is contemplating upgrading their systems is going to minimally require EMV-capable card slots probably defer the requirement for the software and the service because they don't know what their rules are going to be but certainly it's not going to make a decision not to accept PIN-debit with all the reasons why consumers continue to want to enter PINs.
+And all of the new alternative payment schemes some of which are very PIN-centric.
+Research Division</strong> Okay.
+And then as we think about this opportunity longer term and you deploying a Point-like business model in the U.S.
+how should we think about what your annual revenue opportunity is on a per-lane basis? I mean isn't that a good metric to look at? How much revenue does Point generate per lane in Northern Europe versus how much you're generating now in the U.S.? It is although I wouldn't -- I think it's too early to start extrapolating that.
+I also think there'll be certain very large retailers who have very large IT departments who have people on helpdesk 24/7 who might be able to go hire 5 or 6 security people and might still want to buy solutions from us with de minimis services requirements.
+But -- so we don't know where that line of demarcation is going to fit but for average retailers the complexity of all that's happening in payment we think begets an opportunity for a services provider like ourselves to add real value for them and clear some headaches off their to-do list.
+Your next question is coming from the line of John Williams from UBS.
+Research Division</strong> Real quickly on the opportunity in Brazil.
+I know you talked a little bit about it earlier Doug but I was just curious.
+In terms of the competitive environment when you think about the acquirers there it's certainly a different dynamic than up here in the U.S.
+do you get a sense that they will be essentially ordering all they needed terminals and not really need more down the road or do you think it's going to be more gradual process over the next few years? I'm sure there'll be -- there's some lumpiness but I just had dinner tonight with the CEO of Redecard who is visiting and they anticipate many many years of market expansion.
+You go up to states like Bahia and card acceptance is very scattered.
+The number of places in Brazil that are equipped with state-of-the-art technologies still has lots of runway.
+So I don't know when that flattens out.
+The Brazilian economy is doing very well and as I've stated before it's one of those consumer cultures that not only has high GDP growth maybe it's down to 4% or 5% right now but they have a consumer-friendly young population that likes to shop.
+So he certainly wasn't signaling any type of imminent slowdown and certainly we are not either.
+Research Division</strong> And the dynamics in your relation I guess between -- relationship between VeriFone and Redecard do you expect that'll change at all if the transaction that they've talked about takes place and they're no longer public? No I don't.
+I think they'll have a different type of governance framework but I think that I'm not -- I can't speak for them but I think their new owners who are the minority owners currently want a company that's innovative and can grow fast and compete vigorously and those are the types of attributes that typically most people want to have a very friendly strategic relationship with us.
+So based on what I've seen on valuations they're paying up for this asset.
+And I think they're going to require -- they're going to want some good returns and the returns are going to come from growth and from market agility and competitiveness.
+Research Division</strong> It's still mostly wireless right? That's the big transition from the -- if they don't have a terminal they go right to a wireless versus going to something that's plugged in? I think our Brazilian sales of wireless are around 50% which is probably twice the percentage in other places.
+But it's -- I don't -- I wouldn't say it's mostly wireless.
+Research Division</strong> Okay.
+One other question systems we initiated last week.
+A lot of questions have come in around what EMV and Chip and PIN in the U.S.
+would look like.
+Would it be Chip and PIN? Chip and signature? I guess what I'd like to get a little bit more color from you guys on is the dynamic for one versus the other.
+In other words if it's Chip and PIN or Chip and signature does that affect the decision process? I mean it seems that would be a different decision for the retailers but do you think that that changes the need for PIN pad or for a new terminal generally depending on what we see EMV look like here in the U.S.
+whatever form that takes? No.
+I mean that it's very similar to the previous question.
+You're going to need a chip-capable payment device that's secure that's PCI in front of an ECR whether you take a PIN or you don't.
+Given that consumers have demonstrated since the late '90s that many of them love PIN and that's continuing and the growth in PIN debit is continuing and that many of these alternative payment programs that the likes of PayPal and others are rolling out have a PIN option I think it's highly unlikely that even if the financial motivation for Chip and PIN versus chip and signature turn out to be indiscernible that major retailers would undergo this upgrade without PIN capabilities.
+But even if they did theoretically I don't think it has any material economic impact to us.
+But I'd point out that in the work that the Federal Reserve did recently in changing the debit card and exchange rates they did some really good analysis on the fraud and found that the bulk of fraud of debit cards is related to signature.
+And when people use their PIN fraud is very very low.
+And that is one of the elements that the retailers are looking at and saying and in fact commenting after VISA announcements and it was clearly picked up by MasterCard the retailers say "We want PIN because we want to minimize the fraud costs." Research Division</strong> Do you worry at all though that on I guess the next upgrade cycle of merchants are going to have to decide to do either NFC now and Chip and PIN later? Or do you think it'll be any sort of two-step process? Will they have to upgrade their terminals twice? Or do you -- has that come up in the conversations that you've had? Yes.
+And we're -- when we're engaged in upgrade discussions the vast majority of discussions are leading towards a double upgrade maybe a onetime upgrade with both incremental capabilities.
+It's clear to anybody that was in Barcelona last week that NFC is not a passing phase.
+It's here to stay.
+It's getting great traction in many markets in the world.
+It works -- the handset manufacturers are now getting behind it and even contactless cards requiring NFC are going to be very commonly used this summer in London at the Olympics.
+So NFC is here to stay.
+EMV is on its way and I'm very confident retailers won't be dragged through an upgrade cycle twice.
+They're going to do it all at once.
+Your next question is coming from the line of Wayne Johnson from Raymond James.
+Inc.
+Research Division</strong> Could you just remind us how many of the VeriShield contracts that you've been awarded over the last several quarters are now enabled and live? And can you just give us an update on how you expect that to track by the end of the year? I don't have the number in front of me.
+It's a big percentage and what I was given to read was that we processed 45 million transactions in the quarter.
+I think several of the processes are now live a couple are still mired in their own bureaucracy.
+But for the most part our contracts now can go live quicker than they ever have because the processors all have our encryption software installed at their hosts.
+Inc.
+Research Division</strong> So that would imply if I heard correctly and I apologize I have some background noise here that potentially half of that 76 million are now live is that correct? I don't have it with me.
+I wouldn't be surprised if it was not more than that but I don't have the number with me.
+Inc.
+Research Division</strong> Okay.
+Well that's good news.
+And then same -- similar question on the smaller business side as that is an opt-out service if I recall correctly can you give us a sense on how that's tracking or how that's being viewed from the small business merchant side? I don't have that.
+I know it's opt-out at First Data it's really the processors' decision how they want to formulate their contract with the small merchants.
+So I'm not aware if everything opt-out outside of the First Data affiliate account.
+Inc.
+Research Division</strong> Okay fair enough.
+And just a quick follow-up.
+Can you give us an update on how the new terminals are selling if they've been launched in Germany and Central Europe? I understand that there was going to be a rewrite of some of the programming.
+And how has that been received? And included in that also the follow up on their service trailer which I think you had priced at roughly EUR 12 if I recall that's correct.
+Yes.
+The NRF and I think Darren mentioned you'll see some of our new technology that was introduced in the MX series MX 9 series it's selling like no other new product has ever sold.
+With respect to the replacement products to the Hypercom legacy products in Germany we expect the replacement products to be -- they're in beta now and they should be going into full production by the third quarter.
+I mean to be candid Hypercom had starved its R&amp;D team for that 8 or 9 months that we were pursuing them.
+So when we got the keys to the store we found that they were further behind.
+And now we've been putting in a lot of money in that and getting those customers all excited about what we have to show them but it cost us a few months and frankly it was probably the single biggest reason why our out-of-the-gate Hypercom revenue expectations didn't meet our original plans.
+But those customers have been kept warm and happy and now these products are close to being shipped.
+We expect to sell a lot of them.
+Your next question is coming from the line of Keith Housum from Northcoast Research.
+I'll try to be brief and this about -- because I think other questions are answered as of before.
+But can you shed a little light on I guess the anticipation for the payment-as-a-service in the U.S.
+or the EMV? Is it going to be like a hybrid model where you sell the hardware and services or will it be -- like you also sell a combination where you just take out a payment-as-a-service model 100% no hardware associated with it? Yes.
+In my experience here and when you go into new extensions to your business you have to be adroit and humble and you have to listen.
+You also have to have some view of where you want to go.
+So I think it's way too early to be dogmatic just as we've learned a lot and gained a lot from the Google and PayPal and now announced today Isis trials I think we'll know a lot more at the end of those trials than we do at the beginning.
+And I think we'll know a lot more about morphing our EMV compliance program into a service 6 or 12 months from now than we do today.
+We know it works.
+We know retailers like it.
+We know they're not -- the vast majority of retailers they're not technologists.
+They're all interested in multichannel and getting access to other types of e-commerce capabilities.
+And that type of overlay to our customer relationships that currently existed in the U.S.
+is best facilitated by that.
+So -- but I don't want to act like we know everything here we're going to live and learn.
+At this time I'm showing no further questions in the queue.
+I would like to turn the call back over to Mr.
+Doug Bergeron for any closing remarks.
+All right.
+Well sorry for keeping you long today.
+We've got a lot going on there's a lot of wood in the fire here and we like to be as descriptive with you all about as many things as we can.
+So thanks for your patience and we'll talk to you again next quarter.
+Ladies and gentlemen that concludes today's conference.
+We thank you for your participation.
+You may now disconnect.
+Have a great day.

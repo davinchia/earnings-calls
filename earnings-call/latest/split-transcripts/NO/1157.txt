@@ -1,0 +1,521 @@
+Good day ladies and gentlemen and welcome to the Quarter 4 2013 VeriFone Systems Inc.
+Earnings Conference Call.
+My name is Patrick and I'll be your coordinator for today's call.
+[Operator Instructions] As a reminder this conference is being recorded for replay purposes.
+I would now like to turn the conference over to Mr.
+Doug Reed Senior Vice President Treasury and Investor Relations.
+Please proceed sir.
+Thank you Patrick and welcome everyone to the VeriFone financial results conference call for the fourth quarter of fiscal year 2013.
+With me today in New York City is our CEO Paul Galant; and our CFO Marc Rothman.
+Today's call is being webcast with both audio and slides available via the link in the Investor Relations area of our website ir.verifone.com; and a recording will be available on our website until December 24 2013.
+We encourage those on the phone to access the webcast in addition to or instead of dialing in because the slides can be helpful.
+First for the legalities.
+VeriFone desires to take advantage of the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Certain forward-looking statements in this conference call including management's view of future events and financial performance are subject to various factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements.
+For a description of these factors I refer you to our filings with the Securities and Exchange Commission.
+Any forward-looking statements speak only as of today and VeriFone is under no obligation to update these statements to reflect future events or circumstances.
+In addition today's call will cover certain non-GAAP financial measures on both historical and forecast bases.
+Our management uses these measures to evaluate our operating performance and to compare our results to those of prior periods as well as to those of peer companies.
+Please note that VeriFone expects to incur certain types of income and expense items that are excluded from the non-GAAP results discussed today.
+These non-GAAP measures are not substitutes for disclosures made in accordance with GAAP.
+Reconciliations of these measures to the most comparable GAAP measures are presented in our earnings release which is available on our website.
+Please note that on today's call we will refer to the non-GAAP measures including revenues gross margins operating expenses net income free cash flow and earnings per share.
+[Operator Instructions] Now I'd like to turn the call over to Paul Galant CEO of VeriFone.
+Thank you Doug and good afternoon everyone and thank you for joining us today.
+It is my great pleasure to be here at VeriFone on my first earnings call as Chief Executive Officer.
+Now before I share my initial observations about our company and discuss actions that we're taking to improve our business I want to let you know how excited I am to be leading VeriFone at this time.
+VeriFone is a company that really matters in payments and we will play an increasingly important role in enabling commerce for our clients.
+In our 32-year history this entrepreneurial company of 5 700 talented people have served its clients in 150 countries and has built a footprint of 20-plus-million hardware terminals.
+Taken together VeriFone's terminals combined with our numerous software and services solutions collectively power approximately 14 million merchant locations their websites and mobile apps that together capture more than 70 billion consumer transactions totaling approximately $4 trillion annually.
+We are #1 -- or #2 in nearly all the markets that we serve and VeriFone terminals process approximately 40% of the world's consumer-initiated physical card-based transactions.
+Any way you look at it VeriFone is a tremendous platform and our deep client relationships position us well to further lead the evolution that is already underway in payments and commerce.
+We are witnessing and in some cases driving changes in business models in technology in consumer behavior and benefiting from increased activity and investment by merchants and payments companies.
+VeriFone is the physical point of consumer and merchant interaction as a convergence of electronic payments digital commerce predictive analytics and mobility starts to play out.
+VeriFone's position in consumer-initiated card transaction will enable us to play a significantly important role in closing the loop with contextual marketing digital advertising couponing loyalty and social media.
+This expansion beyond the sandbox of plastic cards and payment terminals is a very good thing for VeriFone.
+The power and versatility of a consumer smartphone ecosystem needs to be matched by the power and versatility of the future merchant point-of-sale environment.
+That is the bigger sandbox in which VeriFone will excel.
+I believe that the growth of payments volume will continue to accelerate and digitize and the way in which consumers and merchants engage will continue to rapidly evolve.
+There are only a handful of companies that can enable and capitalize on these macro changes at scale in the way that VeriFone can and there are only a few companies that enjoy the breadth and depth of VeriFone's market position.
+More money and more attention is being paid to the payments industry than in any time in modern history and I believe this will create a positive decade of opportunity for VeriFone and our clients and partners.
+Now throughout my career in both the wholesale and consumer payments industries I have had the privilege of leading complex global organizations through periods of industry change and disruption.
+In each case my teams and I unified businesses under a single global brand dedicated to commercial innovation and client service.
+In each case the key to success was relentless streamlining and simplification of the operating environment and transforming the internal culture to be focused on partnering with clients to understand their challenges and prioritize the execution of their opportunities.
+These partnerships with clients produced innovative solutions at scale that generated sustainable economic growth and real performance.
+Businesses that I have run in the past evolved from being vendors that received RFPs to being trusted partners that received their client's first call.
+Those same businesses also evolved from reading about major innovation announcements to making those announcements in partnership with the world's most innovative companies.
+An exciting example of how VeriFone is making this transition is our recently announced program with our partners at American Express.
+For the first time ever New York City taxi passengers can now use their American Express card membership reward points instead of cash to pay for their taxi fares.
+This new program already operating in 7 000 New York City taxis begins to paint the picture of the potential for VeriFone's network devices to enable new commerce and help close the loop and deliver precise and real-time measurable return on loyalty marketing and advertising programs.
+As we look ahead VeriFone solutions can on a global basis enable our clients to unlock their consumers' trillions of unused rewards points to pay not only for infrequent luxury goods but also to pay for everyday items such as cab rides gas meals groceries clothing et cetera.
+As any company with a rewards program will tell you the key is to engage and remind their consumers as often as possible of the tangible value that they get by using their card or shopping at their brand.
+Ultimately we believe that these types of simple practical and valuable commerce enablement services operated at scale and without a lot of dependencies I may add will deepen our client relationships and create value for our shareholders.
+Now let me turn to our Q4 overview.
+I think as you can see from our Q4 results VeriFone continues to make progress towards driving business performance improving our client relationships addressing product challenges and strengthening our balance sheet.
+This focus has enabled us to walk the walk and deliver results that exceeded our guidance for the top and bottom line as well as guidance for our free cash flow.
+In addition to exceeding our financial guidance for the quarter VeriFone continues to capture new business and renew existing business with some of the world's most influential retail brands and financial institutions.
+Let me cover just a few of them.
+In the United States Sephora and American Girl selected VeriFone's next-generation integrated and mobile payment solutions over those of our competitors to drive commerce in their stores.
+VF Corp.
+has agreed to implement our full payment-as-a-service solution including mobile across 6 of its brands including The North Face.
+Under Armour successfully rolled out VeriFone's newest mobile point-of-sale device for their iTouch 5 just in time for the holidays.
+And Chick-fil-A is integrating VeriFone mobile solutions for iPads to facilitate line busting inside and outside of its restaurants.
+To be sure this is already not your father's [ph] terminal company.
+In many of these recent wins we are supplementing our clients' existing counter-based VeriFone terminals with our mobile our digital marketing and our full services solutions.
+Now moving north in Canada Moneris the country's largest payment services provider will roll out new VeriFone devices in 2014.
+Now you may recall we struggled with having certified products to sell in Canada in the past.
+Well I'm happy to report that we are now full steam ahead.
+In China VeriFone continues to grow with successful business relationships with China PnR the country's third largest payments processor.
+Here we're expanding beyond maintenance of the existing terminal fleet to now include delivery of our next generation of wireless devices.
+Further demonstrating the progress that VeriFone has made in bringing our house to order and delivering the products that our clients need in Brazil VeriFone is now winning proposals to deliver contactless and portable devices to our major clients in this very important market.
+By the same token in France Bouygues Telecom one of the country's largest mobile operators has selected VeriFone's gateway services our helpdesk services and devices to better manage transactions across the physical mobile and eCommerce points-of-sale for its retail stores.
+In Egypt the country's Ministry of Finance has selected VeriFone devices to power the electronification of the country's entire gasoline and petroleum retail market.
+And these are just a few examples of the deals that we've won this quarter and the great things happening around the world for VeriFone and for our clients.
+Finally I'd like to discuss the process that the management team and I are now undertaking to steer VeriFone to become the company we want to be.
+Look I hope you can tell that I'm excited about the future but I'm also crystal clear that we must do some heavy lifting to fix certain foundational aspects of our business and we must continue to build credibility with our clients our partners and our shareholders.
+In my first 78 days at VeriFone I've spent the vast majority of my time with our clients with our suppliers employees leadership team and our Board.
+I could tell you that I've seen a lot and I've heard a lot of direct feedback.
+The bottom line is in the last couple of years we at VeriFone simply did not live up to our expectations and certainly not to our potential.
+Before we can fully build our future we need to fix and strengthen our foundation.
+The first steps to fixing our foundation are to better manage our brand communicate a clear business strategy rationalize and streamline our products improve the design the look the feel and quality of our products and of course execute our business with more discipline and accountability.
+We've already started this work and are now refining a one VeriFone vision a strategy and an execution plan that will help us achieve our objectives.
+At a high level our vision is to be the most trusted and innovative terminal global payment-as-a-service and commerce enablement company.
+Our strategy is to make it easy for our clients to connect our terminals and solutions to a secure platform capable of hosting VeriFone and third-party developed services.
+And our execution plan is to improve the way we run our core hardware and software business globalize our payment-as-a-service offering and significantly innovate in the area of commerce enablement.
+Now we start this journey by fixing the basics and we've identified 3 initiatives to achieve this objective.
+First we will analyze and rationalize our product portfolio to focus on products that our clients want and where we can provide sustainable market leadership.
+Second we will significantly enhance our global research and development organization and bring far greater discipline to the way we execute.
+And third we will improve our cost structure to help support our innovation agenda and create long-term financial benefits.
+Let me discuss each of these initiatives in slightly more detail beginning with portfolio rationalization.
+As a result of our significant acquisitions VeriFone has an extensive number of products and platforms some of which simply overlapped.
+As it stands today the company is too decentralized and operates too much like a collection of regional businesses and acquired companies that must now be better leveraged and integrated to realize the full benefits of these assets.
+We are now intensely focused on starting the integration to improve returns on the investments that we've already made.
+Through our portfolio rationalization efforts we are streamlining the number of products and part numbers in VeriFone's existing global portfolio in order to simplify our engineering program and better allocate our investments and resources to their highest and best use.
+We will leverage a dispassionate and rigorous approach using a single data-driven model for product management on a global basis.
+This means product priorities and innovation work will be analyzed consistently and stack ranked on a global basis before it gets executed.
+In other words we're going to stop spreading the peanut butter thinly and evenly across the bread.
+Furthermore our senior leaders will have end-to-end visibility and ownership and will be more directly accountable for their work as measured by their individual scorecards.
+To lead this initiative I'm pleased to say that we recently hired Bill Nelson as EVP of Product Management and Services.
+Bill has led sales.
+He's led marketing product and services across management functions at global organizations such as SunGard EMC AT&amp;T and most recently at Nuance.
+I'm confident that Bill working in concert with the management team will achieve a more focused and data-driven product marketing and management function.
+Turning now to our second initiative R&amp;D execution.
+To reach the next level of success VeriFone must reengineer and improve our R&amp;D operations and technology capabilities.
+Too often we have experienced delays in production and product certification in certain markets and have not done a good enough job in on-time delivery and quality assurance.
+During the last few months we have begun to really peel the onion to reinvent and expand our R&amp;D efforts significantly particularly in some of the markets where we simply lack certified products.
+We expect new fully certified on-time and high-quality products to come to these -- to markets and then following quarter-by-quarter throughout fiscal year 2014.
+The improvement of R&amp;D capabilities will center on 3 areas.
+Let me run through those: Number one we will reduce complexity within our R&amp;D organization and manage it as a global organization responsible for technology operations and innovation; secondly we will reduce the number of overlapping and inefficient hardware and software platforms.
+This process is greatly informed by our portfolio rationalization initiative that will help us reduce the complexity of our existing portfolio and help us to better select future products and services; and finally three we will reduce new product cycle times by improving the efficiency of our product development our certification and quality testing processes.
+Transforming R&amp;D at VeriFone is a table stakes activity that will take time and the right leadership.
+To address the latter we I'm very pleased to say recruited Alok Bhanot who recently joined the company as EVP and Chief Technology Officer.
+I've had the pleasure of working with Alok in the past and know him to be a proven innovator and leader driving disciplined execution across global operations and technology at organizations such as PayPal eBay and Visa.
+Before coming to VeriFone he founded and was CEO of Inkiru a predictive analytics company that was recently acquired by Walmart.
+I'm confident that under Alok's leadership this transformation will be successful and will lead to a more effective and innovative R&amp;D capability at VeriFone.
+Now the third initiative is to improve and get far more leverage out of our cost structure.
+VeriFone's current operating model has created an overlap in the production of our products and services.
+Historically the company has been highly decentralized with different regions and power to make their own product roadmaps their own operating standards and employ their own procedures.
+We're changing this approach by standardizing common processes and technologies so that we can better benefit from VeriFone's impressive global scale.
+Rest assured that driving to common does not equal becoming less nimble and flexible to serving our clients.
+Intelligent process design creates global scale and leverage and yet leaves last mile flexibility in the hands of our people closest to local markets and to our clients.
+We will be applying a more formalized and disciplined global process to our expense space that creates better alignment between spend and value creation.
+We're developing consistent company-wide processes; we're consolidating our management system; and building a culture accountability that will create greater efficiency and improve our speed of execution.
+Ultimately this will increase our ability to service the unique requirements of our clients across the countries where we operate.
+We're breaking down the VeriFone regional and divisional mindset in order to operate better as one global company and that is a big priority for me.
+Through our cost optimization initiative we're starting to deliver more centralized shared services in our back-office functions and we'll continue our focus on centralized purchase activities.
+We will transition from disparate management systems to common tools that enable us to manage the business consistently across the globe and we will be redoubling our focus on efficiency to maximize all available resources and streamline our company to support our drive for global growth.
+I expect benefits to our cost structure from some efficiency work to begin to materialize towards the latter part of fiscal year 2014 and I expect to begin to see the more significant benefits of streamlining our processes starting in fiscal year 2015.
+I'm also happy to say that Marc Rothman our CFO is spearheading this effort for the company.
+In conclusion I'm confident that we've identified both our challenges and the changes we need to make in order for VeriFone to be a great terminal company a great payment-as-a-service provider and an innovative enabler of commerce that our clients turn to.
+As CEO I'm committed to being transparent about the road ahead and the steps we are taking.
+I'm confident that VeriFone is in the right space and positioned well to benefit from the coming decade of evolution in payments and commerce.
+As you've heard we're establishing internal financial and operational scorecards to which our entire organization will now be held accountable.
+This will ensure steady progress of achievement of the 3 initiatives I outlined for you today and the execution of our vision and strategy.
+The future here is bright and I'm confident that we will create value for our stakeholders.
+Now before handing the call over to Marc I would like to address our 2014 financial outlook.
+For fiscal year 2014 we expect revenues to be in the range of $1.77 billion to $1.8 billion and our earnings per share in the range of $1.35 to $1.40.
+The EPS outlook reflects continued investments to enable the strategy that I've outlined.
+I will now turn it over to Marc for a review of our fourth quarter financial results and additional details on our guidance.
+Marc? Thanks Paul.
+Let me now provide commentary on our financial and operating results.
+Consistent with the company's past practice we will be referring to certain financial statement information on a non-GAAP basis.
+We are pleased with the progress on our key financial metrics.
+For the fourth fiscal quarter we reported net revenues of $432 million exceeding our guidance of $418 million to $422 million.
+Our net revenues were down 12% from a year ago and up 4% sequentially.
+Non-GAAP earnings per share was $0.27 compared to non-GAAP earnings per share last quarter of $0.24 and $0.76 a year ago.
+In the fourth quarter we recorded a non-cash charge of $242 million to record a [ph] valuation reserve against our U.S.
+deferred tax assets.
+This was necessary as a result of our fiscal 2013 U.S.
+tax loss that created a 3-year cumulative loss.
+Our U.S.
+subsidiary results include our corporate interest expense and litigation costs both of which contributed significantly to the loss I just discussed.
+Although these losses do raise uncertainty about the realization of our tax assets we continue to have the ability to use these assets to offset future U.S.
+taxable income and therefore minimize U.S.
+cash tax payments for the foreseeable future.
+As a result our GAAP loss per share of $2.26 included $2.21 related to this non-cash tax charge.
+I would like to now briefly discuss our regional results.
+Our North America business recorded revenues of $124 million reflecting an 8% increase sequentially.
+Our results reflect several factors.
+In our U.S.
+multi-lane retail business we continued to see strong demand for our core integrated retail offering the MX 900 Series.
+This represented another significant quarter of customer retention as well as competitive takeaways.
+7 additional existing customers have committed to rolling out the MX 900 Series and we have added 7 new customers choosing our solution.
+This quarter's results do reflect a tough year-over-year comparison as last year's fourth quarter included large rollouts with several top 100 U.S.
+retailers.
+As discussed last quarter our sales in the Canadian market have been impacted as we continue to develop specific new products and address product certifications.
+Our focus and investments have led to improvement and we are pleased with our recent wins in Canada as Paul just highlighted.
+Our petro business revenues were also up slightly from last quarter but down a year ago.
+We previously discussed a significant site point-of-sale contract with one of our largest customers that we expect to generate incremental revenues over the coming quarters as these products are deployed and installed at client locations.
+Also in North America our U.S.
+taxi business grew sequentially and we benefited from expansion in markets including New York Chicago Las Vegas and New Orleans.
+Let me now turn to Latin America.
+Our revenues for the fourth quarter was $71 million and on a sequential basis were slightly higher by 1%.
+We continued to make progress on the development of new products and certifications for the Brazilian market.
+In Europe the Middle East and Africa revenues of $180 million were up 1% on a sequential basis.
+As we've discussed in previous quarters we are investing significantly in this market to enhance our product portfolio and rebuild our distribution channels.
+The decline year-on-year primarily reflects the loss of business in the Middle East and product certification challenges in our U.K.
+market again a market where we continue to make real progress.
+Positive highlights included Russia where sales remained strong benefiting from a large win in the second quarter with one of Russia's largest banks.
+In our European payment-as-a-service business sales also increased sequentially as we continue to drive additional customers to our value-added solution.
+And finally turning to Asia Q4 revenues of $57 million were up 8% on a sequential basis and included increased sales in New Zealand related to a recent acquisition in May and increased sales in India.
+Our reduction in sales from a year ago reflects some competitive pressures in Indonesia.
+Additional information on organic and constant currency growth is also included in today's press release.
+Now I will discuss results by line of business.
+Our systems solutions revenue was $259 million in Q4 down 23% from the prior year.
+This is not acceptable and we are addressing these declines with the additional investment in next-generation products and improvements in our product certification processes.
+To this end we have made progress on a sequential basis with revenues up 3% mainly reflecting increased sales in North America.
+Services revenues were a record $173 million in Q4 an increase of 13% year-over-year and 4% sequentially.
+Service revenues represented 40% of our total revenues in Q4 consistent with the prior quarter.
+Primary drivers of the revenue growth are the continued uptake for our value-added offerings in our payment-as-a-service business growth in the U.S.
+taxi business for transactions and advertising and our recent acquisition in New Zealand and in France.
+Moving now to gross margin performance.
+Our consolidated gross margin was 41.2% an increase of 40 basis points from our third quarter.
+The sequential improvement in our system solutions gross margin as a percentage of revenue primarily reflects customer and geographic mix.
+Our services business gross margin decreased slightly from the third quarter of 2013 to 45.5% in the fourth quarter and also reflected changes in customer and geographic mix.
+Let me briefly discuss operating expenses.
+During the quarter our operating expenses were $131 million an increase of $4 million over the prior quarter as we increased our investment in product development sales and marketing.
+Now let's discuss the balance sheet.
+We are pleased with our progress this quarter on improving the balance sheet and our increased focus on cash management.
+Cash management is among the top priorities for the VeriFone team.
+We ended fiscal year '13 with a cash balance of $268 million and net debt of $768 million.
+Since the beginning of fiscal year 2013 our gross debt has been reduced by $272 million and our net debt is down $86 million.
+Please see our detailed credit agreement financial covenant calculations posted on our website.
+Continuing with the good progress on our balance sheet our inventory decreased by $33 million to $139 million and inventory measured as days of supply decreased favorably by 9 days to 55 days.
+We are focused on making continuous process improvements around our demand planning activities product and platform optimization and centralization of procurement activities to optimize inventory levels and improve our overall product costs.
+We also transferred $14 million of inventory procured in prior quarters to fixed assets in Q4 to further support our service business opportunities.
+Our accounts receivable DSO increased slightly by 1 day to 59 days and our accounts receivable balance increased to $284 million as a result of higher sequential sales.
+We continue to focus on improving collections in every region through process improvements including a focus on improving monthly linearity.
+Accounts payable ended the quarter at $117 million an increase of $5 million quarter-over-quarter; and our days payable remained constant at 41 days.
+Turning now to cash flow.
+In the fourth quarter of 2013 operating cash flow was $55 million and our free cash flow was $38 million for the quarter.
+This was meaningfully higher than our non-GAAP net income as a result of working capital improvement offset partially by one-time charges for integration of our recent acquisitions and employment-related matters.
+During this period we tightly controlled capital spending and invested $17 million in CapEx including $7 million on revenue-generating assets mainly systems for our payment-as-a-service model and our taxi business.
+And finally let me provide more detail on our guidance.
+Consistent with our comments last quarter we continue to expect revenue and EPS to be up sequentially from our Q4 guidance of $418 million to $422 million in revenue and the non-GAAP earnings of $0.25 per share.
+As such for Q1 we are guiding non-GAAP revenue in the range of $425 million to $430 million and non-GAAP earnings at $0.26 per share.
+In addition we are reinstating full year guidance and expect revenues in the range of $1.77 billion to $1.8 billion and earnings per share in the range of $1.35 to $1.40.
+Our guidance includes investments to support our 2014 growth expectations.
+And in connection with our 3 initiatives outlined by Paul we expect to see benefits to our cost structure beginning in the latter part of the year and expect more significant benefits beginning in 2015.
+We will provide more information on future calls as we progress with these initiatives.
+Additionally we expect free cash flow for the full year to be approximately 85% of our non-GAAP net income excluding large one-time cash items such as the Q1 legal settlement we previously discussed.
+Please refer to Slide 16 of our earnings presentation for a more comprehensive view of our content on our guidance as well as additional forward-looking financial information.
+Thank you very much.
+And let me now turn the call back over to Paul for closing remarks and then we will take your questions.
+Okay.
+Thank you Marc.
+As I stated earlier we have significant market-leading strengths to build on and we have a tremendous platform.
+We also have a lot of work ahead of us to enable VeriFone to live up to its potential.
+Our deep client relationships position us well to further lead the evolution that's already underway in payments and commerce.
+We're excited about the opportunities ahead.
+We expect to make significant progress throughout 2014 on the initiatives that I've outlined for you today.
+We will provide you with periodic updates on our progress and you should expect to see improvements from VeriFone in the following areas: Number one further development of a current and globally-relevant product portfolio delivered on time every time with consistency and quality; number two accelerated rollout of our global payment-as-a-service offering; number three a steady stream of innovation driving commerce enablement; number four improvement in our operating stability and financial discipline; and five continued evidence that our clients view us as their trusted partner.
+We believe the initiatives we are currently undertaking will provide VeriFone with sustainable long-term solutions to help our company and position us for further growth and success.
+We're confident that we're making the right investments and executing the right strategy to position VeriFone as the go-to partner for our clients and to create sustainable shareholder value for you.
+With that I would like the operator to please open the line for questions.
+[Operator Instructions] And your first question comes from the line of Tien-tsin Huang with JPMorgan.
+Research Division</strong> Maybe I'll just ask a big picture question to start off.
+Just I'm curious we get a lot of questions about earnings power of the company.
+I'm curious if you can just at a high level sort of comment on where you see the greatest potential forward to unlock some earnings for the business.
+And also on the same -- along the same lines where is the -- where do you see the biggest earnings risk in putting this strategy together and fixing the basics as you laid out? I appreciate the question Tien-tsin and it's nice to meet you on the phone.
+I think the first part of the question the earnings power of the company I view VeriFone as having a wonderful advantage in having these hardware devices in 20 million locations and unlocking the power of earnings means to make sure that these devices are the go-to devices for merchants going forward in increasing size.
+And then obviously the really exciting part is being able to network these devices -- or give clients the opportunity to network these devices and be able to provide additional services beyond accepting a card swipe or a tap or a pin pad entry.
+I think that these devices are just a fascinating item in that it's really where the physical world meets the digital world every single day.
+And I think that given all the advances in technology that we're seeing and all the advances in business models that point of interaction becomes extremely valuable.
+In terms of the risks to earnings I would say that the greatest risk today is time.
+How much time we will need to complete the work I think is so important for us to do in strengthening the foundation.
+To be a really powerful innovator and a great advocate and partner for our clients means that we need to be the most reliable and the most efficient technology company out there and we've got a little work to do to get there.
+And so I think it's time.
+Research Division</strong> Got it got it.
+If I may just a follow-up there.
+I guess you've obviously given us the Q1 guidance.
+I understand that.
+But it does imply a step-up in earnings from say whatever [ph] 26 to something in the high-30s as we step into 2Q through 4Q.
+Can we assume that gross margins will be pretty consistent there and most of that will come through OpEx to get there? And I know you're going to give us an update later on timing and you just said timing is tough.
+But I mean should we assume it's going to be more back-end weighted? Just trying to sketch the model out a little bit better here.
+Tien-tsin.
+This is Marc and thank you as well for the question.
+With respect to the guidance we did give a Q1 guidance of $425 million to $430 million and we reinstated the full year guidance of $1.77 billion to $1.8 billion.
+Our expectations would be that the second half results are more reflective of a refreshed portfolio.
+And therefore we expect our gross margins to be modestly higher in Q3 and Q4.
+So we'll be a step -- there will be a step function in the second half of this year.
+Having said that we would expect some sequential progress in Q2 as well.
+Your next question comes from the line of Darrin Peller with Barclays.
+Research Division</strong> Paul I just want to start off.
+As the new CEO can you just talk a bit more about your strategy and view of VeriFone's role in the market? And I guess in particular do you view VeriFone as eventually being primarily a services company or a hardware player? And then just to touch on that can you comment a bit on how much VeriFone should be in services versus solutions especially given you had about 40% of your quarter coming from services revenue now? Just a quick follow-up that I'm going to have on the overall growth rate.
+Sure Darrin.
+It's again good to meet you on the phone.
+Darrin look I reserve the right to become a lot smarter and better able to articulate the next chapter strategy for VeriFone after having a couple of quarters under my belt.
+Having said that my experience and instincts have really helped me develop some early hunches.
+I think the strategy for VeriFone must really address the reality that as of today we are likely generating 60% of our revenues by selling purpose-built hardware devices.
+I love the hardware business.
+I have no -- absolutely no desire to shy away from it.
+I think it gives us an amazing advantage in a time when payments and commerce are converging and there's so much creative time and energy going into this space.
+I think VeriFone must excel at the hardware business while starting to better leverage our devices to provide true commerce and payment services.
+And we do that by enabling secure but open platforms for our clients.
+I'm a big believer that simplicity is the new quality and VeriFone must really simplify our operating model to enable us to be more nimble and more focused on our strengths.
+And really the key is to strategically position our business to benefit from these macro forces trends in mobile and local commerce and that's where really we're putting most of our focus and energy into.
+That's where I think will make the greatest headway.
+Research Division</strong> All right.
+That's helpful.
+Just a quick follow-up.
+Your -- when you joined the company you looked at it it is obvious growth rate is going through transition.
+But you're clearly now at least in this quarter in particular you're seeing traction on regaining back some of your market share with Latin America being pretty stable.
+Obviously Canada looks like it's on the right track as well.
+That said I mean your growth rate for '14 guidance obviously implies a mid-single digit growth rate.
+Do you think that once you get back to a base where your revenue is now at sort of a similar mix to what you thought it would be versus vis-à-vis the market share you should be growing at a different rate? What kind of growth profile does VeriFone should have longer term -- over many years to come? Well I think that's a really good question Darrin.
+Let me be clear.
+I don't think we are operating at the level that we're all necessarily proud of at the moment.
+So the 5% growth year-over-year is a realistic view of what is likely to happen but that is not an aspirational view.
+That is not something that we are excited by.
+We need to fix the basics of the company.
+The 3 initiatives that I discussed in my remarks will go a long way to doing that.
+It will also allow us to position the company to innovate seamlessly with our clients and hand in hand with some of the most innovative companies out there.
+I'm a big believer in JVs and partnerships.
+And so I want to be able to do that.
+I think if we're successful and I have every intention of making sure we are we should start to see growth rates not in the single digits but in my view in the double digits.
+That's where we want to be and that's where we're working hard to get to.
+Research Division</strong> All right.
+That's great.
+Just one last -- if I could squeeze one last one and then I'll turn it over for Marc.
+The guidance that's given on EPS obviously calls for a lot of the step-up in expense.
+I think we were calculating somewhere around a 12.5% operating -- adjusted operating margin maybe 13% to get to your numbers.
+It's obviously an improvement but not a size we had thought previously.
+So with that said I mean is this mostly on R&amp;D because I know you talked a lot about that? Where should we see that pickup in expense? Correct.
+I would profile it and I would allocate it mostly to R&amp;D for your models.
+We gave -- I'd really like to refer to -- you to that Slide 16 in the deck.
+We put a lot of financial information out there to assist in modeling.
+I expected $133 million of operating expenses in the quarter.
+All of that step-up from Q4 is R&amp;D -- or a substantial portion of that is R&amp;D and that's where we're going to be putting our money.
+Your next question comes from the line of Andrew Jeffrey with SunTrust.
+Inc.
+Research Division</strong> I guess one for each of you.
+Paul you mentioned some fairly significant mobile wins in the U.S.
+at least high-profile customers.
+Can you talk a little bit about how you view VeriFone's win rate in mobile versus a myriad other competitors as well as how that's trended? And just generally are you leading with the GlobalBay solution at Tier 1 retailers or is it really more of a follow-on sale if you will? I would just love a little insight strategically on how you're going to market with mobile and how you feel like the early success has been on your 78 days at VeriFone.
+I appreciate that Andrew.
+Thanks for pointing out that I'm a newbie.
+I think that -- well let's start with the fact that when you have a product company that already has 20-plus-million devices in the market that our focus is to make sure that our existing clients are happy with our products and services and that we provide to them whatever it is that they feel they need in order to compete in the market.
+And we are hearing from clients across the globe both in developed and developing markets the importance of mobility the importance of being able to provide a different kind of sales environment for consumers that are walking into their stores.
+So mobile is hot.
+Mobile is absolutely critical.
+And we are continuing of course to invest in it and to build out our capabilities.
+I really do believe Andrew that today most of our sales processes are add-on sales as opposed to de novo.
+We don't know the client.
+They don't know us and they come to us for mobile.
+I think to get to that level where we need to do is not only be known as the most secure and the most industrial-strength payments provider but we also need to be the most innovative.
+And I think we have a little bit of work to do there.
+There are a lot of great technology companies that are focused on mobility.
+They have terrific software.
+What they I think in many instances lack are things beyond just the communication layer.
+That's where a true payments enabler true industrial-strength secure payments company can come into focus.
+And that's where I see VeriFone playing strongly.
+I think the other very important issue is convergence right? In order for us to maximize the earnings potential of this company we're going to have to take those terminals.
+We're going to have to take the terminals and the software that we have.
+We're going to have to build services around them even more profound services than we have today.
+And we have to make sure that we can untether these devices and make them part of the selling experience.
+And I think that's absolutely critical for us.
+You'll see us focused on that.
+You'll see us investing in it.
+I'm a big believer in it.
+Inc.
+Research Division</strong> Okay.
+That's helpful.
+And then Marc just trying to drill down a little bit on gross margin.
+I mean you have given us a number of piece parts but I'm just trying to get my arms around a little more because I think it is such an important measure of the health of your business.
+You saw 40 basis point uptick in the non-GAAP gross margin this quarter.
+Is -- the implication is you can do a little bit better next year.
+Can you just talk about -- are we kind of troughing out here? Should gross margin head higher? How much is -- it looks like the services mix should continue to improve.
+Just any more granularity you can give us on gross margin I think would be helpful.
+Great.
+Thanks -- thank you Andrew.
+So it was a slight uptick this quarter from Q3.
+However we still had significant charges from a supply chain perspective on inventory write-downs similar to what we had in the third quarter.
+But nonetheless we had a 40 basis point improvement an improvement on the systems business.
+Our expectation going into 2014 and what we've planned is that we're significantly out of the inventory write-down business.
+I think we've gotten a lot of that behind us hopefully all of it.
+And we start to refresh our product portfolio going into second quarter and into the second half of the year and that should be additive to gross margin profile.
+So as I said before I expect -- I would expect modest improvement in Q1 and I would expect more significant improvement in the second half of the year.
+Inc.
+Research Division</strong> Okay.
+So to say it was similar -- the write-downs were similar to the third quarter somewhere in the order of 200 basis point headwind in gross margin in the fourth quarter? Approximately.
+Your next question comes from the line of Meghna Ladha with Susquehanna.
+LLLP Research Division</strong> The GlobalBay Merchant suite which was recently launched with the Tier 3 and Tier 4 merchants what's your strategy or -- and what has the initial feedback been like from these customers? Well Meghna it was very nice to meet you on the phone.
+The GlobalBay Merchant program is as you know relatively new.
+And we're focused on being quite rapid in how we're building that platform how we're innovating that software.
+I really like the team that's focused on it.
+They're employing an agile methodology for building their software.
+I've got a first glimpse of it a couple of weeks ago.
+It was quite impressive what they had put together.
+I think that there are client segments that VeriFone serves to-date that will have a lot of interest in this product.
+It's not one that may work well for Tier 1 and Tier 2 but I think it has a lot of applicability in Tier 3 and 4.
+I think it's got a lot of applicability not just in the U.S.
+but over time across the globe.
+And so I'm actually quite impressed with both the product and the team and I think that they've got a very interesting roadmap ahead.
+The question is how is it going to be differentiated from the many other people that are working in the mobile point-of-sale space and that are creating their own versions of it? I mean you see it with things like Clover and you see it with things across the board.
+Good products well put together.
+They serve a specific function and they serve a specific client base.
+What I'm excited about is again using that distribution channel that we have using the fact that we're in 150 countries using the fact that we are not just a software company that can create great user interfaces and have a lot of functionality but we are an industrial scale payments provider.
+We are a secure strong environment for payments.
+And I think that over time that caliber of security is really an important differentiator right? I mean your software can improve.
+You could make more bells and whistles on it.
+You could have more functionality.
+But at the end of the day you're dealing with payments and payments are really important.
+LLLP Research Division</strong> Got it.
+And the next question was on EMV.
+So if that's a big catalyst for this industry.
+I just wanted to get your view on this topic.
+And what's the potential opportunity for VeriFone? Well I think EMV is clearly something that is in my view coming to the U.S.
+I think people have put dates on.
+Whether those dates slipped a bit or not I think is less critical than the fact that people want greater security on card payments and I think financial networks have made it very clear that between the liability shift and the timing of it these things are going to happen.
+I think for VeriFone it's obviously a positive.
+It drives the re-terminalization.
+I'm happy to report that we today ship out EMV terminals across the globe and certainly have been for the United States and we are more than prepared and ready to do that.
+I also would like to make sure that our terminals have more capacity beyond just EMV that they are able to deal with what I think is coming down the road on more proximity more QR more capability from that device that you're dealing with today.
+Your next question comes from the line of Gil Luria with Wedbush Securities.
+Research Division</strong> You gave us a good update about the progress in Canada which was one of the countries you need to make progress.
+In U.K.
+I believe you are already making progress.
+Can you give us the timeline for when you're going to have the refreshed products in Brazil and in France? Do you still think you'll have the products that your 2 big customers in Brazil want by the middle of your fiscal year? Have you made the progress in France that you'd like that you'd get products out gradually through the year? Where do we stand on that? Gil This is Marc.
+Good evening.
+On Brazil we're making progress still even with the legacy products.
+We're winning deals on portables and we do have new certifications as well.
+The issue with Brazil for us in the quarter and really in the first half is that it comes out of pricing challenge.
+So that's factored into the guidance that we've provided.
+Having said that when we get later into 2014 we expect really Q4 to have additional product for the Brazilian market; on the portable side specifically new form factors as well as new features and functionalities.
+So we're making good progress actually with our existing product albeit more price sensitive and looking forward to deploying refreshed products towards the later part of 2014.
+With France in particular as you know what we -- I think we've said previously we don't have a lot of product offerings in our French marketplace.
+We've certainly been investing in that area.
+I would expect more towards the latter half of Q2.
+Early in the second half we'll be starting to roll out products in that marketplace.
+Research Division</strong> Got it.
+And then on the other side in terms of the timeline you provided there a very comprehensive vision of the kind of restructuring you need to do.
+And in fact you expect some benefits in 2014.
+Does that mean that you expect the heavy lifting the 80 in the 80/20 to be done by the end of fiscal '14 in terms of restructuring the organization research and development streamlining the products making it more centralized as opposed to decentralized? I'd expect on the initiatives that Paul laid out that we're going to make significant process -- progress over the coming 3.5 quarters.
+But you know how things work in back-office.
+Consolidating systems and legal entities and whatnot do take some time.
+But as we've said expect some benefit towards the end of this year and more significant benefit going into 2015.
+If I can just add Gil and -- as I have spent time looking at the various organizations within VeriFone I've traveled quite a bit and met people in the offices where they do their work.
+I've looked at the number of systems that are being used that effectively are doing the same thing.
+But boy these systems don't look at all alike.
+Talk about the number of legal entities we have talk about the number of physical locations that we have.
+These are all things that really indicate that we're not incredibly well designed at the moment.
+And so the first part is you get the architecture right.
+I feel like we're getting there.
+I feel like we're getting a real handle on what this thing should look like.
+The second part is executing it.
+And I think the scorecards in this management team is 100% aligned on the need and the desire.
+And by the way our employees are cheering this along because they want it fixed.
+And so we're going to do that work.
+We're going to come in every morning and have our to-do list and we're just going to chop through this.
+And then at the end of it I think we're going to have a more nimble more capable company with which to serve our clients.
+That's the goal.
+If it takes us 2014 so be it.
+If it takes us 2014 and a quarter that's fine too.
+What I don't want to do is cut corners.
+I want to do this right.
+This is something that should have been done some time back and we recognize that.
+And so now we're going to do it right.
+Your next question comes from the line of Jason Kupferberg with Jefferies.
+Research Division</strong> I just wanted to start with a free cash flow question.
+I guess for Marc obviously it's exceeded non-GAAP net income I think for 3 straight quarters now.
+Obviously good to see.
+Now for fiscal '14 you're expecting it to be about 85% of the non-GAAP net income.
+So is that just reflective of a catch-up in CapEx that you're expecting or some conservatism or other factors we should be thinking about? Jason thank you for the question.
+A couple of things on the 85% rule here.
+One is the business has plan to grow at the mid-point at 4.5% 5% at the high end and that's going to take some working capital of course.
+Of course we're going to continue to drive the optimization that we've been driving on working capital management and I think there's opportunity in inventory and payables still to do that.
+But it's a function of growth to support the business.
+In addition there's some work we'll need to do relative to integrating the acquisitions that we made.
+Your point is correct as well.
+The capital expenditures I framed it at $90 million to $100 million for the year.
+It's still outpacing the depreciation expense.
+So therefore it's a slight drag in terms of operating cash flow.
+I think the 85% is a good number to use for modeling purposes.
+Research Division</strong> Okay okay.
+That's helpful.
+And then can you just give us the sense by geography how much of your market share loss is likely to be temporary versus being semipermanent when all is said and done? How much market share can you reasonably expect to recover within the first 6 to 12 months let's say of getting your product certifications completed in the various countries that you're especially focused on right now? I believe we're going to make progress in all the geographies in 2014.
+That's our plan.
+We've -- in some markets we had a good quarter good results in Q4.
+I commented before in terms of our ability to maintain very good client relationships with our major acquirers in Brazil and that trend is going to continue through the first half.
+So we're making progress on recapturing some market share.
+Clearly it's dependent upon us and our ability to execute on the products and services that our clients need in the marketplace.
+The plan that I presented to you today -- that we presented assumes that we're going to have growth in all the regions that we operate in.
+Research Division</strong> Okay.
+And then just a quick housekeeping item.
+I think you mentioned some integration charges in Q4.
+Can you size those for us? The integration charges in Q4 were approximately 3.5 -- just let's use $4 million for integration during the fourth quarter and the other charge is related to employee-related matters.
+Gentlemen we have time for one more question and it comes from the line of Wayne Johnson with Raymond James.
+Inc.
+Research Division</strong> Two questions.
+First one is on the rate and pace of certification approval around the globe.
+You guys gave some commentary about Canada.
+Congratulations.
+Some on Brazil it sounds like there's more to come there.
+But can you kind of give us a sense -- and part of this relates to the prior conference call where I think there was 25 open certification applications.
+Kind of where do we stand in that pipeline and how should we think about the completion of that pipeline in fiscal '14? Wayne I appreciate the question.
+It's Paul and good to meet you on the phone.
+Best that I could tell having gone through this in the last 78 days the way in which we certify our product the way in which we go through the entire requirements gathering and then moving into the production certification and final rollout of products seems to me to be less than ideal right? I see a lot of opportunity to improve I think as does the team.
+Part of that is that we seem to do it in different ways depending on where we are in the world.
+We seem to have in some instances heavy influence of the folks on the ground in the country that is requesting a particular product or service.
+Their involvement in the certification process versus in other places where they're leaning much more on the central organization.
+So it's hard for me to say at this stage what kind of pace and rate we could project.
+What the differences are.
+I need to spend more time on it.
+The team needs to do more work on it.
+It is absolutely top of mind right.
+It's absolutely top of mind.
+I would say that having a way to manage the portfolio and decide what products and what services to build first we've got a plan to do that quite differently from the way its being done today.
+Once we know what it is that we want to build and have a good business model and rationale as to why the way in which we produce certify and deliver including quality assurance really needs to change in my opinion.
+I think that there's more opportunity to do certain elements of the certification in a parallel way as opposed to a serial way.
+All of these things if proven correct I think are going to speed up our ability to get certified product.
+And it could also be in some instances that decisions were made way back when that folks said "Gee I know it's going to take time and money but we don't want to spend the money.
+And so we'll have to deal with the consequences of not having product in market." Right.
+So there is -- it's hard for me to say that there's any one definitive thing that we need to change.
+I just feel like we need to clean up the process significantly.
+Inc.
+Research Division</strong> Terrific.
+I appreciate that answer and we look forward to future updates on those issues and opportunities.
+The second question I have is more macro -- more related to the U.S.
+Are there any trends that you can call out in the U.S.
+that you feel are particularly helpful to the position of VeriFone whether it's the MX 900 at the high end? And then can you balance that with what trends are taking place where you don't think you are as well positioned as you'd like to be and corrective action needs to be implemented? Sure Wayne.
+Well I mean certainly in the United States we are extraordinarily well positioned to deliver for the EMV imperative that I think you're going to see across certainly most merchants that we do business with.
+So I think we're extraordinarily well positioned for that.
+I think we are probably less well positioned -- or certainly less positioned than I'd like for us to be in the space of -- and you had mentioned the GlobalBay Merchant solution.
+I think we need to do more work there.
+I think we need to position ourselves better to prove to folks that "You know what.
+They've got a lot of choices.
+But this choice of working with VeriFone not only gives me the best solution but gives it to me in a way where services and quality and security are really top-notch." That's an area that I think we can do certainly a little bit more work on.
+And then finally in this whole convergence area I think we're extraordinarily well positioned.
+If payments and commerce goes the way I think it will which is that the act of the payment is just a piece of an end-to-end process between merchants and consumers and there's a lot more intelligence in it there's a lot more ability to stack rank and identify benefits.
+I think there we're extraordinarily well positioned.
+I think we have the terminals in place.
+I think our software can enable us to do things like we're doing with the taxi and being able to burn reward points.
+I think there -- it's really quite an exciting future for us.
+Well hey I'd like to thank everybody.
+I appreciate you all being here on our first -- or at least my first earnings call.
+I'm really looking forward to getting to know each of you and having conversations on future calls.
+So I want to thank you for your participation and happy holidays.
+Ladies and gentlemen that concludes today's conference.
+Thank you for your participation.
+You may now disconnect.
+Have a great day.

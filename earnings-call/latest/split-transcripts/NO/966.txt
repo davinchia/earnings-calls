@@ -1,0 +1,266 @@
+(Operator Instructions) The first question will come from Guy Moszkowski with Autonomous.
+Good morning.
+Hi Guy.
+So a handful of questions for you.
+The first one is I think we can see plenty of evidence of the cost management moving towards capturing your $1.6 billion expense targets but what’s the best way for us to track as we go through the year your specific progress against the $1.6 billion? So on the $1.6 billion that was based on the calendar year ’12 actual compensation and our compensation expense I think you know through 2014 and predicated on a flat revenue scenario so we do remain very comfortable with that target.
+There is some quarterly seasonality so I think as we go through the year you will continue to see progress against the $1.6 billion.
+Is there some way that maybe starting with next quarter you could actually track against those base lines what you’ve actually captured? We will try and highlight so you can see the progress that we have in other areas where we’ve laid out the marker and it’s continuing to hit and exceed the goal.
+Okay great.
+I think that will be helpful.
+Moving on to just the whole question of the risk-weighted assets and what we saw happening in the fixed income business more broadly in the quarter you – what you call that rates and commodities as contributing to the year-over-year decline in fixed income revenues.
+But what we did see the commodities VaR come down quite a bit if we measure year-over-year the rates bar was actually up pretty materially.
+Can you help us square that with both the revenue momentum and with the decline that you called out in terms of the FICC RWAs that got you ahead of your year-end targets by the end of the first quarter? Sure.
+Obviously a couple of questions in that.
+So within VaR the interest rate line is obviously both an interest rate and credit line and as you know that it was up year-over-year flat to the last quarter and its effective by couple of things.
+First and foremost is the measure of risk not necessarily correlated with revenues.
+It does pick up the activity in credit as you know that I call that out as an area that was quite strong for us both corporate credit and securitized products and mortgage business generally.
+So it's the function of the shape of the book and volatility of the market generally but I think what we're looking at when you look at the total line is pretty consistent with prior period prior year.
+I think you then had another question regarding risk-weighted assets.
+Yeah I mean to the extent that risk-weighted assets are going to be driven in some measure by your stress VARs I was just wondering if you could try and reconcile for us the movement in VAR versus the decline in RWAs? And I guess the follow-up question on the RWAs is if you already exceeded your year-end target why stick with that as a target basically for the end of the year a couple billion more? So the reduction – when we look at this reduction over the next period of time to 2016 it's ballpark 60% passive and 40% active.
+This quarter it was mostly passive.
+It benefited from the structured credit contract maturities as James noted but it also reflected a change in the shape of the book and some other changes such as active mitigation.
+And our view is that we're very confident that we'll be at that year-end target of 255 billion if not lower but given part of the reduction was the change in the shape of the book we just built in some degrees of flexibility over the year.
+And as I said we're confident we're going to at least meet that year-end target.
+It may not be a straight-line down quarter-over-quarter just depending on the shape of the book to be higher in the second or third quarter.
+And again we remain very committed to the reduction this year and taking it down to that sub-200 level by 2016.
+Okay thanks for that.
+And then just to sort of continue I guess along the same lines you allocated a large part of the parent company capital down to ISG 11 billion in the quarter after holding a lot of that really at the parent for a pretty long time.
+Can you talk about what prompted the decision? And is there anything about that move that kind of traps capital in the business in any way if in fact your RWA declines continue and you might otherwise free up capital? So the way we run the business and the way we look at capital is we really won it with a Basel III lens.
+And as I think you know we actually charged capital and liquidity down to the business unit – for the product level so we can look fully-loaded at risk-adjusted returns.
+The question then became over the last year or so is what do we do with parent capital given the rule for Basel II and a half and Basel III were still in flight and they hadn't been implemented.
+And our view was that once the Basel II and a half rules were implemented at the end of last year and so there was complete clarity on it no guess work and what was being charged to the very segment it was the appropriate time to take that parent capital number and allocate it up to the businesses.
+So consistent with moving our Tier 1 common ratio to the Basel II and a half metrics we allocated the parent capital.
+And just to make sure it's clear because it can be confusing given the nomenclature.
+It is still Basel I even though it's using the market risk rules under Basel II and a half our fourth quarter '12 Basel I number was 14.6 the Basel II and a half for the fourth quarter was 10.6.
+So if you're looking at where our Basel I ratios were last quarter under an apples-to-apples basis to Basel II and a half 10.6 last quarter going to 11.5 this quarter consistent with reporting ratios that way parent capital has allocated into the businesses.
+And then to your very good question of does that mean that there is trapped capital as we think about the businesses we look at a – again a Basel III lens with that [SIFY] buffer and then above that we believe we have degrees of flexibility with respect to capital return and we're continuing to build that Basel III ratio based on that capital accretion from earnings as well as the capital optimization through things like the risk-weighted asset reduction and so that does give us greater degree of flexibility.
+Okay that's a very helpful description.
+Thanks.
+I'll just ask one more which is the Moody's announcement and conference call a couple of weeks back kind of puts into focus that Morgan Stanley still has a lot of its derivates booked held outside of the bank unit and I was wondering if given what they're talking about doing that pushes you to try to move more into the bank to the extent that you can? Well we’ve been focused on moving more into the bank.
+We continue to write new foreign exchange derivatives in the bank as we’ve talked about on prior calls and move old foreign exchange derivatives into the bank and we do plan to write new interest rates derivatives into the bank this year and timing and speed is really a function of some of the regulatory processes.
+But I think more broadly on your question about Moody’s we feel good about the steps we’ve taken to position Morgan Stanley for greater quality and consistency of results and accept us up well.
+We’ve talked a lot about the changes to the business mix and funding on calls like this with clients and counterparties which really all go to the strength of our standalone credit profile and what we’ve done.
+And I think also when you look at the change in the business mix for example with fixed income it really moved more towards cash than derivatives and so that puts us in a good spot.
+And obviously the industry changed as well in the past year with adjustments post the ratings action.
+So it would mute the impact of anything that maybe done on the ratings front but I think the main thing is our – we think that all that we’re doing continues to build our standalone credit profile.
+Great.
+Thank you very much.
+Thank you.
+Hello.
+Hi Glenn.
+Just one quickie follow-up on the RWA reduction and FICC.
+It doesn’t sound like it had much of an impact on revenues.
+I just want to make sure that – I clarify that point.
+Correct.
+The majority of it was passive.
+The active was P&amp;L neutral and on the structured credit position there wasn’t a P&amp;L impact as we really heads out the revenue and risk.
+Okay great.
+And then on commodities; it's been a tough revenue backdrop for everybody given the lower trending prices.
+I just want to make sure that you still feel this is mostly cyclical trending lower oil and things like that and make sure that there aren’t any structural changes needed to the business.
+Our view is that it is a cyclical headwind as you said it continued backwardation and it won't turn on a dime.
+Cyclical changes can take time to turn but it is cyclical.
+It affects opportunities for us.
+It affects opportunities for clients related to in particular structured solutions which benefited us last year but we do view it as cyclical.
+Got you.
+And in terms of the physical oil you tend to hedge that at all times correct? Yeah we don’t take out right positions.
+We hedge our physical inventory.
+Super.
+And last one is there were some not overly – not that big but modest shifts of revenues and expenses in the reporting from last quarter from Wealth Management to the institutional securities group I mean had a drop of an effect on – positive effect on the margin.
+But the real impact on the margin besides the good markets was a core drop in non-comp at Wealth Management.
+And I just want to see is that a function of the systems integration cost running off and this is good run rate to run with? So a couple of things.
+In terms of the international Wealth Management market and you nailed it it's a small move.
+If you look at the supplement from the fourth quarter to now it's about a 10 basis point difference so a small portion of the – a  small difference.
+In terms of the overall margin I think I’d highlight two points.
+One was the strength of the new issue underwriting activity.
+In particular closed-end fund activity was very favorable last quarter and that helped on the top line.
+So that you can assume we’re going to have the same volume in the next quarter that was a positive.
+Expenses clearly we have remained focused on and the integration being done and rolling off was very much as planned and we’re continuing to stay focused on the expense line.
+But I think if you’re looking forward to the second quarter assume expense is pretty much hold at that level not withstanding the fact that we remain tight on expense discipline you’ve got the closed-end fund new issue activity hard to forecast.
+We do see new issues activity generally a lot of that is outside the U.S.
+and the real catalyst comes from the U.S.
+At the same time the S&amp;P is about 10% higher than at the end of the first quarter which benefited our fee based revenues.
+I think those two revenue items sort of offset one and other.
+And so at this point we’re holding kind of our margin expectation pretty much in the area where it is although you can see we’ve got a number of leverage that we’re continuing to push.
+Awesome.
+Thanks Ruth.
+Thank you.
+Hi good morning James.
+Good morning Ruth.
+Good morning.
+Morning.
+On the remainder of the MS/SB volume what specific approval are you waiting for from the Fed regarding that? We've gone through obviously the CCAR which is a capital approval and gotten the non-objection there and then the approval Dodd-Frank process approval.
+We did the same thing last year when we did the 14% buy-in.
+That approval – so it's process approval versus capital approval that approval last year came in May which wasn't really as relevant for timing because we didn't have the call until June and then we went through the arbitration process which took it out basically to the end of the summer.
+And I'm not suggesting they can read anything into that May date but it's the only proxy we have for what that timeline was at least last year.
+Great thanks for reviewing that Ruth.
+And then James speaking of the CCAR the test results came in a bit – your own test results came in a bit below down to the Fed and I just wanted to get your thoughts on what you believe drove that difference? What's in your control to maybe bridge that gap going forward? And how does it impact timing and quantum of the next stage of capital return post the buy-in? Why don't I start on some of the technical? I think you're pointing in particular to our PPNR versus the Fed which you could see in the disclosure.
+Our understanding is that the Fed had its own model which relies on historic data and given we've invested meaningfully to increase the quality and consistently of earnings there have been charges that have obviously been going through the P&amp;L such as MBIA which are negatives and short financials but on a go-forward basis eliminated drag improved the quality and consistently of results.
+And so it's understandable there's a difference between the two if one forecast is based on historic results on the impact and the other is looking at a fundamentally different business mix.
+We don't know the extent to which those historic results in the Fed model were adjusted and so it's hard to know precisely how the models are different.
+But that in our view is one of the key things that we're focused on working on over the next period of time before the next submission to (inaudible).
+That being said if you just look at our fourth quarter earnings and our first quarter earnings the first two quarters of the CCAR submission that would add an additional 60 basis points to our ratios.
+So we will be focused on dealing with the PPNR differences and methodology.
+We are continuing to accrete capital and we think that that does continue to give us degrees of flexibility.
+And I think Howard the difference between what we submitted and believed the models should throw out and what ultimately came out of the black box that is the CCAR process was actually narrower – the difference was narrower than what it was last year.
+We've obviously got better at it and I think it was relative to some of the other firms out there was frankly not a very surprising result.
+So we'll play this forward.
+Our focus now is getting the Smith Barney which we got the capital approved.
+Understood thanks.
+And then quick numbers on Ruth.
+I realized – you said that RWA reduction this quarter was P&amp;L neutral but what's driving the other sales and trading results.
+It seems to be less of a headwind than it was in the past.
+Well it's a number of items that does move around and it's difficult to model.
+It includes things like our long-term debt hedging program and our bank liquidity portfolio our loan book DCP.
+So it's kind of an aggregation of a number of different items.
+Okay thanks.
+And then just finally from me it remains a pretty fragile environment for you and peers within the Institutional Securities business.
+I was just hoping you could comment on overall attrition levels both absolutely and relative to your expectations? Thanks.
+I think that beginning of the year and having some departures is not in any way unusual.
+We actually feel very good about the strength of the team.
+We've got a very talented senior team been together for many years.
+We've hired and think it's a great time at Morgan Stanley to be adding senior talent.
+People are excited to join given the clarity of where we're going and the momentum moving in that direction.
+So it's kind of seasonal and we don't read anything into it.
+And more specifically the attrition is actually trekking along exactly what it was last year.
+And I believe and Celeste will correct me later a little low than what it was the year before.
+Perfect.
+Thanks so much for taking questions.
+Thank you.
+Hi.
+I guess my questions can be grouped into the good bad and the ugly; so I'll start with the ugly.
+Financial advisory if you look at it linked quarter or year-over-year among the five largest U.S.
+players it looks to perform the worst based on fees and you had some management changes there.
+Can you reassure that franchise is still as strong as it’s been historically? Yes it is.
+The M&amp;A lead tables are exactly the same as they were last year it tends to be lumpy in the first quarter and particular given market environment with low activity of levels and we’re consistent leader of a very strong M&amp;A franchise as I noted in my comments part of it is just that lower volume and it tends to be lumpy and part of it we had a very strong fourth quarter and there were some fee realization that moved in – within the fourth quarter so that partially explains it as well but we feel very good about this and I think if you’re just objectively look at the lead table this year and last year it [dwells] throughout the year.
+And then in my bad category the actions of buybacks I know you’re not able to do that but trading at such a big discounted tangible book if you have confidence in the value of your balance sheet which I assume you do why wouldn’t you take more aggressive actions to downsize and why not be more aggressive with your big targets? Why not take some other action to strength to move up that Basel III ratio even faster? Well I think Mike there are couple of questions meshed together there.
+I think the actions on reducing our risk-weighted assets and fixed income from I believe it was $390 billion in the third quarter of ’11 to $253 billion this year we’re a year ahead of schedule last year and we’re at the end of the years point already in the first quarter of this year it would be easy to reduce it faster but you would also destroy revenues and destroy good businesses.
+So our job is to balance a sensible risk-weighted asset reduction without destroying revenues and parts of that business that we find very attractive.
+So we actually think we’ve been very aggressive bringing it down from $390 billion to a committed sub $200 billion by 2016.
+If we see more sensible opportunities which don’t destroy value obviously we’d be all over it.
+The capital buyback is completely different topic.
+The – as we said at the beginning of the year we adopted a very clear posture with our regulators which was that our focus was on the strategic benefits of buying Smith Barney for two reasons.
+One it was an attractive business and being already carrying the effective cost of the capital for that business so we wanted the earnings from it.
+And its $600 million pre-tax a quarter 35% is real money.
+So that was our focus.
+We didn’t want anything to get into the road to that focus.
+We did not want to jeopardize that focus by prejudging where we come out on CCAR or prejudging how the beginning of the year would start.
+The beginning of the year has started at $1.2 billion significantly above where we were in the fourth quarter as CCAR came out at 5.7 I think 5.6 net of the capital allocation in this.
+So we’re now waiting for the federal reserves to go through the application process.
+When they do that we know our number and as we go through the year obviously the next question we’ve for ourselves is when and under what conditions we have to see buybacks but we’re not going to react very short-term on this.
+We’re trying to do get this firm back on the rails which we’ve done over the last couple of years in a very deliberate path and we believe we’re now well on that path.
+And then the good category would be the brokerage margin which came in higher than what you guys had expected last quarter.
+What is your brokerage margin target? Is it still 15% it seems pretty low and you had one peer yesterday reported margin over 20%.
+So what are you really trying to achieve margin wise in that business? Well I have to take that one again Mike because I was the one who foolishly couple of years ago went out with a 20% margin when we had then three years of zero interest rates following out.
+So I admitted to my mistake on that and we set a more conservative margin target for the middle of this year which was 15%.
+The fact we’re ahead of it is good news.
+Now we’re certainly not going to turnaround and reset margins based upon short-term impact.
+So our job is less around what’s setting the margins is actually delivering them and what I’m pleased about is the fact that we’re delivering those margins.
+The competitor numbers I’m not going to talk about except to observe that they actually have a different business mix that comprises that ultimate margin number.
+Was there anything unusual with the 17% margin this quarter or can we consider that a base looking ahead? No there was nothing unusual.
+As I said the strength versus what is usually a seasonally lower margin it's typically seasonally low because compensation expense tends to be a bit higher in the first quarter.
+But what we had offsetting that as I noted was the stronger transactional volume the new issue activity with closed-end funds.
+That really helped coupled with the ongoing expense discipline.
+And so if we look forward you're starting with the good base in the first quarter was at 17%.
+Thank you.
+Thank you.
+LLC</strong> Good morning.
+Thanks for taking my questions.
+Just a couple of questions.
+First of all on the deposits you saw about 4% decline in deposits in Wealth Management I think overall 3% down.
+Was that largely seasonal or was there something else going on there? Deposits came up in December.
+We saw some selling out of the markets.
+We think it was primarily tax driven by investors as distinct from real concern about the market.
+But our expectation was that it would come back into the market in the beginning of the first quarter and it did.
+So it's really just the positioning by investors at the end of last year then coming back into the market and staying in the market as they have.
+So no there's not anything more to it than that.
+LLC</strong> Okay.
+And then just thinking about your debt underwriting business given that there's obviously been pretty strong demand for that product over the last couple of years you've admitted that you're a little bit subscale on high yields relative to some of your competitors.
+Does that have any effect on your desire for a couple 100 basis points of market share gains within fixed income if that business continues to be relatively robust over the next couple of years? No.
+We set a target of 2% market share increase kind of 8% total market share for fixed income sales and trading.
+We feel very confident with that given the products that our fixed income underwriting which is actually reported – those sales are reported in the investment banking line and we did have a record – we had a record quarter last quarter.
+The first quarter was actually the best ever first quarter that we've had.
+What that ends up driving is the secondary sales and trading as you know well but we feel very good about – we remain very much focused on our share gains equally focused on how we optimize returns.
+So it's really both of those but no change.
+LLC</strong> Okay.
+And then let me just confirm finally; the 60% compensation ratio in Wealth Management you mentioned last quarter that that we should about that ratio being pretty unchanged for the next couple of quarters.
+What would allow you to get that ratio down presuming a steady revenue environment? And is that something that we should be looking for towards the end of the year? The 60% compensation ratio in the first quarter is precisely the reason we had indicated that the margin tends to be seasonally weaker in the first quarter these tend to have fairly higher comp in the first quarter or things like FICA and other factors.
+So it does tend to be a bit higher.
+Coming down a point or so near term is very – it's a reasonable way to think about it but the great – the best driver of the comp ratio over time is really the growth of our lending product.
+As we talked about we're going to have deposits up to about 140 billion in the two years post buying in the rest of the Wealth Management business.
+That's going to support growth of both Wealth Management lending product and Institutional product.
+And on the Wealth Management side it's on a different compensation grid relative to the [formulate] grid that generally drives that comp ratio and that is what really gives us meaningful operating leverage in the comp line and that brings it down to the high 50s.
+LLC</strong> Okay.
+Thank you very much.
+Thank you.
+Hi.
+Good morning.
+Good morning.
+Just want to follow-up on – you're sitting on about 23% of your balance sheet in excess liquidity.
+Can you discuss where you are sitting in terms of the LCR do you feel like you're pretty comfortable for that or do you need to build more? On the LCR we're over 125% and that really has given all that we've done terming out the secured book.
+It's obviously just a 30-day test and we do triangulate as we've talked about on some prior calls with an outlook over 12-month period of time in a stress environment.
+One of the reasons liquidity is running at these higher levels as I noted is that we want to ensure that we have ample liquidity assuming we do acquire the 35% of Wealth Management.
+So there’s a bit of flexibility thereafter.
+Okay maybe just to follow-up on -- as you buy in the rest should we -- what is the timing around the deposits and how quickly do you think you can reinvest and then I guess longer term do you think that can help you bring down the excess liquidity and obviously help to improve profitability? So the deposits the way it works is they come in over the two-year period of time.
+We get about 14 billion of deposits within a few weeks of closing and then 40 billion ratably over the following 24 months.
+And that will -- that supports as I just said both retail lending as well as institutional lending.
+And I think the best way to think about it is one it gives us growth opportunities because there’s a suite of products within institutional securities that haven’t grown as much as they could because they would be funded with unsecured debt versus substantially more efficient deposits but they’re still bank appropriate areas and areas where we have we’ll expertise.
+So whether you’re talking about project finance or commercial real-estate those are good examples of areas where we get our incremental growth opportunities based on our competencies today and our clients today but it would be funded with more efficient deposits in the bank.
+And then there are also areas where we will be able to move businesses from institutional securities into the bank and that enabled us to do it dollar-for-dollar substitution reducing unsecured debt and replacing that with deposit funding which is more efficient.
+And so yes there is some efficiency that comes in in that way.
+And then overall if the question is also and what does that do for liquidity.
+As those deposits which are currently really supporting the AFS portfolio go into support the lending product the bank liquidity comes down as those are moving into support loan growth.
+So we should see that excess liquidity start to come down as those deposits come in? Yeah it's all – if you take a look over time the answer to that is yes but as those deposits come in for example that first 14 billion of deposits … Oh sure.
+Right in the short-term it could go up.
+It goes up; then it goes into the AFS portfolio; it's positive carry on the AFS portfolio as it comes down again because it's supporting loan growth.
+Yes it does come down again but at a higher return.
+Right.
+Okay thanks a lot.
+Thanks.
+Research Division</strong> Knocking under the wire.
+Good morning guys.
+Brennan good morning.
+Good morning.
+Research Division</strong> So just a quick follow-up on FICC it was obviously pretty volatile in some of these markets here this quarter.
+Is there any which we think about maybe the fact that revenue might have been a little bit lower than usual just because there might have been some principal loss given some of that volatility and this is actually really a pretty lousy run rate? You know the run rate we do think given the markets where more challenging especially in March just affected activity and as I noted rates was lower and then commodities is dealing with a cyclical headwinds we’ve talked about.
+So I think it is very fair to say we don’t deal a $1.5 billion of revenues.
+Our revenues this quarter is a ceiling on what’s attainable even with quarterly seasonality.
+And you know I point you to the strength that we have in a lot of areas like credit and the mortgage product and foreign exchange and we’d expect that rate – rates are higher so we do think that given the strength of the client activity levels that there is upside from here.
+I think an interesting way to even just look at client activity and volumes across the platform is just looking at the brokerage and clearing line which is up which really goes to client activity.
+So long way of saying it if we don’t think that $1.5 billion in revenues is a ceiling and look forward to the continued activity.
+Research Division</strong> But where there any principal losses to specifically highlight or was it mostly volume driven within the FICC line? It was not principal losses no.
+Research Division</strong> Okay great.
+Thanks.
+And on capital once I understand that its uncertain about when you get the green light on MSSB but if we assume that happens prior to mid-year is it too aggressive for us to think about given where you guys are on the capital ratio front.
+In fact at MSSB is already fully baked into Basel III that you could be looking to take a second bite of the apple here with the regulators in a potential buyback with a – with the new submission? Well as James said our number one focus is closing the Wealth Management acquisitions given the strategic benefit in the upside promoting 100%.
+So we're just focused on closing that acquisition which was our capital progress.
+We are accreting capital.
+Your question is fair but we want to get it closed before we think about anything else.
+Research Division</strong> I figured I'd give that a shot.
+And then the last one.
+The lending platform is there anything operationally that you guys are waiting on to get going because it seems as though you have excess deposits currently.
+So it's not really a matter of funding and not having the right funding.
+So is there like a system investment process you need to go through in order to get everything up and running? Or is there any operational issues holding you back? Do you want to have all of MS/SB completely bought in before you really start more aggressively pushing the lending platform? I guess I don't understand what's – why it's been so slow to ramp so far? In 2009 it became clear that over time we would be buying in the remainder of the Wealth Management business and at that point started investing in the systems the risk management personnel analytics to ensure that at the point we ended up with the full 140 billion in place we had the systems and infrastructure requirements there.
+The gating factor is and we've used this word so often in describing how we're building up the banking team and the banking effort within Wealth Management its prudent consistent growth.
+There is no reason to rush it.
+We want to make sure that we do it in a high quality way and that we're leading with risk management.
+So it is better to do it prudently over time than to try and rush it.
+That is really the governor of the growth in that business.
+We feel good about the strength and the build.
+As James said it's both on the mortgage side and on the PLA side and that's what we're continuing to do.
+Research Division</strong> Okay.
+I will note one other thing we've said this I think last quarter that relative to our peers we are under penetrated in the lending product and so what we're seeing is good take up and we're just keeping it at a measured pace.
+Research Division</strong> Okay.
+At some point after that book assuming that you guys want to grow that book to a certain size.
+Does that mean that there will be a transition to accrual accounting and we'll start to see sort of that level of detail for you all? Well so we talked about the fact a couple of quarters – I think over a year ago now that we moved from fair value to HFI for our lending products that's most relevant for what we're doing on the institutional side.
+And at this point about 69% of the book is on HFI.
+So that has been the approach that was very clear coming out of the CCAR process over a year ago that that was a logical way to approach it and that's what we've been doing systematically.
+Research Division</strong> Okay.
+Thanks.
+Thank you.
+Great.
+Thank you so much for joining us and we look forward to speaking to you in a quarter.
+we view them as an important resource for bloggers and journalists THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION THERE MAY BE MATERIAL ERRORS OMISSIONS OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS.
+IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts please contact us at: <a href="mailto:transcripts@seekingalpha.com" rel="nofollow"><u>transcripts@seekingalpha.com</u></a>.
+Thank you!

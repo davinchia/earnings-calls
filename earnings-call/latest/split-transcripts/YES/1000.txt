@@ -1,0 +1,524 @@
+Good day everyone and welcome to the DuPont Fabros Technology Second Quarter 2011 Earnings Conference Call.
+Today's conference is being recorded.
+At this time I would like to turn the conference over to Mr.
+Chris Warnke Investor Relations Manager of DuPont Fabros.
+Please go ahead sir.
+Thank you.
+Good morning everyone and thank you for joining us today for DuPont Fabros Technology's Second Quarter 2011 Results Conference Call.
+Our speakers today are Hossein Fateh the company's President and Chief Executive Officer; and Mark Wetzel the company's Chief Financial Officer and Treasurer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income are contained in the company's earnings release issued last night which is available in PDF format in the Investor Relations section of the company's corporate website at www.dft.com.
+To manage the call in a timely manner questions will be limited to 2 per caller.
+If you have additional questions please feel free to return to the queue.
+I will now turn the call over to Hossein.
+Thank you Chris and good morning everyone.
+Thank you for joining us on our second quarter 2011 earnings call.
+As noted in last night's press release we again delivered solid financial results which Mark will discuss later in the call.
+We continue to strengthen our business and increase shareholder value.
+Our focus remains on leasing development and providing our tenants with the utmost in customer service.
+The company's continued success would not be possible without the valued contribution made by everyone at DFT.
+I thank each of you for all your hard work and dedication.
+First and foremost our focus is leasing.
+So therefore I would like to begin with a leasing update.
+Microsoft comprises approximately of 18% of the company's annualized net base rent as of June 30.
+We reached an agreement with Microsoft to extend a 9.6 megawatt lease for an additional 8 years.
+This lease was scheduled to begin to expire in 1.6 megawatt increments in 2012.
+The new lease begins to expire in 2020 and continues through 2025.
+The renew represents over 40% of all current critical load they have with us.
+We are very pleased that they have decided to extend their relationship with us.
+Yahoo! comprises approximately of 19% of the company's annualized base rent as of June 30.
+Their recent lease expiration range from 2012 to 2019.
+Yahoo! informed us in late June 2011 that they will not renew one of their leases representing 3% of the company's consolidated annualized base rent as of June 30 2011.
+This lease expiration represents approximately 19% of all current critical loads they have with us.
+This building is located in Western Virginia a very fiber-rich area.
+We are actively marketing this space and are optimistic about its leasing prospects.
+This lease will expire on April 30 2012.
+Yahoo!'s next lease is scheduled to expire in the third quarter of 2015.
+A third lease is scheduled to expire in equal increments in 2017 2018 and 2019.
+All of the Yahoo! space continues to be utilized.
+Facebook comprises approximately 21% of the company's annualized base rent as of June 30.
+Their lease expirations range from 2018 to 2022.
+As of today we have no lease expirations in 2011.
+Page 10 of our earnings release package includes a table that details our updates of lease expirations incorporating our recent leasing and renewal activity.
+We have less than 10% of our annualized base rent expiring through the end of 2014.
+As of June 30 our top 3 tenants represent 58% of our annualized base rent.
+The impact of Microsoft's renewal has increased the average remaining lease term for our entire portfolio from 6.6 years to 7.1 years.
+This is typical for tenants to evaluate their leases future lease extensions within 9 to 12 months of expiration against their anticipated needs for server capacity and economic cycles.
+As we all know it could be extremely expensive and cost-prohibitive for tenants to move out of their [indiscernible].
+The data center economics of build versus buy remained a hot topic and each of our larger tenants can do both.
+As an outsourcing solution we continue to believe the company's current and future capacity planning needs drive this decision not the fact that they can afford to build one.
+During the second quarter we signed 3 leases totaling 3.25 megawatts of available critical load.
+One lease is for 433 kilowatts of Phase I of Chicago and is with an existing technology tenant.
+The second lease which was previously disclosed on our last earnings call is with a technology tenant for 2.28 megawatts in Santa Clara.
+The third lease is with an existing tenant within our Ashburn Corporate Center and it's for -- sorry for 548 kilowatts in ACC6.
+This is our first lease within ACC6.
+Subsequent to the second quarter we signed one lease with a new technology tenant for 569 kilowatts of critical load in New Jersey.
+This increases our lease critical load to 25%.
+Since the beginning of this year we have executed 9 new leases totaling 17.5 megawatts.
+This compares with 23 megawatts in all of 2010 and 37 megawatts in all of 2009.
+As we have stated in the past the company operates in only 4 submarkets and have less than 30 tenants.
+We do not believe that -- it is good business practice to discuss specific tenant rents.
+The key to increasing the value of the DFT is leasing.
+We've been successful in leasing in the past and we are confident in our ability to lease what is in front of us.
+We are in the top market in the U.S.
+We remain comfortable with our 100% leasing target.
+They remain -- begin the fourth quarter of 2012 for New Jersey and the end of first quarter 2013 for both ACC6 and Santa Clara.
+Chicago Phase II should lease up by the end of first quarter of 2013.
+There is sufficient demand in all markets to absorb our inventory.
+We are now the primary supplier in all these major markets.
+We remain confident with demand in Santa Clara market even though we did not sign a new lease since our last call.
+We understand there was a large common private equity player who invested in both a private data center provider and a number of data center tenants.
+This caused a large amount of space to be absorbed in the Santa Clara market by the private data center provider.
+Our understanding is that this provider has only a few megawatts of available data center space remaining.
+We expect the Santa Clara market to continue to absorb a large amount of space within the next 18 [ph].
+Our sales and leasing teams have been working diligently meeting [ph] with multiple potential tenants and providing a consistent number of tours.
+That has not changed.
+The demand we're tracking in each of our markets is solid and covers a wide range of industry verticals.
+As I have said in the past leasing is lumpy.
+One cannot straight-line lease executions over the available critical load of the building[ph].
+In summary we continue to make good progress.
+Leasing is our biggest opportunity to drive cash flow and value.
+This continues to be everyone's relentless focus.
+Now I will turn over the call to Mark who will take you through our financial results.
+Thank you Hossein.
+Good morning everyone and thank you for joining us.
+I want to cover 3 main topics today: Our balance sheet update our second quarter results and a 2011 guidance update.
+As for our balance sheet we worked with our lender group to amend our ACC5 secured term loan.
+The amendment eliminated the LIBOR floor of 1.5% and also lowered the LIBOR spread from 4.25% to 3%.
+This results in annualized interest cost savings of approximately $3.5 million and lowers our overall weighted average interest rate by 50 basis points.
+We considered issuing an unsecured bond to take this debt out and push our debt maturities further into the future but our lender group was very willing to work with us to lower the overall cost of the ACC5 term loan.
+As a reminder we have no debt maturities until December of 2014.
+We finalized the purchase of a 23-acre parcel of land in Ashburn Virginia for $9.6 million in cash.
+The parcel is currently utilized to house construction materials and trailers for our ACC6 development.
+At the appropriate time this land will be used to build an additional data center.
+We are fully funded to complete Chicago Phase 2 with the use of our cash on hand and the $100 million revolving line of credit as necessary.
+We do not expect to begin any new development in 2011.
+And we'll continue to keep leverage low and expect to improve on key debt covenants.
+In summary our balance sheet is in great shape.
+As to our second quarter results for 2011 the company's FFO was $0.42 per share compared to $0.33 per share in the second quarter of 2010 an increase of 27%.
+The result is primarily from increased operating income from lease commencements.
+Quarterly revenues were $70.8 million our highest ever.
+This increase was $11.5 million or 19% over the second quarter of 2010.
+AFFO was $0.30 per share for the second quarter compared to $0.21 per share quarter-over-quarter an increase of 43%.
+AFFO year-over-year was up $17 million or over 60%.
+AFFO was up $4.2 million or 21% quarter-over-quarter sequentially.
+Cash rents drove these increases.
+For the 6 months ended revenues increased 20% from $116 million to $139 million.
+FFO per share for the same period increased from $0.63 to $0.80 or 27%.
+Our FFO guidance range for the third quarter of 2011 is $0.42 to $0.44 per share.
+We tightened our full year guidance range from $1.50 to $1.70 per share to $1.57 to $1.63 per share.
+We remain comfortable with our original midpoint of $1.60 for the year.
+As a reminder this represents a 20% increase over 2010.
+Revenues were lower primarily related to lower nonrecurring other revenues.
+We have approximately $2 million of speculative revenue in Q4 down from $5 million I referred to on the last call.
+We tightened and lowered G&amp;A and interest expense for the remainder of the year.
+We expect approximately $9 million of capitalized interest in Q3 and a drop off in Q4 as we expect to stop capitalization of interest on ACC6 in August and Santa Clara in September.
+We expect approximately $7 million straight-line rent in Q3 and the remainder in Q4.
+Our 2011 guidance for the remainder of the year contemplates a small capital raise which we have penciled in for late in the fourth quarter.
+This additional capital will only be required if we elect to pay down the anticipated balance on our line at the end of the year which we project to be about $40 million.
+As for our cash CapEx development spend for the remainder of the year we plan to spend $100 million in Q3 for total spend of approximately $375 million for the year.
+The details of our '11 guidance can be found on Page 15 of our press release.
+We believe our solid balance sheet and financial condition give us great flexibility which will enable us to continue to grow the company in a prudent and consistent way to the benefit of our shareholders.
+With that let me turn it back over back to Hossein.
+Thanks Mark.
+Before we open up the call for questions let me offer a few comments.
+Today the New York Stock Exchange announced they will be building a Secure Financial Transaction Infrastructure otherwise known as SFTI Access Center at NJ1.
+This will allow NJ1 tenants to directly connect to NYSE's SFTI low-latency high-speed fully secured redundant network.
+NYSE's SFTI Access Center will give NJ1 a clear advantage for latency-sensitive trading platforms over data centers without a direct connection.
+This enables us to achieve -- this will help enable us to achieve our leasing targets.
+We continue to expand our carrier relationships and add new carriers in all our newly delivered developments.
+Lastly leasing remains our top priority.
+We continue to see demand in all our 4 markets.
+This is a key driver in increasing shareholder value.
+We will complete our 3 developments on time and on budget and we'll be deliberate in our new development.
+With that we'll be happy to turn over the call -- open up the call for questions.
+[Operator Instructions] We'll take our first question from Jordan Sadler with KeyBanc Capital Markets.
+I wanted to follow up on where you left off on the New York Stock Exchange announcement.
+I assume that an existing tenant or one of the leases that was just signed in the quarter or post quarter end.
+And I was just curious if you could maybe expand upon what that --what  this opportunity is and how you would expect it to draw additional tenants and maybe the additional pipeline for New Jersey.
+The New York Stock Exchange announcement it is not a lease.
+It means that we have now a direct connection to their data center.
+This is a huge achievement for DFT as there are only 5 or 6 direct connections to New York Stock Exchange and I believe only one in New Jersey.
+So it enables tenants that want to set up trading platforms to trade with New York Stock Exchange to co-locate with us to have access to the low-latency trading platform.
+So does that answer your question Jordan? Yes that's helpful.
+And then just if you could maybe talk about the pipeline in New Jersey and just more broadly up...
+We actually feel very good about our traffic and I think things are turning around in New Jersey for us.
+We feel very good about our traffic.
+We feel the market has tightened up and we feel that this and the other deals we're working on is making us feel very optimistic about New Jersey.
+And your leasing targets for the full year or by year-end that were in Mark's guidance the commencement: 50% in New Jersey 30% in ACC6 Santa Clara 22% are those still expected to be achieved in the guidance? Well from a target -- Jordan this is Mark.
+From a target perspective obviously that's where we're headed.
+It's not a spread it's a marathon so we're focused on the 12 18 to 24 month windows.
+We did lower the spec revenue for Q4 which obviously is a function of those percents.
+So we may hit 1 or 2 we may not.
+But we -- that is the game plan for guidance for this year.
+We did lower spec revenue by $3 million.
+In terms of the lease start dates we still could hit the leasing percentages but in terms of commencements in 2011 they will -- we were expecting them to slip into '12.
+I mean those leasing guidelines for the midyear we really looked at where we would be at the 100% and kind of took an  approximately like a halfway mark to it.
+It's not a -- leasing will always remain lumpy but we're optimistic about New Jersey.
+We think -- feel that things have turned around there and we feel good about it.
+And just a follow-up on the renewal commentary.
+Can you give us a sense of what the terms of the renewable were beyond the 8 years? I mean was there a mark-to-market or any additional capital spend for you? There was no additional capital spend for us but as we said on our prepared remarks because we only have 30 tenants it's really bad business practice for us to specifically talk about specific tenant rent specially because in this case we outlined that the tenant is Microsoft and we don't want people to -- it's just bad business practice as you can imagine.
+Next we'll hear from Brendan Maiorana with Wells Fargo.
+LLC</strong> Hossein I know you don't want to kind of give specific commentary about tenants but can you shed a little light on the decision not to renew by Yahoo!? And then as you would look at the prospects for leasing that space up if you look at the VA3 project having 5.7 megawatts there of availability starting next year combined with ACC6 combined I guess that's kind of a -- one of the larger it's roughly 18 or 19 megawatts in line with one of the larger new development projects that you would look at so should we kind of assume a 2-year lease up if we look at those 2 projects combined? Well I mean when you look at it they are a little bit different markets.
+Let me address your comments one at a time.
+Our VA3 is 95 watts a square foot in Reston Virginia which is -- it suits very well for resellers.
+It's a terrific market for a reseller in that wattage per square foot.
+A typical reseller can put their corridors in and put their cages in and really end up with space that's like 140 watts per square foot within the cage.
+That's a little bit of -- and Reston is sitting on Sunset Hills Road.
+It is -- and Sunrise Valley Drive.
+Those 2 roads on either side of the toll road are the most fiber-rich environment in the entire country.
+So the point I'm trying to make is VA3 and Ashburn don't necessarily attract the same tenant space.
+So in that I wouldn't necessarily put them in the same bucket.
+And don't forget ACC6 we started off with about yes 13 megawatts not the usual 18.2.
+So I would look at VA3 I would assume specifically by the time Yahoo! leaves my expectation is to have approximately 40% of that space to be pre-leased.
+With ACC6 we've given our guidance as to when the leasing would be 100%.
+LLC</strong> Sure that's helpful.
+And then can you just provide any color in terms of why Yahoo! decided not to renew? Is this going to a competitor facility? Is it going to one of...
+No I think on that specific space it was only a small amount of space for such a large company and they wanted to be within larger spaces.
+As I stated in the past their next lease with us is much larger and is not until 2015 where it comes up for renewal.
+LLC</strong> And the rate that they're currently paying versus market rate do you expect that to be up flat or down? Again we -- I do not want to comment on specific market rent as because it's bad for our business.
+Next we'll hear from Tayo Okusanya with Jefferies &amp; Company.
+Inc.</strong> Just going back to the declining straight-line revenues and the idea that these leases are still going to be signed but commencement is going to be likely to get pushed out to 2012 could you just talk a little bit about the business rationale from your potential tenants about why the lease they're going to be starting much later than earlier when -- that you were initially anticipating? This is Mark Tayo.
+I mean that the game plan all along is to execute leases to get them commenced.
+The issue of timing just like here in Washington this issue with the -- decisions have been delayed.
+So we think we're on the right path.
+As we said the tours are there the interest is there decision-making just seems to drag on.
+But the reduction of straight-line rent is a function of leases starting.
+And that's part of the overall revenue midpoint range going down by $10 million $7 million of which was the other income bucket.
+Tayo just to -- this is Hossein to talk about we always said leasing is lumpy.
+Our original estimates are what they were as to when we were going to be fully leased.
+But to talk about whether a lease commencement on one lease starts in one quarter or another quarter was -- it's really a -- when we're only talking for about a handful of leases where sometimes you're early sometimes you're one quarter later.
+Inc.</strong> I mean I understand that.
+But I'm trying to make this distinction between -- it's one thing if you actually sign the leases this year but they commence later which is the argument you're making for the reduction in straight-line rent.
+But if everything is slowing down and decision-making process is slowing down should we be concerned that even the actual lease-signing those will get pushed into 2012? Time will tell.
+I mean we're hopefully [ph] every day on leases.
+I mean as far as we're giving you our best estimates of where we think the data centers will be fully leased and we feel very good about the market but like I said they are lumpy.
+They're not -- when you're only talking about a handful of leases some come early or some come later.
+As far as the Internet yes the Internet has not started slowing down.
+We feel very good about our market.
+But sometimes I guess we have some quarters with 13 megawatts of leasing and some quarters you're going to have less leasing.
+Inc.</strong> All right.
+And then just the leases that were signed this quarter anything you need to the fact that these leases except for the one that was discussed on the last earnings call that these leases are kind of like smaller deals 500-kilowatt deals.
+Is that kind of the marketplace right now versus the larger soon-to-be-megawatt deals? No I would say that's not the case.
+I know like I said in my prepared remarks that there were some very large leases done in the Santa Clara market but they went to a private equity player.
+And if you remember on our last quarter we had some very large leases signed in Chicago.
+So yes I don't believe this is a indicative market change.
+I just think that this quarter we didn't find a huge amount of leases.
+But I don't believe the Internet has stopped growing and we're still signing -- we're still working on some larger transactions.
+In Chicago Tayo we only had a couple of small rooms left if you recall.
+Inc.</strong> Right.
+Why do you think you lost the leases to the private equity guy? Was it pricing? Was it...
+No.
+Like I said on my private -- I think the majority of it surrounded where there was a common investor in both the assets in the tenant and the player.
+And they drove some leases to that player.
+We didn't even get a look at some of those leases.
+Next we'll hear from Dave Rogers with RBC Capital Markets.
+LLC</strong> Hossein to follow-up on your comments on Microsoft it sounds like of your Microsoft space that's left you got another somewhere between 50% and 60% of that space left to renew.
+You said 2015 was the next renewal.
+They clearly left the lower-powered entity space maintained some of the higher-power space.
+Can you talk about that 2015 space without rent but talk about the type of use of that space? Is that high-density or fiber-rich space? And maybe why it wouldn't have been included in this round of negotiations.
+Well I think that the space we're talking about I think you're talking about Yahoo!.
+We mentioned the next Yahoo! lease expires in 2015.
+The next Microsoft lease I believe expires around the same time as well but I'm not sure if we have announced specifically as to when that is.
+The question is no the -- both spaces -- the space we -- they did extend this time was about 100 watts a square foot.
+The next space that comes up is 150 watts a square foot.
+But our negotiations typically with Microsoft surround the amount of megawatts of space not the density because they're a tenant that can use all the megawatts that we can give them.
+So it's just too early to start negotiating on a lease that expires many years out.
+LLC</strong> Okay.
+And then I guess you talked about in your prepared comments adding network density to all the markets.
+I mean you've had pretty good network density in the past.
+Did you feel like that was a constricting factor on your ability to lease space anywhere in particular? And has there been a substantially added cost for any of that activity? The network density that we -- I think for New Jersey it's a different -- it's a newer market for us.
+But my comments were more surrounded with adding more network density to New Jersey because in that market as we've said in the past we do expect smaller 1-megawatt type of customers.
+In the other markets we're really not as concerned with network density for the type of tenants we have.
+And we always capitalize the cost of any networks or their conduits that we need to the cost of the building.
+And our new...
+LLC</strong> Can I get a follow-up? Yes go ahead.
+LLC</strong> And I guess maybe Mark a follow-up to that.
+Your capitalized interest guidance was up but it seems like projects continue to be on pace.
+Can you add any color to that? I didn't hear it in your prepared comments if you made it.
+I think the issue really was the open dates for a couple of the months.
+In the original guidance we anticipated because  the opening of the first of the Q3.
+As I said in the prepared talk it was -- went in August and September for the 2 buildings.
+So it's really a little bit of timing.
+Some of the money was -- the money for the year is pretty consistent but we push it out the door maybe a little sooner so we capitalize on that money spent each and every month.
+That's really the bulk of it.
+Next we'll hear from Jonathan Schildkraut with Evercore Partners.
+I want to go back -- I just want to go back to the decrease in straight-line accounting because I'm a little bit confused here.
+So the $3 million decrease that you noted in straight-line accounting comes from the push out of expected lease signings into next year is that correct? What I did was lower the top end of the range by $7 million.
+Total revenue dropped by what $20 million.
+So part of that straight line is just a function of when leases commence.
+Okay.
+When you sign a renewal a contract extension doesn't that increase your straight-line accounting? I mean just based on the contracts as I understand them this is probably a long-term contract.
+It started -- previously you've talked about escalators in your contracts.
+And so considering that of the exit point on that original contract even if renewed at the same terms from a starting point perspective should be much higher.
+So I guess I would have thought that straight line would have gone up here.
+Could you explain the accounting to me? It's -- obviously the lease just was executed -- the amendment was just executed the extension.
+So we're only talking 4 5 months for '11.
+So the increase is minimal for '11.
+But there is a small increase I would agree with you on that.
+But not enough to kind of move the needle with regard to this guidance.
+Jonathan we only had for '11 1.6 megawatts.
+Next we'll hear from Michael Bilerman with Citi.
+Manny Korchman's on with me as well.
+Hossein you talked a little bit -- I know you don't want to disclose specific rents but clearly without even noting whether something was -- rents going down rents in line or rents up with even within a range on this renewal I think you got to provide some context so that people when they look at your lease roll we'll know sort of what a mark-to-market they should assume.
+And this is not just 1% of your lease roll this is 7% of your rents.
+So...
+I do want to provide you Michael with more information but as of -- my responsibility is to make the right business decisions for running the business.
+And I truly believe it is bad business practice on cost to specifically talk about market rents because people that may have known information in the past it may affect my other lease negotiations in the future.
+So it's bad business practice and I'm not going to get into it.
+But you understand that the market is always going to take with that sort of stance the market's going to assume the worst and it's going to assume that rents are flat to down and then potentially could become more negative.
+So I'm curious why you wouldn't want to deflect some of that criticism and at least provide some sort of range or some sort of comfort that the rents are up.
+Well I think Michael the comfort is that we renewed a lease with one of our top 3 tenants that has been a worry and concern of a lot of investors.
+So we feel very good about that it's a single asset that they're in in 1 of our 7 buildings in the Virginia area.
+So I mean the good news is that it was a renewal with one of the guys who could easily build their own.
+And Michael the market you're right.
+It's sometimes short term.
+My interests are for the long-term running of the business and I think for the long-term running of the business it's bad business practice.
+Okay.
+In terms of -- we spent a lot of time talking about leasing and it's a marathon not a sprint.
+It's your top priority that some quarters you're going to get a lot of leasing some quarters you're not.
+It's a lumpy business.
+But I guess is there other tangible things in terms of what's in the hopper that you can provide some comfort on? Obviously this quarter with only 1.5 megawatts of leasing since the last time we spoke on a quarterly call and being 3 smaller leases there obviously is a lot of concern especially with the lease commencement dates being pushed out.
+And also absorption being happening in the market right? If you look in New Jersey you have Digital Sentinel i/o all signing megawatt leases.
+You talked about Santa Clara.
+So there's stuff happening in the marketplace and I think investors and analysts just want to get an understanding of what's the -- why is there this spread? Why is it -- are you holding on to rate? Are you holding on to something? Is it something with the assets? And so how can you bridge that gap for the street that we should have a lot of confidence that the leasing is going to come? And I don't know if there's leases that you're negotiating right now just to help us better -- gain more comfort with it.
+Sure.
+I mean we don't disclose our letters of intent as a matter of policy.
+So if there are leases that we are working on and have signed letters of intent we will not disclose them.
+On the activity I can tell you the activity on the number of tours has not changed across the board.
+If anything we feel better about New Jersey right now than we did a few months ago.
+As a matter of holding onto rate yes I feel that in the Santa Clara markets there was some deals we didn't see and some deals we waited until the space -- some of the space we were disciplined about what we wanted to get and whether it's rate or whether it's about our triple net structure.
+And we waited for a significant amount of space that that private equity player had has been absorbed.
+So it's a little bit different about each of the markets and we feel very good about our tours and the traffic.
+And we -- it just so happens that we did admittedly have a slower quarter in leasing.
+But we don't feel any different about the market or the growth of the Internet.
+This is Mark.
+I mean if you just -- history's a little bit of a lesson too.
+2009 we averaged over 9 megawatts a quarter.
+2010 we averaged just south of 6 a quarter.
+This year we're running at 7.5 a quarter.
+So if you map out what we have as inventory and pencil that out into the future we have to hit between 7 and 8 to hit our targets.
+We think we can get there.
+When you look at New Jersey my understanding was the New York Stock Exchange has their own data center.
+Are they full op? Or is that...
+Well I can't comment specifically on them but there are different applications that can go in the New York Stock Exchange's own data center rather than ones that are specifically connected to it.
+I can tell you that there are 5 or 6 direct connections to the New York Stock Exchange.
+We're the only other one in New Jersey.
+So I think it's a very positive development.
+It's Manny here with Michael.
+Just one more.
+Hossein following up on your earlier comment that you guys are kind of sticking to your guns in terms of rates and also policy are tenants asking for more concessions in leasing of space? Are they asking for abatements or free rent or incentives? I think that each market is different.
+The -- We did feel that Santa Clara was a -- has a -- tenants were asking just because that private equity player had a lot of space on the market but that's now being absorbed.
+But we were disciplined about what we needed to get.
+I mean for example we heard through the grapevine that some landlord were willing to fix the power cost for a significant amount of time.
+With our model I don't think that's a good business practice.
+So although it may be a short-term gain on some landlords for us it's a bad business practice to do that over the long period of time.
+And so we weren't willing to do that because we are long-term owners of the business.
+Do you see any impact on your development yields from concessions and the like? No no I don't.
+Next we'll hear from Sloan Bohlen with Goldman Sachs.
+I'm actually just going to just start with a quick easy one.
+Mark you talked about possibly doing an unsecured bond deal.
+Could you talk about the cost differential where that would have priced relative to doing the term loan? It was probably in the low 6s.
+I mean there is obviously a couple of choices one was to do an add on to what we have the current bond is trading in that range.
+And then the issue was how much do we want to get.
+And the idea of taking out that term loan to do a standalone bond deal $200 million is probably the low number.
+So at this point we were -- the lender group was willing to talk and the pricing made sense to us and the terms still goes out to the end of '14 so that's kind of the spread difference.
+; Okay.
+All right.
+And then Hossein it's a kind of the same question that everybody's kind of getting around but for the types of topics that we've all been hitting on the build versus buy for larger tenants the supply out there whether it be from private equity or whomever else? And the fact that there's been some push-outs with regard to lease commencements has there been any change philosophically on how you guys think about building out spec space whether that comes in the form of how you underwrite it or what returns you guys seek? I think in fact if anything this has validated our philosophy on building these very larger builds.
+These larger buildings the operating costs are significantly less than the 6- or 10-megawatt buildings.
+And I think over it has proved that that for example our VA3 building the operating costs are around $40 a kilowatt when ACC which is a 30-megawatt building versus ACC6 or 5 was about $25 a kilowatt somewhat.
+That does not include direct power or cooling.
+So if anything it's validated that over the long term these larger assets will become much much more competitive.
+And it's validated that having multi-tenant buildings with no -- with multiple lease expirations is really the long-term way to build this business.
+Next we'll hear from Romeo Reyes with Jefferies &amp; Company.
+Inc.</strong> Okay 2 quick ones here as well.
+Can you talk about where you end up at the end of Q1 of next year in terms of cash based on your revolver availability your CapEx and also your cash flows? Could you give a sense how much cushion you have on the total liquidity though based on this spend that you have so far on SC1 ACC6 Phase 1 and then CH1 Phase 2? And then secondly with respect to kind of 2015 I guess that's when you have material -- the next big slug of expirations.
+Does it make sense to start to negotiate now or is that -- when do you start to renegotiate those leases to push them out? Romeo this is Mark.
+On question 1 it's really -- we said we'd be on the line about $40 million at the end of the year.
+Obviously with cash free cash flow in each of the next -- in the 2012 quarters continues to go up on what we have.
+Where we end up at the end of Q1 of '12 I'm not going to comment on 2012 yet but it's -- we're comfortably in that range at the end of the first quarter.
+Inc.</strong> How much of the $535 million to $555 million would you have spent by the end of this year? I would say the bulk of that is being spent by the end of this year.
+The retention on Chicago would be the only thing that probably sticks out there because we won't be able --  finishing the building until sometime in the first quarter.
+So that retention typically is anywhere from $5 million to $10 million.
+Inc.</strong> Okay.
+And then on the lease expiration? The second question was -- negotiations of leases typically go start anywhere from 12 to 15 months prior to the expiration.
+And it's all about the companies' needs at that point.
+So the idea of touching things that are in '15 '16 at this point probably don't make either party's radar screen.
+Next we'll hear from Sri Nagarajan with FBR.
+Question on the NJ1-NYSE connection.
+Obviously in previous calls you had highlighted that you're focusing on enterprise tenants.
+Is this a strategy to kind of throw your net wider here to attract more financial kind of firms here as well? Number one.
+Number two what is the increase -- is there demand or traffic from that particular sector that you're seeing in that building there today? We see financial tenants us a subset of the enterprise market.
+But we now believe we have a wider enterprise market because more financial firms will be interested in that data center because of the low-latency ability to connect.
+Does that answer your question Sri? It does but just some sort of a [indiscernible] in terms of what we're hearing in the news in terms of an i/o data center or other firms attracting financial sector tenants through Mardy Latterdy [ph] et cetera lower price points perhaps.
+Are you concerned that some of these tenants may indeed choose that option over what you're offering today? We think our product is extremely competitive and we think if anything financial tenants will want the higher-quality data centers that we provide rather than some of the container-type of data centers.
+And that our redundancy levels and our cooling levels or the quality of the data centers in a permanent building rather than the container provides the security and reliability that most financial tenants want because of the sensitivity of the works they do.
+So we think we're very well positioned to take on the those tenants.
+Okay.
+One question if I may.
+I mean I think we have talked about it before in terms of obviously lower operating cost as the size of the building gets better but obviously the key point being flexibility and the concentration of tenant risk in leasing these assets up.
+I mean obviously you did touch up on it in terms of a multi-tenant huge building.
+But if the buildings were smaller perhaps then the concentration and the focus short-term focus will not be so heavy.
+Would you agree? No not necessarily.
+I think it's math right? If you've got 20 tenants in the building your multi -- our tenants our buildings are set up to have 20 rooms within the building and the rooms could be divided.
+So we could potentially have 40 different tenants in the building.
+But the CapEx goes out of the door on day 1 though right? That's the argument that I mean.
+Yes.
+Agreed agreed.
+The initial -- we believe our buildings are initially lumpier to lease and take longer to lease than the single tenants.
+But as a landlord and as the owner of the building long term I would prefer owning these assets that take longer to lease but when leased are extremely efficient rather than the one-at-a-time-type building as the landlord and long-term owner.
+Next we'll hear from Ross Nussbaum with UBS.
+Have you guys spoken to Facebook yet regarding their recent announcement if they're going to be looking to end their leasing arrangements over time and move into owned facilities? All I can tell you is our leases with Facebook have 0 early out.
+And I believe I said in our prepared remarks that our leases do not expire until 2018.
+So for the foreseeable future it's really none of our concern.
+And I can tell you all of our buildings are being totally utilized by them.
+I think I've heard some of those rumors but most of them range around buildings where they're occupying a couple of megawatts at a time.
+And in all our buildings they're  very large tenants.
+Okay.
+Mark on the capitalized interest in your guidance in the prior quarter you have been guiding to $23 million to $26 million in capitalized interest you're now guiding to $27 million to $29 million.
+Can you help us get our arms around why that's increased? Because I'm struggling a bit because if all the projects are on time and on budget interest rates haven't gone up.
+Why is the capitalized interest adjustment going up? Yes Ross.
+I briefly mentioned it in the prepared remarks that it's really -- the initial guidance back in February focused on opening the doors at the beginning of the third quarter and we're opening the doors in kind of 1 and 2 months later inside the quarter.
+They're on time and on budget.
+We always said Q3 but 1 month or 2 of interest does make a difference.
+And then secondly and maybe a little smaller amount is the spend by month sometimes we were funding a little quicker than we had initially thought.
+We're still on the pace for the year but if we spend an additional $20 million at the beginning of a quarter that interest capitalized on that $20 million does add up over the course of time.
+So it's really primarily a function of stopping capitalization in August for ACC6 and September for Santa Clara inside Q3.
+Okay.
+And I think finally I would just like to reiterate what I think Michael Bilerman suggested which is Hossein I understand that it might be bad business to disclose individual rents for your tenants given the number of tenants that you have.
+But I would suggest that it might be worse business by not giving us a sense of where the lease is getting renewed on just simply because it makes it very difficult for your shareholders to underwrite the risk of the cash flows and that obviously then has capital markets implications for the whole business.
+So I think speaking at least for the analyst community and I think for your shareholders I think getting the understanding of where these rents are coming in now versus where they were is frankly critical to understanding the company.
+I think I've already commented on that.
+And I'm not going to comment and answer exactly the same question again.
+It's bad business practice long-term and therefore we're not going to disclose it.
+[Operator Instructions] And next we'll hear from John Stewart with Green Street Advisors.
+Inc.</strong> Mark I was hoping you can help us bridge the gap on the $20 million reduction in top line revenue guidance.
+I think you'd said that $3 million was basically due to spec revenue and I presume you're referring to lease commencements on development.
+And then I think you'd said $7 million or sort of other revenue.
+What exactly is that? Can you kind of walk us through the $20 million downward revision this quarter? Okay.
+Well the midpoint dropped $10 million.
+It was $300 million and the midpoint dropped to $290 million.
+So we're really talking about $10 million in my mind.
+The high end was always a function of if leasing was accelerated that we could get that high end because we were only opening some of these buildings in Q3.
+So the high end was always focused on if we hit the high end.
+So the midpoint of $290 million versus the midpoint of $300 million you break that out we had in the -- 2 buckets.
+The other revenues bucket is nonrecurring  work that we do after a lease is signed inside a pod inside a room helping a tenant build [ph] out a room.
+Typically we do that work at a cost plus 15% 20%.
+So other income in essence dropped from a midpoint of $9 million down to $2 million a $7 million reduction.
+Simultaneously other expenses will drop as well.
+So on a EBITDA or FFO basis it's really only reduction of $9 million or $7 million at 20% $1.4 million.
+And then the remaining $5 million that I had in there for spec revenue we've dropped that down to $2 million for Q4 with the gross commencements of leases.
+For the --  I mean when I started the year the range was fairly wide and the range was wide because leasing is as we have phrased lumpy.
+And that high end was with the goal of hitting some -- beating our leasing targets.
+Obviously tightening it we still had room to hit the midpoint if other income would have hit the target of $10 million which was consistent with the year before.
+Inc.</strong> Okay that's helpful.
+And then Hossein I know -- I fully take your point that leasing is lumpy.
+But when we take this communication today and specifically you're looking at higher capitalized interest so essentially a higher denominator basis and commencements being pushed out.
+I know you said you feel better today about NJ1 than you did 90 days ago but in terms of the yields that you'll eventually achieve just by virtue of the math and the timing is that yield less attractive than it had been? I think I mean we have to wait until the data center is fully leased to tell you exactly.
+But there was some cushion in some of our yields that we have.
+We were somewhat conservative.
+And I think NJ -- some of our data centers lease way faster with [indiscernible] things like Chicago.
+And some of them may be a little bit slower than they think.
+But all in all we feel that we will hit all our yields and our targets.
+Inc.</strong> So you still feel good about '12 on NJ1? That's correct.
+Inc.</strong> Okay.
+And then on the agreement with the New York Stock Exchange are you paying them a fee or a licensing agreement? What can you tell us about the nature of this agreement? We have I think we're on the MDAs with the New York Stock Exchange and cannot discuss that fact.
+Next we'll hear from Rob Stevenson with Macquarie.
+Mark if I'm doing  my math correctly if the Yahoo! space stays vacant for a quarter it's $0.025.
+Is that ballpark right? If we're thinking about the impact.
+It's 3 million -- 3% annualized base rent for an annual basis.
+It does -- if it would go dark April 30 we're talking 8 months next year.
+Obviously we're looking to lease it up.
+But the math that into percent maybe we can talk offline.
+Okay.
+I'm sorry I didn't catch that last comment that John was asking about the New York Stock Exchange.
+Did you say that you couldn't discuss the deal there? We can't discuss it only because we're on the MDA.
+Okay And then I guess the last question then would wind up being of the development projects that haven't started yet if you -- I know Mark said that you weren't going to start one in the back of this year but what's the next one in order on your mind at this point whether or not it's first quarter of '12 or sometime later in 2012? What's looking at this point of sort of be bubbling up to the top in terms of the most likely next start whenever you do start? I mean right now we're in 4 markets at the moment.
+We don't anticipate the fifth market.
+The projects that is -- and I wouldn't necessarily start -- have any starts in 2012 but if we were going to do something as a LAN acquisition or something like that it would probably be Chicago because we're so leased up of the Phase 2 that hasn't even been delivered.
+Rob this is Mark.
+It would be a function of the -- obviously all the Phase 2s we like to say was the low-hanging fruit.
+So a Phase 2 -- if ACC6 leases we're building Phase 2.
+If New Jersey leases we'll building Phase 2.
+If Santa Clara leases we're building Phase 2.
+So that is our strategy is  focus on these 4 markets.
+Chicago obviously we like that market and the Phase 2 is already leasing up.
+So that would be the lead on the comment of what Hossein just said.
+Next we'll hear from Chris Lucas with Robert W.
+Baird.
+Just a couple of quick questions.
+I guess Hossein could you just give us a quick sort of order of best to worst markets as you see them in right now the core markets that you're in? I think I would maybe divide it in 2 buckets.
+I would first -- not necessarily 4 buckets because things change and how we feel about them.
+Virginia and Chicago are 2 best markets.
+Or I would say the #2 would be New Jersey and Santa Clara a #1 our best market would be Chicago and Virginia.
+Okay.
+And then just in terms of -- you talked about the activity being consistent the tours and all that.
+I guess the question then becomes is the sales cycle elongating? And what are the issues that your potential customers are facing in terms their [indiscernible] commitment levels? I don't think -- I just think that -- don't forget we only do -- I think sales cycles and these type of comments are more in line with someone who does 50 leases a quarter.
+We do a handful a quarter in the number of transactions that we do.
+When you're only doing a number of transactions it doesn't really follow necessarily sales cycles.
+It's too little data for us to tell you the sales cycle has changed.
+It depends on individual-type companies and that type of thing.
+And those handful are spread over 4 markets.
+Right.
+So you've got 4 markets you're marketing 4 buildings you've got tours going through regularly.
+I guess the question is what is it that's creating a circumstance where tenants are unwilling at this point to make commitments on leases? I don't think tenants are unwilling.
+I just think that as you go out fishing for big fish some days you come back with some very large fish some days you come back with a couple of small fish.
+I don't think necessarily that we feel that the environment has changed.
+Next we'll hear from Jordan Sadler of KeyBanc Capital Markets.
+I just wanted to follow up a little bit more generically on Northern Virginia.
+Number one obviously you just classified that as one of the #1 markets or the better markets.
+And I'm just curious as it relates to the expiring rent that we're seeing there.
+Would you classify them generically as at-market or below-market or above-market? I think generically since they're expiring the less issues talking about it.
+They're expiring probably at-market.
+Okay.
+And in terms of the activity you're classifying the market as one of the better markets but it seems like it's been a little while since we've -- outside of the renewal of course that we've seen new lease activity in Northern Virginia.
+Now I know availability has been somewhat limited other than ACC6 but can you maybe just put a little flesh around that comment? I think our tours haven't changed.
+Other than the building we haven't delivered we're potentially 100% leased.
+The tenants I think we are essentially the largest supplied in the market that is delivering.
+So we feel that Virginia has always been one of the best markets in the country and we don't necessarily think that's going to change over one quarter.
+And in terms of requirements you're seeing in the market you're still seeing large requirements? Yes we've seen requirements have been -- yes...
+[indiscernible] [indiscernible] because they seem competitive.
+To quantify the demand is 37 megawatts the demand.
+Would you sort of concur with that assessment? Are you seeing 37 megawatts of demand for Northern Virginia space? I think the demand is very large.
+The number of deals we're tracking is in that type of ballpark.
+But I would guess -- I think some of the demand is also in building shelves which we do not do.
+So I do think the demand is very large.
+I can tell you the deals that specifically there are some 2-megawatt deals we're tracking.
+There's some 4-megawatt deals we're tracking.
+There's some 0.5-megawatt deals tracking.
+They're in that -- 1-megawatt deal we're tracking.
+They're in that order of magnitude.
+Next we'll hear from Jonathan Atkin RBC Capital Markets.
+LLC</strong> I'm interested in Chicago and any impact the C&amp;E Group might be having? If there's non latency critical perhaps larger footprints applications that might arise for you as potential leads given what they're doing? And then in Santa Clara with the private equity -- that player substantially out of the markets there is another public player that's recently opened up space.
+So I'm interested in kind of how you feel that will develop for SC1.
+Well I think the public players will be more disciplined like us and not necessarily do fixed-power cost deals that won't long-term make sense.
+And I think we've competed with them happily in the past and they're a worthy competitor.
+We think very highly of them and we have no issues on -- we think that demand is good enough for both of us to play in the market in Santa Clara.
+In Chicago I really don't know much about that player so I can't really comment on the C&amp;E Group.
+But I could -- I mean all I can tell you is for us it is the on top with our best markets in the country.
+And the our numbers show that itself that we're delivering a best thing that is 18.2 megawatts and 9.2 megawatts of it is fully leased.
+The magnitude of that is absolutely enormous.
+It's like a 1.5-type eConnect buildings or whole eConnect building being fully committed even before it starts.
+So it is a terrific market for us.
+We'll take a follow-up from Sri Nagarajan with FBR.
+I mean in light of that obviously you also -- in the press there was also news about a light fiber linear connection there.
+So I was wondering if you could shed some light on how that might attract someone who is presumably located in Chicago as well.
+I think we're always trying to get as many networks within our buildings as we can.
+And we're very very proud of all the networks that's located in our building.
+To some of our tenants the lease connections -- depending on the application some of the smaller tenants are very very important.
+Some of the largest tenants that bring in their own dark fibers into the building it is not as critical to their applications.
+But with -- as far as the smaller tenants are concerned the more connections there are the merrier.
+That's helpful.
+I know it's a long ways out but 3Q '15 the Yahoo! lease what percentage of the critical load Yahoo!'s critical load is it? And what percentage of the revenues is that? Could you disclose that? Well we said it was -- the current one was around 19% of critical load.
+The ones in '15 we're not going to get specific about that.
+Obviously it's a good ways out.
+But it's -- I don't have that handy Sri.
+At this time there are no further questions.
+I'll turn things back over for any additional or closing remarks.
+Thank you for joining us today.
+Thank you for listening to the call.
+And that does conclude today's teleconference.
+Thank you all for joining.

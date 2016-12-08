@@ -1,0 +1,369 @@
+Ladies and gentlemen thank you for standing by.
+Welcome to the Second Quarter Earnings Release Conference Call.
+[Operator Instructions] As a reminder this conference is being recorded.
+Now I'd like to turn the conference over to our host Mr.
+Tom McDonnell.
+Please go ahead.
+Good morning.
+Joining me on the call today are Steve Hooley President and COO; and Ken Hager CFO.
+Before we get into the discussion I need to make the following statement.
+If in the course of our conference call today we make forward-looking statements regarding DST or any of its businesses such statements would be based on our views as of today and actual results could differ materially from forecasted results.
+There could be a number of factors affecting future results including those set forth in the latest periodic report we filed with the SEC.
+All such factors should be considered in evaluating any forward-looking statements that we may make.
+Since the participants on the call have access to our detailed earnings release we will focus our comments on those items that we think are of the most significance.
+Before we get into our discussion of the financial results for the second quarter we wanted to spend a few minutes discussing the strategic acquisitions that we've recently announced.
+DST is a disciplined buyer and our acquisition strategy is to increase our product capabilities and expand our presence in key vertical markets that we currently serve as well as some adjacent markets.
+On July 19 we entered into a definitive agreement to acquire ALPS Holdings a provider of -- they provide a comprehensive suite of asset servicing asset management and asset gathering solutions to open-end mutual funds closed-end funds exchange traded funds and alternative investment funds.
+We expect the transaction will close in the fourth quarter of this year.
+We also expect the addition of ALPS to be accretive before we take into account any anticipated synergies from the transaction.
+Currently we're estimating a contribution of $0.06 per share in 2012 and that's before the realization of the synergies and any offset in associated cost of achieving those synergies.
+On a cash basis the ALPS acquisition should be accretive next year by $0.26 a share.
+To the calculation of EPS impact that we've done to date it's been on a conservative estimate of intangible amortization and the final accretion number could increase from the $0.06 estimate.
+The finalized amount should be available to us by the time we do our third quarter release.
+The ALPS acquisition provides some growth opportunities for DST in sort of 3 broad dimensions.
+ALPS brings a comprehensive solution set that allows DST to service market segments that we were previously unable to address and they're sectors of the markets that really require a bundled solution.
+So in addition to the traditional open-end closed-end mutual funds we're now in a position to service the growing markets of hedged funds and exchange traded funds.
+And finally ALPS expands our product offerings beyond pure transfer agency.
+ALPS through their asset servicing division provides fund and tax administration fund accounting medallion distribution services legal and compliance services including chief compliance office services and creative services including like graphic design print management web design and hosting.
+We believe that the addition of DST's market presence to ALPS and our customers will benefit from DST's significant data center and technology infrastructure.
+We also have expanded our product offerings to the broker/dealer market through our April 29 acquisition of the assets of Finix Business Strategies that's a financial services consulting firm with extensive brokerage and technology expertise.
+And as part of that we also acquired Finix Converge that's a technology firm that develops and distributes the enterprise solution networking and media platform that enables our client firms to connect and collaborate with their constituents more effectively on an online basis.
+On June 20 we acquired Subserveo that's a provider of automated compliance and surveillance solutions to broker/dealers and investment advisors throughout the U.S.
+and Canada.
+Subserveo provides systems that can be used by retail and institutional broker/dealers as well as clearing firms.
+Subserveo performs daily analysis of transactions orders and account holdings and it's supported by an extensive library of ready-to-use compliance test.
+Client organizations rely on Subserveo for its detailed compliance alerts and case management.
+So in addition to the system -- in addition the system facilitates activities at branch management and central office associated with the review and identification of customer accounts where risks and objectives are not in line with those indicated by the customer.
+So compliance in any money laundering officer use the system to conduct surveillance of transactions accounts and asset movement by referencing government and third-party sourced watch list.
+The system's delivered on a Software-as-a-Service model which allows its deployments on a broad base on a cost-effective basis.
+Finix and Subserveo along with DST TASS which is our subsidiary that provides full service subaccounting will be operated as one strategic business unit.
+And this business unit will be our channel to provide products to the broker/dealer market and will also manage the distribution of our AWD Vision Professional and print/mail products to that marketplace.
+Finix Converge and Subserveo are sort of development early-stage companies and currently DST's anticipating additional investment directed towards these companies as well as additional investment to develop the retirement insurance segments to their full potential.
+The amount of that investment over the next 24 to 30 months we're currently estimating about $50 million to $60 million and that will substantially be recognized through the P&amp;L as a period-incurred cost.
+If you convert that to a per share basis the tax effect it represents $0.75 to $0.85 per share over that period.
+Previously we had indicated that we anticipated spending $8 million or $9 million in 2011 on the development of the insurance products.
+The current estimates of $50 million to $60 million have $5 million or $6 million embedded in them for the insurance development.
+The difference between the original estimates where money is expended in the first half of the year because the $50 million to $60 million is an estimate in effect from June 30 forward.
+We've also added to our healthcare products with the July 1 acquisition of the assets of IntelliSource Health Solutions they are a provider of mission-critical business systems for health plans.
+Their principal product is CareConnect and what CareConnect does is provide a complete case management system that supports a health plan clinical teams and professionals by automating the process of creating care plans and performing health risk assessments.
+We plan to integrate the CareConnect product into our proprietary claims offerings which will allow our customers to have access to a fully integrated solution both the claims data as well as the management of that data with CareConnect.
+We anticipate an extension of these products not only into our customer base but offered to a broader segment of the healthcare industry.
+Again in product extensions we extended capabilities both in retirement and healthcare when we acquired Newkirk on May 2.
+Newkirk will be operated as part of Output.
+And stepping back DST Output produces statements for retirement plans' participants produces expiration of benefits and bills for insured individuals.
+So in effect Output produces the communications to an individual after they enroll or sign up for participation in a retirement savings plan or healthcare coverage.
+However Newkirk develops and produces sort of preenrollment and pre-participation communications that can include information to help a particular individual personalize a retirement or healthcare plan.
+So it gives us with -- our customers set sort of a front-end all the way through back-end management of the communications with their customer set.
+Newkirk actually develops communications and sales materials for insurance agents also across the U.S.
+And Newkirk will provide access to an expanded customer base for Output's back-end statement and bill production.
+And then Newkirk as I mentioned will be able to market its pre-enrollment pre- sign up products to Output's current customer base.
+Newkirk's products have an immediate applicability on a broader dimension to the DST retirement solutions area.
+McKay Hochman a subsidiary of Newkirk has built its business since 1979 by providing employee benefit consulting for a wide range of IRS-approved retirement plans and developed a portfolio of readily adaptable prototype plans and subsequent updates using a kind of contemporary electronic communications channels.
+Another Newkirk subsidiary MasteryPOINT offers a software-based solution that supports expanded employee participation in employer-sponsored plans by employing a suite of tools to educate the employee on retirement planning investment selection and other retirement considerations.
+We're going to embed these services into the DST retirement solution offerings.
+We view investment management brokerage retirement insurance and healthcare as some of our key vertical markets and we plan to continue to market and enhance our comprehensive solution sets for each of these verticals.
+So far this year we will -- have invested approximately $320 million in the acquisitions I referred to and we anticipate that on a run rate for 2012 those acquisitions will add approximately $165 million of annualized operating revenue.
+Before we step into the details of the operating results for the quarter I'd like to point to a few items.
+On June 30 of this year we amended our $600 million revolving syndicated bank facility.
+The amendment extended the maturity date to July 1 2015 and lowered the interest rate and facility fees by a total of 75 basis points.
+In addition the aggregate commitment under the facility was increased to $630 million.
+So this restructuring of that particular facility adds to our financial flexibility given us plenty of capacity to invest in our key vertical markets either through internal development or acquisitions.
+On May 19 of this year we renewed our $150 million accounts receivable securitization program and extended it by a year.
+Again the interest rate spreads came in there and they were lowered by 55 basis points in connection with that renewal.
+During the period we repurchased $7.9 million base of our Series C debentures for $8.8 million that resulted in a pretax loss of approximately $900 000 or slightly more than $0.01 a share.
+So at the end of the quarter at June 30 2011 we had approximately $88.1 million of the Series C debentures that's still outstanding.
+Total debt increased by $21.7 million to $1.2 billion at the end of the quarter on June 30 principally of additional financing for funding acquisitions.
+And as previously announced during the quarter we paid a $0.35 per share cash dividend that was on April 8 and that represented a $0.05 per share or 16.7% increase over the prior dividend.
+In May on May 10 2011 our Board of Directors authorized the repurchase of additional 2 million shares.
+During the quarter we purchased 123 500 of our common stock and that was at an average price of $49.39.
+Now turning to the second quarter financial results.
+And as a reminder all the comments on the results that we're going to follow are referred to on a non-GAAP basis.
+So on an adjusted non-GAAP basis diluted earnings per share were $1.05 for the quarter and that was a decrease of $0.18 or 14.6% from the second quarter of 2010.
+The consolidated operating revenues for the quarter were $421.1 million that was an increase of $21.5 million or 5.3% from 2010 that reflects the inclusion of dsicmm Group which was folded into IOS and Newkirk revenues of Newkirk for a portion of the period.
+Consolidated operating income declined by $12.2 million or 14.1% from the second quarter 2010.
+Contributors to that were lower mutual fund shareowner processing lower software license revenues and some losses at IOS.
+And there were some offsets to those by higher contributions from Output Solutions U.S.
+operations.
+And in the equity and earnings of unconsolidated affiliates a decrease by $2.6 million that reflected lower earnings at IFDS Ireland Canada and BFDS but offset to some degree by the increased earnings at IFDS U.K.
+As the business progresses and some of the movement in accounts service and so forth we continue to closely monitor our operating cost and on an appropriate basis make adjustments based on where we see the business outlook and business requirements.
+Financial Services the operating revenues decreased $9.2 million or 3.2% over the second quarter of 2010.
+That reflects lower mutual fund shareowner processing and reflects in DST HealthCare revenues and AWD some lower software license revenues.
+The software license revenues declined by $3 million compared to the second quarter of '10.
+And -- while software licenses are not a significant portion of our overall revenue the change in those license have a very significant impact on operating income as when the period that they're recorded has a minimal expense primarily just the sales expense associated with the license associated with them.
+Income from ops decreased $12.1 million or 15.7%.
+And of that decrease $3 million was the result of increased differed comp cost.
+And as I mentioned a moment ago $3 million is from lower software licenses the remainder is just the derivative of some overall lower revenues.
+Coming back to the $3 million of deferred comp cost DST maintains a limited number of deferred compensation plans a primary one being that there's a mandatory deferral of a portion of annual incentive compensation.
+So basically DST funds the liability to those individuals who can select investment options by acquiring matching assets and that eliminates ultimately the income statement effective changes in that liability.
+The change in the liability whether an increase or decrease is recorded in operating expense and then the change in the corresponding related investment assets is recorded in other income but at the pretax level the 2 offset.
+So we really have this phenomena every quarter where we're reporting either an increase or decrease on the one side and an offsetting amount on the other.
+We have referred to it in the past but we felt it was useful maybe to give a little broader explanation of it.
+And again this is something that we'll at least have the metrics of each quarter going forward.
+During the quarter the registered mutual fund accounts we serviced declined by 2.2 million.
+Conversions to subaccounting platforms totaled 2.7 million 200 000 of those came over to DST subaccounting platform.
+Conversions to non-DST registered account platforms as opposed to subaccounting totaled 300 000 but we did experience organic growth of registered accounts of 700 000.
+So the net effect of subaccounting activities resulted in an increase of 1.2 million subaccounts on our system for the quarter and that increase consisted of conversions from non-DST registered platforms of 200 000 accounts organic growth of 800 000 and conversions from our own registered platform of 200 000.
+When we're looking at the outlook for the registered accounts that'll be converting to subaccounts based on information that we continually work with our clients to try and ascertain order of magnitude and timing and of course sense or estimates are always subject to change or delays but we're currently anticipate that the subaccounting trend continues and that we think that the total subaccounting conversions in 2011 similar to '10 would be in a total for the year of 12 million to 14 million accounts.
+Like I said with any estimate the amount or the timing can easily vary.
+As I indicated during the quarter -- well I haven't indicated this yet during the quarter we are advised by 2 of our existing clients that they intend to convert approximately 700 000 new registered accounts to DST's platforms by the end of the year.
+As we've previously discussed we've been notified by 2 clients that are affiliates of Bank of New York Mellon.
+As you know Bank of New York Mellon is a direct competitor of DST and they intend to convert to BONY's in-house system in the period from September 11 of this year -- September 2011 this year to mid- 2012.
+The amount involved here for the 2 clients there's about 800 000 registered accounts that are to be coming out of our system and about 8.4 million subaccounts.
+And of the 8.4 million subaccounts 3 million are projected to convert between now and the end of the year and the remaining in 2012 and the numbers I gave you earlier of the 12 million to 14 million would include the 3 million of relative to this particular client that we anticipate going out basically in the fourth quarter.
+Turning to Retirement.
+We experienced a decline of defined contribution participants of 400 000 in the quarter and we ought to explain that a little bit.
+What that reflects is on an annual basis there is a removal of participants who terminated during the prior year.
+If you look at overall retirement account participants they were 4.3 million at June 30 of '11 and that's an increase of 500 000 participants from the same period last year.
+And also we have commitments which we've previously communicated.
+Retirement Solutions Division will be converting 1.4 million participant accounts in 2012 and '13.
+Based on the current anticipated conversion schedule 600 000 are expected to convert in the first half of '12 and the remainder in 2013.
+Coming back to the 400 000 accounts the way defined contribution plans work if there is a terminated participant left the job or what have you they terminate within a year but generally we get keep them on the system and to the second quarter of the following year so that we can handle tax and other required reporting.
+So I think on a seasonal basis or I think we would say "Definitely on a seasonal basis" in the second quarter of going-forward years we will see sort of the removal of the terminated participants.
+So this is sort of both a natural and an annual phenomenon.
+Looking at BFDS they had reduced levels of accounts serviced this goes to some of the reduction in their earnings.
+And that reflects subaccount conversions of -- that impacted them that's really the majority of the decline in their earnings.
+But also BFDS' average balances for the period increased to $1 billion from $910 million last year but over that compared period there is also a decline in the average interest rate earned to 9 basis points from 20 basis points last year.
+That computed to a total pretax reduction in BFDS' earnings of about $1.1 million.
+And the IFDS U.K.
+has had some good performance accounts and income increased.
+There was a slight decline in Canada in accounts serviced.
+Although IFDS Canada has received a client commitment for the conversion of approximately 1.7 million accounts in the third quarter of '12 this represents an increase of 15% on our current account base in Canada of 10.7 million accounts.
+Some of the reduction in earnings at Canada reflect that cost for the conversion which is a significant one are already being incurred and like I said they contributed to that reduction in earnings.
+At IFDS Ireland that's where the Percana life insurance software is owned that software is being introduced to clients in the U.K.
+marketplace and there is some initial cost associated with entering that market place and specifically with the conversion of an initial client.
+Going back to Output.
+Output Solutions' operating revenues increased by $30.6 million over 2010.
+It's principally from the dsicmm acquisition in July of last year.
+If you turn to just Output U.S.
+operating revenues they were down $400 000 for the quarter.
+But that's sort of a net number because it reflects loss revenues from discontinued client relationships that were discontinued in '10 of approximately $10 million on an annualized and also lower telecom revenues.
+But those reductions were offset by revenues from new clients higher postal service processing revenues higher fulfillment revenues and the inclusion Newkirk for a couple of months.
+And during the second quarter of '11 Output Solutions received 3 new client commitments that represent about 58 million aggregate packages annually.
+Full conversion activities related to these clients is expected to be completed in the first half of '12.
+Output Solutions' reported income from ops for the second quarter of 2011 was $9.1 million that represents an increase of $600 000 or 7.1% compared to the second quarter of '10.
+And I said the increase was the result of higher U.S.
+operating income offset by some -- still incurring some transitional costs related to facility and equipment rationalization at IOS.
+If you exclude those costs the IOS costs Output would have reported income from ops of $11.7 million and that adjusted operating income of $11.7 million would have resulted in an adjusted operating margin of 8.1% on the quarter's revenues of $144.3 million.
+We've continued to point out that EBITDA generated an output and it was up $20.1 million for the quarter that's an increase from last year of $1.5 million or 8.1%.
+The income tax rate for the quarter was 34% and that compared to 32.1% in the second quarter of '10 and we currently estimate our tax rate for '11 will approximate about 34.5% but it will continue to vary on a quarterly basis really depends on the sources of taxable income both the nature of income or the geography of the income.
+And so our estimated rate for the full year we think declined to change is primarily in that mix of earnings as I just referred to.
+That concludes our remarks.
+So operator could we open the call to questions please? [Operator Instructions] Our first question comes from the line of Jim Kissane of Bank of America Merrill Lynch.
+Jim Kissane.
+What can you guys do over the next 12 to 18 months to get to the real -- get to the value that you think exists at DST? I mean I think a few weeks ago you said the stock was undervalued.
+Well I want to say what we can do Jim where we are and you can see that after a period of somewhat inactivity on the acquisition front I think we have been looking specifically where the areas of potential growth are.
+Clearly the challenge of decline in subaccounting continues but the decline in registered had moved to subaccounting.
+Closely related to that business is the retirement solutions business.
+We talked about the 4.3 million accounts there.
+By the time we get the 1.4 million on we're going to be the second or third largest processor there.
+That's a business line that has a much more attractive revenue line on a per participant basis.
+But because of the order of magnitude of those conversions and because of interest that we see from other potential clients we're not only spending money on the actual conversion of those participants but we're building expanded conversion teams to decrease sort of the implementation time for new business.
+So you're going to see -- and that's embedded somewhat in that $50 million to $60 million spend over the next 18 months.
+So we're pretty comfortable that we're well set with the retirement as I indicated.
+Newkirk brings sort of -- we can go pretty much start to finish from the time we enroll you to the time we account for you to the time we retire you.
+So that we're -- we feel we've got all the pieces in place there and it's really a question of getting to market and expanding that.
+Sort of a derivation in some ways of subaccounting is all of the things that are happening in the brokerage community expansion to the IFA marketplace versus the traditional wirehouses and so we decided sometime back and have put in place 2 to 3 more building blocks that'll be directly related to support of the distribution systems as opposed to the product manufacturers.
+So when I talked about what we've done with Finix bringing that together with Subserveo and integrating the management of the TASS full-service which primarily targets that smaller broker/dealer IFA marketplace as a client we think we've got both the human resources and the technology in place.
+Because particularly say Subserveo and the Finix aspect of that are early-stage businesses they will also take some investment and development which again was bundled into those numbers.
+So -- and then we think very significantly is the acquisition of ALPS because for some time there has been a segment of the market that requires a bundled set of products that DST just didn't have in its portfolio so this allows us to access  that.
+So if we look at those we see growth engines there.
+We believe that we have validated that our reentry into the insurance processing market is going to be a good strategy.
+The Percana software which was based in Ireland is very good software however it did needed a couple of things.
+It needed to be re-platformed to a Java language to fit U.S.
+marketplace and it needed requirements built into it for the U.S.
+marketplace.
+We're in the process of finalizing a lot of that so that we're really moving more to a go-to-market strategy.
+Over the next 6 to 9 months we recruited we think an excellent executive team there from the insurance industry.
+Because we've attended a number of LOMA or other insurance meetings.
+We've had quite a bit of interest in this strategy and then the technology in particular.
+Some of that early feedback as we shifted a little bit of the emphasis to the payout side of the system there seems to be a contemporary demand for that particularly where annuity providers don't feel they have a good solution there.
+But once again that's going to have some investment and so when you say "What can we do over the next 12 to 18 months?" Commit to those investments measure them against their objectives that we've set and move more aggressively into those markets which we believe will have some of the growth characteristics continuing to manage in many cases the cost elements of the business that are directly impacted by moves from registered accounts to subaccounts.
+Bringing all that together I think what we would like to think is that with success in the 4 broad areas retirement insurance ALPS and broker-supported strategies that we will start to see some revenue generation that has growth characteristics that that will probably in the short term we -- it'll probably be viewed more as offsetting the losses but once -- of subaccounting but to the extent that we're correct in our assumption that that level is out over the next 24 months then it should actually in our estimation produce some legitimate growth opportunities.
+We continue to look at Output.
+We think we've got a lot of the issues addressed in the U.S.
+We'd absorbed a lot of revenue loss with a large telecom client canceling last year as you remember like $58 million termination fee associated with that.
+Other telecom clients have substantially relooked at the amount of data they put on the bills that's reduced pages.
+So we think we're coming off of a low web.
+With the exception of the startup transitional stuff where we're reconfiguring some of the business at IOS in the U.K.
+We think the margins are starting to go the right way in Output and with the acquisition of Newkirk we think it expands the opportunity there.
+But I guess it's going to take 24 to 30 months before you really know if you're meeting your objectives.
+So I'm really trying to get a sense of the next 12 to 18 months.
+Well I don't know -- the 24 to 30 months Jim is the timeframe we anticipate those investment expenditures will be made.
+As I said we reoriented some of them in the insurance side to pay out which we think will accelerate revenue opportunities in that side so we sort of said "Here's the investment.
+We're going to look at it quarter to quarter wanting to see if we're on track with that investment level and where." But I would like to think that throughout that period over the next 12 months we'll be able to report client gains in the retirement side or some initial market penetration for insurance.
+So I don't think it's 24 to 30 months to start to see some realization of positives there but I do think that the way the investment is scheduled is because of the nature of those big complex systems.
+We think it is that period that will -- that that investment will be consumed over the 24 to 30 month period.
+Does that help at all? Yes that helpful.
+I mean but is your GAAP EPS going to be hit by $0.80 over the next 30 months? I mean can you talk maybe some offsets? Are you thinking that the ALPS I guess cash accretion is offsetting that? One of the things will you step up the buyback? I mean are going to get to the 10% margins in Output or it was going to get hit with the $0.80 over the next 2.5 years? Well absolutely the $0.80 will be there but we think ALPS as we said earlier is accretive by $0.26 on a cash basis.
+That's -- we're not reflecting any synergies.
+We think simple synergies Jim like consolidation into our data center and so forth will produce some meaningful savings.
+I think we're taking -- overall were going to get $5 million of synergy.
+If you want to call that $0.10 a share of pretax so we think we'll get an uplift there.
+Certainly as I mentioned we wouldn't be beefing up the conversion teams and the investment teams and the spend in the retirement solution side if we did not anticipate what's a fairly robust pipeline there.
+So I think we would expect successes beyond that $1.4 million and I think that can start to roll in.
+And just over the period just the committed business we have right now it burns off some of the conversion and implementation expense really by the end of 2012 and should have positive results in '13.
+So -- and that's just with the big business we have committed and we're in effect pressing against that committed revenue stream 100% of the costs associated with building the team for business expansion Jim.
+Okay.
+And just on Output I mean you talked about stronger revenue there.
+Does that get you to your double-digit in late 2012 do you think? I think part of it depends on how the reconfiguration at IOS.
+We're -- there can be some building consolidation equipment.
+Some of that will look differently in the depreciation line if we upgrade because as you know we use accelerated depreciation for books.
+Also even I mentioned the decline in some of the high-volume statement production at Output several of the businesses I referred to electronic postal services where we aggregate more mail for postal savings for a broader range of clients actually carry higher margins.
+So I'd like to think in '12 we'll achieve that double-digit number.
+I am not sure it might be more front-loaded than back-loaded.
+And just on M&amp;A in the telco space.
+Do you see more risk or opportunity for your Output business? Well of course.
+The big thing in Congress now is what happens with the AT&amp;T T-Mobile.
+At this point it's kind of a tossup.
+It's -- I mean we don't know how to speculate on who's going to come out as the winner.
+And by the way I think even because of the volume and the size of telcos and because of their pricing power so to speak or negotiating power I mean it's good business to have to maintain volumes but some of the business that would be at risk there certainly would not be our highest margin business.
+Okay.
+And Tom if you don't mind can I get one last question.
+Not to put you on the spot but I know you're a long-term value investor.
+But what is your time horizon for realizing the value of DST? Well I mean I think well clearly over the past several years one was this I'm not going to blame anything on the overall economy but it certainly hasn't helped our business or anyone else's.
+Subaccounting has been our biggest problem.
+Looking forward we feel that we have to make a transition in the company to a range of our verticals retirement healthcare that give us some growth opportunities and I'd like to think that going out of '12 and into '13 that'll be much more visible.
+The wildcard is where does subaccounting settle out.
+And we're thinking that out of next year we're -- things should have settled to the low lev.
+We have some very serious repositioning of data center and other costs that are key elements of costs.
+And if our overall sense of subaccounting is right Jim I think you would see trying to get back on track to what becomes a more visible growth opportunity therefore maybe a rethinking of what the multiples are.
+I would also like to think that over time we've shown to investors that we're perfectly willing to reevaluate businesses of the company whether its many years ago: merging our trust company and the State Street; the sale of EquiServe to Computershare; the merger of our subsidiary lock\line into Asurion and eventual sale of that.
+I think we're realistic about businesses and their prospects.
+But we're also realistic that even given whatever view of the prospect is sometimes there is favorable markets to affect a restructuring and sometimes there's not and so you I think have to balance those as to where we're going forward.
+But I think you could expect that we'll continue to review the portfolio shifting the concentration to where we think we can get some growth and using monetization strategy if we think they're appropriate tax efficient and deliver ultimate value to the shareowner.
+Our next question comes from the line of David Koning at Baird.
+I guess first of all the $565 million of acquired revenue obviously includes businesses across many different business lines.
+But in aggregate is there any way you think the kind of the growth rate I know these are earlier-stage businesses do you think in total that revenue stream is it 10%? Is it 15%? Is there any way that you can just think about roughly how fast that's growing? Well I think if you want to go roughly absolute minimum would be 10%.
+Now for instance insurance it will have no revenue for a period of time and then when it starts to get revenue it will have on a percentage basis very very significant step-ups.
+Because we sign one client with a -- that's a 100 and then the next client is 200.
+So those percentages -- I think given that a couple of them we don't expect like insurance to actually capture revenue until maybe late first quarter maybe into second quarter to next year.
+And on retirement solutions as I mentioned we have a good pipeline but usually there is about a 9 -- 6 to 9 months between final contract signing and revenue recognition by the time you get accounts converted.
+I think if you would think maybe order of magnitude that the 165 run rate I'd say if you -- for modeling if you're thinking it'll go up 10% at a minimum next year and then would like to think it will reach mid-teens growth rates subsequent to that.
+But as you pointed out since it's got the 4 elements in it and some of them coming from very low basis it's -- you'll have to sort of say "Well one maybe growing faster but one won't grow at all until midyear." So that's -- I guess if you were trying to say "How do I think of it in next year and then future years?" I'd say if you used Kentucky windage 10% 11% next year.
+And then thought of it at mid to upper teens for those businesses subsequent to that that'd be realistic.
+Okay.
+Now that's great.
+And then just I guess following up a little bit on your comment of about how over the next 24 months you said the subaccounting shifts could start to level off a little bit.
+And then back in New York it's been trying to get a little more aggressive with the tax-advantaged accounts moving to subaccounting.
+I guess how should we kind of think about those 2 comments? I mean do you feel pretty good that the tax advantage that's really not going to be much of an impact? Well the tax advantage breaks into 2 or 3 components.
+529s and we did announce a bulk of those has moved.
+529s are -- there's some concentration in brokers that subaccount but 529s cover a wide swap and so we think the likely penetration there is not as high.
+And also 529s aren't just a single decision of fund and the broker.
+You've got the State Treasurer you've got a lot of other constituencies that'd get involved.
+And the other thing if you look at movement in 529s there's been over time quite a bit competition.
+And yes there's one sponsor as of one day but another has it the next or not a day-to-day but -- I mean of 3-year periods.
+So -- sort of the rotational costs for lack of a better term of -- you're going to be -- try to go subaccounting one then it comes up with a different sponsor that mitigates somewhat against it.
+When you get in to the more traditional IRAs and so forth they are broadly dispersed across wide ranges of brokers and more limited concentration in subaccounting brokers and part of that is because a lot of the subaccounting brokers have their own IRA plans anyway and that IRAs as individual accounts and mutual funds are sold more by financial planners and so forth.
+And then of course you also have the issue depending on whose plan it is that there is also fiduciary responsibilities that sit with the trustee and the custodians.
+So we're not saying they won't make some in-road but the -- if you looked at sort of the inherent factors that would preclude serious penetration I've tried to outline them for you that's kind of the way we would see it.
+Great.
+And then just one final one.
+Output you had just anniversaried that loss the telco loss.
+You also have had a lot of pretty big wins over the last probably 2 to 6 quarters that I think a lot of that starts to come on the back half of 2011.
+Should Output grow organically in the back half of 2011? Well I would like to think we will.
+I mean there's 2 factors there.
+Within output sometimes we lose printed statements but we do electronic presentment also for quite a range of our clients.
+So what happens then is you may lose a higher revenue unit with a very low margin replaced a little lower revenue with a higher margin.
+So I think you're starting to see some of that and some of the services that I mentioned that had offset the losses do have nice margins associate with them.
+So recognizing that you've heard us say for some time we know how to address Output.
+We think some of the acquisitions we've made are going to be very helpful.
+I would agree with your assessment but I'd also suggest you approach it cautiously for the next couple of quarters till we see the proof in the pudding.
+Our next question comes from the line of David Togut with Evercore Partners.
+Can you kind of breakdown the $50 million to $60 million in spending over the next 24 to 30 months as to how this is going to hit the P&amp;L? So how much hits the P&amp;L in the second half of this year? How much in 2012 2013 and so on? We don't have that specifically in front of us.
+We mentioned earlier and we suggested that we'd spent $8 million to $9 million on insurance.
+In the first half of the year we spent about $3 million.
+So you got $5 million or $6 million that'll occur yet here.
+I would guess 60% of it will probably show up in '12 and the remainder will slip into '13.
+Once we get it ramped because some of it David is ramping up the people that work on it so you might hit the full run rate let's say like Q1 I would expect that to stay stable Q2 Q3 Q4 in '12 and then start to taper off mid and the first quarter in '13.
+I see.
+And then on the acquisitions that you talked about the $165 million of acquisition revenue for 2012 what is the blended EBIT or EBITDA margin on that acquired revenue? And if you could give us a sense of what the revenue and EBIT contribution from acquisitions will be in the second half of this year as well? No that -- I just don't have that number right offhand.
+I would -- and again you get into where we're going to be with intangibles and this order of magnitude knowing the way we calculate it the purchase prices as multiples of those.
+I'm going to say $35 million to $40 million.
+$35 million to $40 million in annualized EBIT or EBITDA? EBITDA.
+Okay.
+And then the ALPS acquisition you've said is $0.26 accretive to 2012 cash EPS.
+What makes that so accretive? Is that was that just a privately negotiated sale no competition or? Well there was competition it's just a very good business.
+I can't comment too much on it because it doesn't close until fourth quarter.
+And while we are confident it will close we actually have some disclosure restrictions David until such point.
+But suffice it to say it's a very attractive business at good historic growth and demonstratable growth at current periods and we think predictable good growth characteristics going forward.
+I can't really say any more in that given the terms of our acquisition agreement.
+And then you talked Ken about I think you both talked about adding 58 million aggregate packages in the Output business in 2012.
+What's the approximate revenue contribution from of that conversion next year? Well 58 million packages are going to be about 3% of incremental total volume and these some of it by the way replaces some of the -- when we talked about some of these lost of telecom if we were producing a 7-page statement and they got rid of 4 the way we price it is the first page is the highest priced and then the second page is a little less.
+So what's happened we've had some available capacity David from loss of lower revenue units and these would be more front-ended units.
+So I think if you were thinking 3% volume and a somewhat higher percentage of revenue in that.
+I see.
+Okay.
+And then on the first quarter call you mentioned that you expect 900 000 full-service registered accounts to convert to a non-DST platform in the third quarter this year but I don't think you referenced it in the second quarter release.
+Has anything changed with that conversion? No.
+We just -- rather than keep repeating stuff that we've already announced we just did not put that back in again.
+Okay.
+And just final question.
+Jim referenced this in his questions but do you intend to respond directly to some of the requests made by Russell Glass with respect to hiring an investment banker to explore strategic alternatives to serve some of the other requests that he has made? Well that's really an issue that sits with our board.
+They have received -- all information has been provided to us.
+Our board has consistently maintained relationships with external advisors where they deem appropriate.
+But at this point we're just not commenting on that particular activity.
+Our next and final question comes from the line of Peter Heckmann of Avondale Partners.
+LLC</strong> As regards to ALPS I think one of the more intriguing pieces there and I don't know how much additional detail you can provide is the fact that it appears that they're one of the top providers of servicing to the ETF industry with at least one major client and several medium-size clients.
+Can you talk about exactly what they do for the ETF industry? And if there's an opportunity I know that the vast majority of ETF asset there were providers but there's a number of fast-growing startups in the ETF industry.
+Can you talk a little bit about that opportunity? Well you we mentioned the medallion distribution that's one of the major services they provide to that industry.
+We would certainly agree with you that they're one of the leaders.
+We certainly agree with you they're extremely well-positioned and see -- presented to them a lot of opportunities as some of that ETF market expands.
+We think they've been particularly innovative and creative there.
+Anything I'd go -- if anything I should say beyond that Pete I think could get me into issues with our agreements now.
+Like I said we anticipate it closing in the fourth quarter so subsequent to that as we've indicated we're going to run it is a standalone unit.
+It will -- even though running standalone it will have significant opportunities for cross marketing with other DST areas.
+We certainly have some of the synergies we alluded to earlier like the $5 million.
+But in Q1 of '12 we'll be able to give you a much better sense of how it's positioned with the company what its performance was in '11 and therefore what kind of base we think we're coming off of performance in '12.
+But I'm just constrained by the terms of our agreement.
+I just can't get you beyond that at this point.
+LLC</strong> I understand.
+Ken can you give me when you talk about the accretion of cash EPS or cash accretion from the ALPS deal.
+Can you give me the portion of depreciation and amortization in 2010 that was related to the amortization of acquisition intangibles? 2010? LLC</strong> Yes.
+Just so I can build up to what would be a cash EPS number for DST prior to these recent acquisitions and then I can think about okay well what would be the accretion to that cash EPS number.
+Pete would it be useful if we just gave the cash EPS number each quarter? LLC</strong> I think it would.
+Well we'll take a look and see if that's something we can accommodate.
+Pete we would estimate that in '11 that number is between $18 million and $20 million.
+LLC</strong> Okay.
+All right.
+That's helpful.
+And then do you have an operating cash flow number for the quarter yet? Cash flow from operations? LLC</strong> Yes.
+Yes I do.
+Can you hang on just a second? Cash flow from operations was -- would be like $77 million roughly.
+LLC</strong> Okay.
+And then my last question is regards to some of the joint ventures.
+It seems as if IFDS has announced a number of new customers new relationships that appear to be potentially an acceleration is that just a change in the press release policy of announcing new deals or is it -- is there in fact an acceleration of a new business wins there? Well I think in the U.K.
+there has been definitely the acceleration.
+Part of what we see there Pete is where -- through IFDS U.K.
+we also are an owner of 20-somewhat percent of Cofunds which is a mutual fund supermarket in the U.K.
+And we're the processing engine for the shareholder component behind it.
+So in the U.K.
+there is sort of a similar phenomena where accounts have been going from the registered book to the supermarket that's been particularly useful for us there to have that supermarket position so we continue to grow even though some of our accounts have been disintermediated.
+But there's a -- well not a phenomena a fact in the UK is that there's still a very very high percentage of in-house operations many of them relatively small and as they lose accounts to the supermarket their internal cost on a unitized basis kind of get out of hand.
+But we've seen more movement in the U.K.
+towards account acquisitions.
+So there is somewhat a trend in the U.K.
+But how long it goes is not predictable but I think your assessment of that is sort of a trend for the last several months and probably over the next 12 to 18 is positive.
+When we mentioned some of the -- not pressure but the costs incurred in Ireland we're actually bringing the insurance system into the U.K.
+through IFDS U.K.
+They're converting an initial client on it right now.
+And we think with our client base there is a good opportunity to bring insurance processing to the U.K.
+marketplace on that system.
+Canada as we mentioned though that's a smaller market a little more concentrated.
+The win up there is a big win but when you add 15% to the account base there's always some new features you have to accommodate and then that's a fair-sized conversion effort so that's really why the pressure was on Canada.
+But I'd say the overall if there's a trend the place that it would be more visible would be in the U.K.
+LLC</strong> Okay.
+And then just last comment as regard to some of the questions about realizing value.
+I think many most of you will agree that companies generate a lot of value with their investment program.
+But it's clear the market doesn't provide a whole lot of value to that today in the prices of stock.
+Is there a way that we could talk about in future releases putting out a framework to discuss some of these other assets and talk about which ones are operational which ones are potentially liquid and maybe potentially some of the market values on some of the things like real estate and private equity investments? Well I'm not sure I can answer that today in a meaningful way.
+But I think clearly we are concerned that there continues to be it's hopefully between our price and what we think would be a more in terms of value.
+I think the overhang of subaccounting has been uniquely problematic and I'm not suggesting that maybe trying to quantify some of the elements or the other some of that will get a little complex because they’re in joint ventures and so forth and in all cases we're not on our own totally allowed to discuss some of the elements.
+We're obviously thinking through better ways to present visibility in the company and we will take all that into account Pete see if we can at least maybe one step at a time present some things in a different structure like as you mentioned that cash EPS to see if we can provide a sufficient visibility maybe to overcome some of that value concern.
+But I'd have to say until we can both as a company and as investors get comfortable as to where subaccounting is sorted out I think that's going to be a bit of a drag on any efforts or expectations for a while.
+Well thank you for joining us today and we will schedule a call after the next quarter.
+Thank you.
+Ladies and gentlemen this conference will be available for replay after noon Central today until August 3 at midnight.
+You may access the AT&amp;T playback service at any time by dialing 1 (800) 475-6701 and entering the access code 209144.
+International participants may dial 1 (320) 365-3844 and the access code is 209144.
+That does conclude our conference for today and thank you for your participation and for using AT&amp;T Executive Teleconference Service.
+You may now disconnect.

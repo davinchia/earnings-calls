@@ -1,0 +1,282 @@
+Good morning and welcome to the DST Systems Inc.
+Q2 2012 Earnings Conference Call.
+[Operator Instructions] Now I would like to turn the conference over to our host Mr.
+Tom McDonnell.
+Please go ahead.
+Good morning.
+Thanks for joining us.
+We need to remind everyone that in the course of our conference call today we'll be making forward-looking statements regarding DST and any of its businesses.
+Such statements are based on our views as of today and actual results could differ materially from forecasted results.
+There could be a number of factors affecting future results including those risk factors set forth in our latest annual and quarterly reports that we filed with the SEC.
+All such factors should be considered in evaluating any forward-looking statements that we may make.
+Since the participants on the call have access to our detailed earnings release we'll focus our comments on those items that we believe to be most significant.
+As a reminder all of our comments on the financial results refer to our non-GAAP results.
+A reconciliation to the most comparable GAAP measures have been provided in the second quarter earnings release.
+I'm joined on the call today with -- by Steve Hooley our President and Chief Operating Officer; and Ken Hager our CFO.
+Before we discuss some of the financial results for the second quarter I thought we'd take a few minutes discussing some of the recent asset monetizations and our announcement to discontinue the development of a processing solution for the U.S.
+insurance marketplace.
+On assets we realized $158.2 million of cash proceeds from the sale of investments during the quarter.
+That included $138.7 million from the sale of a portion of our investment on a privately-held company into a transaction that was arranged by that company.
+Since November 2 2011 when we made an announcement of DST's board's commitment regarding the company's business plan and strategy we've realized $250 million of cash and that consists of $202.7 million of cash proceeds from the sale of investments.
+And we also received a $47.3 million dividend from that privately-held company and that was received during the second quarter.
+The cash referred to above from all of these transactions we primarily used that to reduce debt.
+We are continuing to evaluate our investment assets for potential monetization on an ongoing basis and evaluating alternative uses for proceeds received.
+Turning to the insurance decision.
+When we look at our analysis of the North American market for insurance processing that led us to seize the development of our solution.
+It was being built around the Percana software which is licensed from IFDS Ireland which is one of our joint ventures with State Street Corporation.
+In connection with looking at that decision a charge of approximately $0.11 per diluted share in the form of an asset impairment charge and severance cost was recorded in the quarter.
+Despite this decision the insurance market continues to be a key vertical market for DST.
+We have relationships with more than 20 of the top 25 insurance companies in the U.S.
+and DST will continue to provide mutual fund processing retirement solutions output operations and also our AWD suite of products to that insurance marketplace.
+And this decision was based on North America only.
+It does not impact the company's U.K.
+and European strategy for insurance processing and that's being implemented through IFDS.
+And we'll have a couple comments on some of the recent successes there a little later in the call.
+So taking into account a number of things on an adjusted non-GAAP basis diluted earnings per share for the quarter were $0.77 and that compares to $1.05 for the second quarter of '11 and it also compares to $1.05 for the first quarter of '12.
+We generally don't try to provide a comparative analysis from like the previous quarter to current but when we look at all the components that have come into this quarter's results we think it's appropriate to try and take a look at some of the significant variances from the first quarter to kind of give you a map from there to Q2.
+So there’re a number of factors several of them being nonoperating that resulted in a $0.28 reduction in the non-GAAP earnings for the second quarter as compared to the first.
+One of the more significant ones was a change in our estimated full year 2012 income tax rate and that negatively impacted the second quarter's diluted earnings by approximately $0.13 a share.
+So the full year 2012 estimated tax rate we've increased it from 34.5% in the first quarter to our estimate now which will be 37% and that recorded in the second quarter.
+And that's a function of lower foreign tax credits available to us some increased losses in international subsidiary and in either of those cases there's no current tax benefit.
+So in order to get to the 37% a 41.8% tax rate was needed to be recorded in the second quarter to bring the whole year in line with what are our current expectations which again is at 37%.
+We also had lower AWD software and hosting revenues during the second quarter.
+And compared to the first quarter that reduced EPS by $0.08.
+And revenue in the quarter included this is in the first quarter included an unexpected license an AWD license of $2.7 million.
+And the reason was sort of unexpected it was really the result of a merger of one of our clients into another organization.
+And the terms of the contract required a subsequent payment to gain access to that particular license activity.
+And of course when we look at software revenues while they're not significant to our overall they have a very significant impact on earnings in any particular quarter just because of the nature of a software sale or license.
+Also in the first quarter we had a dividend received from Computershare.
+And in first quarter that amounted to $0.03.
+Computershare pays their dividends on a semiannual basis so they occur in basically the first and third quarters.
+So when we're looking between the first quarter and the second the absence of that dividend as I said impacted the outcome by $0.03 a share.
+We also had some higher employee compensation costs and that reflected the accrual of a higher equity compensation that's in kind of in accordance with the terms and conditions of equity RSU-type grants because of the income that came in from some of the monetization and the transactions with the private company that required that the expenses associated with those equity items be reported and that was about $0.05 a share.
+So with that as background let's take a look at the second quarter of '12 and compare it to '11.
+So operating revenues came in at $465.5 million.
+That's an increase of $41.4 million or 9.8% from '11.
+In the Financial Services area operating revenues increased by $26.5 million or 9.4% from the inclusion of ALPS.
+That contributed $23.6 million.
+And Output Solutions revenues increased by $14.4 million or 10% from the inclusion of Lateral and a full quarter of Newkirk revenues.
+Overall consolidated operating income however decreased by $6.4 million or 8.6% from the 2011 quarter.
+Expanding a little on Financial Services operating income it went down by $3.8 million or 5.8%.
+However if you exclude a $3.9 million reduction in deferred compensation expense you don't really exclude that directly but it is the transaction that we always have where those amounts result in a change in market value.
+In this case there is a reduction in market value of the principal participant balances.
+So the Financial Services really the operating income declined $7.7 million.
+$12 million of expense was recognized in the second quarter of '12 for the continuing investments that we're making in brokerage and retirement and the portion of investments that were made in the insurance area before we reached the conclusion to discontinue it.
+And that's a $5.4 million increase over the prior year quarter.
+Right now we -- have made some estimates before the investment in these areas so we're now currently anticipating that we'll record $0.26 of expense during the last half of 2012 and that’ll be related to development expenses in the retirement and brokerage markets.
+That compares to sort of the $0.34 that was incurred in the first half of 2012.
+And that $0.34 that we're referring to there excludes the onetime costs associated with the discontinuance of the insurance project.
+At Output Solutions operating income was $5.8 million and that was a decline of $3.3 million from the second quarter of '11.
+North American operating income declined by $2.6 million.
+That is substantially attributable cost for new client conversion activities expanding our Canadian plant and intangible amortization from the Newkirk acquisition as part of North America.
+The U.K.
+operation named now DST Lateral had a loss from operations which increased by $700 000.
+Turning to some of the mutual fund activity.
+During the quarter we had 3 million registered mutual fund accounts converted to subaccounting or to non-DST registered platforms.
+Kind of getting underneath that 100 000 accounts converted to our subaccounting.
+We had organic growth of 400 000 accounts.
+So when you look at it in combination it was a net decrease in registered accounts of 2.6 million.
+And of that by the way 800 000 of those registered accounts are the ones that we've been referring to for a few quarters now that are -- were conversions to the Bank of New York because their accounts maintained by a affiliate of the Bank of New York.
+Subaccounts particularly they increased by 300 000 during the quarter and that was made up of organic growth of 100 000 subaccounts conversion of our registered accounts of 100 000 and then new conversions to our subaccounting from the outside of another 100 000 so that makes up the 300 000.
+In line with kind of our previous discussions and projections we still expect that about 8 million to 10 million registered accounts will convert to subaccounting for the year.
+We think approximately 30% of those will convert to our subaccounting platform.
+And year-to-date through the end of June we've experienced 5.2 million accounts that have converted.
+So we think that those projections are pretty reasonable at this point.
+When we look at our retirement the defined contribution participants declined by 300 000 in the quarter but we need to take a look at what that is.
+The defined contribution plans need to maintain accounts of their participants who terminate employment during the given year really up until like the second quarter of the following year in order to have the information and data there to support tax and other reporting requirements.
+So you will actually see as a result of this there's an annual reduction.
+I think we referred to it seasonally there will be a reduction in the second quarter of the participants that we process.
+In the retirement area though we've got scheduled new client account conversions policy conversions if you like participant conversions of 1.3 million participants.
+600 000 of those are scheduled for a conversion in the fourth quarter and the remaining 700 000 throughout 2013.
+Turning now to DST Healthcare.
+Revenues there increased by $9 million from the prior quarter -- prior year quarter.
+And the second quarter of '12 pharmacy claims process at Argus increased 9.9% to $98.7 million.
+That was pretty much a function of new client conversions and higher volumes from existing clients.
+At the Health Solutions component revenues increased principally from software-related revenues and an increase in the number of covered lives and claim processing in our ASP and BPO areas.
+Our equity in Boston Financial Data Services BFDS earnings declined by $800 000 from the second quarter of '11 and that's pretty much the story of reduced revenues caused by decline in the number of registered account service.
+Also their balances for the period were $952 million that's less than $1 billion last year.
+We had modest increase in the interest rates that BFDS was able to earn on those balances.
+It went up from 9 basis points to 16 basis points.
+But even at that level the investment-related income is insufficient to cover banking and other transaction fees.
+Our earnings DST's earnings in the equity of the IFDS business units declined from the prior year by $3.2 million.
+To us that's sort of good news bad news.
+Actually the results were lower in the quarter.
+But IFDS's U.K.
+accounts increased by 100 000 during the quarter.
+But they've incurred decline in the earnings.
+There's a lot of cost incurred for business development and client conversions.
+Also as I mentioned earlier we continued to implement the IFDS Percana software for insurance and pension record-keeping in the U.K.
+and that implementation resulted in increased cost.
+However we've been able to move an existing client on to that platform and they came off of a third-party platform that we were previously licensing.
+So going forward we'll have a benefit on the cost side and have demonstrated capability on that system in the U.K.
+And also we're in the process of converting another client onto that that would be a new client.
+The combination of those will be about 270 000 policies so it will refer -- I think pretty solidly established as a legitimate alternative in that marketplace.
+But also IFDS U.K.
+is continuing in the process of converting a couple new unitholder clients.
+In the aggregate about 900 000 accounts.
+We anticipate 700 000 of those be converted by December 31 of this year and the remainder early next year.
+So when you look at those new business and developed client conversion costs it will negatively impact the earnings for the rest of this year but it give us a very solid increased revenue base going into '13.
+IFDS Canada was servicing 10.3 million accounts at June 30 this year.
+That's a decrease of 100 000 during the quarter.
+But as we've previously announced we have a new client commitment of 1.2 million accounts and that conversion is expected to occur in the fourth quarter.
+But again we have some upfront costs to convert this client that will continue to impact 2012 results until that conversion is affected.
+However when we look at a combined basis put it in a little bit perspective the new clients at IFDS U.K.
+and Canada should have increased incremental revenues than in 2013 of approximately $44 million.
+Quick note on real estate.
+Those holdings generated $5.7 million of operating EBITDA.
+It's an increase of $700 000 over the prior year quarter.
+Funds from operation or FFO were $5.9 million or $0.13 per share for the quarter.
+That was however a slight decrease of $1.2 million or $0.02 per share from 2011.
+When we look at consolidated real estate debt which -- and add to that our prorated share of joint venture debt at the end of the June 30 quarter this year it stood at $297.9 million and that reflected $15.6 million of amortization of that debt since the quarter of last year.
+By the way all -- substantially all the joint venture debt is nonrecourse to the company.
+Our income tax rate as I mentioned earlier for the quarter was 41.8% and that compared to 31 -- 34% in the second quarter of '11.
+Again reiterating it we're looking at 37% for the year and it reflects those items that I referred to earlier.
+The average diluted shares that we had outstanding were 45.7 million during the quarter.
+That's an increase of 500 000 shares or 1.1% from the first quarter of this year.
+And that reflects shares issued under equity compensation plans and also reflects accounting required by a higher average stock price.
+Average diluted shares outstanding decreased by 1.5 million or 3.2% from last year's second quarter.
+That reflects share repurchases that occurred in the last half of last year.
+Outstanding stock options -- stock option exercises and expirations resulted in a decline in the outstanding of 100 000 units roughly 2.8% from the end of March this year.
+On this call I'm very pleased to announce that at a meeting of our board in last couple of days the company and the board have elected Steve Hooley our President and COO to the Board of Directors.
+Obviously that election reflects the board's opinion of Steve as importance to the organization and the opportunity to expand the skill set on the board and move forward in a constructive fashion.
+With that we can now open up the call for questions please.
+[Operator Instructions] Your first question comes the line of Jim Kissane with Crédit Suisse.
+Research Division</strong> I was on another call so if you touched on this I apologize.
+There was a slight decline in tax-advantaged accounts.
+What's going on there maybe a little color? And I guess Bank of New York seems to be putting more emphasis on tax-advantaged accounts.
+Maybe you’ll review why you think tax-advantaged accounts are stickier than normal registered accounts and maybe your solution relative to others on a competitive position perspective? Well 2 things and I'll let Steve answer some of the second part of that question on how we view the stickiness in the tax-preferenced accounts being -- primarily the largest block being IRAs but also including some of the others.
+We do not see that decline being any specific conversions or any activity to reposition those accounts.
+We do continue to see though with the economy people cashing in accounts as they may be unemployed or whatever.
+We obviously can't necessarily relate Jim what they did to their specific circumstances.
+But the decline there kind of maybe it's two-sided.
+There wasn't much kind of supporting activity by new accounts being opened because they have very low unemployment growth and new firm formation.
+And then as I said earlier a number of accounts have just within the mix of the business closed.
+So in that decline we do not see any specific activity but let Steve address that.
+Jim it Steve Hooley.
+One of the factors that happened in the quarter is a client of ours that was acquired by Bank of New York had a deconversion of some registered accounts and certain of those registered accounts were tax-advantaged.
+So that's the majority of that decline.
+It's really a deconversion of an existing client again that was acquired by Bank of New York.
+Relative to the stickiness again there's kind of 3 factors that we look at.
+One is the involvement of a trustee in those accounts and the fact that they need to be involved in any decision to go ahead and move the accounts.
+The second would be the average size of these accounts.
+They’re generally -- they're not typically large and certainly the average size of these accounts is relatively small.
+And then the third is the system requirements.
+And as we understand it today most of the brokerage systems do not have all of the functionality built out to be able to handle these accounts.
+So we continue to believe that these are stickier.
+We would also tell you that we have had the one customer who moved the 529 accounts.
+Again we don't necessarily view that as a trend.
+We view that as a single event but hard to predict the future.
+Research Division</strong> That's great.
+And Tom just on Output it seems to -- it's been a chronic disappointment over a long period of time.
+Why should shareholders have faith in your ability to turn around Output over the intermediate term? Well I think we maybe should have broken that out maybe it's in the press release.
+In the North American market we had about 8.2% margin.
+It was partially negatively impacted by some of the expenses that I mentioned relative to the costs incurred with increased equity.
+So it would have moved up a few points from there.
+But also the North American cost of the -- doubling the size of the plant in Canada and bringing on a major client.
+So I think that if you look at North America in the next couple of quarters you'll see progress to where we think it should be.
+In the U.K.
+with the business that's now DST Lateral which was the combination of DST's Output business over there plus 2 acquisitions we think that that business is well positioned there.
+Their economy’s been soft which has impacted a little bit on the sales side.
+But significant component of it is the continuing consolidation of facilities.
+So I think going out of this year we should have most of that expense behind us.
+And we'll have to see if the expectations that we have for that business in the U.K.
+will materialize.
+But I think you will see significant progress in the North American marketplace getting up to the type of target margins we think it can have.
+But I think for the next couple of quarters we need to kind of look at the 2 of them separate so you can see the progress moving on one end sort of the comparable progress that's being made getting to where we want to be in the U.K.
+Research Division</strong> And where do you see on a consolidated basis -- or when do you see on a consolidated basis Output getting up to over 10%? Well that's kind of hard to predict because we're not sure of the timing in the U.K.
+But I think in the next quarter we'll just present them -- add a little more detail separately so you can get a view of that.
+Research Division</strong> And Tom can -- Tom or Steve can you provide more insight into the revenue mix of ALPS in terms of like ETFs mutual funds hedge fund asset gathering? What the [indiscernible] revenues? Well I mean obviously they have processing fees and they have some asset-related fees but we really -- well we don't have that data in front of us and we tend not to break that out.
+Research Division</strong> Okay.
+And just given the insurance breakdown maybe your level of confidence on some of your other business development initiatives in retirement and brokerage maybe just an update status update on when you think the heavy costs will be behind you and they'll be accretive.
+Well as we mentioned on the – let’s take retirement there's the 1.3 million accounts that will be converting.
+So you'll see revenue coming in in late this year and in the next.
+The cost base associated with that probably for the foreseeable future stay relatively the same because there are other clients in the pipeline and you have to maintain a level of development activity both for conversions and in some cases analyzing the gaps between the current book and so forth.
+So I think say for the next 4 quarters it's going to be more a story of revenues coming on as opposed to specific reductions in cost.
+Assuming some normalization of revenue I think the cost picture may change in the second half of next year.
+So that would be the retirement side.
+On brokerage that's where we include subaccounting and so forth we are building out with the desktop products that we have for the financial planners an enhanced suite of products that's -- a number of those are rolling out.
+We still have a couple integration of some of the acquisitions we made.
+They're basically integrated but repositioning sort of the sales posture of the Subserveo and the Finix.
+So that's kind of the way we see those investments.
+And like we said I think it was the $0.26 for the remainder of this year.
+Right now I would anticipate that if you were trying to look at a full year next year rate it would be in that $0.50 range maybe somewhat below.
+Research Division</strong> Down from a total of -- for this year around $0.60? Just maybe...
+Yes.
+Right in there.
+Right in there yes.
+Research Division</strong> But why wouldn't it go down somewhat -- so you're only getting like $0.10 relative to this year? Why wouldn't you to get more if you make...
+Well I think it's really a function of the particularly on the insurance side the pipeline that we see coming on.
+One of the things in the insurance side or probably retirement side is that it's a -- the platform -- one of the major platforms that we compete with where we think we have a lot of opportunity it's complex conversions.
+So it takes quite a bit of conversion staff and support activities to bring that across.
+So what I probably didn't say very well earlier is that on the retirement side we kind of see that team that's assembled being in place to support incremental growth beyond the 1.3 million accounts but all that we have signed and with predictable conversions is the 1.3 million.
+But like I said we have a follow-on business coming in behind that.
+So I think you really need to maintain that there.
+If there is a reduction it may be more on the brokerage side and we don't break that out at this point.
+Does that help you at all? [Operator Instructions] Your next question comes the line of Dave Koning with Baird.
+Research Division</strong> In my first question I guess it's just I think last quarter you mentioned 8 million to 10 million deconversions of the registered accounts this year and that I think you used the word substantial decline next year something like that maybe meaningful decline.
+Do you still feel like that based on discussions with your clients? We do.
+Let me let Steve amplify on that a little.
+Yes.
+We're not -- at this point David we're not quite prepared to give a target number for next year.
+But I think the word substantial would be fair.
+And I think by the third quarter call we will be in a position to give you what our current modeling shows for the number for next year.
+But we expect it to be substantially less than this year.
+Research Division</strong> Okay great.
+And then secondly you gave a revenue contribution of some of the new clients coming on in IFDS.
+I'm wondering if you can maybe give us some thoughts around sort of the swing factor to the affiliate income line.
+Meaning this year I think you've got a depressed affiliate income line from IFDS.
+Next year probably some of those expenses go away and you get the benefit of those revenues.
+So how should we think about that driving profitability I guess into next year? Well both of your comments are accurate.
+There'll be some reduced costs relative to the conversion of these clients going into next year.
+And then there'll be the $44 million pickup.
+I don't want to try and speculate too much on how to get that converted.
+One of the things that we also have in the equity and unconsolidated affiliates that we intend to break out a little more on the next quarter there are some items in there that you see at the DST level that you don't see down there.
+So I think looking -- getting you some numbers like an EBITDA level at the operating joint ventures that will obviously be non-GAAP.
+But they have the Percana business that's owned by the IFDS family has amortization has purchase accounting has other items.
+So what we're looking at is a better way to convey what's going on there and we'll be doing some of that in Q3.
+So why don't we take a crack if it's -- we'll try to get you a little better sense of what the $44 million dynamics might amount to -- in the kind of flowing through the organizations.
+Research Division</strong> And then the tax rate this year obviously has come up a little bit.
+Is that kind of the long-term tax rate to? Or as you get more profitable in U.K.
+Output and IFDS I guess it would be a separate issue but do you expect that tax rate to come down from the 37%? We do to maybe 150 200 basis points.
+Research Division</strong> Okay.
+Makes sense.
+And then interest expense I would imagine would be lower in Q3 just given some of the debt paydowns around some of the stuff that you took in.
+It was kind of flat sequentially.
+So I'm just wondering what the dynamics but -- are just you would expect that to come down next quarter right? Some of the proceeds came in mid-quarter.
+So I think that the sense that the direction will be lower is correct.
+But I think given one that came in I'm not quite sure the order of magnitude but the trend would be lower interest in Q3.
+[Operator Instructions].
+Our final question comes from the line of Peter Heckmann with Avondale Partners.
+LLC Research Division</strong> Ken could you just clarify for me I may be reading this incorrectly but on your schedule for equity in earnings you talked about $3.7 million in equity in earnings of affiliates but on the income statement it looks as $1.4 million.
+Am I missing something in that discrepancy? Pete can you -- I'm sorry I'm not quite sure I'm following your question.
+Can you help me? LLC Research Division</strong> On your schedule for your equity in earnings of affiliates in the back those 3 items I believe the BFDS $2.3 million; IFDS $0.6 million; other $0.6 million; add up to $3.7 million.
+But on the income statement itself U.S.
+equity in earnings of affiliates of $1.4 million.
+Okay Pete there were some -- a couple of non-GAAP adjustments related to equity in earnings of unconsolidated affiliates that are laid out in the back.
+LLC Research Division</strong> Okay I'll have to check that.
+So okay that helps.
+And then as regards to sale of an interest in undisclosed private company can you talk about what percentage interest that represented and what percentage interest you might continue to hold? We have a nondisclosure with that organization.
+So basically we really can't.
+Sorry.
+LLC Research Division</strong> Okay.
+Okay.
+And then can you talk about the ALPS acquisition? It looked like a good revenue number in the quarter.
+Can you talk about both the outlook or winning additional EPS servicing business as well as some of their plans to create additional investment products and kind of how -- I think at one time you had talked about a pretty attractive growth rate in ALPS on a [indiscernible] basis and I wanted to see if you still feel that way.
+Well I mean one we're very pleased with the progress of ALPS.
+It's continued to have significant growth in operating revenues and strong EBITDA growth.
+Going for the rest of the year the key drivers will be their ability to bring out in connection with their distribution partners and investment partners some new fund products.
+They have several of those that are basically designed and sort of ready to go from a structure standpoint.
+And we think that they map well against the marketplace because there'll be some alignment there with more income-related products.
+The real challenge there though Pete is until the market itself is receptive for those products and the distribution organizations are comfortable taking them to their client base you don't have obviously the realization of the product and the revenue.
+Those are the key things that we think will drive the rest of the year.
+Most likely we could see some activity in that in the third and fourth quarter.
+In the closed-end market in particular here.
+Thank you.
+That concludes our question-and-answer period.
+I would now like to turn the call back over to Mr.
+McDonnell for closing remarks.
+Well I think we've covered everything in the call and we've mentioned a couple of things that we'll try to enhance the information for the next quarter and hopefully also the call.
+And thank you for joining us.
+Thank you.
+This concludes today's conference call.
+You may now disconnect.

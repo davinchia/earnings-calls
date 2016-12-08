@@ -1,0 +1,286 @@
+Good morning and welcome to the DST Systems’ Second Quarter 2015 Earnings Conference Call.
+At this time all lines have been placed on a listen-only mode to prevent any background noise.
+After the speakers’ remarks there will be a question-and-answer session.
+[Operator Instructions] In the course of this conference call today forward-looking statements may be made regarding DST and its businesses.
+Such statements are based on the company’s views as of today and actual results could differ materially from the forward-looking statements.
+There are a number of factors that could affect the company’s future results including those risk factors set forth in DST’s latest annual and quarterly reports filed with the SEC.
+All such factors should be considered in evaluating any forward-looking statements that maybe made.
+Now I would like to turn the conference over to our host Mr.
+Steve Hooley Chairman President and Chief Executive Officer of DST.
+Please go ahead.
+Great thank you Christy.
+Good morning and thank you for joining DST Systems’ second quarter 2015 earnings call.
+With me today is our Chief Financial Officer Gregg Givens.
+I will start by going through some of the highlights for the quarter and then we will turn it over to Greg for additional detail on our financial results.
+In the second quarter of 2015 consolidated net income was $107.5 million or $2.91 per diluted share.
+On a non-GAAP basis consolidated net income was $51.4 million or $1.39 per diluted share compared to $49.5 million or $1.20 per diluted share in the second quarter of 2014 a 15.8% increase over prior year.
+Excluding the ongoing impact of the sale of Global Solutions in 2014 and the negative foreign currency movements revenue growth was 3.2% for the quarter.
+The second quarter results reflect the ongoing revenue challenges we discussed in the first quarter namely the negative impact of foreign exchange the loss of significant revenue in healthcare due to a client de-conversion mutual fund sub-accounting and non-recurring software licenses coupled with the aggregation of many of the significant investments we have been making across a number of areas.
+While we believe these investments are critical to the business they have collectively contributed to reduced operating margins which we expected to occur.
+These investments include significantly growing our risk compliance audit and security functions.
+We have also made major investments in infrastructure including at our data centers where we have upgraded not only the physical plant but also the software we use to run our business.
+And finally we have continued to invest in the expansion of our service offerings across multiple segments and geographies.
+Our reputation and relationships are what make DST a service provider of choice for our customers.
+These investments will be ongoing and we view them as mission-critical in order to protect the integrity and security of the data on our systems as well as maintain full regulatory compliance for DST and for our customers.
+Additionally we remain committed to investing in new service offerings to expand our value for the marketplace.
+We are confident that these investments will generate expanded revenue opportunities in the future.
+In the near-term we have been able to mitigate some of the impacts from each of these items through the improved performance of our operating joint ventures and our ongoing share repurchases.
+However I do expect these strategic investments will continue to pressure margins in our businesses throughout the remainder of 2015.
+Overall our goal is to advance our ability to deliver growth across each of our segments to create long-term value and drive continued profitability.
+We are confident in our strategy and the ability of our teams to execute.
+As we work to generate future growth through these investments we are also continuing to grow through acquisition.
+On July 9 we announced the acquisition of Wealth Management Systems for a purchase price of $64 million.
+Wealth Management Systems is a leading provider of technology-based retirement account rollover services and financial planning and education solutions for the retirement services industry a critical area as we think about the macro trend of the aging population.
+Wealth Management Systems is connected to record keepers servicing over 12 million participants and provides automatic account rollover services to over 25 000 plan sponsors.
+We will deliver this capability through DST Retirement Solutions further expanding our product offering and commitment to this important segment of the market.
+Moving to our segment results in our Financial Services segment operating revenues decreased by $10.3 million or 3.7% compared to the second quarter of 2014.
+As I mentioned the operating revenue decline is primarily due to the sale of Global Solutions in fourth quarter of 2014 as well as negative foreign currency movements.
+Excluding Global Solutions and negative foreign currency consolidated operating revenues for Financial Services increased $9.1 million or 3.4% in the second quarter primarily driven by growth within our Brokerage Solutions ALPS and wealth platform service offerings.
+I want to point out that the cost associated with many of our investments namely infrastructure risk compliance security and audit are substantially reflected within our Financial Services segment due to the way we run our business.
+As a result this segment is being burdened with expense for these improvements.
+However it is important to understand that the complimentary nature of our businesses – of our business segments allows us to leverage these upgrades and innovations in process and technology across the whole of DST.
+Total mutual fund share in our accounts at June 30 2015 were $97.4 million a decrease of 500 000 accounts as compared to March 31 2015.
+Conversions of registered accounts to sub-accounts are currently estimated to be at the low end or slightly below the company’s previous guidance of 4 million to 5 million accounts in 2015.
+As we discussed the blocks of accounts remaining on our system are relatively small.
+As a result we do not expect to provide sub-accounting guidance after the fourth quarter of 2015 as the impacts of de-conversions are not expected to be significant.
+Moving to our Healthcare Services segment during the second quarter we reported $92.1 million of operating revenues which is relatively flat year-over-year.
+As we discussed previously our healthcare business had a client which de-converted approximately 40% of their business effective January 1.
+There have been no additional de-conversions for this client during 2015.
+I am pleased that the impact of this client de-conversion was largely offset through organic growth and on-boarding of new clients.
+During the quarter we are also impacted by the shift in the mix of our business from higher margin pharmacy work that was replaced by lower margin medical claim full-service business process outsourcing work.
+Trends in healthcare remain positive and we continue to believe there is significant opportunity within our Healthcare Services segment.
+Customer communications operating revenues for the second quarter of 2015 increased $2.3 million to $154.8 million compared to second quarter 2014.
+Excluding $5.8 million of negative foreign currency impacts customer communication operating revenues increased by $8.1 million.
+During the quarter we continue to convert previously announced new clients which drove higher North American operating revenues.
+Excluding foreign currency UK operating revenues increased from new and existing clients.
+Our equity and unconsolidated affiliates was positively impacted by an increase in earnings from IFDS from the result of higher revenues from organic growth of existing customers and new client processing revenues.
+In addition the positive growth in our historical business lines IFDS has also experienced increased revenues from the implementation and development efforts for the new Wealth Management platform clients.
+As always we continually evaluate our capital plan to proactively manage our resource needs and determine the most effective and productive use of our assets.
+During the second quarter of 2015 DST spent $75 million to repurchase approximately 600 000 shares of DST common stock.
+As of June 30 2015 the company hit $150 million remaining under the existing share repurchase plan.
+As we continue to make significant investments in organic initiatives and acquisitive growth to drive value we will be opportunistic with regard to share repurchases.
+And with that I would now like to turn the call over to Gregg for a detailed discussion of our second quarter financial results.
+Thanks Steve.
+On a GAAP basis this quarter we reported consolidated net income of $107.5 million or $2.91 per diluted share.
+This compares to net income of $137.8 million or $3.34 per diluted share in the second quarter of 2014.
+The difference is primarily from lower gains from the sales of marketable securities in 2015.
+On an adjusted basis our non-GAAP earnings per share this quarter was $1.39 an increase of $0.19 or 15.8% from second quarter of 2014.
+The remainder of my comments will focus on our adjusted non-GAAP results.
+Consolidated operating revenues for the quarter decreased 1.8% or $9.2 million year-over-year to $500.4 million.
+This was primarily due to the sale of our Global Solutions business which as you know was sold during the fourth quarter of 2014.
+Excluding Global Solutions $15.4 million of second quarter 2014 operating revenues and $9.8 million of current quarter negative foreign currency impacts consolidated operating revenues increased by $16 million or 3.2% in the second quarter 2015 as compared to 2014.
+Consolidated operating income decreased 8.6% or $6.5 million to $69.1 million.
+The decrease was due to a combination of items.
+First is a decrease in certain higher margin revenue items namely a decrease of mutual fund accounts processed the partial de-conversion of a health customer and a decrease in software license revenues.
+Second is an increase in cost for security regulatory compliance and various other infrastructure enhancements.
+Consolidated operating margins were 13.8% in the quarter as compared to 14.8% in the second quarter 2014.
+Within the Financial Services segment operating revenues decreased by $10.3 million or 3.7%.
+This was driven primarily by the sale of Global Solutions which contributed $15.4 million of operating revenue in second quarter of 2014 and negative foreign currency movements of $4 million.
+Excluding the impact of these two items operating revenues increased $9.1 million or 3.4%.
+The increase in revenues is primarily from organic and new client growth within Brokerage Solutions and year-over-year growth within ALPS due to higher assets under management.
+These operating revenue increases continue to be partially offset by declines in mutual fund registered shareholder account processing due to lower registered accounts primarily as a result of sub-accounting conversions.
+Financial Services income from operations decreased $14.9 million or 26% over the prior year quarter to $42.5 million.
+The decrease was primarily due to increased technology security and regulatory compliance cost incurred to enhance our network infrastructure as well as higher cost associated with new business initiatives as we expand our Bluedoor Wealth Management platform into the UK market and make investments to further develop the ALPS Applied Analytics and Brokerage Solutions service offerings.
+Also impacting operating income is a $3.1 million decrease in software license revenue as compared to the prior year.
+Financial Services operating margin was 15.7% in the quarter which is a decrease from the 20.4% operating margin in the second quarter of last year.
+The decrease is primarily due to a decrease in certain higher margin revenue items namely mutual fund account processing and software license revenue and higher cost from investments in new service offerings as well as increased infrastructure cost required to address the ever changing regulatory and technology dependent environment in which we operate.
+Our Healthcare Services segment operating revenues were $92.1 million which was a slight decrease from second quarter 2014.
+Lower pharmacy claims processing revenues resulting from a previously announced partial client de-conversion on January 1 of this year were essentially offset by organic growth at existing clients and higher software license sales.
+During the second quarter Healthcare Services income from operations increased by $3.5 million to $10.2 million.
+Excluding the impact of an incremental $5.7 million liability recorded during the second quarter of 2014 for processing there income from operations would have decreased $2.2 million.
+The adjusted decrease is primarily a result of increased staffing cost incurred to expand our clinical network and analytic capabilities and to enhance our client service offerings in order to more effectively compete in the broader competitive PBM market.
+Our staffing costs were also higher in order to service the increased medical transaction volumes due to growth in our business process outsourcing services which generally requires a higher level of support.
+Our Healthcare Services operating margin for second quarter 2015 was 11.1% as compared to 7.2% in the second quarter of 2014.
+Excluding the $5.7 million prior year incremental liability recorded in 2014 our operating margin declined 2.2%.
+In our Customer Communications segment operating revenues increased year-over-year by $2.3 million to $154.8 million.
+In North America operating revenues increased $4.8 million primarily from incremental volumes as we continue to convert business for the previously announced new clients.
+These increases were partially offset by $1.1 million of unfavorable foreign currency movements in our Canadian operations.
+Our UK operating revenues decreased $2.5 million or 5%.
+Negative foreign currency movements reduced our UK operating revenues by $4.7 million for the quarter which was then partially offset by revenue growth from new and existing clients.
+Overall Customer Communications operating income was $16.3 million an increase of $5.2 million from the same quarter last year.
+Higher operating revenues and cost savings achieved from the 2014 closure of certain facilities in North America and higher operating revenues in the UK drove the increase in operating income.
+Customer Communications segment operating margin for second quarter of 2015 was 10.5% as compared to 7.3% in 2014.
+Our North America operating margin was 12.5% an increase over the 9.1% we had in the second quarter of 2014.
+And in the UK our operating margin was 6% as compared to the 3.6% operating margin we had in the second quarter of 2014.
+DST’s equity and earnings unconsolidated affiliates increased by $8.9 million to $12.8 million in the second quarter.
+This increase was driven primarily driven by IFDS with an increase of $8.7 million.
+The IFDS increase was from both higher client processing revenues and higher revenues recognized related to the ongoing conversion activities of the previously announced a new Wealth Management clients in the UK.
+We continue to expect earnings volatility throughout the implementation and the conversion process as these multi-year projects continue to evolve.
+IFDS continues to incur significant cost to develop the new Wealth Management platform for further UK market and expand its infrastructure to prepare for the additional these clients and associated service offerings.
+IFDS has been capitalizing a significant portion of the software development cost which will not begin to be amortized until the underlying models are put into production over the next couple of years.
+Partially offsetting the higher IFDS operating results were negative foreign currency impacts from both UK and Canada.
+Our income tax rate for the second quarter was 34.3% compared to 35% in the second quarter of 2014.
+This is slightly below our full year estimate of 35.5% as a result of recognizing certain benefits for state tax law changes during the quarter.
+During the second quarter we received $100.3 million of pretax cash proceeds from the monetization of investment assets resulting from the sale of $95.6 million of marketable securities of which $94.5 million was from the sale of State Street stock.
+Additionally we received $600 000 from the sale of real estate assets and $4.1 million from private equity investment distributions.
+Turning to our share count during the quarter the company spent $75 million to repurchase 647 000 shares of DST common stock.
+Average diluted shares outstanding for the quarter were 37 million shares a decrease of 10.2% from the second quarter of 2014.
+As of June 30 DST had $150 million remaining under its existing share repurchase plan.
+We closed the second quarter with $103 million of cash and $498 million of debt.
+We are confident in our balance sheet position which will continue to provide flexibility to pursue a range of growth opportunities while maintaining a strong leverage ratio.
+Before I conclude I would like to spend a little time covering our recently announced acquisition of Wealth Management Systems.
+The purchase price of $64 million will be funded using the combination of cash and short-term borrowings on revolving credit lines.
+This business had revenues of approximately $18 million for the last 12 months and on an earnings per share basis we estimate the transaction to be breakeven to DST in the first year.
+I will now turn the call back to Steve for concluding remarks.
+Great.
+Thanks Gregg.
+Before we open the call for questions I want to emphasize our focus on building DST for the future.
+While we are taking near-term steps to help offset some of the financial impact of our investments in the businesses and industry challenges we are managing DST for the long-term.
+We will support these organic efforts by capitalizing on additional opportunity to expand and enhance our service offering to our clients including synergistic acquisitions that expand our scale and capabilities.
+We are moving forward cautious about our outlook for the remainder of 2015 which will continue to be pressured particularly as we continue through the early stages of our execution.
+However we are absolutely confident in the capability and potential of each of our operating platforms.
+With that I would like to now go ahead and open the call for questions.
+Thank you.
+[Operator Instructions] And your first question comes from David Togut of Evercore ISI.
+Hi this is Anthony [indiscernible] on behalf of Davit Togut.
+I was hoping you could talk about your outlook for Financial Services operating margin in the back half of the year? Yes sure Anthony.
+I mean as we have discussed for a whole host of range you saw margins in the Financial Services business pressured.
+And I would tell you that I think the margins that you saw this quarter are where we will run the second half of the year.
+So I think we are going to be trending towards the mid-teens.
+And again this is – we have got ongoing investments both in infrastructure and software and I would say most importantly in developing new capabilities for the business.
+So I think that’s what we are going to see for the balance of the year.
+Okay great.
+That’s helpful.
+I guess in Healthcare Services could you give us what the underlying organic revenue growth rate was excluding the client de-conversion? Yes that’s not a number that we disclose.
+We have talked strictly about the volume right.
+And so what we have said is that this client on January 1 de-converted about 40% of their volume which represented their Medicare Part D business.
+So the good news is 60% of the volume is still on our platform.
+They are a very important strategic customer of ours and we are continuing to work hard to make sure that they can be successful in the marketplace.
+Okay thanks.
+I suppose in terms of the IFDS earnings increase is that level of growth sustainable? Yes.
+So the answer as we talked about last quarter you know we think last quarter for IFDS and we continue to use this technical term of lumpy.
+We think that last quarter was a good proxy for the year for IFDS.
+We don’t expect that they will be continuing to see the kinds of increases that we have seen this quarter but again the way the revenue is coming through is based on development of the platform and then putting that into production.
+So we don’t expect to see the kinds of growth rate that we saw first quarter or second quarter and we still think that first quarter is a pretty good proxy for the year.
+I do think and Gregg mentioned it in his comments we will see a decline in equity in earnings from IFDS next year as we start to feel the impacts of the depreciation.
+Okay thanks.
+Just finally for me when will the DST Board of Directors meet to consider potential dividend increase? You know we meet on a regular basis.
+And as I think Gregg has articulated consistently we are constantly looking at our capital position and looking at every possible angle to increase shareholder value so….
+Okay.
+How large of a dividend increase would you anticipate through 2016? Yes.
+Anthony we are not going to speculate on dividend increases or anything that the Board might decide.
+Okay alright.
+Thanks a lot.
+Thank you.
+Your next question is coming from Peter Heckmann of Avondale.
+Good morning gentlemen.
+Good morning Pete.
+I wanted to see if you could give us qualitative commentary about your views on consolidation in the health insurance sector.
+I know you have some customer concentration within the Health Solutions segment one or two fairly large announced deals and potentially another deal pending without again identifying any customers.
+How do you feel that you are protected in terms of long-term contracts? How do you feel that you would compete to the extent that some of those contracts are consolidated with the merged customer? Yes it’s a very topical question Pete.
+So I want to be careful I don’t want to speculate on speculation right.
+So I will try and keep my comments to what I know.
+So first you know I think you probably saw that on June 18 we announced that one of our largest healthcare clients extended our contract for 5 years through 2020.
+This customer has been a client of ours since 2005.
+We have got a great relationship with them.
+They are extremely successful in the markets that they serve which predominantly are the government markets.
+So we are very pleased to have announced that and to have that contract extension signed and in place.
+Clearly there is a lot going on in the healthcare space and particularly if you look at the PBM space.
+And here is what I tell you Pete we continue to believe given the position that we have in the marketplace that disruption in that marketplace and change in that marketplace creates opportunities for players like DST.
+So I expect the question from yourself or one of the other analysts around this announced client de-conversion as we have said 40% of the accounts went out on January 1.
+And as we commented earlier we have seen no further de-conversions this year.
+I really can’t give you forward look at that because these things move about a bit.
+And I would tell you that again this is the customer that had announced a full de-conversion is an important and strategic partner of ours.
+And so I would say that again we don’t – we can’t speculate on the rest of 2015 or 2016 but to-date there have been no further de-conversions.
+So again I think the marketplace is going through significant disruption.
+I think whatever happens Pete it won’t be in the short-term right? These things will take 24 to 36 months to play out.
+And we continue to believe that we are in a very good position to capitalize on some of this market dislocation.
+That’s helpful.
+That’s helpful okay.
+And then noting your comments from last quarter as regards the ALPS business and some of the focus on energy and commodities I was surprised to see that AUA held up pretty well sequentially.
+Can you talk about whether that was from gains in other areas and then as well can you talk about some of the discussion about – more recent discussion about basically illiquid investments held within ETFs and are there ways that DST can help ETF providers mitigate some of the security concerns? Yes.
+So it is interesting and we are exposed to the commodity and energy markets and they continue to be pressured.
+We mentioned Pete probably starting five or six quarters ago that we are making investments in ALPS on a couple of fronts right.
+One was in the systems infrastructure that we use on the services side of the business at ALPS.
+And the other place was in the distribution side of that business right where we made some pretty significant – where we have been making pretty significant enhancements to expand our distribution capability.
+And that expense has been coming through as we build that up and what we are starting to see is the – we are starting to see the benefit from that right through enhanced flows.
+So what I would tell you without being too optimistic here is the teams have done a good job selling into the marketplace of the products that we have even though the underlying investment types are pressured.
+So we feel like when those markets rebound and they will I can’t tell you when.
+We feel like we are in pretty good shape.
+I mean I know the word that Gregg used likes to use is that we are a little bit spring loaded in the asset management side of that business.
+So we do feel good about the progress that they are making.
+Look the growth rate is not what we had hoped it would be this year but we also didn’t predict the kind of pressure on the markets there at ALPS.
+As it relates to ETFs I think you know ALPS does a great job of servicing ETFs and so we have got both product that we manage and distribute as well as servicing.
+And the ETF market continues to have great top line growth.
+And again we think it’s important for DST to have exposure through it and that was again goes back to the part of the thesis of why we did the ALPS deal when we did it.
+Got it.
+My last question I will get back in the queue.
+But there is a sequential decline of about 1 million participants on the 401(k) side will that be just normal purging accounts or was there a loss customer? No.
+Pete it’s the April purge right.
+So I and you know that’s right we were required to hold all accounts through the year end tax reporting.
+And then April beginning of May every year we have a purge where we take all those accounts inactive accounts where we have completed the tax reporting for the year and we take them off the system.
+So here is what I would tell you was the 1 million accounts was we obviously have some visibility into it.
+I would say going into the third quarter of last year we did not think it would be that high we thought it will be more 600 000 to 700 000.
+So it was bigger than we had expected.
+So it is normal activity and in some ways it makes the year-over-year comparison a little bit challenging in that business because I would tell you the underlying part of the business is running quite well and we have had some nice organic growth.
+And again I think part of the reason we did the Wealth Management transaction was to expand even further our service offering in the retirement space.
+Got it helpful.
+Thank you.
+Thanks.
+Thank you.
+Your next question comes from David Ridley-Lane of Merrill Lynch.
+Sure.
+Just following up on that given the WMSI acquisition for perspective what’s the rough size of DST’s existing retirement business? Yes.
+We don’t break that out David.
+It’s part of our overall Financial Services segment.
+The Wealth Management systems business is a – not a – Gregg has just given me.
+Yes.
+So we have got about 6.4 million accounts.
+These guys have access to $33 million participants that they service and 25 000 plan sponsors.
+And so we think there is kind of two way leverage here right.
+One is we are obviously going to have access to the participants and plan sponsors that they service and conversely we are going to more deeply embed their capabilities into our platforms which will give them – give the newly acquired entity access to our 6.4 million participants.
+So we think it’s a good synergistic play and the revenues forward you can think about roughly in the $20 million a year kind of range.
+Got it.
+And then are you still tracking towards mid-teens operating margin in the Healthcare segment for full year 2015 I know there is a fair amount of seasonality in that segment’s margin? Yes.
+We have said that we expect that business would run in the mid-teens and I would tell you that we are expecting to track that in 2015 on a full year basis.
+Great.
+I had a quick question for Gregg the margin decline if you – a rough way of thinking about it how much of it is just the mix shift to lower margin revenue and how much of it is related to these regulatory IT and growth investments? Well we have analyzed that and we have analyzed it by segment.
+Of course Financial Services segment was the one that had the biggest movements in margins because of what Steve talked about earlier – before is a lot of the infrastructure investment is embedded in that segment although it benefits the company as a whole.
+But we just slowly looked at Financial Services segment I will tell you about 40% of the margin movement was related to the revenue shifts and the remainder is related to the cost investments.
+Got it.
+Thank you very much.
+Yes thank you.
+Thank you.
+Your next question comes from Adam Dahms of Baird.
+Hi guys.
+Thanks for taking my question.
+I guess first off on the financial services margins I know you guys called out mid-teens expectations for the rest of 2015 but can you talk a little bit about how long this investment cycle is is it – should it start to abate in 2016 and we see better margins there how should we look at that? Yes.
+So Adam I would tell you the investments – I mean I don’t think the investment cycle is going to abate and here is why.
+Right if you think about the areas of credit – I am sorry of risk and compliance security and audit those are embedded costs right.
+And it comes in the form of people that we have hired to build out and bulk up all of those organizations as well as technology that we have been either developing or acquiring and putting into production.
+And so those – I view those costs as built into our baseline expense and they will be ongoing now.
+Are we done with the buildup I think that’s going to start to abate but I would tell you we operate in very highly regulated businesses in both Healthcare and Financial Services.
+And I can guarantee that the regulation it will continue and we will continue to stay ahead of that to protect ourselves and our customers okay.
+The other place that you will see in the buildup is in the new business right and new business capabilities.
+And what I would tell you there is I know there is always the question of hey when are we going to see the revenue you are spending money to develop new capabilities when does the revenue come through.
+And it’s never a one-to-one relationship right.
+I would tell you that if you look at what we have been doing with our wealth platform in Australia we have clearly seen the benefit coming through the joint ventures in the UK as we take that platform and anglicize it for that wealth market in the UK.
+I would also tell you that again there may not be a one-to-one relationship but the fact that we are able to extend for 5 years a relationship with one of our largest healthcare customers is in partly due to the fact that we have continued to build out our capability in that space.
+We continue to bring on new capabilities and expand our capabilities.
+And again I can’t give you the one-to-one relationship but I can tell you if we are not investing we start to fall behind.
+Sophisticated customers like that will think twice about working with us so we are not going to allow that to happen.
+And then finally in the brokerage space we have started to see some nice organic growth there or have seen for the past couple of years nice organic growth there.
+And that team has done a great job of rounding out a much broader service offering including clearing operation and looking at things like account on boarding solutions for broker dealers and advisers that again I think is positioning us well in the marketplace.
+And so there is a little bit of we are going to invest for the long-term I don’t expect that next year you are going to see us decline in the investments that we are making.
+And at the same time we are going to bring revenue on and try and work on getting those margins back up.
+That’s really helpful.
+Thanks.
+And then real quick on Healthcare I know you guys said don’t have kind of any color on de-conversions going forward there but I am just curious how much of a heads up do you guys expect to get if they do decide to de-convert another piece of that business.
+And then I guess is there any scenario where you guys do keep some of that business going forward? Yes.
+Listen as I have said they are a great strategic partner of ours and we will get heads-up.
+You don’t get kind of a call on a Monday and plan to convert plans on a Thursday.
+So we will have – I would say at least a quarter’s view of what’s going to happen.
+And you know relative to speculation on whether we might keep some of that business or not again I prefer not to speculate other than to say they are an important customer of ours and we are working very hard to make sure they are well-positioned to be successful in their market.
+Great.
+Great thanks guys.
+You bet.
+Thank you.
+At this time we have no further questions.
+I will turn the call back over to Mr.
+Steve Hooley for any additional or closing remarks.
+Well great.
+Thank you all for joining us today and we look forward to speaking with you again next quarter.
+Thank you.
+Thank you.
+This does conclude today’s teleconference.
+You may now disconnect.

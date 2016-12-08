@@ -1,0 +1,313 @@
+Ladies and gentlemen thank you for standing by and welcome to the first quarter earnings release conference call.
+[Operator Instructions] As a reminder today's call is being recorded.
+At this time I would now like to introduce our host CEO Mr.
+Tom McDonnell.
+Please go ahead.
+Thank you and good morning.
+Joining me this morning are Steve Hooley our President and Ken Hager our CFO.
+Before we start we need to comment that if in the course of our conference call today we make forward-looking statements respecting DST and its businesses such statements would be based on our views as of today and actual results could differ.
+There could be a number of factors affecting future results including those set forth in the latest periodic report we file with the SEC.
+All such factors should be considered in evaluating any forward-looking statements that we make.
+Since all participants on the call have had access to our detailed earnings release we're going to focus our comments on some items that we think to be particularly significant or relevant.
+For the quarter GAAP reported diluted earnings per share were $1.14.
+On an adjusted non-GAAP basis the diluted earnings per share were $1.08 per share and that was on a non-GAAP basis.
+That was a decrease of $0.03 or 2.7% from the first quarter of 2010.
+All the comments that we are going to be making on the call really are on a non-GAAP basis.
+We'll get to operating results in a minute but there are several items I'd like to point out on the first quarter.
+We paid a $0.35 cash dividend.
+That was payable on April 8 of this year.
+That was an increase of $0.05 or a little under 17% over the prior dividend.
+Also during the quarter State Street increased their quarter dividend to $0.18 a share.
+That will increase the dividend income that we recorded from State Street by $7 million on an annualized basis and the first quarter dividend because of the record date that is actually reflected -- our first quarter reflects that increased dividend level.
+We repurchased 327 000 shares of our stock during the quarter.
+That was an average price of $50.15.
+As we indicated before our focus on free cash flow is to reduce debt and manage the balance sheet but we continue to repurchase shares to offset shares that would be issued from exercise of options and other activities in the equity plans.
+We reduced our debt by $66.9 million down to a level of $1.1 billion at the end of the quarter.
+We also announced the formation of DST Insurance Solutions to reenter the U.S.
+insurance processing market.
+DSTIS will offer a remote processing operation managed by DST and a full-service or often referred to in the industry a BPO option in partnership with Boston Financial Data Services.
+In order to enter this market place we'll be using software from Percana that is owned by our IFDS Ireland joint venture.
+That's a joint venture with State Street.
+DST will be responsible for adapting the Percana software to the U.S.
+market; that's what we will be doing most of this year.
+Based on the Percana software which is operated in Ireland as licensed and provided to a range of insurance companies we believe that the DST Insurance Solutions can provide a contemporary and flexible solution to the insurance marketplace.
+The insurance industry is faced with the need to rapidly introduce products and it also a lot of our client base is looking at their investors as they transition from an accumulation phase of investment to a payout phase which requires insurance type processing annuities and so forth.
+Because this year we're going to be really investing in Americanization of this particular platform we expect we will have about $8 million to $9 million of product development costs and startup costs in this year and unlikely that any revenues will be recognized or contracted for until 2012.
+On an operating basis consolidated operating revenues for the quarter were $426 million.
+That was an increase of $16.6 million or 4.1% from 2010.
+That reflects the inclusion of the dsicmm revenues which is now operating as an IOS.
+Consolidated operating income however decreased by $7.4 million or 9.2% from the first quarter of last year.
+We had some lower U.S.
+Output Solutions revenues and we also had some residual one-time and startup costs at IOS that pretty much contributed to that $7.4 million decline.
+And as part of that area or equity in the earnings of unconsolidated affiliates increased by $100 000.
+In the Financial Services area operating revenues decreased by $2.6 million or 0.9% over the first quarter of 2010.
+Included in that decline were lower AWD and other software license revenues.
+So the resulting income from operations decreased by $1.7 million or 2.7%.
+Most of that however was from higher deferred compensation costs which are these mark-to-market numbers and they're offset in other income.
+During the quarter the total number of registered accounts we service declined by $2 million.
+It was made up conversions of the subaccounting platforms that totaled $3 million of which $500 000 were migrated to our subaccounting platform.
+But we also experienced organic growth of 1 million registered accounts so that results in the net number that I just referred to.
+On the subaccounting side the net effect of activities there ended up with an increase of 1.1 million subaccounts for the quarter.
+That 1.1 million increase consisted of new client conversions of 500 000 accounts organic growth of 700 000 accounts the 500 000 conversion from our registered book that I mentioned earlier.
+But they were then reduced -- the overall was reduced by a client conversion to a non-DST platform of 600 000 accounts.
+Right now our projections of registered accounts converting to subaccounts are based on information that we continue to receive from our clients and of course are subject to change.
+But based on the information that we have currently we expect the subaccounting trend to continue.
+But as we indicated before we see it pretty much at the level of 2012.
+It could occur in a bandwidth then of around that let's say plus or minus 10% or 15%.
+During the quarter we were notified by three clients of their intention to leave DST.
+Two of the clients are affiliates and in fact are subsidiaries of Bank of New York Mellon.
+The Bank of New York Mellon of course is a competitor of ours.
+Once the merger of the Bank of New York and Mellon occurred we anticipated that some results like this might come about.
+That generally will result in a loss of about 1.6 million registered accounts and 8.4 million subaccounts some time between the first part of the third quarter of this year and third quarter 2012 depending on contractual provisions and so forth.
+We experienced in the defined contribution area we had an increase of 200 000 participants for the quarter and that brings the total participants serviced to 4.7 million.
+On the joint venture area our equity in earnings of the BFDS and IFDS increased by $700 000 to $9 million compared to the first quarter of 2010.
+Those increased earnings were primarily driven by account growth at IFDS.
+In the area of BFDS where there is balance is involved the average earning rates were 16 basis points for the first quarter of 2011.
+That compares to 13 basis points for the first quarter of 2012.
+An average balances actually were $1.3 billion as compared to $980 million for the same period last year.
+However on the balance area with those very de minimis rates we still actually are incurring frictional costs for servicing the accounts that exceeds the earnings on the balance revenue.
+At Output Solutions the operating revenues decreased -- or increased by $18.9 million over 2010 while U.S.
+revenues and volumes declined continuing to reflect the deconversion of the large telecom client last year that involved the termination fee and so forth.
+Those numbers are still being reflected in the comparisons.
+But the International revenues increased from the IOS acquisition in July of last year.
+Output Solutions reported income from operations for the first quarter of this year of $9.6 million.
+That was a decrease of $5.3 million or 35.6% compared to the first quarter of 2010.
+And that as I indicated the decline was the result of these lower U.S.
+revenues and there was still a component of some integration and one-time charges bringing the IOS business together.
+However Output Solutions did generate EBITDA of $20.2 million.
+That's somewhat of a decrease from 2010.
+It was $4.5 million less or on a percentage basis 18.2%.
+Our tax rate for the quarter was 36%; that compared to 38.2% in the first quarter of '10.
+Right now we're currently estimating our tax rate for the full year of 2011 will be approximately 34.5%.
+But this rate will most likely vary on a quarterly basis depending on the timing and sources of the 2011 revenue.
+Basically the estimated tax rate will decline due to our projection of changes and the mix of earnings and the varying tax rates either on dividend exclusions of international rates and so forth.
+So at this point we would like to turn the call -- open up the call for questions please.
+[Operator Instructions] And our first question will come from the line of Greg Smith with Duncan-Williams.
+You guys quantified sort of the impact from the new insurance operations on expenses for this year.
+But can you give us any kind of quantification of the revenue opportunity and do you have any firm client commitments at this point? Answering that reverse firm client commitments no.
+We have had a look because of our -- we've had the experience with Percana for a couple of years now in Ireland.
+We're introducing it through our joint venture into the U.K.
+and when we looked at the North American market we determined the best model to do that would be the same way we do with mutual funds here with DST hosting operating and providing remote access to the system and providing either full service or BPO through Boston Financial.
+Before I break the market into broad categories one a lot of our clients are looking to insurance-type products annuities and so forth to continue their relationship with their investors once they get out of it.
+In effect the lifetime accumulation phase and go to a retirement phase or a distribution phase so we see an opportunity there.
+But also given the shifts in the insurance industry worldwide with capital issues at the companies re-regulation of products there is a demand we believe based on new product introduction to have systems that allowed the insurance companies to enter the marketplace rapidly.
+We've looked at some other opportunities in the last couple of years.
+In fact we even looked at one company that was acquired by Oracle to enter this phase.
+And we think that the insurance industry today as opposed to a number of years ago is both open to and will need to turn to outsourcing to accommodate the timing rapid introduction in some of the complexity of these products.
+And having this system reviewed before acquisition of it initially we find that it's contemporary in the respects that it does accommodate that.
+So I think you'd have to say you look at the insurance industry as very large with a number of policies but this is not a target market for us necessarily for large existing books of whole life product but rather the products that are variable variable annuity and so forth.
+Currently that's in place that's probably 20 million 30 million policies.
+We expect that to grow substantially over time that's the overall market.
+The revenue characteristics in this are substantially better and more attractive than what we see in the mutual fund arena mostly because insurance companies have smaller books and more complex products.
+But we do think that gives us both significant revenue opportunity on the remote side and on the in effect BPO or processing side.
+Okay.
+Good.
+That was helpful.
+And then obviously you're losing a significant number of accounts here big flow you got the subaccounts and some registered accounts.
+Any color on the kind of new account pipeline? Anything that could come in to potentially offset some of that? So I think you got to maybe look at a little bit in a matrix sense.
+A lot of the accounts when we look at having lost accounts but still maintaining the level of revenue and of earnings accounts that go to subaccounts have tended to be what's in the industry for those level three accounts.
+In a pricing algorithm those are some of the lowest revenue accounts that we have.
+So if you lose there but you see some organic growth in the registered side it has a positive impact on a relative basis.
+As far as the marketplace out there that is relatively small.
+So I don't really see any significant major new client wins in the short term.
+There's still a number of in-house operations aside from the major 2 or 3 that we think maybe over the next couple of years needing to take a look at their costs.
+Because while we're impacted obviously by subaccounting an in-house operation is also impacted by it.
+And at some point they're -- have an inability to manage a level of fixed cost.
+So we think there's some possibility there but nothing immediate.
+So I think you'd have to look to -- if there is optimism at all it would be in growth of registered accounts with people returning to investing in mutual funds.
+But I wouldn't see much on the conversion side.
+I think once we get these 2 blocks that they're going to New York Mellon out of the way I mean it normalizes what's left because there's no more direct ownership so to speak of relationships.
+And so as you can see we actually we're -- we had positive momentum in the subaccounting side ourselves.
+So I think we'd like to think we can continue to penetrate the subaccounting market x that situation I just referred to.
+But as far as account growth it's going to be pretty much dependent on organic growth from the current client base.
+Hopefully it won't fully offset but maybe mitigating some of the movement to subaccounting.
+Okay.
+And then last question just -- as I look at the Financial Services sort of expenses just taking -- looking at the margins and what does that imply for the overall operating expenses in the Financial Services segment.
+Year-over-year they were only down very modestly.
+Now you've done some cost saving efforts.
+So I would have expected sort of a bigger decrease in the expenses and maybe foreign currencies boosting that.
+And I know there were some -- there's the incremental development expenses you called out related to the insurance product.
+But I guess taking all that into account why didn't we see sort of better margins on a year-over-year basis in the Financial Services segment? Well obviously several of the things that you mentioned in there I don't have an exact reconciliation of that.
+But I think that's a legitimate question let us -- we're not going to be able to answer right here.
+Let us take a look and see if we can respond to you and others on that.
+Okay.
+Thanks Tom.
+Next we go to the line of Jim Kissane with Bank of America Merrill Lynch.
+Yes thanks.
+Tom can you provide a little more color around the loss of the full-service client with the 900 000 accounts maybe some of the factors behind the loss.
+Was it pricing? Was it service issues? Thanks.
+It wasn't service issues Jim.
+They were a long-term client.
+I was directly involved in that which may have been the issue.
+What it was was a client who was sort of what we would refer to as a hybrid client.
+We processed a certain amount of their stuff full service.
+They processed it and had a fair-sized staff at their location.
+They were approached by a competitor with a bid.
+But in the process they decided to get completely out so to speak of the Processing business.
+And they had required as part of a proposal that you domicile location in the Delaware Valley.
+We did not have anything in that particular geographic area.
+So when you looked at what the pricing available was and the cost of setting up a relatively small operation on a satellite or stand-alone basis it became uneconomic for us.
+The competitor it was actually Bank of New York actually had facilities in that area already.
+So I think that -- I mean there's certainly pricing but the actual pricing was not differentiated between the two.
+It was the factor of the willingness and the ability to set up an operation in that particular geography that I believe was a difference.
+So you're pretty confident it's just a one-off type situation? Yes.
+You can say everything is one-off.
+But this client was a little unique both in their location their mix of business and particularly that they -- as I say we had a long-term relationship with them there were certainly no service or other issues.
+But once they've reached the conclusion that they wanted to do in effect move their clerical staff from under their cost structure to a third-party provider and the other requirement as part of the RFP really included a fairly long-term commitment to that Delaware Valley area we just couldn't make it work.
+Got you.
+And just given the trends in accounts continued losses of registered as well as the subaccounts now and also the volume trends in output I know you've taken a fair amount of costs out with the 7% cost action last year.
+But do you think you need to address costs again to rationalize the structure given the pressure on revenues.
+Well we're continually looking at costs and I think -- we would like to think that we're able to keep some of the profitability where it is by addressing the cost side.
+Key though particularly at output is to get some United States-based revenue.
+We had the telcom client that left and then the -- there's been a lot of reduction in volume in the remaining telcom clients as they reduce the size of their bills and so forth.
+So we've absorbed quite a bit of reduction in revenue there.
+And that's I mean that's the bad side.
+The good side is that there's an awful lot of capacity that would be highly leveraged if we can increase some revenues.
+But across the board we look at costs every day and try to keep them consistent with what we think the direction of the business is.
+So I think the simple answer is to that is yes we'll continue to take whatever cost actions we believe are legitimate relative to where the revenue base and the nature of the business are going.
+But we will not take cost actions that we believe are -- that would impact what we like to think is some long-term plans in the output side insurance side and in the mutual fund side.
+Okay.
+Can I ask your update on the long-term target for output margins? Well we still -- we anticipate we can get them back into the double-digits.
+I think it won't take much -- the non-U.S.
+margins are pretty good.
+I think that our challenges have been the volume declines in the U.S.
+So I mean I'd like to think as  the next few quarters unfold that we can get a little incremental revenue in there that you'll start to see a movement back that direction.
+Thanks Tom.
+Next we'll go to the line of Dave Koning with Baird.
+First of all just a couple of other things on output.
+I know in the last couple of quarterly releases you talked about some new revenues coming out with wins.
+How close are we now just given some of the deconversions that happened.
+I guess the anniversaries of those along with the new wins coming on.
+I mean are we going to be back in revenue growth mode on an organic basis by the second half of 2011? I think we could well be if we don't see continual reduction particularly in the telcom volumes from existing clients.
+Over the last 10 months and there is a couple of mergers out there that may impact it we don't know exactly how yet.
+But I think if the telcom volumes have normalized with some of the business coming on I think third quarter we should start to see some growth in the U.S.
+Okay.
+Good.
+And then with what looks like in the press release are incremental cost cuts relative to -- I know you did the plan about a year ago but the output cost those are incremental am I right about that? Yes.
+This is -- I mean we have looked given the -- as I mentioned the decline in some of the telcom revenue -- or telcom volumes we've just readjusted the staff size there.
+So yes that's an incremental amount.
+But once we get past the recognition of the severance in this quarter it should be positive going forward.
+Okay.
+And then there's the last thing on output.
+I think last quarter you said the DSI acquisition was still losing money.
+But now from the comments that you made now is that international margins are actually better than the U.S.
+So if DSI is the biggest portion of international I mean does that mean it's now solidly making money? It is turning the corner we believe.
+Okay good good.
+And then on insurance Greg asked the question just about when revenue starts coming on.
+By 2012 do you expect that to be a profitable business whereas this year it looks like $8 million to $9 million in net cost? Well generally we would -- there is always a sense that you build a system and costs go down.
+Generally when you're building or adapting a system you have development costs.
+And then as you get into the marketplace it's unusual to see those costs go down because usually you use the same amount of resource and effort to support customization by client installations and so forth.
+So I don't expect the cost line to go down.
+As far as revenues it's really a function of -- we believe that we could be showing the system and making proposals to clients in the second half of this year.
+Because like in most of these types of businesses there's somewhat of an extended sales cycle.
+So I think it's really a question rather we can get some early on sales success and commitments.
+Even if that were the case usually you work months on that and it takes a few months for conversion.
+So my sense is we probably in any meaningful way will not see revenues till late second or early third quarter of next year.
+But hopefully we can announce some actual contractual commitments which would sort of be indicative of whether or not we are successful in that market place.
+Okay good.
+And then just two quick ones.
+The tax rate obviously started the year at 36% but the full year is 34.5%.
+Does that imply that next year the rate could even be a little below 34% 34.5% just simply because the last three quarters of this year will probably be closer to 34%? I don't think so.
+I think there's a little bit of a decrement in the tax rate by the inclusion of the State Street dividend.
+Because you have dividend exclusion there so when you get to dividends on a corporate basis dividends receive the effective rates less than 10%.
+So that's a little bit of the downward bias.
+To the extent that we've had even on a flow-through basis through joint ventures tax rates in Canada have been going down and will be going down.
+Tax rates in the U.K.
+are projected on a corporate basis to reduce.
+So it's that mix.
+And I think given that the State Street dividend has come in this year and is a step up that's probably a little bit of a short-term factor.
+Like we said it will fluctuate based on where the geographies are but I think we would think the normalized rate 35.5% 36% is more likely.
+Okay.
+And then as my last question.
+In the past sometimes you've given an update on account wins or accounts through kind of the middle of April because of the -- I think it has something to do with the tax season and how some people put money into IRAs and things like that right at the end of kind of that threshold timeframe.
+Is there any update you want to give us on the early part of April? Actually we have done that in the past.
+We didn't do that here.
+I don't have that number at hand.
+It was an okay tax season but nothing dramatic.
+Great.
+Well thanks for answering all my questions.
+It was a lion's list.
+[ph] Next we go to the line of David Togut with Evercore Partners.
+Tom with the loss of more than half of your subaccounts announced last night how do you convince clients that you have a credible strategy in this business? Well I mean I think one we have a credible system.
+We have a system that we believe actually has more positive characteristics given that it's a derivative of the mutual fund system and therefore has more accurate accounting and so forth.
+And I think DST has we would like to think David a reputation for delivering what it says it will.
+And I think the way these accounts were lost because they were moving to a competitor who actually owns the business for all practical purposes.
+We don't think that is much of a difficult sale relative to the rest of the client base.
+And then there was $9.4 million in other income in the quarter which was approximately 12% of pretax income.
+Can you break out the components of other income and give us your view of what components are sustainable versus one-time in nature? Ken is taking a quick look right now.
+Is there something else while he looks? Sure.
+What are the cost savings from the ongoing workforce reductions you've been announcing this year? I believe there was a 90 headcount reduction at output announced in the last month or so? Well we think of -- going back to the other question of managing cost of volumes and output and a couple of the other smaller segments we anticipate of those reductions will have a run rate of $12 million to $14 million which obviously I say those savings or those reductions in cost I guess I should say second quarter on because you had the recognition of the severance costs and then you did have the actions take place in the first quarter so there were regular elements of the compensation for say 2/3 of the first quarter.
+Of the $9 million a little over $5 million of it is dividend income.
+Of course you have the State Street dividend of $1.7 million.
+And Computershare does a semiannual dividend and that was about $2.5 million.
+So you will see that every other quarter assuming they continue to do that.
+The other largest piece of that was the mark-to-market gain on our trading securities that offset the per comp expense and that was about $3.5 million in the quarter and that will vary depending on market actions David.
+So those two make up the bulk of other income.
+David in the other income and we try to address this in the press releases but because every call we talk about the mark-to-market.
+And I mean this is deferred compensation plans where we have required that people put certain of the deferred amounts or put certain bonus and other amounts into a differed plan and then they can elect an investment underneath it.
+So whether the market goes up or down there is a positive or negative impact in sort of the operating aspect of the P&amp;L because it's a "compensation expense." But there's always 100% offset down in other income.
+So it's the way GAAP requires it to be accounted for.
+But that one you're always going to have in that other income line every quarter.
+And it can go either way but the net of it is always a wash.
+Thanks.
+And then depreciation and amortization was down $5 million sequentially.
+What were some of the underlying reasons? And what do you see as depreciation and amortization for 2011 as a whole? David depreciation was down and amortization was down for a couple of reasons.
+One because we use accelerated methods in the first quarter there is always a reset of the depreciation rates for existing assets.
+And our depreciation has -- as our CapEx has been down the last couple of years we have a reducing amount of depreciation base.
+And then we also had I think one of our acquisitions had the intangible amortization that worked its way off in the first quarter of this year.
+What would be your expectation for the year as a whole Ken? I would think that depreciation would be fairly consistent with what we've seen in the first quarter for the full year.
+Okay.
+And just finally on my earlier question on cost savings from the workforce reduction will this be a rolling process that will just continue over time or are we largely done with this by the end of the first half of this year? Well I think it's going to be a continual reaction to business conditions David.
+I mean right now we would say we think we've taken all the steps necessary to position ourself for the rest of this year.
+But that's -- nothing is ever cast in stone.
+And in responding to an earlier question we like most organizations I mean there's two sides to it.
+The revenue in some case is a little bit more difficult in our case right now.
+We know we have to take some actions moving there.
+That's one of the reasons we're moving in the insurance side but we review costs continually.
+But if you ask if it was my expectation that this pretty much sets the tone for the year about where it will be I think that's yes.
+But if there is other changes that require additional cost or let me say the account that will allow us to accommodate those changes with a rational cost adjustment we'll do it.
+Thank you very much.
+Next we'll go to the line of Peter Heckmann with Avondale Partners.
+LLC</strong> Can you give a little bit of bigger picture on the subaccounting issue? Talk about of the mutual fund industry how many of accounts do you currently believe are on subaccounting platforms? And eventually what percentage of all mutual funds get to be on a subaccounting platform? And the way I look at it is roughly 15% of funds are still sold direct with the fund sponsor.
+So by definition they can't move to a subaccounting platform.
+And then perhaps another 10% to 15% are from small fund companies where it might be uneconomical for the broker/dealer to support them on a subaccounting platform.
+And then lastly you've got these tax-advantaged accounts that may be more resistant to subaccounting.
+So can you give a better feel of where we are now and where do you logically think we can be? I mean I think one thing you owe shareholders is an explanation of why this business isn't going to zero over the next 10 years? And my argument here is that it appears that between around 70% of accounts may eventually move to a subaccounting platform but they will not -- it's not possible or not likely that all of them will move to subaccounting.
+Can you give us some color on that? Well we haven't probably done an analysis at quite the level that you would like.
+There has been for a long long time accounts held at brokerage accounts even before subaccounting became a term.
+So if there is 300-plus million accounts I think either in brokerage or subaccounting there's probably 40% of them or so now but I don't want to quote that as an exact number because that wouldn't necessarily  be accurate.
+I think your observations are some of the things that are resistant to subaccounting.
+And then the longer term issue on subaccounting really eventually gets down to is this a distribution expense that the fiduciaries call trustees and Boards of Directors of funds are really aware of.
+And is there any potential change there in the short-term? I think the answer is no.
+We don't really have an analysis that we would put out on the lines that you just asked.
+So we really can't respond to that very effectively.
+LLC</strong> Here is the problem Tom.
+I've been involved in your company for 12 years.
+I've watched it for a long time.
+I cover 15 stocks and I think I have a better understanding of the subaccounting issue than you're willing to articulate.
+And so I just don't sense any sense of urgency.
+It's like if the business is in decline and output for 10 years has not been able to achieve target margins how do we get the business so that it's not a wasting asset? Can you manage the business to at least flat revenue and earnings over the next three years? Well I mean our goal would not be to manage it to flat but to figure out a way to manage it to up.
+And certainly I mean if we don't sound emotional on the call I think that your sense that there's no sense of urgency around here is inaccurate but you're entitled to your judgment.
+LLC</strong> Last question.
+In terms of the Health Solutions business.
+In the aggregate both Health Solutions and Argus on an organic basis did that business grow in the first quarter? Modestly in top-level terms I mean the challenge we have at Argus is we know that also has a balance component of $350 million or so.
+And so with interest rates low the actual reported earnings at Argus are impacted by that and the earnings that flow through on the Financial Services side.
+I think that part of the challenge or question of where you go with Health business is we think that there should be some opportunities for growth in the healthcare side.
+Lot of it depends on where the debates come out on what the actual healthcare reform will end up as what these healthcare exchanges and so forth will look at or look like.
+But the business is certainly stable to slightly up.
+But we haven't -- I think there was a sense some months ago that around the whole healthcare world there'd be a lot more dramatic changes.
+They haven't materialized yet.
+We do think that there will have to be changes which tends to be positive for us because we change technology we change it in one system where in the industry people have in-house or other systems you have to make a lots of changes and the costs there become significant.
+So we think that there's generally a positive bias going forward but nothing dramatic at the moment.
+There are no more questions in queue.
+Please continue.
+Well we have no more comments to make.
+And we appreciate you all taking the time on the call and we'll look forward to the next call.
+Thank you.
+Ladies and gentlemen this conference will be available for replay after 11:00 a.m.
+today until April 27 2011 at midnight.
+You may access the AT&amp;T replay system at anytime by dialing 1 (800) 475-6701.
+International parties may dial 1 (320) 365-3844 and enter the access code of 198409.
+That will conclude our conference for today.
+We thank you for your participation.
+You may now disconnect.

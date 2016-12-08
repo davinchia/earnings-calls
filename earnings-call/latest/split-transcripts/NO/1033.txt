@@ -1,0 +1,510 @@
+Good day ladies and gentlemen and welcome to Navistar's First Quarter 2014 Earnings Results Conference Call.
+[Operator Instructions] As a reminder this conference is being recorded.
+I will now turn the call over to your host Heather Kos Vice President of Investor Relations.
+Please go ahead.
+Good morning everyone and thank you for joining us for Navistar's First Quarter 2014 Conference Call.
+With me today are Troy Clarke our President and Chief Executive Officer; Jack Allen our Executive Vice President and Chief Operating Officer; and Walter Borst our Executive Vice President and Chief Financial Officer.
+Before we begin I'd like to cover a few items.
+A copy of this morning's press release and the presentation slides that we will be using today have been posted on our Investor Relations website for your reference.
+The non-GAAP financial measures discussed in this call are reconciled to the U.S.
+GAAP equivalent as part of the Appendix in the slide deck.
+Finally today's presentation includes some forward-looking statements about our expectations for future performance.
+Actual results could differ materially from those suggested by our comments made here.
+For additional information concerning factors that could cause actual results to differ materially from those projected in today's presentation please refer to our most recent reports on Forms 10-K and 10-Q and our other SEC filings.
+We would also refer you to the Safe Harbor statement and other cautionary disclaimers presented in today's material for more information on the subject.
+With that I'll turn the call over to Troy Clarke for his opening remarks.
+Okay.
+Thanks Heather.
+And good morning everyone and thanks for joining us.
+This morning Walter Jack and I will walk you through the progress we're making on Navistar's Drive to Deliver.
+We signaled to you last quarter that we faced some challenges in Q1 as we launched the Cummins ISB in our medium-duty trucks and as military sales unwind and that was the case yet we continue to make progress.
+So let me start by highlighting what we'll talk about today.
+First cash.
+Cash is an area where we have continued to meet or beat expectations.
+In Q1 we hit the high end of our cash guidance our sixth consecutive quarter of meeting or exceeding this goal.
+Next EBITDA.
+We reported an adjusted $37 million EBITDA loss for Q1 better than our predicted guidance range.
+This reflects a number of items that Walter will touch upon in more detail.
+We took additional actions to restructure our engine business by announcing that we are consolidating our mid-range engine manufacturing operations into 1 facility.
+We have noted in the past that we have excess engine manufacturing capacity and now we have taken an important step to further reduce cost and improve manufacturing utilization.
+The restructuring of our engine business really began in 2012 when we announced the transition to SCR emission systems.
+We immediately began the engineering program to convert to Navistar 13 liter and moved quickly to introduce the Cummins ISX SCR engine in the Class 8 product line to cover more of the market and provide more choice to our customers.
+In 2013 we announced the inclusion of the Cummins ISB with SCR in the Class 6/7 product line.
+This was the fastest way to introduce SCR and regain market share in the medium duty segment.
+And 2 weeks ago we announced these manufacturing efficiency and consolidation plans.
+Jack will actually talk more about our mid-range engine plans on this call.
+As we look forward you can anticipate additional actions with regard to engine platforms engineering and fixed cost.
+Next our product and quality focus is paying off.
+We're building the best highest-quality trucks we've built in years.
+We've said that we have great new product and now the industry says so too.
+The American Truck Dealers association awarded us the 2014 Heavy-Duty and Medium-Duty Commercial Truck of the Year honors.
+Our sales are turning upward and our production and backlog continue to grow stronger.
+And while Q1 share dipped slightly because of our medium-duty engine transition and strong deliveries by our competitors we're encouraged by stronger Class 6 to 8 retail share in January as well as the preliminary figures we're seeing in February.
+An important goal for this year will be to increase our market share in Class 6/7 medium duty and bus.
+We've been strong in these markets in the past.
+With our new powertrain offerings and the help of our dealers we're putting the pieces into place to recover our traditional share of these segments.
+And lastly spending.
+We continue to make significant progress in our efforts to lower our structural costs.
+We achieved $330 million in structural cost savings in 2013.
+And for 2014 we are ahead of pace on our $175 million target.
+Based on our lean initiatives and engine restructuring we believe that there are more opportunities.
+We've made a lot of changes in the last 18 months and for the better.
+Over the past 1.5 years we have demonstrated we are an agile company one that can move fast and has been willing to make tough choices to restore our margin performance while still investing in products that keep us competitive in the marketplace.
+You'll see that today.
+And now that we have products to sell the pace of change will accelerate and you're going to see more from us as we move forward.
+So with that let me turn the call over to Walter and Jack and I'll be back later to wrap up with some comments on the remainder of 2014 and 2015.
+Walter? Thank you Troy and good morning everyone.
+Now let's turn to the financial results for the quarter on Slide 9.
+Revenue for the quarter was $2.2 billion down $429 million or 16% from Q1 2013.
+The decrease was reflective of lower sales across our business segments.
+In our traditional markets chargeouts declined year-over-year by 1 600 units.
+In large part this reflects the impact of the transition to our new mid-range engines as anticipated.
+Additionally total military sales decreased $144 million from the prior year due to reduced spending in the tactical wheeled vehicle segment.
+EBITDA for the quarter was a loss of $110 million compared to positive $57 million in Q1 2013.
+As I'll discuss later excluding prior period warranty and onetime items adjusted EBITDA was negative $37 million in Q1 better than the company's first quarter estimate.
+Nevertheless we are not pleased with the absolute operating results and there's more hard work to do to rebuild our market share and further reduce our costs.
+Loss from continuing operations net of tax was $249 million in the quarter compared to a loss of $114 million in Q1 2013.
+The results declined primarily due to lower sales.
+However the results were also negatively impacted by the incremental cost of adding SCR after-treatment systems to our products and asset impairment charges to be discussed later.
+Turning to Slide 10.
+We will begin to discuss our business segments as revised last quarter.
+The North American truck segment loss of $207 million increased over the prior year's loss of $101 million due to the mid-range engine emissions strategy transition and lower military sales.
+This resulted in lower volume and margins.
+Reduced SG&amp;A expenses in engineering and product development costs helped partially offset the impact of lower revenues while asset impairment charges diminished results.
+The North American parts segment profit decrease of $13 million to $104 million in the quarter of -- first quarter of 2014 was primarily driven by decreased military sales partially offset by lower SG&amp;A expenses.
+The global operations segment loss increased by $23 million year-over-year in the first quarter of 2014 to negative $33 million.
+This was driven by lower volumes in our South American engine operations and unfavorable currency tied to exchange rate fluctuations in the Brazilian real as well as lower export truck sales.
+Financial services segment profit increased slightly to $23 million in the first quarter of 2014 versus 2013.
+NFC's debt-to-equity ratio stood at 2.4:1 at the end of the first quarter of 2014.
+Turning to Slide 11.
+First quarter 2014 EBITDA was a loss of $110 million which included $52 million in preexisting warranty adjustments $18 million related to impairments on potential sales of assets in the North American truck segment and $3 million in the quarter for charges related to the company's announcement regarding the consolidation of our mid-range engine manufacturing facilities.
+We will also incur accelerated depreciation for machinery and equipment related to these facilities over the balance of the year.
+As a result adjusted EBITDA was a loss of $37 million for the first quarter which was better than the company's first quarter estimated loss of between $50 million and $100 million.
+The $52 million in preexisting warranty adjustments for the first quarter are higher than the $40 million incurred last year but down substantially from the additional accrual of $152 million taken in the fourth quarter of 2013.
+Prior period adjustments were weighted fairly equally between our medium and big bore engines.
+Turning to Slide 12.
+We have reconciled our actual ending manufacturing cash balance against the guidance provided on the company's last earnings call.
+We ended the quarter with manufacturing cash and marketable securities of approximately $1.1 billion at the high end of our guidance.
+We had lower capital expenditures than forecast in the quarter.
+However we still expect full year capital spend to be approximately $150 million.
+Additionally net working capital was stronger than expected as certain payables that we anticipated to be paid in the end of Q1 ultimately were paid in early Q2.
+Looking at Slide 13.
+The Q1 2014 manufacturing cash balance of $1.1 billion continues to be strong as seen in historical context.
+We will continue to monitor our cash balances closely with an eye toward our convertible debt maturity later in the year and we'll look to improve our capital structure over time as cash flow improves.
+Turning to Slide 14.
+We expect manufacturing cash at the end of the second quarter to be in the range of $1 billion to $1.1 billion consistent with guidance for the first quarter.
+Consolidated EBITDA for the second quarter is expected to be positive in the range of $25 million to $75 million.
+This excludes preexisting warranty accruals and onetime items consistent with how we provided the estimated range last quarter as preexisting warranty accruals and onetime items usually do not have a significant impact on cash in the quarter.
+CapEx cash interest pension and OPEB funding in combination are expected to have similar cash flows in Q2 to those we provided for Q1.
+On the other hand the change in net working capital is expected to be positive as volumes build during the quarter even after as I mentioned earlier we paid certain payables in Q2 that were originally forecast in Q1.
+Slide 15 shows our long-term goals as we discussed last quarter.
+As we continue to execute on our strategy we should expect to deliver improved performance as the year progresses towards our longer-term EBITDA goal of 8% to 10% margin exiting 2015.
+Let me provide some additional color on the individual line items.
+One there's no change to our current fiscal year industry or market share forecast.
+However we are encouraged by higher recent industry orders as well as the improvement in our backlog as Jack will discuss.
+Two we continue to drive material and design cost reductions to offset the cost of adding SCR after-treatment to our products.
+Three as Troy mentioned earlier we continue to make significant progress in our efforts to lower our structural costs.
+And we're off to a great start towards achieving our 2014 structural cost reduction goal of $175 million.
+For the quarter structural costs showed a year-over-year reduction of $67 million.
+These savings were achieved by making tough but necessary decisions to reduce headcount rationalize certain engineering programs and increase our focus on controlling spending.
+And four while it's difficult to forecast our warranty expenses should decline on a full year basis from high levels in 2013 as a the number of EPA 2010 EGR engines in the base and extended warranty periods begin to decline over the year; b we continue to roll out our SCR engines on our heavy and medium trucks; and c we increase our engine offerings from Cummins who in turn bears the warranty risk on these engines.
+Finally on Slide 16 we're pleased that the first quarter results are consistent with our commitment to meet our long-term EBITDA goals.
+Adjusted EBITDA beat guidance despite lower anticipated revenue year-over-year as aggressive structural cost reductions continue.
+And manufacturing cash in Q1 was at the upper end of guidance and has met or exceeded guidance for the last 6 quarters.
+In closing as I said in the last quarter we are focused on the key drivers to deliver on our long-term goals.
+Positive signs on an improving economy truck industry and market share coupled with our continued cost reduction initiatives and cash focus across the enterprise should position Navistar for success in the future.
+I will stop here and let Jack provide more insights on our Drive to Deliver plan.
+Jack? Thanks Walter and good morning everyone.
+Today I'll cover Navistar's operational progress in the quarter.
+As both Troy and Walter indicated this is a quarter where we continued to make progress and we expect you'll see more of that from us going forward.
+If you turn to Page 18.
+For the past few quarters I've started with an overview of what's happening with quality and warranty.
+And I'm pleased to say that the performance and the quality of our new SCR-based products continues to be very good and that's reflected in the backlog and production figures that I'll share with you shortly.
+And as Walter indicated there's really no new news on the warranty front.
+So let me start with the industry.
+We're not going to change our forecast here.
+We're just continuing to forecast 2014 Class 8 sales from an industry of 220 000 to 230 000 retail sales.
+But we're going to continue to monitor this closely as freight volumes fleet profitability and recent order intake indicates there could be some upside here.
+On Slide 19 our retail market share goal for 2014 remains at 21%.
+This figure includes U.S.
+and Canada Class 6 to 8 trucks and buses.
+Our combined market share for the first quarter was 16% so we have some work to do.
+And we're not satisfied with the rate of our progress.
+Our Q1 didn't meet our internal goals primarily because of the end-of-the-year competitive activities.
+However we're encouraged by our strong bounce-back in the month of January.
+That's when we saw our highest Class 6/7 and Class 8 retail market share in the last 6 months 22% and 18% respectively.
+This led to a combined share of close to 20% for the month.
+Rebuilding our market share is one of our highest priorities and we're doing everything we can to win customers and reestablish our position in the market.
+Our competitors have been aggressive in the past few months closing deals and providing year-end financial incentives to their dealers.
+So along with our dealers we have responded in a like manner and our determination to grow our share is unwavering.
+Let me share some figures that give us confidence in our progress.
+Our February orders were 67% above our average monthly level in Q1 and margin is off to a very similar start for us.
+At the end of Q1 our truck and bus backlog was up 56% year-over-year and up 10% from the end of our fiscal year.
+In addition we expect North America production for us in Q2 to be up 20% to -- 25% to 30% from Q1 and 20% to 25% compared to Q2 of last year so this is very encouraging for us.
+On Slide 20.
+We've said all along that we have excellent products and the industry agrees.
+And proof of that just came a few weeks ago when we swept the 2014 American Truck Dealer of the Year honors.
+Our ProStar with the ISX engine and our TerraStar 4x4 were named the Heavy-Duty and Medium-Duty Commercial Trucks of the Year.
+These awards were based on innovation and design safety and driver and owner satisfaction.
+Now these market trends and the product awards give us confidence that we're on the right track and we're gaining momentum in the marketplace.
+We have the products the dealers and the customer relationships to win.
+We just have to go faster.
+On Slide 21 let me now turn to our restructuring efforts on the engine side of our business.
+We've taken numerous steps to improve our product line and our cost structure over recent months.
+We've introduced the Cummins ISX and the MaxxForce 13 SCR in all of our Class 8 trucks and the ISB in our Class 6/7 trucks and our school buses.
+These launches have gone extremely well and they're an important part of our marketplace momentum.
+On the cost side we announced 2 weeks ago that we would idle one of our Alabama engine plants and consolidate mid-range engine production at Melrose Park.
+This will save us more than $22 million per year.
+This is very similar to the actions we took a year ago at our Garland truck plant which is saving us $35 million annually.
+On the engine product front we told you in September that we would keep you updated on our engine strategy.
+Since then we've made some important decisions that I'll share with you today.
+These decisions position us well in the market and allow us to maximize our investments with the best returns.
+Our ISX platform to date which includes the MaxxForce DT and the MaxxForce 9/10 spans from 215 to 350 horsepower.
+The high end of this range serves a very specialized vocational market: construction trucks snowplows utility vehicles for example.
+Our engine is uniquely suited to these products and it's critical to our value proposition.
+Thus we will add SCR to the MaxxForce 9/10 engine that serves this market.
+We're taking orders now and will begin production this summer.
+The DT engine that serves the low end of this market is a fantastic engine with a great reputation for reliability and durability in the market but the market for this engine has shifted.
+Vehicles in this segment incur low annual mileage and a lighter duty cycle.
+And as such the market has gravitated to lighter-weight smaller-displacement engines that more adequately address the needs of this segment.
+Over the past several months our customers and dealers have overwhelmingly selected Cummins ISB when ordering trucks and engines for this market.
+So our strategy for the engine business continues to be to offer the right blend of proprietary and purchased engines which we will believe is integral to our success.
+Our product line will include a complete line of SCR engines with the MaxxForce 9/10 and the 13 liter and the Cummins ISB and ISX and we'll continue to offer the EGR versions of the MaxxForce DT and the V8 with credits while they are available for the next few years.
+This will -- this approach will provide us the broadest and strongest lineup in the market and avoid substantial product development costs which part of can be redeployed to truck product investments.
+These decisions demonstrate our continued resolve to do what it takes to return Navistar to profitability.
+So let's turn to Slide 22 and I'll make a couple of additional points about the quarter.
+Used trucks performed very well and the market is very good today for used trucks.
+We delivered the best first quarter sales volume that we've ever reported.
+As anticipated ending inventory grew in the quarter but it was lower than what we had expected.
+However as we have stated we do expect the inventory to rise in Q2 and Q3 due to both large customer deliveries and Class 8 market share growth.
+In manufacturing our efforts to improve efficiencies across all our plants continue thanks to our lean initiatives.
+But lean is not just limited to our truck and engine operations.
+We're also rolling out initiatives enterprise-wide within our corporate functions.
+Globally our results continue to be impacted by lower volumes in Brazil due to the economic uncertainty in that country as well as exchange rate fluctuations.
+We've also had lower export sales and lower sales in Mexico primarily as a result of the continued weak industry conditions one market in particular Colombia where we've traditionally owned a good portion of that market and have had great strength.
+So in summary we continue to fight to improve our marketplace position.
+We have great product offerings and the industry agrees.
+And the customers are taking notice.
+Our sales efforts are beginning to pay off as evidenced by our January and February performance and this gives us confidence that we're gaining momentum and we have what it takes to win.
+Our engine restructuring efforts and our other cost measures put us on a positive trajectory towards our 8% to 10% EBITDA run rate exiting 2015.
+So now let me turn it back to Troy for some closing remarks.
+Okay.
+Many thanks Jack.
+All right.
+A loss of $37 million EBITDA after adjustment isn't where we want to be.
+However from where I sit I am encouraged given the challenges that we faced.
+Last quarter we looked at our Q1 forecast and we told you what we could do and we did it.
+We believe our performance will improve from here.
+We got a lot done in 2013 and we're entering 2014 as a much better company than we were just this time last year.
+However we do recognize there is more work to do and we're getting it done.
+Regarding the second quarter 2014 we believe Q2 chargeouts will continue to improve given the introduction of the ISB in our medium-duty trucks and buses and the growing acceptance of our ProStar with ISX and our 13 liter.
+Mix will begin to shift in the quarter to shift more to medium-duty and bus products.
+Volumes in our parts segment are expected to be higher.
+Manufacturing cash is expected to be in the range of $1 billion to $1.1 billion.
+Q2 EBITDA guidance is $25 million to $75 million.
+We project continued progress on our structural costs and better material performance over the first quarter.
+Our full year 2014 forecast largely remains unchanged.
+We're forecasting a combined Class 8 industry of 220 000 to 230 000 retail sales.
+Although the market seems poised for more the next few months will tell.
+And we project our Class 6 through 8 bus -- truck and bus share to be 21%.
+Our year-over-year structural cost savings target remains at $175 million and we will continue to drive lean initiatives across all areas of our organization to further drive costs down.
+We are driving material cost reductions to offset the added cost of SCR.
+And entering 2015 we still plan to reduce another $1 400 in cost from our 13 liter SCR engines.
+We expect $50 million to $60 million in year-over-year manufacturing cost savings from our Garland plant closure and other lean initiatives we instituted at our manufacturing facilities in the course of 2013.
+This year's engine consolidation efforts will save greater than $22 million in 2015.
+We will continue to strengthen our international brand to position Navistar for return to profitability.
+Our customers are excited about our new trucks and we're seeing an increase in repeat orders.
+Reclaiming our position in the marketplace remains our top priority.
+And our goal of an 8% to 10% EBITDA run rate exiting 2015 remains on track.
+So with that I'd like to thank you for your time this morning.
+I'll turn it back to Heather.
+Let's open it -- let's open the call to some of your question.
+[Operator Instructions] So operator we're ready to open the lines.
+[Operator Instructions] Our first question comes from David Leiker with Baird.
+Research Division</strong> I wanted to talk about these incoming orders.
+And I know you left your numbers where they are.
+We've had 4 out of 6 months here with very strong orders better than -- above the 300 000 annualized number.
+What's the reason for not starting to bump your full year estimates up of what you think the market is going to do? Well David this is Jack.
+I guess for right now we are bumping our production as we indicated in the second quarter.
+So I mean we're taking the actions based on the incoming orders.
+We're really just trying to give it a little more time to understand the delivery schedule for these orders.
+Not every order is the same.
+Some of them are for immediate delivery.
+Some are for spread-out delivery throughout the year.
+So we're very encouraged by what we're seeing from an order intake standpoint and we do think the industry is poised to be -- poised to be higher than maybe what we had estimated.
+Research Division</strong> And I don't think I heard you put a number on what your market share was of orders for the quarter that just finished.
+I don't think I did that either.
+Research Division</strong> Can you share that? What's heavy duty and medium duty? If you look at Class 6 to 8 so the number I have here doesn't have bus in front our orders for the quarter were 12.5%.
+Research Division</strong> That was for the January quarter? That was the January quarter.
+So as I indicated here there was a lot of competitive activity in the quarter and a lot of year end -- for competitors their year end and their fiscal year end.
+And we responded in kind primarily with a program with our dealers and with end users that was in the month of February.
+And consequently our order intake in February was very encouraging.
+As I indicated it was almost 70% above what we saw in the first quarter.
+Our next question comes from Andrew Kaplowitz with Barclays.
+Research Division</strong> Jack or Troy can I follow up on that question? You obviously had a better February in terms of orders.
+Do you think you've now gotten over the hump on your market share trend? And how should we look at the increased competitive behavior of your competitors? Is it just end of the year or are they responding to you actually trying to go get share? We know you have a stated goal.
+So how do you think about that? Andrew this is Troy.
+Thanks for asking the question because I guess I would kind of -- let me just take it in the series that you asked it.
+Are we over the hump? The fact of the matter is is this is a great market the truck market is and there's great competitors in the market.
+And we're going to be fighting back and forth with each other I think for market share every day basically of the year.
+So we're not at this point in time claiming victory.
+But we are -- we have established we believe a positive trend that we're going to continue throughout the year and move back to -- and we're certainly going to move to our target but on top of that we have aspirations to go even higher as we speak.
+So no we're not claiming victory yet with regards to all the work we've done.
+We make these sales kind of one at a time and we're really focused on doing that and doing that well and we think we have the opportunity to do that.
+Clearly there's no doubt.
+I mean back to your point there's a lot happening at the end of the year.
+We did have some success as we got -- at the end of September we had the entire portfolio of Class 8 products launched with our ISX and our 13-liter engine.
+And we went out in a big way and the market responded very favorably to us in the months of October and November for sales.
+And no doubt in my mind that the competition kind of responded in time for the end of their fiscal year which is at the end of the calendar year.
+So I think there was a little bit of tit for tat there.
+And -- but that said I think there's some upward pressure on the market personally.
+I think we need to kind of let the water -- the choppy water kind of play out.
+And as the choppy water kind of plays out I think the market is coming up a little bit.
+And I think that that's good for all of us right everybody who participates in the industry.
+And we don't feel bad at all quite frankly about our ability to compete.
+We think we got the products.
+They perform.
+We got customers that like them.
+And so this is one of those times where you can't wait to get to work every day because we're finding another customer who wants to talk about some of the products we have to sell.
+Research Division</strong> That's helpful.
+Just shifting gears and thinking about your global operations business.
+Jack mentioned weakness in Colombia.
+Brazil has its issues.
+How do we think about that business in 2014 and beyond? And do you need to do more in that particular business? You've talked about sort of strategic possibilities for that business too.
+So how do we -- what should we think about the global operations business in terms of profitability going forward? So the global for us -- this is just Troy.
+I'll start and then I'm going to toss it over to Jack because Jack has some direct experience with some of these markets.
+The basis of the most profitable piece of our global business outside of the engine business in Brazil was really exporting U.S.-style trucks right the trucks that got a nose on them and -- into markets like the Andean countries of South America and Central America.
+And that's a good business for us.
+And we do well in those markets.
+We have a pretty good market share.
+I think in many of those countries we are in fact the leader.
+And that's a position that we intend to maintain.
+Unfortunately those markets are oftentimes commodity-driven markets and so as commodity goes -- commodities go so goes their economy.
+And I think at this particular point in time given that and some other things that we're kind of in a little trough there but they're still good businesses for us.
+And they don't take a lot of investment but they do take a dedication of time and effort to maintain those customer relationships and that's what we're going to do.
+We need another growth opportunity however outside of those markets.
+There's no doubt those markets will respond to us but we need another growth initiative.
+And I would highlight something that we did here recently that maybe flew under the radar screen.
+But in Mexico we very recently just last year at the Guadalajara Auto Show introduced a new 3/4 5/6 cab-over product that is actually a result of our relationship with JAC in China.
+JAC is in fact the leader of that type of product in China.
+They make a very good product.
+They sell a bunch of them over there.
+And in fact we used that product base to replace an aging product line.
+Now it's not a huge segment in Mexico.
+It's kind of a segment that's in the couple of thousand kind of range.
+But we believe that that demonstrates the kind of opportunities we have to begin on the fringes in niche markets maybe a little small basically leveraging a whole different type of product architecture that should give us opportunities in some of those countries where we already have a footprint.
+I don't know Jack if you wanted to add anything.
+We're very pleased with our overall market presence in Mexico.
+The market in Mexico is typically about 10% of the overall U.S.
+and Canadian market.
+We have a great dealer network and a good product line there but the first quarter of this year the market has been very soft just due to the economic situation in Mexico.
+But it's cyclical but it will bounce back and we're positioned very well.
+Research Division</strong> Guys is it fair to say that you need the economies to turn around in those key countries first? Or can you do it with these initiatives that Troy had talked about when it comes down to it to get back to breakeven? Yes.
+I mean I think we will -- the turnaround of the North American operations does not depend on strong contributions from the global side of the business.
+Let me put it that way.
+But like a lot of businesses that export it does help cover the fixed.
+So every incremental sale doesn't -- every incremental sale that we have isn't a fully burdened sale for lack of a better term.
+So it's just all upside.
+So the more that we can explore these export markets based on largely the stuff that we do well quite frankly it's just good stuff.
+Our next question comes from Jerry Revich with Goldman Sachs.
+Research Division</strong> Troy can you talk about on the engine cost structure now that you've reached the -- these decisions over what time period do you expect to scale the cost structure according to the core SCR product lines that you're moving forward with? Obviously you've been carrying a lot of overhead to support the other product lines.
+And what's the timing of when we start to see those costs roll off related to the products that are going to be less of a focus going forward in engines? Yes.
+Jerry I think I'd kind of like to respond to that.
+I can answer try to answer anything more specifically you might ask.
+But it's -- let me say that it's a kind of a constant drumbeat.
+We're trying to get that stuff done as quickly as we can.
+But it pretty well will be done by the time we get to the end of 2015 in that it is a portion of that 8% to 10% EBITDA.
+Getting those margins normalized and those contributions to our business normalized is something we have a clear line of sight on between now and the end of 2015.
+As you can imagine though it does take some study.
+It does take some preparation and we have to be thoughtful about how we do that.
+So I think we've kind of had a drumbeat of those kind of announcements here and I think you can kind of expect those -- some more of those announcements going forward again in a pretty steady drumbeat but on a path that says by the end of 2015 we should have the restructuring initiative behind us.
+Research Division</strong> And Troy I think in the past you've said on the 13 liter platform on a standalone basis relative to market pricing you were pretty close to profitability on the product on a standalone basis.
+Can you just give us an update now that you're going to be getting the material cost reductions how much confidence do you have that the underlying margin profile if we could -- just about the engine is net additive heading into '15? Hey Jerry could you state that again? Because I thought I understood the question you asked and I was working my mind down one way and I think I ended up in the wrong spot.
+So just please ask that again please.
+Research Division</strong> I apologize.
+So the question was Troy I think in the past you have said that the 13-liter engine platform on its own was pretty close to profitable.
+I think you said that a couple of quarters ago and I'm wondering can you just give us an update as we head closer to '15 and you continue down the path of getting the manufacturing footprint adjusted do you expect relative to market pricing for similar engines the 13 liter platform to be earnings additive in '15? Got it got it Jerry.
+Thank you for raising that because there are 3 important points that we were going to make there and I'll just go back to those that I have referenced previously.
+The first is is we have some EGR hardware that we need to take off of the engine okay? And in my comments I referenced a $1 400 number that comes off by the end of the year.
+It's just EGR hardware that we don't need anymore for the SCR because of the function of the SCR system.
+That really does bring a piece of cost off of the engine and we're able to take that as a material cost savings to the bottom line.
+The second piece is is there are some other ancillary systems on the truck itself that once you get that hardware off it allows us -- so there's another tranche of cost savings.
+And I think in the past we have said it's kind of in the neighborhood -- it's similar maybe $1 000-ish that comes off.
+That kind of comes off by the end of 2015 in our current plans okay? So we wouldn't see the benefit of that probably until 2016.
+And then the third piece of this is really the warranty winding down right? I mean now we're accruing warranty I think at a higher rate today because of the way we do it than what we will need to do okay as we go through the year and certainly into 2015.
+And when you take those 3 pieces we believe that we have a competitively cost-performing 13-liter engine which contributes value to not only the business but certainly to the portfolio.
+Our next question comes from Ann Duignan with JPMorgan.
+Research Division</strong> I just wanted to take a step back.
+Did you say that you pushed back payments to suppliers from out of Q1 into Q2? If that's true why would you be doing that? I did indicate -- Ann it's Walter -- that we had some payments that moved to Q2 from Q1.
+Those are not our normal supplier payments.
+They're certain onetime items that we thought were going to hit in the quarter that hit in Q2.
+So payment terms of suppliers haven't changed per se.
+Research Division</strong> Okay.
+That's good good good to hear.
+And then my follow-up question was around the whole pricing and the aggressiveness of your competitors.
+I think that's just a characteristic of the truck industry.
+And should we be concerned going forward that -- one of the big risks all along has been that Navistar would have to periodically buy market share.
+Is that what you just did to get the share back in February? And just help us alleviate that concern a little bit going forward.
+Yes.
+So Ann this is Troy.
+So I'm kind of smiling here because as we prepare our notes for this and in my own experience we always want to say "Hey it's a really competitive market out there." And one day we finally ask ourselves "When has it never been a competitive market?" So I think you've really hit something that is key right? It is just the nature of the beast and we're certainly capable and prepared to perform in the market.
+One of the reasons why we have pushed so hard on our cost profile and our cost structure is because we don't know what we don't know but we need to be prepared for -- to participate in the market whatever the market pricing might be.
+And you know how trucks are sold.
+Trucks are sold in packages to customers.
+And we work very hard to get the deals that we think are fair value for the services that we're -- the services and functionality we're rendering.
+And sometimes we do better and sometimes we don't do better.
+But there's a very positive pressure so to speak now that we have great products to sell to make sure that we have market prices around those products.
+And maybe it's a judgment call and some people would view the data maybe a little bit different than we do but I wouldn't put a wholesale banner on it to say that we're out there buying market share.
+We are using some of the reduced cost opportunities that we've identified to be aggressive in the market.
+But I'll just tell you we don't win every deal that we're on.
+And so that's kind of the index to me that we're not kind of -- we're not giving trucks away at any cost.
+We are attempting to be smart and we're attempting to be aggressive.
+And those are -- like you say it is a competitive market and we want to be competitive and aggressive as well.
+And so everything we do is really in line with our financial goals.
+And I think overall we're making the right judgment the right calls there.
+Jack I don't know if you'd put a different spin on that but...
+I think -- no I think that's exactly right.
+And you're right it is a competitive market.
+There -- in spite of where we are there continues to be excess capacity at every truck manufacturer on the market.
+So every deal is negotiated very hard and every competitor is on every significant transaction that we are.
+Our next question comes from Andrew Casey with Wells Fargo.
+LLC Research Division</strong> On the engine strategy Jack I just wanted to go back and make sure I am interpreting the comments correctly.
+Is it fair to say that you're going to produce the lower-end MaxxForce DT until the credits run out? And after that occurs is it also fair to suggest that Shenten D [ph] is an external supplier for a replacement engine? Well Andy over the last number of months our dealers and customers have had the opportunity to choose for that light end of this argument either the DT engine or the ISB engine.
+And based on the order rate that we're getting that we're satisfied with and that mix the market is clearly shifting to that lighter-weight power density engine of the ISB.
+So our current plan here is to put the SCR on the MaxxForce 9/10 continue to sell DTs with EGR and at least at this time not plan to put SCR on the DT -- on the light end of the DT.
+LLC Research Division</strong> Okay.
+And then I'm just trying to understand the longer-term implications.
+I know we're all focused on this year next year.
+But if you exited that portion of the engine manufacturing segment does that impact your parts business in a significant fashion let's say 5 years from now? The -- certainly we enjoy the parts business from the proprietary engines.
+But the position that we've taken here with external suppliers is that we need to participate in that also going forward.
+Our next question comes from Brian Sponheimer with Gabelli &amp; Company.
+Inc.</strong> Not to look backwards but just the $52 million accrual in the quarter you said that was split between the EGR and mid-range engines.
+Was there anything different about these particular accruals relative to what we've seen over the course of the last 6 quarters? No.
+I mean there's -- as Jack indicated there's really no new news there.
+They're the same type of items we've seen before.
+The weather has been pretty tough in the North so that's probably speeded up some of those accruals versus what we might have otherwise seen over time.
+But as we're looking at it really there's no new news there.
+Inc.</strong> Any idea on how far you are through the addressable market of the medium-duty engine? I would just probably refer you back to the chart we showed on our last quarterly call which has gotten a lot of publicity as kind of the best indication of where we are there.
+Inc.</strong> Okay.
+And cash out for warranty in the quarter versus expense? Trying to remember what the amount was versus expense.
+Looked like a little over $60 million is that -- yes I guess it's $30 million Brian versus expense.
+Inc.</strong> Okay.
+And Jack just a question on what's driving the performance in used vehicles in the quarter? You mentioned you had a really nice quarter from a sales perspective.
+How is pricing holding up? Pricing is fine.
+Again there's -- the market for used is strong for a number of reasons.
+I think one is the economic -- the economy is helping that part of the market.
+The fact that there wasn't a lot of new trucks built 3 4 years ago when we were in the throes of the recession so consequently the supply of late-model used trucks is pretty low right now.
+So the overall supply-demand economics are pretty good for used trucks.
+So sales are good and values are good also.
+Our next question comes from Steven Fisher with UBS.
+Research Division</strong> In a previous question you mentioned that on the warranty expense it's really just kind of more of the same issues that you've been experiencing.
+So I guess just to clarify is this just for trucks that have not come in with issues before and now are -- have to be addressed on these kind of same issues? Yes.
+I guess that's right.
+And kind of as we run it through our models what we projected to be over time so if you see some more activity in the quarter that probably also drives additional accruals in our models of what we would expect over time just as we run that through there.
+But my comment about no new issues is kind of what types of failures are we seeing and I don't think there's been any new learnings there in terms of new problems that we haven't seen before.
+It's just a function of what we think those are going to cost us over time.
+And historically even before some of the EGR-related issues that we've had we would tend to have preexisting warranty adjustments in the quarter on average.
+So we shouldn't expect that necessarily to be 0 in the quarter.
+And then that's why we've kind of called out -- we've given our guidance on cash and included a piece in there related to EBITDA but we really provide the EBITDA information as a guide to how it would impact cash in the quarter not necessarily what overall profitability is going to be including all items.
+Research Division</strong> Okay.
+That's helpful.
+And then just on the parts when do you think you can start to see some year-over-year growth in that segment returning? We do expect here in the second quarter to see the parts business continue.
+I think Walter mentioned and Troy mentioned that.
+So the first quarter was somewhat impacted by what happened in our fourth quarter.
+But we are seeing here in the second quarter a more normalized sales level and we are seeing some nominal growth on a year-over-year basis.
+Our next question comes from Joel Tiss with BMO.
+Just one clarification.
+The triggering event on the asset impairment is that closing the factories on the engine side? That is the idling of the Huntsville facilities.
+So there was $3 million of that in the quarter.
+But perhaps you're asking about the additional asset sales that we've kind of signaled in the quarter where there was $18 million related to that.
+That is part of our ROIC initiatives.
+Nothing to announce today.
+But as we took a look at that in the quarter I guess we're signaling there's some activity there that we'll probably be talking to you about in the future probably on the next call.
+Okay good.
+And then on the Class 5 to 7 and Class 8 I don't know if you can break it out for us but can you just remind me again what market share correlates with the 8% to -- or even 8% to 10% exiting EBITDA margin? Yes.
+What we have said is we said an industry that is between -- we said 22% to 24% that range of a market that's a little bit higher I think that's -- total Class 6 through 8 would be at 325 000 to 350 000 unit market.
+So 22% to 24% of 325 000 to 350 000 that's the -- kind of what's baked into the exit run rate for 2015.
+And then would you be nice enough to give us a breakdown between the Class 8 and the 5 to 7? We -- I'll tell you what why don't we just -- why don't you call -- Heather why don't you just arrange a follow-up.
+We'll find out what we won on that.
+We typically don't give that kind of detail but we're leaning to giving you as much detail as we can.
+Let me ask Heather to follow up on that.
+We'll follow up with you Joel.
+And we just don't clarify -- just so you know we don't typically clarify this question.
+Our next question comes from Ted Grace with SIG.
+LLLP Research Division</strong> I was hoping to circle back on the parts side of the business.
+Could you just maybe expand a little bit more on Military over the course of 2014 and then speak to profitability at Blue Diamond? Okay.
+So I'll just lead off there.
+I'll get my colleagues here join in.
+And so we have seen a significant reduction in -- I think I referenced in my remarks reduced sales or something to that effect.
+So with the wind-down of the conflict and the retrenchment of the U.S.
+Military strategy with regards to wheeled tactical vehicles we have seen a significant decline in spending for full vehicles which pretty well worked their way out I think through the system into early 2013.
+And then we've basically been in an asset sustainment mode for the fleet of wheeled vehicles that exists.
+So as we've made like I think a little bit over 8 800 of these vehicles and we're working with the military currently to determine what portion of that becomes part of the permanent fleet and then where are those vehicles disposed the initial information we have is that it's a much lower number than 8 800 but it's still a substantial number.
+And then because there were so many parts in the system basically in these 8 800 vehicles what we have seen is we have seen some retiming of planned parts and upgrade kit purchases and we've seen some of that retiming out of the last part of last year and out of the first part of this year.
+We are expecting some of that revenue to flow by the end of the year but we are not expecting a lot of -- we aren't expecting new vehicle sales basically to take place between now and then.
+So we have a revenue estimate we believe for the calendar year for the fiscal year for us in the Military business that's between $200 million and $300 million.
+And as you know if you've been following us you know that that's significantly lower than how we've been previously.
+In that I mean the great thing about our Military business is we don't have a large fixed cost structure.
+I mean I think part of the case study around the Military business of Navistar was how agile the company could kind of ramp up with very nominal incremental costs and how we've been able to flex our cost structure to be able to have a profitable and a business that I think that has sustainable returns even at those levels of revenue.
+But at least in its current form the growth prospects this year are different than they were just a couple of years ago.
+That's what I can talk to you about in Military.
+If there's a more specific question we can try to answer that.
+With regards to Blue Diamond Parts Blue Diamond Parts is a very interesting business for us very -- shares some of the same characteristics.
+It's largely a revenue business that has a very controlled cost stream but it does service a fleet of vehicles which declines over time.
+Now that's a large fleet of vehicles but that vehicle part begins to decline.
+And as it gets older one of the challenges for Blue Diamond Parts is is that in fact you begin to compete against non-OEM sources of the very replacement parts that we sell.
+So Blue Diamond Parts is an excellent example I think of a marketing initiative where we not only sell to kind of first owners through the OEM structure but also to second and third owners of products which tend to have -- which basically tend to have a long life -- a long useful useful life.
+So Blue Diamond Parts is something that eventually that population wears through but it's a sustainable piece of the business for many years for us.
+I don't know if that's getting to the question.
+We typically don't break out the Blue Diamond Parts results for everybody to see but it is not a drag on our business.
+It's in fact something we think we do pretty well.
+LLLP Research Division</strong> I guess what I was curious about Troy was just was there anything in the quarter itself that drove at least a market shift down -- a shift in -- change in profitability at Blue Diamond? No there was nothing unexpected with regard to the quarter.
+There were some seasonality with sales of Blue Diamond Parts just like there is in many parts of the business but nothing out of line with last year or what we've seen in the past.
+LLLP Research Division</strong> Okay.
+And then the second question I was hoping to ask is you talked about the bit of a nice uptick in February orders.
+Could you just characterize in light of how competitive the environment is what the unit margins might look like on those orders kind of relative to the uptick in 1Q? No we...
+We all looked at Heather.
+No that's just not something that we typically share in our results.
+LLLP Research Division</strong> But would it be fair to assume that your comments on the challenging competitive nature have some reflection of what margins are likely to look like for everybody because it's -- if it's getting tougher and tougher and people are competing on pricing terms should we just build that in the expectation I guess to ask differently? Yes.
+I don't think that we're trying to indicate to you that people are competing any differently than they ever have in the past.
+We don't believe that we see a major shift in pricing the wrong way.
+I think it's really just a continuation of the competitive dynamic in the market that has existed for basically for quite some time.
+As Jack indicated it's more of a phenomenon that all -- there's 4 major players in the market.
+All 4 of us are typically on all the major deals and it's basically a competitive -- it's a competitive bid.
+And last year I think pricing held rather firm.
+This year it's our expectation that it will I think do the same.
+Yes.
+Hold on just a second.
+Walter is going to...
+Yes.
+I was just going to say I mean it's really a function of how much price can we get in the market and we don't necessarily see that improving significantly given the competitive dynamics.
+But I think you also need to see against that on the cost side we're continuing to take actions which are going to make us more competitive in those discussions going forward.
+So there's 2 parts to that equation: where's the pricing dynamic and then on the other hand what's our -- what do our costs look like relative to prices we can get in the market? Our next question comes from Rob Wertheimer from Vertical Research.
+LLC</strong> Just one quick question.
+On the 13 liter the mix has shifted.
+It sort of plateaued maybe shifted a little bit more towards the common 15 liter in the last couple of months.
+Are you holding back on pushing the 13 until you decontent it or do you have any comment you can make on what it looks like in the order book? Maybe people are trying to come on late.
+I'm just curious about what you think about that trend and whether it will reverse.
+We think the overall market for 13 liters and 15 liters will normalize at about 50-50.
+That's kind of where it's been.
+It's kind of what our expectation is.
+Within Navistar right now it's a little more weighted towards the ISX I think closer to 60% and that's primarily just based on the reputation of the ISX and its familiarity with the customers in the marketplace today.
+And the 13 liter with SCR is a new product.
+It's performing exceptionally well in the customers that have it.
+So over time we do expect that ratio to more normalize at 50-50.
+But I think Rob it's more like you said.
+The fact that the 13-liter SCR is a new product in the market and our fleet customers -- our customers in general are very sophisticated.
+So kind of everybody who's bought an ISX has also most -- has also bought a 13-liter SCR and has them on test in their fleets and the results we're getting back are very encouraging.
+So we have a lot of customers who have a preference for 13 liters or certainly want an appropriate mix of 13 liters in their fleet and as they accumulate more mileage on our 13 liters we are seeing what I referenced in my comments repeat orders.
+The guy that took 10 of them now they're coming back and taking a couple of hundred of them.
+So we would anticipate that that would -- that this order intake will shift back towards that 50-50 over time.
+It will take -- we'll -- the trend will just continue I think throughout the end of the year and maybe even into next year a little bit given the choppiness of some of those purchasing decisions.
+But it has already begun to shift and we're quite encouraged.
+But we're not holding back on the [indiscernible].
+Ladies and gentlemen in the interest of time that concludes the Q&amp;A session.
+I will now turn the call back over to management for closing remarks.
+We'd like to thank everybody for participating today.
+If you have any follow-up questions please contact myself or Randy Diaz at (331) 332-2337.
+Thanks.
+Ladies and gentlemen that does conclude today's conference.
+You may all disconnect and everyone have a great day.

@@ -1,0 +1,471 @@
+Good day ladies and gentlemen and welcome to the Fourth Quarter 2011 VeriFone Systems Inc.
+Earnings Conference Call.
+My name is Regina and I will be your conference operator for today.
+[Operator Instructions] Today's event is being recorded for replay purposes.
+I would now like to turn the conference over to your host for today Mr.
+Doug Reed Treasurer and Vice President of Investor Relations.
+Please go ahead Mr.
+Reed.
+Thank you Regina and welcome everyone to the VeriFone Financial Results Conference Call for the Fourth Quarter of Fiscal Year 2011.
+Today's call is being webcast with both audio and slides available via the link in the Investor Relations area of our website ir.verifone.com and a recording will be available on our website until December 21 2011.
+With me today in VeriFone San Jose California headquarters is our CEO Doug Bergeron; and our CFO Bob Dykes.
+First for the legalities.
+VeriFone desires to take advantage of the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Certain forward-looking statements in this conference call including management's view of future events and financial performance are subject to various factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements.
+For a description of these factors I refer you to our filings with the Securities and Exchange Commission.
+Any forward-looking statements speak only as of today and VeriFone is under no obligation to update these statements to reflect future events or circumstances.
+In addition today's call will cover certain non-GAAP financial measures on both historical and forecast basis.
+Our management uses these measures to evaluate our operating performance and to compare our results to those of prior periods as well as to those of peer companies.
+These non-GAAP measures are not substitutes for disclosures made in accordance with GAAP.
+Reconciliations of these measures to the most comparable GAAP measures are presented in our earnings release which is available on our website.
+[Operator Instructions] Now I would like to turn the call over to Doug Bergeron CEO of VeriFone.
+Thanks Doug and good afternoon everyone.
+We are delighted with the results of our fourth quarter and fiscal year 2011.
+For the eighth consecutive quarter we posted all-time record results.
+Q4 non-GAAP revenues were $416 million a 51% increase over the previous year.
+This is also the sixth straight quarter that year-over-year growth rates have exceeded 20% even when you exclude the contribution from the Hypercom business that we acquired in August.
+Sequentially we had quarter-to-quarter growth of 9% excluding Hypercom our highest sequential growth rate in many years.
+We continue to see the benefits of our new business initiatives as non-GAAP services revenue comprise 22.5% of total revenues in Q4.
+We were able to grow cash by $11 million to $595 million despite paying Hypercom transaction and restructuring costs and paying off Hypercom's entire $71 million debt.
+Operating cash flow was a near record $53 million.
+Non-GAAP fully diluted earnings for the fourth quarter were $0.53 per share 33% higher than the $0.40 per share results a year ago.
+Today I will review our performance by region and follow with comments on some of our strategic activities including an update on the Point acquisition.
+Finally I will turn the call over to Bob who will provide a detailed review of the financials and update guidance.
+Our international operations led the way in Q4 posting year-over-year growth of 95% including our Hypercom results and 51% excluding Hypercom as well as phenomenal sequential growth of over 19% excluding Hypercom.
+Latin American sales were once again at record levels with particular strength in Brazil where we are seeing strong demand for our VX Evolution systems.
+We also enjoyed key customer wins in other countries across the region including in Puerto Rico Mexico and Central America.
+In Europe the Middle East and Africa revenues grew 60% on a year-over-year basis and 15% sequentially excluding results from our Hypercom acquisition.
+In the U.K.
+we generated strong revenues in the retail and banking sectors with key wins at Jusins [ph] Farmfoods and Selfridges.
+In London we've partnered with Visa to increase installation in adoption rates of in-taxi payment and media systems in London cabs.
+And as part of this effort Visa has launched a $4.4 million media campaign on VeriFone Systems to be aired during the 2012 Olympic Games in London.
+We have now signed nearly 7 000 taxis to 5-year processing agreements.
+We still expect to have 10 000 taxi installed prior to the 2012 Olympics next summer.
+We made some great progress in our expansion into Africa with our first orders for VX Evolution systems to be supplied into Nigeria.
+This is a project driven by the Central Bank of Nigeria to turn Lagos into an electronic payment society and cut down on a black market currency trading that takes place today.
+Projected systems deployments over the next few years will be in the hundreds of thousands.
+Finally elsewhere in Europe we generated excellent sequential and year-over-year growth in Russia and in Turkey.
+Moving onto Asia we recorded great results in the fourth quarter.
+Revenues were up 51% from a year ago and up 5% excluding Hypercom.
+Our business in Australia and India remain very strong with 29% sequential growth excluding the impact from Hypercom.
+In Australia we completed migration of St.
+George Bank Bank SA and Bank of Melbourne's 40 000 point-of-sale terminals to VeriFone's fleet services management systems.
+In addition we made delivery to GM Cabs for the first 2 000 VX 680 Evolution mobile solutions in Australia.
+In India we continue to see strong demand with wins at HDFC Bank First Data and Venture Infotech.
+As we look forward to Q1 FY '12 it is important to note that the Chinese New Year falls on January 23 the earliest since 2004 which will affect sales in greater Asia and shipments from our Asian contract manufacturers to destinations throughout the world.
+Now let me move on to North America where sales were down 5% compared to a year ago when many multi-lane and petroleum customers were still purchasing systems to comply with the mid-2010 deadline imposed by the Payment Card Industry or PCI.
+Recall that we were required to divest the Hypercom U.S.
+business.
+We expect one more quarter of difficult U.S.
+comparisons due to the PCI deadline.
+Recall as well that the year-ago growth rate in North America was 30%.
+We expect to return to 8% to 10% growth rates in the U.S.
+beginning in Q2.
+We had an excellent quarter of advertising and taxi revenue with year-over-year growth of 13%.
+We have now secured 10-year 10 new -- I'm sorry we have now secured new 10-year contracts to process card transactions and advertise with several taxi fleets in Las Vegas including Yellow Checker Star a fleet of 900 cabs.
+Our Multi-lane Retail business was healthy featuring key wins at several national retail brands including The GAP Dillards GMC and Jos A.
+Banks.
+The sale to The GAP satisfied their need for an innovative hardware and software solution to support the Google Wallet rollout.
+Our petroleum customers continue to sign up for an annual software maintenance on their VeriFone Gemstone systems.
+Now 75% of the 65 000 U.S.
+gas stations using the sophisticated Gemstone systems have now committed to the program up from 65% last quarter.
+We launched the software maintenance offering a year ago.
+It has successfully met our expectations thus far and we expect the adoption to continue to spread even further in 2012.
+We now believe that this is the appropriate model for many of our complex system solutions sales worldwide.
+In Q4 we installed more than double the number of Secure PumpPAY solutions that we installed in Q3.
+However for FY '11 total installations in about 5 000 pumps was below our goal set 12 months ago.
+In FY '12 we are now expecting to retrofit 10 000 to 15 000 pumps with Secure PumpPAY.
+Remember security at the pump is not mandated.
+And as we said several times during the year gas stations have been budget constrained due to tough economic conditions.
+We responded by offering a wide variety of options for varying levels of monthly payments and shares of advertising revenue through Secure PumpPay media.
+Secure PumpPay Media with video and audio functionality was released in August and many gas stations are waiting to see more data on the level of advertising revenues that can be generated.
+At the same time advertisers prefer a broad screen count before committing to national campaigns.
+We saw the same dynamic in the early days of taxi advertising.
+So while the ramp up for Secure PumpPay has been slower than expected we are definitely moving towards the tipping point of a critical mass of installations that will attract robust levels of advertising.
+The opportunity represented by hundreds of thousands of pumps in the U.S.
+still lies ahead of us and we are focused on delivering these results over the next few years.
+Now let me take a few moments to give you an update on our strategic initiatives.
+Our end-to-end encryption software for securing card hold data at a merchant is gaining great momentum in the market.
+VeriShield Protect has already been recognized as the industry standard and now that payment processors such as First Data have implemented the back end of the solution retailers are signing up and turning it on.
+Q4 was the best quarter ever for new signings.
+The customer list swelled from 50 to 66 national retailers including notables such as Dick's Sporting Goods Jiffy Lube Beverages and More! Nautica Hibbett Sporting Goods Sterling Jewelers Duty Free America Zales David's Bridal Benetton Group AAA and Kinney Drugs.
+VeriShield Protect secured 43 million transactions in the quarter and our per-transaction revenue model is holding up extremely well.
+In October the PCI Security Council finally released guidance on point-to-point encryption solutions and requirements endorsing a hardware-on-hardware approach and expanding its PIN transaction security program guidelines to include all payment card acceptance devices including those optimized for mobile devices.
+Our combined PAYware Mobile Enterprise VeriShield Protect offering is a great solution that meets these strict hardware-based encryption guidelines.
+We believe this will throw a monkey wrench into the business plans of those who have tried to short-circuit payment security requirements with cheap add-on dongles.
+We also made great progress in our mobile payment solutions initiative during Q4.
+VeriFone was awarded a prestigious SESAME 2011 Award at the card trade show in Paris for our PAYware Mobile Enterprise solution.
+As a reminder our PAYware Mobile Enterprise solution is a secure card acceptance solution leveraging iOS Android and Windows Mobile devices that integrates with existing in-store point-of-sale systems and works with all forms of electronic payments including mag stripe Chip and PIN NFC-enabled handsets and contact with cards.
+The solution also incorporates VeriShield Protect card data encryptions and a barcode scanner to provide retailers with a secure solution for mobile POS and other applications.
+Disney Stores are now rolling out PAYware Mobile Enterprise in the U.S.
+and in the U.K.
+and another well-known iconic chain with 2 600 U.S.
+stores coast-to-coast is now beginning a rollout.
+In addition Aurora Fashions will be deploying its fully-integrated solution into their brick-and-mortar stores in the U.K.
+to help with queue busting and to offer a better experience to all shoppers.
+The solution will be managed through our U.K.-based data center.
+While the PAYware Mobile Enterprise device fits around smartphones and tablets such as the iPad we can now provide retailers with the software apps to run in the phones and tablets and serve customers in a consultative passion throughout the store.
+We recently completed the acquisition of Global Bay Mobile Technologies a leading provider of next-generation mobile retail solutions.
+The integrated VeriFone and Global Bay platform extends beyond payments to offer a complete set of mobile retail applications such as inventory management clienteling CRM and task management.
+The platform includes mobile user interface management local data storage the synchronization of data and application updates and integration to many of the most common back-end systems that retailers deploy including Oracle Epicor SAP IBM and many more.
+We continue to make great progress on our strategic relationships.
+Google is now live in approximately 40 000 VeriFone lanes across the country.
+VeriFone has upgraded each of these lanes with NFC functionality and sold the VeriFone Google application and interfaces at each live location.
+VeriFone has proven invaluable in the Google Wallet initiative delivering 12 of the 13 of the SingleTap merchants listed on the Google Wallet website.
+We also continue to work very closely with AT&amp;T T-Mobile and Verizon's payment joint venture called Isis to support their 2012 pilot plans as well as scaling to support their national rollout.
+In addition PayPal is going extremely well as we are actively engaging merchants and collaborating with PayPal in how we can support their 2012 objectives.
+We will continue to actively pursue additional partnerships and are pleased to see such companies building upon our secure platform and using it as the secure customer interface that will serve as the point of interaction and commonality that bind all of these exciting initiatives together.
+It's a great validation of the value we provide as the space evolves.
+VeriFone continues to focus on innovation to remain at the center of the ongoing payments evolution and to redefine the point-of-sale as an intelligent point of interaction combining payment and media.
+Now I want to provide a brief update on our M&amp;A activities.
+I am very pleased with the dramatic progress we have made in our Hypercom integration activities.
+Our sales and marketing integration is complete.
+We've made significant progress in improving the Hypercom supply chain and logistics model and of rationalizing R&amp;D investment for a combined company.
+We have also driven synergies across the support functions eliminating redundant positions and rolling IT applications into our existing VeriFone Oracle infrastructure.
+Total sales to legacy Hypercom customers more than met our expectations and in many cases we have already begun shipping VeriFone products in place of less competitive Hypercom products to many of these accounts.
+This is particularly evident with our mobile product portfolio where Hypercom was weak.
+Sales of legacy products to legacy Hypercom customers were $69 million less than we had modeled but more than offset by sales of VeriFone products.
+In addition we implemented our much more stringent credit policies on Hypercom orders causing some deferral of revenue.
+Overall Hypercom was mildly accretive in Q4 as projected and we look to improve those results going forward.
+We are solidly on plan to deliver 2012 accretion of $0.20 to $0.25 per share or better.
+On November 14 2011 we announced the signing of a definitive agreement with Nordic Capital to acquire Point northern Europe's largest provider of payment and gateway services and solutions for retailers.
+The acquisition is expected to close by the end of this month and is subject to customary closing conditions.
+Point has built a great business and this acquisition is extremely exciting.
+For the past 2 years we have focused on transforming our business to respond to the rapidly evolving needs of customers retailers and payment innovators worldwide.
+Our vision is to offer retailers everywhere a managed service to easily accept all existing payment types including the evolving alternative and mobile payment methods being offered by Google and PayPal Groupon Isis Visa MasterCard and American Express.
+At the same time we can increasingly offer the new payment entrants easy and accelerated access to our worldwide installation of more than 20 million merchant lanes.
+VeriFone intends to extend the Point platform throughout the region and beyond with the aim of creating the world's largest infrastructure for rapid deployment of alternative payments.
+We expect the Point acquisition to be immediately accretive to our gross margins operating margins and to EPS beginning in the second half of FY '12.
+With the addition of Point services revenue will now exceed 30% of all revenue in Q2 assuming a December 30 close date.
+We are on our way towards our goal of creating a services-based solutions business with 50% services revenue by the end of fiscal year 2015.
+Now I'd like to turn the call over to Bob to discuss in more detail the P&amp;L balance sheet cash flows and guidance.
+Thanks Doug.
+Before proceeding with the financial review I would like to remind our investors that a succinct spreadsheet of our non-GAAP financials and reconciliation between non-GAAP and GAAP financials is available on our Investor Relations website ir.verifone.com.
+I also want to take a couple of minutes to discuss why we produce non-GAAP financials and describe what some of the significant Q4 differences were between our non-GAAP and GAAP results.
+Since this quarter our adjustments reduced earnings per share from a GAAP level of $1.84 to $0.53 per share.
+The purpose in providing non-GAAP results is to provide a view that represents operating results on a more comparable basis by [ph] historically and when projecting future results by excluding significant income and expense items of a more nonrecurring nature.
+Although not that meaningful we're looking at current results for example because of the non-cash balance.
+This quarter these bridging items were particularly significant in dollar amount because the Hypercom acquisition closed this quarter and we have a large favorable tax adjustment.
+These adjustments include GAAP revenue post-acquisition excluding -- excludes revenue earned from deferred revenue items as of the acquisition date.
+For non-GAAP purposes we recognize the deferred revenue when Hypercom would have recognized it according to GAAP.
+Number two the amortization of inventory fair value adjustment.
+The GAAP cost of net revenues post-acquisition includes additional non-cash cost associated with a fair value step-up in value adjustments on acquired inventory.
+For non-GAAP purposes we reflect cost of net revenues based on historical costs.
+Number three amortization of intangibles acquired with our acquisitions such as developed technology and customer relationships are excluded for non-GAAP purposes.
+The charges recorded to conform the acquired fair value of Hypercom inventory and obligations through our suppliers at the time of acquisition to reflect VeriFone's policy for reserves are also excluded.
+Also other one-time charges incurred in connection with our acquisitions such as professional fees termination fees paid to employees and expenses incurred to transition to VeriFone Systems and processes.
+And for taxes our non-GAAP tax rate represents a steady tax rate we expect to pay.
+Thus we have excluded from our non-GAAP an income tax benefit of $211 million resulting from a valuation allowance release in the U.S.
+Based on all current available evidence including our profitability over the last couple and strong forecasted income in the U.S.
+we had determined it is appropriate to release the valuation allowance and add the deferred tax asset to the balance sheet.
+Now I'd like to discuss revenue in some detail.
+I will begin my discussion of results with non-GAAP gross margins.
+Gross margins came in at 40% a decline of 2.7 points from the third quarter of fiscal year 2011.
+System solutions gross margins were lower by 1.9 points primarily driven by higher charges for excess and obsolete inventory as we realigned products in various markets partly due to the Hypercom acquisition and slightly lower margins on the Hypercom products compared to VeriFone products.
+Services gross margins declined by 5.7 points.
+The sequential decline in service gross margins reflects the addition of Hypercom service business which is primarily low-margin hardware break/fix support rather than the higher-margin services that we generally offer.
+This is an area of the business where we are focused on process improvements to reduce costs going forward.
+Compared to the prior quarter non-GAAP operating expenses increased by $17 million to $92 million.
+This increase is primarily due to the Hypercom acquisition and a full quarter expense impact of our June 30th acquisition for South Africa payment solution provider Destiny Electronic Commerce.
+Non-GAAP other income expense was essentially unchanged in the third quarter at $3 million expense.
+Now let's take a look at our cash flow and balance sheet.
+Cash increased $11 million in the fourth quarter to reach $595 million a significant increase of $150 million from Q4 fiscal '10.
+The primary driver of this quarter's cash increase was VeriFone's $57 million of non-GAAP net income.
+Also on the balance sheet inventory balances increased by $34 million with the addition of Hypercom.
+$7 million of this increase represents a step-up in inventory value associated with acquisition purchase accounting which we expect will be amortized in Q1 fiscal year 2012.
+Days of supply decreased by 11 days and day sales outstanding increased by 3 days to 68 primarily as a result of adding the Hypercom balances.
+Now let's look forward to fiscal year 2012.
+Our new guidance for the first quarter of fiscal '12 including one month of Point revenue is for non-GAAP revenue to be between $415 million and $420 million.
+We now expect our non-GAAP earnings per share to be in the range of $0.50 to $0.52.
+On a full year basis for fiscal '12 our new guidance for non-GAAP revenue including 10 months of Point revenue is in the range of $1 900 000 000 and $1 920 000 000.
+We now expect fiscal '12 full year non-GAAP earnings per share in the range of $2.53 to $2.60.
+I will now turn it over to Doug Bergeron for some concluding remarks.
+Thanks Bob.
+Let me just take a few moments to look back at our accomplishments for the full 2011 fiscal year.
+Revenues grew 31% to $1.3 billion and excluding the impact of Hypercom grew 24%.
+Earnings for the second year in a row grew in excess of 45% rising from $1.32 per share in 2010 to $1.92 per share this year.
+And our year-over-year ending cash balance grew $150 million.
+We completed a very complicated takeover of Hypercom and then proceeded to rapidly integrate the business and we are already enjoying significant operating synergies.
+We expect solid gross margin expansion from this additional business throughout 2012.
+Our focus on services is reaping great rewards for our shareholders.
+Growth rates have accelerated margins are expanding and we have developed unique advantages for our product portfolio as they are increasingly bundled with encryption services content and advertising gateway services and cloud-based retail application processing.
+Looking ahead to 2012 we see a world of opportunity for VeriFone unparalleled in the 10-plus years that I have been CEO.
+The amount of innovation at the edge of the network the VeriFone neighborhood has never been greater.
+In addition industry developments and new payment entrants continue to create opportunities for VeriFone.
+For the first time ever Visa and MasterCard are both strongly hinting of a looming EMV debt mandate for the U.S.
+bringing us to European levels of security and point-of-sale complexity.
+PayPal Google Isis and others have aggressive plans for their VeriFone partnerships in 2012.
+In summary retailers worldwide are looking for ways to adopt this innovation in a consistent secure deliberate way that opens the door to the future but keeps their existing infrastructure always on and always secure.
+VeriFone is uniquely positioned to provide both innovation and to protect their existing infrastructure.
+Thank you for listening and we will now open up the call to your questions.
+[Operator Instructions] And gentlemen your first question comes from the line of Darrin Peller with Barclays Capital.
+Research Division</strong> The first question is: Would you mind trying to break down for us what the organic growth rate was if you back out Hypercom? For -- I know you said greater than 20% but maybe give us a sense more exact what it was? And then maybe even per region especially in Europe what did the your organic story look like? Well I think we -- if you go through the transcript Darrin we quoted both sequential and year-over-year growth rates almost by region including and excluding Hypercom.
+So I think it's in the transcript but yes it was early on.
+But it was 20 -- in the low 20s or x Hypercom and higher than that with Hypercom.
+I think the amazing story for us continues to be Europe surprisingly given the headline news and in Latin America where our business is accelerating and has experienced phenomenal growth rates before even including the Hypercom business.
+You would find every one of those growth numbers.
+We spread it between the 2 of them Darrin.
+Research Division</strong> All right.
+The other question I have is really around the services revenue.
+Again it was pretty impressive to grow to about 22.5% of your total revenue this quarter clearly higher than it's been in a number of quarters.
+I think in really ever that I've seen.
+And I think the question is just Hypercom again is I would think more system solutions revenue in terms of mix.
+So is it really just the overall growth rate? What is the underlying -- the main drivers? Is it the taxi business? Can you help us understand how it got so high this quarter? Hypercom was more services.
+The brick 6 services which have -- are currently quite dilutive from a gross margin perspective but we're rapidly in the process of improving those with systems and other things.
+So we will get Hypercom lower-margin repair services up to VeriFone service gross margin levels or thereabout.
+Research Division</strong> Okay.
+And then the last question on encryption you said -- it sound like it's going extremely well.
+The -- can you give us a little more color on that again in terms of the economic model there? I think you said you're now at 66 retailers a pretty significant number of large names brand names.
+A retailer if you're going to put this in he does it coast-to-coast he doesn't do it at one store.
+The revenue model is quite simple.
+We either sell directly to the retailer and charge a per-transaction fee or we sell through a processor who charges the retailer a retail per transaction fee and buys from us wholesale per transaction.
+In other words marks up the service and makes money on it.
+But it's all based on volume.
+It's not based on ticket size.
+And we've been very good at sticking to our price charts.
+So I'm very delighted.
+I was -- in the early days of this campaign I was cynical that this could stick but it adds real value it saves retailers real money it removes real risk and it's a real value that people are willing to pay for.
+Your next question is from the line of Julio Quinteros with Goldman Sachs.
+Research Division</strong> Just wanted to check real quickly on the drivers in Latin America in particular.
+Can you go through those quickly? And I thought you had suggested some of it was coming from Central America but I wanted to just get a sort of a view between South America Brazil and some of the other countries versus the Central America as kind of the drivers in your Latin America growth this quarter? So our Latin America region was nearly -- it was close to $100 million in the quarter I guess.
+Typically Brazil has been 50% to 55% of that.
+And that's been consistent which is also the case if you try to look at overall Latin American GDP.
+And then the other 45% is all over the place from the southern tip of Chile all the way up through the Caribbean and Central America.
+But we have a great business in a lot of the Central American countries and in some cases command the majority of all market share there.
+The tremendous GDP growth in Brazil looks differently as the business there is strong at the moment.
+Research Division</strong> Okay.
+And just want to add on when you look at the number of your terminals that are going in nowadays is the majority of these terminals that are getting installed around the world are they all NFC-enabled Chip and PIN-enabled? Or are we still seeing different iterations of what the kind of the retailers are adopting around the world? Is there any way to sort of decipher between what is already sort of NFC/Chip and PIN-enabled versus maybe not having that full technology yet for mobile? If you want to stick in Latin America or move beyond that? Research Division</strong> Yes I was thinking more globally if you wouldn't mind.
+Almost everywhere around the globe but for some areas in India some areas in China and some areas in Africa we've entered a must-have phase for Chip and PIN.
+Now there's various different Chip and PIN schemes out there which creates a hugely complex software role for us which is good because it's a barrier of entry.
+There's different EMV systems and formats and requirements in different regions even different countries.
+And it's very rare that we would sell in all but those exceptions the U.S.
+India in some places in China and Africa that we would sell a system that wasn't EMV ready.
+Do all the consumers in those countries carry just chip cards? No.
+The consumers carry a variety of cards and they're still being typically issued with both mag stripe and Chip and PIN.
+But the hope especially amongst European banks is that the U.S.
+starts adopting Chip and PIN so they can stop putting mag stripe cards on the back of European-issued cards which is causing a tremendous amount of fraud when these cards are stolen and mag stripe variance are manufactured.
+As it relates to NFC there's some countries in the world that have gotten -- in some regions that have gotten very serious.
+Australia being one Singapore Turkey I would say 1 out of 2 1 out of 3 of our systems going out the door now are NFC-ready.
+They don't have the Wallet but they have the hardware.
+We still they haven't implemented anything.
+Point it was very aggressive in Scandinavia in getting in front of NFC by providing it to their merchants and I think all of your 2012 deployments of systems for their merchants will have NFC.
+And recently I spoke to the CEO of one of the major card processors in Brazil.
+And he said "Doug I don't know which wallet's I'm going to be running.
+Isn't -- probably this is all not going to be fully shaken out for the next couple of years.
+But everything you send me this year we want to pay for NFC capabilities in it.
+At least at the hardware level." So I think that we're reaching a point where more and more people are saying "I don't know what the future is for sure but I know NFC is going to be part of it and I don't want to be flat-footed when that day arrives." Your next question comes from the line of Andrew Jeffrey with SunTrust.
+Inc.
+Research Division</strong> Just wanted to get a little granular on the first quarter guidance for a second if I might.
+The delta between the pre-announced first quarter guidance and the guidance -- revenue guidance you gave today the midpoint is about $15 million.
+In the Point acquisition press release the implication was that Point would generate about $22 million a month in revenue and now it looks like maybe you think at least in the first quarter it's $15 million.
+Can you just kind of true that up for me? Yes sure.
+Point's revenue grows sequentially every month because of their services model.
+So you can't look at the first 12 months and just divide by 12.
+It's going to be less than the first month and more in the last month I mean increasing monotonically every month.
+This is also the first months of Point in VeriFone and we're being conservative.
+We haven't seen their books yet other than what we saw in due diligence and that's the appropriate guidance.
+We're sticking by that and by the $260 million of 12-month guidance for the business.
+I've been with the CEO of Point all week and he's very confident of the prospects for his business in VeriFone over the next year.
+Inc.
+Research Division</strong> Okay.
+So that implies a pretty steep revenue right? Well the business -- look at the businesses growth rate.
+It's quintupled over the last 5 years.
+So you interpolate a growth rate out of that you'll see that it does grow pretty fast.
+Inc.
+Research Division</strong> Okay that's really helpful.
+And then Bob could you tell me how much Gemalto revenue had in the quarter? And then similarly how much you think you're going to have in 2012? We're not breaking out Gemalto anymore.
+A lot of those products have gotten merged into other products.
+We've been switching them out and switching out the customers et cetera.
+So Gemalto is very integrated into the rest of the company these days.
+Inc.
+Research Division</strong> Can you remind me when you lap the actual timing you acquired the deal? This month.
+Inc.
+Research Division</strong> Okay so not much of an impact in '12? All right.
+And then the $70 million or roughly $70 million in Hypercom quarterly revenue I understand that any time you do a deal like that it was complicated as you mentioned.
+Doug Europe and some of their markets have been volatile.
+Is that the right way to think about it in 2012 about $70 million a quarter? Or do you think it gets better as the year roll on? No.
+I think you still think it's $350 million.
+I think their markets -- they are in some of the more troubled neighborhoods of the world but we're doing very -- we're very well in those markets right now.
+Look at our year-over-year and sequential growth in Europe this quarter.
+It was -- In the last several quarters it's been very strong.
+What we're doing is monetizing the Hypercom customer base.
+We're agnostic about which products we sell them.
+And it turns out that because of the length of this takeover of almost a year long many of them we found out had already begun writing applications to VeriFone Systems.
+So this may churn out even better than we thought.
+We'll end up being less dragged down by lower margin less competitive Hypercom products.
+We'll have more VX products sold into that base.
+And that's -- we're sure we'll get the revenue that we projected as a result of that.
+Inc.
+Research Division</strong> All right that's helpful.
+And then with regard to mobile the number of NFC-enabled lanes is higher than I would've anticipated.
+Can you -- And you highlighted PayPal as another driver.
+Can you start to quantify what your mobile-related revenue looks like in '12 recognizing that probably there isn't a whole lot if any of transaction revenue related to mobile but it sounds like maybe some hosting revenue and terminal revenue next year? Well yes.
+I think the sale of wallets at $10 or $12 a wallet is not going to be meaningful to a $1.9 billion company.
+But we're already seeing as illustrated with The Gap sale customers that are upgrading earlier than we had anticipated or raising the ASP of the products that they're purchasing from us.
+And the NFC Google Isis and PayPal dialogue that we have with these customers opens the door for us to show them our Global Bay iPad technologies consultative sales solutions.
+So I guess that's all mobile too because it doesn't have the cable hanging out of it.
+So these dialogues lead to a lot of places and they're going to reflect upon revenue opportunities and a lot of areas of VeriFone's business which might not even be mobile areas.
+So customers want to play and they want to be innovative but they don't want to create chaos in their retail infrastructure so they really like the concept of an adult in the room who's helping them innovate quickly but who's holding their hand in making sure that they don't botch something up.
+Inc.
+Research Division</strong> Okay.
+And so one last one for me then I'll jump back in the queue.
+When you talk about a return to 8% to 10% domestic organic revenue growth does that contemplate accelerated NFC-related upgrades or is that potential upside? That's potential upside.
+I mean in the mix -- at the margin it might have some of it in it but despite what I said about all of these CEOs telling us they're getting ahead of the curve with NFC we don't think in the U.S.
+that that's material for 2012.
+If Isis has pushed their trials to midyear -- PayPal I'm becoming very impressed with.
+I think these guys are going to get very serious.
+You're going to see some interesting demos of VeriFone and PayPal at the NRF Show in January in New York.
+If that gets a little more traction than some believe that could maybe move the needle.
+But no one initiative inside of VeriFone can really move the needle anymore.
+We're just too big.
+Your next question comes from the line of Bryan Keane with Deutsche Bank.
+Research Division</strong> I just wanted to ask about the relationship with Google and helping implement the Google Wallet.
+What's the fee that you guys get to upgrade those retail lanes for Google's technology Google Wallet? Well we write a bunch of applications to a spec that we jointly negotiate and some interfaces to the application and then we provide that application on a per-lane basis to retailers.
+The economics are in the $10 to $12 to $15 per lane.
+It's a one-time fee but it gets repaid every time there's a new spec.
+And in these early days it's not surprising that these innovators are subsidizing some of these costs through various methods.
+We're still getting the money from the retailers but we know of several cases where money is being delivered in the back door.
+That's fine -- and I think the thinking is they want to stimulate the early movers in the market.
+And at one point -- at some point retailers say "Hey in order to be competitive and do attract type of consumer that I want in my store I better be doing what the guy next door is doing and then it'll just be a cost of doing business.
+Research Division</strong> Okay.
+And then just switching gears on the Chinese New Year is there a way to quantify the impact in terms of revenue? Just so we can look at it more apples-to-apples for the quarter? It's was about 2%.
+We just -- and maybe it won't happen but we thought you know what overall -- China has a new year every year but it's usually in the beginning of a quarter so we can hustle a little further for the next 10 or 11 weeks.
+When it's in the last 10 days of the quarter when it is in utter shutdown the situation where you have a different EMV library that you have to load or a cable that was back-ordered or something like that that you just have no time to recover.
+So I think we internally said “This is probably $5 million of risk and let's factor that in.” Research Division</strong> Okay good enough.
+And then just 2 questions clarification questions maybe for Bob.
+On Hypercom I think it was about $69 million in revenue so we can just back that out of the $350 million number and then you get to about -- now you expect about $280 million $281 million in Hypercom revenue for fiscal year '12.
+And then secondly I didn't hear if you gave us an actual tax rate to go with for fiscal '12 as well.
+Yes with the Point business we said the tax rate would be 18%.
+But if we go back to Hypercom the amount you described is correct.
+But what Doug had described is that we're still very confident that the $350 million that we have to get that some of it's going to come from selling our own VX products into that same market...
+Particularly mobile.
+We had a very skinny mobile portfolio and their customers are no less mobile-centric than legacy VeriFone customers.
+So frankly we had underestimated that upsell opportunity in our modeling.
+And I also think now the customers are getting comfortable with us we're not giving up on Hypercom legacy products.
+They're still a very well entrenched especially in places like France and Germany and Southeast Asia and Australia.
+And we're very pleased with what we're seeing.
+Our first quarter of operation with Hypercom was to go and have rich dialogues with these customers and get them comfortable that we're here to stay we're here to leverage their investment to grow their investment and that VeriFone's their partner.
+So we're not jamming product down their throat per se.
+And also with the services business becomes -- they're getting pretty merged.
+Research Division</strong> Okay I just actually going to sneak in one last one.
+Destiny Electronic it’s probably about $4 million a quarter it looks to me.
+Is that about right? Yes that's about right.
+Your next question comes from the line of Wayne Johnson with Raymond James.
+Inc.
+Research Division</strong> On the encryption service discussion I think I heard roughly 66 retailers Tier 1 national retailers using the service or that service has been awarded to today.
+Can you remind me out of that 66 how many are enabled? How many are using it? We don't have the number on the tip of my tongue.
+It's growing quickly.
+I mean the long haul which is now not a problem anymore was getting the processors to turn it on.
+They have very stiff quality and security requirements.
+And particularly First Data who controls such a huge percentage of the Tier 1 Tier 2.
+They're now live so like...
+Inc.
+Research Division</strong> And when did that go live? Was that November 1st? Yes.
+I think -- one of the executives that's leading the issue is providing sign language to me.
+Yes she says November 1st so must be November 1st.
+Inc.
+Research Division</strong> Is there any major processor that's not using VeriShield? Well there's a small processor called Heartland in New Jersey.
+I think they've decided to go their own way.
+But I think everybody -- and there's a -- and Fifth Third is not yet but we're making some progress.
+And TSYS I believe.
+Inc.
+Research Division</strong> Okay great.
+And where do you expect that 66 to go? So one year from now when we're on this call what's a rough number do you think that of Tier 1 national retailers you think you can have? Just ballpark range? It doesn't have to be a specific number.
+100 to 150.
+I mean I would say the recent acceleration doesn't feel temporary.
+So I don't know if there's another level of acceleration.
+But even -- if the current velocity that we saw in Q4 continues that will get you to somewhere in the hundreds.
+Inc.
+Research Division</strong> And staying on the same topic of VeriShield is there any way to quantify how many small businesses are utilizing this now? And how many you think will in the future? Well again we were wholly dependent on it getting turned on by First Data and they have now turned it on.
+They're educating their sales channel.
+In many cases they sell through alliance relationships.
+So it's going to take a little while for that education to seep through the whole ecosystem.
+But there's no reason -- this is a solution that the processors believe they can make great economics on so they're out pushing it and we love that.
+One last thing on VeriShield.
+If you've noticed it's become a real differentiator for us in the mobile space too.
+We just don't roll out mobile products without encryption.
+We don't.
+It's almost a religion here.
+And in the first wave of mobile payments call it starting a couple years ago I call it the dongle era people cheated the system and there's increasingly been lots of reports of hacking and fraud.
+We have stayed true to our mantra that these transactions need to be encrypted before they enter the phone.
+And that's -- when you had that discussion with a Tier 1 Tier 2 retailer about their mobile strategy that resonates.
+Because these are the same guys that spend $400 000 or $500 000 $1 million a year on PCI audits and worrying about getting hacked.
+They're going to do all that and then introduce a bunch of mobile technology that we can show them? We can give them a demo of how to hack into it without -- unless you're using encryption.
+The answer is no.
+Inc.
+Research Division</strong> Terrific and I appreciate that color and if I could just slip in one here.
+And maybe this is a little bit of a softball question given what you've just discussed.
+But I get a lot of questions from investors asking if the point of convergence here is going to be opened up to more software developers.
+Is it going to become more competitive rather than closed going forward? And the concept being if there's an iPad type of point-of-sale device won't everyone be able to try and write some type of payment application? If you wouldn't mind commenting on that question or scenario I'd appreciate it.
+I think there's 2 things at odds with that.
+First of all finally Visa and PCI and others have said there will be rules for mobile payments and for iPads and iPhones using -- and Android devices accepting credit cards and we're finally going to publish them.
+So there's going to be a whole area of expertise that VeriFone's going to have an advantage in.
+And the second thing and we said this many times at least as it applies to mid and large sized retailers they want to innovate but they will also want to innovate on top of what they already have that's integrated with ERP systems that's integrated with payment networks et cetera.
+So the idea that everything gets thrown out is a little bit preposterous.
+What we see alternatively is that some of these types of solutions with encryption will be adjunct to the traditional point-of-sale the checkout lane and that's why we're so excited about the Global Bay Mobile Technologies business that we acquired.
+Your next question comes from the line of Robert Dodd with Morgan Keegan.
+Inc.
+Research Division</strong> Doug could you give us a bit of color on the current pricing environment? Obviously there are these competitive factors.
+You've got normal pricing declines and maybe a couple of percent perhaps in incremental adds from putting mobile modules on terminals increasing the ASP business on the software and hardware side.
+And obviously you've also taken out one of your competitors from the market.
+So can you give us any color there? Well there's no new entrants and I see Ingenico gross margins expanding because they're a very well-run company and they're concentrating on cash flow and the like.
+So I think that speaks for itself.
+But this is a technology business.
+We'll always be asked to provide more for less but we also have control of costs and areas to squeeze our supply chain and as a result you should expect expanding gross margins over the quarters and years ahead.
+Inc.
+Research Division</strong> Great.
+Just kind of expanding that look at the FX issues and I’m aware you price in different currencies by different markets.
+But if we go back to the first quarter of '09 which is the last time the dollar had a big move and we've seen a recent fairly significant shift that had an impact on local currency pricing for a lot of your customers.
+I mean how is the recent reaction on pricing been from those guys? It's too early to tell.
+And also this is dramatic expecting.
+Inc.
+Research Division</strong> No no.
+It's a lot less than that.
+We're always down 45% and Mexico was 20% et cetera.
+So it's not that much.
+But that's within -- for the U.K.
+pound when that was declining we put in a price premium.
+So that overrode the U.K.
+prices to help offset the decline of the pound.
+So over – in any one quarter if the shock was big enough we may have to eat it.
+But over multiple quarters we adjust our pricing to recognize where our cost base is and also recognizing that Ingenico has some of the cost base.
+So it will both company’s prices I think will move some amount.
+I mean Ingenico publishes results in euros but they buy components in Southeast Asia and they have developers in India and their cost structure looks very much like ours.
+Your next question comes from the line of Phil Stiller with Citigroup.
+Research Division</strong> Doug I wanted to follow up on the software upgrade initiative that you talked about earlier.
+Just wondering if you can provide an update on how it's -- how the rollout's going in Northern Europe and then perhaps talk about the timeframe for rolling this out more globally.
+Yes.
+It's going well.
+Just like our petro initiative it's engaged us in discussions with each of our customers which in some cases has yielded some immediate responses.
+In some cases we're still limiting more bundled recurring rates.
+We bought Point which already it was fully into that model.
+So I think as our systems get more complex and require more attention from a software maintenance perspective nobody is going to say no to keeping their investment current and compliant.
+It's the right thing for the user and it's the right thing for the provider.
+Research Division</strong> Okay that's helpful.
+Shifting to the London taxi initiative I was wondering if you could comment on what the electronic payment adoption is there relative to what perhaps you saw in the U.S.
+at this stage of the rollout? It's slower because in London there was a big bang it was a date certain -- I mean in New York there was a big bang.
+There was a date certain that Mayor Bloomberg said "If you want to put that taxi on the road you better -- you have to accept credit cards." And the option of not having the taxi on the road was just not acceptable to anybody.
+And then as of that date certain everybody started to see the product and use it.
+At 7 000 contracts and 3 000 or so live or a little less than that it's still less than 10% or 15% of all the taxis there.
+So the adoption rate is it's in the double digits but it's not anywhere near that 65% that we're at in New York.
+But we think as we get more installations on the road and as we get more advertising this Visa advertising is helpful we're wrapping certain cabs with VeriFone and Visa logos now so people will see that this cab accepts credit cards this will inevitably go up.
+In general the U.K.
+consumer is as prone to use a credit or debit card as an American consumer.
+They're both at about the same level for a given transaction.
+So it's unreasonable to think that it would be different for taxis than it would be for McDonald's or going into a clothing store.
+Research Division</strong> Okay great.
+Just one last question for Bob.
+On the first quarter tax rate is that going to be 18%? Or will it be something higher given that Point will be a month in that quarter? Yes it's around 19%.
+Your next question comes from the line of Keith Houston (sic) [Housum] with Northcoast Research.
+Is it possible to give any guidance as we look at Point going forward in terms of modeling it in terms of the breakout of the R&amp;D versus sales and marketing and SG&amp;A? We probably won't get into that level of granularity for a $260 million business inside of a $1.9 billion business.
+But you can assume that they're pretax operating margins have a 3 handle and are expanding.
+And we indicated that our gross margins would be improving over time so I think you really to just rely on that.
+We don't give precise numbers in between the revenue and the earnings per share.
+The gross margins will be improving and Point will be part of the reason for that.
+Ladies and gentlemen this concludes the question-and-answer portion of today's event.
+I'd like to turn the conference back over to Doug Bergeron for some closing remarks.
+Thanks everyone.
+Have a happy holiday and we'll talk to you in the new year.
+Ladies and gentlemen thank you so much for your participation in today's conference.
+This does conclude our presentation and you may now disconnect.
+Have a great day.

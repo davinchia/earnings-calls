@@ -1,0 +1,539 @@
+Good afternoon and welcome to the DuPont Fabros Third Quarter 2015 Earnings Conference Call.
+All participants will be in listen-only mode.
+After today's presentation there will be an opportunity to ask questions.
+Please note this event is being recorded.
+I would now like to turn the conference call over to Chris Warnke.
+Please go ahead.
+Thank you Amy.
+Good afternoon everyone and thank you for joining us today for DuPont Fabros Technology's third quarter 2015 results conference call.
+Our speakers today are Chris Eldredge the company's President and Chief Executive Officer; and Jeff Foster the company's Chief Financial Officer.
+Certain matters discussed during this conference call may constitute forward-looking statements within the meaning of federal securities laws.
+These forward-looking statements are subject to certain risks and uncertainties.
+The company assumes no obligation to update or supplement these statements that become untrue because of the subsequent events.
+Additionally this call contains non-GAAP financial information of which explanations and reconciliations to net income and operating income as applicable are contained in the company's earnings release issued this morning.
+The release is available in PDF format in the Investor Relations' section of the company's corporate website at www.dft.com.
+To manage the call in a timely manner questions will be strictly enforced to only two per caller.
+Should you have additional questions you may return to the queue.
+I will now turn the call over to Chris.
+Chief Executive Officer &amp; Director</strong> Good afternoon.
+I appreciate everyone joining the call today.
+We had a great quarter and I am eager to tell you about it.
+First a little history.
+When I joined DFT in February the team and I established five key objectives for 2015.
+Those objectives were to resolve Net Data Centers' bankruptcy issues secure customer for ACC2 lease up our available inventory and renew expiring leases strengthen our sales and marketing team and develop a strategic plan to increase DFT's growth and profitability.
+Eight months into my tenure and I'm happy to say we've achieved all five goals.
+Here's some color on each.
+Objective number one successful resolution of Net Data Centers' bankruptcy.
+DFT has a new customer ANEXIO Data Centers an IT Solutions provider.
+On October 28 ANEXIO purchased from Net the business and assets in our four data centers.
+ACC4 to ACC5 VA3 and NJ1.
+We entered into new leases with ANEXIO for 4.13 megawatts of critical load in these four locations.
+The new leases run through December 31 2023.
+During Net's bankruptcy we worked hard to optimize the outcome for DFT.
+Jeff will walk you through the financial details in his comments.
+But the key takeaway is this.
+From January 1st through today we collected $8.5 million from Net Data Centers none of which was reflected in our initial 2015 guidance.
+We are very pleased to have this portion of the process closed.
+We are looking forward to establishing a strong and healthy relationship with ANEXIO and benefiting from their successful turnaround of Net's assets.
+Objective number two re-lease of ACC2.
+In October we leased the entire 10.4 megawatt facility to one of our existing customers.
+As you recall this building was optimized for larger users.
+It had two 5.2 megawatts rooms with a power density of approximately 225 watts per square foot.
+While the market is full of 1 megawatt and 2 megawatt users 10 plus megawatt prospects come to market less frequently.
+Last year we saw three such requirements in Northern Virginia.
+We captured one requirement for 13.65 megawatts at ACC4.
+We could not accommodate the others as Yahoo! could not vacate ACC2 in time to meet these requirements.
+But with the exponential growth of cloud data storage and other Internet applications we knew that another large requirement would surface in Northern Virginia.
+It has and we've captured it.
+The full 10.4 megawatt building has been leased and our customer will take occupancy in the first quarter of next year.
+This further deepens our relationship with a great customer and we're delighted to expand our service offering to them.
+Jeff will walk you through the economics of the lease in his comments.
+Objective number three.
+Lease up available inventory and renew existing leases.
+I'm so pleased with our team's achievements.
+Let's talk about new leases first.
+ACC7 is a great example.
+Subsequent to the quarter we signed two new leases totaling six megawatts.
+The first lease is for three megawatts in Phase I.
+This lease has begun and takes Phase I to a 100% leased and commenced.
+We leased Phase I in 14 months and achieved an ROI of 13% exceeding our 12% target.
+The second lease is a pre-lease of Phase II for 3 megawatts.
+It's expected to commence this quarter.
+It takes us to 67% pre-leased in Phase II.
+CH2 fared equally well.
+We leased 6 megawatts there with the lease commencing this month.
+We leased all of Phase I within four months of opening exceeding our expectations with an ROI on the phase of 13%.
+The increase in ROI reflects the healthy demand environment for wholesale data centers.
+We are averaging GAAP-based rent of a $101 per kW per month for new leases signed in 2015 which is a 6% increase over 2014.
+Now on to renewals.
+During the quarter we renewed 0.57 megawatts in ACC5 and pushed that expiration from 2016 to 2021.
+Subsequent to the quarter we extended a lease for 1.49 megawatts in ACC7 pushing that expiration from 2017 to 2021.
+For the year lease renewals have averaged to $110 per kW per month on a GAAP basis an increase of 5.4% over the previous GAAP raise.
+Cash base rents will increase 4.5% versus the cash rate in effect at the time of renewal.
+Our portfolio is now 97% leased with available space limited to Northern Virginia and New Jersey.
+To build on our leasing momentum we have four developments under construction in our best markets.
+Upon completion they will add 39 megawatts to our portfolio.
+We delivered the first phase of CH2 20% leased on July 1.
+It's a 100% leased only four months after opening.
+In July we commenced development of the second phase of CH2 for 5.7 megawatts of critical load.
+We anticipate delivery in the second quarter of 2016.
+Given the current demand we are seeing in our pipeline we are now commencing development of the third phase of CH2 which will add 12.5 megawatts and will fully build out the facility.
+We anticipate delivery of this final phase in the third quarter of 2016.
+Chicago has proven to be a robust market for outsourced wholesale data center requirements which is why we purchased a 9.7 acre parcel of land adjacent to CH2 in August for $8.6 million.
+The next steps are to remove the existing warehouse tenants from this land and finalize the design for CH3.
+We are currently estimating this data center to have 22 megawatts of critical load and about 120 000 square feet of computer room space.
+Now onto Northern Virginia.
+The development of phases II and III of ACC7 are on schedule and on budget.
+Phase II consisting of 8.9 megawatts is 67% pre-leased compared to 33% pre-leased last quarter.
+We expect this phase to be delivered in December of this year.
+Phase III will add an additional 11.9 megawatts of capacity and is scheduled to be delivered in the second quarter of 2016.
+We continue to see healthy demand in Northern Virginia based on recent lease signings.
+Now onto objective four strengthening our sales and marketing team.
+When I started we had a very modest sales team just three people covering four markets.
+We've added sales capacity in Chicago and New Jersey to drive deal flows.
+We've added a sales engineer to enhance our customer interface and accelerate the sales cycle.
+Most recently we welcomed industry pro (9:34) to our team as Chief Marketing Officer.
+It's not enough for current customers to know that DFT's buildings design and operational expertise are the best in the business.
+We need to get the message out to a broader range of customers.
+As we do we can capture more new high quality logos.
+Bob is a seasoned business veteran with 30 years of international B2B and B2C marketing experience.
+He is a great addition to the team.
+Our enhanced sales and marketing efforts are producing results.
+Our pipeline is full of opportunities.
+That takes us to objective five.
+Develop a five-year strategic plan to drive our growth.
+The team and I've taken a deep dive into our business and our opportunities for accelerated growth.
+Our plan has been finalized approved by our board and is ready to present to you at our Investor Day.
+I'm looking forward to sharing the plan with you on Tuesday November 10 in New York City.
+Before I turn it over to Jeff I wanted to recap our sales and marketing success.
+So far in 2015 we've signed 15 new leases totaling 41 megawatts and extended seven leases totaling 12 megawatts of critical load which is 0.5 megawatt away from our best year of new leases signed.
+That was the 41.5 megawatts we signed in 2012.
+I'm optimistic that 2015 will be the best year for megawatts leased in DFT's history.
+And now over to Jeff to discuss the financials.
+Thank you Chris.
+Good afternoon everyone.
+I want to cover five main topics today: an update on Net Data Centers from ACC2 our third quarter results a capital markets update our increased 2015 guidance and last our dividend.
+First an update on Net Data Centers.
+Since our last call we continue to receive 83% of all-in Net's revenues from its customers that are located in our four data centers.
+The decision to allow Net to remain in our data centers after rejecting our leases was beneficial to DFT.
+Through our revenue-sharing agreement which began on July 1 and ended on the closing of the sale of Net's East Coast assets on October 20 we received $3.6 million from Net.
+Recall that Net's East Coast assets are located in our ACC4 and ACC5 VA3 and NJ1 data centers.
+In August a potential buyer placed a bid on these assets.
+The bankruptcy court mandated an auction which was held on September 24.
+Four bidders emerged for these assets.
+The winner was ANEXIO data centers [ANEXIO Technology Services].
+On October 20 ANEXIO entered into leases with us at each of our four data centers totaling 4.13 megawatts of space and 38 852 computer room square feet.
+Given that Net's leases were well above market the base rent on the new leases decreased 34% per kW month on a cash basis and 18% per kW per month on a GAAP basis.
+The rent decrease combined with less kilowatts being leased by ANEXIO resulted in the ANEXIO leases generating $0.085 cents of annual revenue compared to $0.16 for the Net leases.
+As noted in the earnings release we now have 2.13 megawatts of additional available critical load in three of these four facilities.
+We will market the additional critical load received in ACC4 and ACC5 to current customers.
+It's a great fit as we're able to move this additional power into other computer rooms within the same phase of the building.
+With the additional 1.13 megawatts we received in New Jersey our available critical load is now 8.7 megawatts.
+Given the lower density requirements within this market we estimate that three megawatts to four megawatts of load can be leased before the computer room space is fully occupied in Phase I.
+The design of our electrical infrastructure will enable us to move the remaining power into Phase II.
+We are very happy especially me to have this portion of the Net bankruptcy matter resolved and look forward to building a strong relationship with ANEXIO as our trusted data center partner.
+Now on to ACC2.
+As Chris mentioned we signed a new lease with an existing super wholesale customer for the entire 10.4 megawatts of critical load at ACC2.
+This lease is expected to commence in the first quarter of 2016 after the completion of some minor buildouts estimated to cost about $2 million.
+The new lease has a 15-year term with early termination options at years five and years 10.
+To terminate early the customer would have to pay a penalty.
+For GAAP purposes this lease is a five-year lease.
+At the end of Yahoo!'s lease including below market amortization ACC2 is generating $0.055 per share of FFO quarterly or $0.225 per share annually.
+Under the terms of this new lease ACC2 will generate $0.20 of FFO per share annually.
+The $0.025 decline is due to the cessation of the amortization of below market value lease contracts.
+As reported in the earnings release cash base rents declined 41% upon the re-lease of ACC2.
+This decline is specific to the ACC2 data center and should not be extrapolated to the portfolio.
+Given higher operating costs at ACC2 base rent had to be decreased to make it market competitive.
+As we've previously discussed this data center was fit for super wholesale customers only.
+The operating expenses at ACC2 are 75% higher than our ACC4 through ACC7 data centers given ACC2's much smaller size.
+The cooling costs are significantly higher than our current data center designs.
+On a total cost of occupancy basis the new customer will pay as much at ACC2 as a super wholesale customer would at ACC7.
+Also for ease of comparison to our peers starting in 2016 we will report cash and GAAP changes upon renewal and re-lease on a full price basis which means we will include operating expenses in the analysis.
+If we did that for the ACC2 re-lease the cash decline would have been 31.4% and the GAAP decline would have been 9.6%.
+Next on to our financial results.
+Our third quarter 2015 normalized FFO was $0.62 per share the high point of our guidance.
+Our normalized FFO increased $0.02 per share or 3% compared to the third quarter of 2014.
+AFFO for the quarter was $0.68 per share compared to $0.64 per share for the same quarter of 2014 an increase of $0.04 per share or 6%.
+The increase was primarily due to the increased normalized FFO and the add back of straight line receivable collected from our bankrupt customers.
+Quarterly revenues were a $115.3 million an increase of $9.8 million or 9% from the prior year's quarter.
+This increase was the result of new leases commencing.
+This leads me to our capital markets update.
+During the third quarter we did not purchase any shares under our $120 million stock repurchase program.
+We have $88.1 million remaining under this program through the end of this year.
+Stock buyback is one of several options as we continually monitor the markets for the best uses of our capital uses consistent with our objective to maximize shareholder value.
+As previously disclosed we increased our unsecured line of credit from $560 million to $700 million.
+As of today there are no borrowings on this facility.
+With our cash on hand free cash flow after dividend payment and our line of credit we have abundant capacity to fund our current development without the need for additional sources of capital.
+I'd now like to discuss our fourth quarter and revised full year 2015 guidance.
+We're increasing the low end of our full year 2015 normalized FFO guidance by $0.07 per share which increases the midpoint by $0.03 per share.
+The new range is $2 per share to $2.47 per share compared to last quarter's range of $2.38 per share to $2.48 per share.
+The increase in the midpoint is a result of healthy leasing in the quarter generating additional $0.01 per share and $0.02 per share from lower interest expense from increased capitalized interest.
+The low end of the range assumes no additional leases or commencements other than the pre-leases in phase II of ACC7.
+The high end of the range assumes additional leases are commenced in the fourth quarter.
+Our fourth quarter 2015 normalized FFO guidance range is $0.60 per share to $0.62 per share a decrease of $0.01 per share at a midpoint versus the prior quarter.
+The small decline is primarily a result of ACC2 being vacant in the fourth quarter which was partially offset by new lease commitments including the release of Net's Data Center space and lower interest expense.
+Now on the AFFO we increased the low end of our full year AFFO guidance range by $0.07 per share in the high-end by $0.01 per share.
+This increases the midpoint by $0.04 per share.
+The new range is $2.63 per share to $2.67 per share compared to last quarter's range of $2.56 per share to $2.66 per share.
+This midpoint increase is the result of raising normalized FFO guidance by $0.03 per share and lowering our estimates of our operating properties' CapEx by a $1 million.
+Our fourth quarter's AFFO guidance range is $0.60 per share to $0.64 per share.
+The midpoint is a decrease of $0.06 per share from the third quarter results.
+The decrease is due to ACC2 being vacant in the fourth quarter 2015 which is a $0.05 per share impact and an increased estimate of capitalized leasing commissions due to our near record leasing success.
+And I'll wrap-up today with the dividend.
+On October 15 we paid our quarterly dividend of $0.42 per share.
+The anticipated 2015 annualized dividend remains at $1.68 per share.
+This represents an estimated AFFO payout ratio of 63% at the midpoint of our current guidance.
+As our AFFO continues to grow this dividend should grow accordingly.
+With that let's go straight to questions.
+.
+Our first question comes from Colby Synesael at Cowen &amp; Company.
+Great thank you.
+I appreciate that – well first off congratulations on the quarter in getting so much work done between now and end of the quarter as well.
+In terms of my question I appreciate at the Analyst Day you're going to give us a lot more color.
+But how quickly now that you already have board approval how quickly will you put whatever it is you've decided on in place and we think everybody assumes that there's going to be some market expansions tied to this.
+I think you're already looking at those – you've already decided which they are.
+Can we see you actually doing something around that as early as the first quarter or is it going to take more time? And then my second question I'm not familiar with hoping I pronounce it correctly ANEXIO.
+Can you just walk was through a little bit about who they are what their credit quality is and just give us some assurance they won't be in the same situation just a year down the road that we were just with Net Data Centers? Thanks.
+Chief Executive Officer &amp; Director</span></strong> Hi Colby it is Chris.
+Appreciate the question.
+I'll answer your first question about the plan right.
+We're excited to present the strategic plan to everybody on November 10th but we've been working on a lot of things that we're going to unveil in the plan behind the scenes.
+So there's a lot of work that's gone on already.
+I'm not really going to talk about what we're going to announce until November 10th but I can assure you that there is a lot of work that's gone into it and we've been proactive since we received board approval in working on the next steps of executing the plan.
+Your second question is about ANEXIO.
+Just to give you a little color on ANEXIO they are a large scale IT provider that provides cloud services and managed services.
+They have three locations one in North Carolina one in Florida and one in Metro and Metro New York.
+They just obviously acquired the Net assets.
+So they have a customer base.
+We think there is a strong opportunity for them to leverage their existing customer base to sell into the New Jersey New York market for data centers.
+They have a small data center footprint as it is now.
+This is going to help them put managed services on top of that data center footprint.
+So we are excited about working with them.
+They have a great management team and we are committed to their success.
+Hey great.
+Thank you.
+The next question is from Manny Korchman at Citi.
+Inc.
+(Broker)</span></strong> Hey guys good afternoon.
+Chief Executive Officer &amp; Director</span></strong> Hey Manny.
+Inc.
+(Broker)</span></strong> If we were to look at your portfolio sort of overall right now and mark the rest of your leases to market would we still be seeing those cash rent roll downs are we sort of at the tail end of that and what we've seen was the last of those types of big roll downs? Hey Manny it's Jeff I'll take this.
+As part of our strategic planning process in building out our model for the next five years we took our leases so we take a look at every lease in our portfolio to determine the mark-to-market.
+We compared the ending cash base rent of every lease to what we thought the market would be at this time.
+And we basically escalated the market 3% a year for wholesale 2% a year for super wholesale.
+Based on this we're forecasting a mark-to-market of a 9% reduction in our base rent over our entire portfolio starting in 2016.
+And I have a lot more details to present on this at our Investor Day but it's nothing close to what we've experienced here in the last quarter.
+And I do just – let me put in context the mark-to-market events we've had so far this year.
+Now we had ACC2 which was a cash decline of 41% of base rent 31% if you put the OpEx in the calculation.
+Net sale to ANEXIO was about a 33% decline but for all the renewals we did this year the 12 megawatts renewal cash actually increased 4.5%.
+So we've been very successful when we retained the customer of getting our rents driven upward.
+The net of all this for the year is about 20% decline in base rent and we feel that's an anomaly based on the two specifics of ACC2 and also the Net situation.
+Inc.
+(Broker)</span></strong> And if we look at the ACC2 lease you mentioned it was with an existing customer.
+Are we going to see a big increase in the top tenant schedule or was it a smaller customer that's now just growing faster? Chief Executive Officer &amp; Director</span></strong> Well this was not our only lease in the quarter.
+We were fortunate enough to get 26.5 megawatts of leases capture new one logo ANEXIO.
+So this lease with an existing customer was 10 megawatts out of 26 megawatts.
+So I don't expect to see an increase in our top 10 account concentration.
+Inc.
+(Broker)</span></strong> Great.
+That was it from me.
+Thank you.
+The next question is from Jordan Sadler at KeyBanc.
+Inc.</span></strong> Thanks good afternoon.
+I wanted to follow-up on sort of the customer line of questioning obviously you were very successful in the quarter – post quarter with the volume.
+And I'm curious if you could sort of speak to the nature of the type of demand that you're seeing.
+And maybe if you could characterize the depth of the market here? Chief Executive Officer &amp; Director</span></strong> Hey Jordan it's Chris appreciate the question.
+I mean when we talk about demand we're seeing a tremendous amount of demand in our core markets.
+I mean since I've started the funnel has significantly increased.
+I mean if you take a step back and you look at Microsoft's announcement on their Office 365 product growing 70% year-over-year you have Amazon with 78% growth year-over-year you take a look at Microsoft's Azure product and compute usage it's up triple digits.
+So the cloud is really having a serious impact on what we're seeing in the market in Northern Virginia.
+An interesting statistic that I just learned 70% of global Internet traffic runs through Loudoun County and we believe that we are the leader in the Northern Virginia market.
+So when you look at all the trends that we're seeing in the state they're all positive and we're very optimistic about our future.
+Inc.</span></strong> Okay.
+And the customers – I didn't hear are you adding new customers? Chief Executive Officer &amp; Director</span></strong> We added one new customer for the quarter but the 12 megawatts was from an existing customer and also the 10.4 megawatts was from an existing customer.
+Inc.</span></strong> Okay so basically 22 of the...? Chief Executive Officer &amp; Director</span></strong> Correct correct.
+Inc.</span></strong> Okay okay were from existing customers.
+Do you see the opportunity – or I mean in the funnel are there other customers out there that are of like scale? Chief Executive Officer &amp; Director</span></strong> There are and we're working on some MSAs with some of those customers right now as we speak.
+So there are other customers out there like this that have the profile.
+But when you look at really where we're seeing growth it's those hyper scale providers companies that are consuming a lot of compute type of resources in data storage.
+And we're at the very early stages in this game and I think we're going to see significant growth but there are others out there that can consume like you've seen from our existing customer base and we're talking to them.
+Inc.</span></strong> Okay.
+And then just one other here on the leasing.
+Something obviously came together for you to get all this volume done.
+I'm curious obviously must have been a function of availability and demand right place right time but also I'm curious any changes in the lease – you've given us some color on rate.
+So I think we've got an idea but on lease structure? Chief Executive Officer &amp; Director</span></strong> No the lease structures for all of these leases are our traditional leases.
+So we haven't had any changes.
+But the one thing I don't think it's luck.
+If you take a step back and you look at our operations team I believe that we have the best operations team in the business and some of the best facilities in the business.
+And there's a reason why these large customers come to us.
+It's the reliability of our services.
+They sleep better at night knowing their infrastructure is in a DFT data center.
+Inc.</span></strong> Yeah.
+No I didn't mean to infer that it was luck.
+I know that you have to have the space available and somebody has got to need the space obviously.
+Chief Executive Officer &amp; Director</span></strong> Having inventory is important that's why we talked about the 39 megawatts of expansion.
+We feel it's important for us to have inventory in those core markets.
+When you look at Chicago when you look at Northern Virginia they are Internet hubs quite frankly.
+And whether it's cloud whether it's over the top providers whether it's mobile data all that stuff that's happening within a data center.
+Inc.</span></strong> Well it's notable some folks have said it's better to be lucky than good.
+But (30:57).
+Chief Executive Officer &amp; Director</span></strong> That's what my college basketball coach said.
+Inc.</span></strong> And then I have one last which was – I didn't catch this Jeff if you gave detail on ACC7 the 1.49 megawatt renewal extension.
+What happened there exactly and why the reduction in the lease rate? Sure.
+The customer that took 6 megawatts in ACC7 had an existing lease there and they were so happy with the service they wanted more megawatts and wanted to extend that existing lease.
+By them buying 6 megawatts we gave them a little better price than we gave for their original lease.
+So at the time of the renewal we just matched that pricing.
+Inc.</span></strong> Is that a super wholesale price? No it's a wholesale price.
+Inc.</span></strong> Wholesale price.
+Okay.
+Thank you.
+Chief Executive Officer &amp; Director</span></strong> Thanks Jordan.
+Your next question is from Fred Moran at Burke &amp; Quick.
+Thank you.
+Were the 30%-plus price reductions to resolve NDC and have a timely leasing of ACC2 a bit more of a discount than you expected and necessary because of such having immediate resolution or is there anything else hindering pricing and does it say anything about difficulty leasing super wholesale space in general? And then secondly can you just help me understand how that big price reduction for ACC2 only translates into a two penny drop from $0.22 to $0.20 in FFO annually? Sure Fred.
+It's Jeff.
+I'll try that.
+So let's start with Net.
+So Net I had hinted in prior calls at about a 30% over market price for Net.
+So the 33% was basically right where we expected it to be.
+For ACC2 the Yahoo! space that was re-leased we had talked on prior calls that about a 20% decline and the way that was derived is I said each quarter Yahoo! generates $0.05 of FFO for us.
+And we expected upon re-lease that would go down to $0.04 of FFO.
+Those were cash figures and the $0.05 to the $0.04 is a 20% decline.
+It really went to $0.035.
+Of course the $0.05 did include operating expenses.
+So including operating expenses there was a 31% decline.
+So we missed by about a half a penny there.
+And that was really for the reasons I outlined earlier that the higher operating expenses and cooling costs really came into fore in the negotiations as our customer was comparing ACC2 to ACC7 and other space available in the market.
+We had to reduce the base rent little bit more than we predicated in order to be competitive.
+And did you have anything else? Yeah just in general what about indications for current demand levels for super wholesale? Chief Executive Officer &amp; Director</span></strong> Hey Fred it's Chris.
+We're seeing a lot of demand.
+I mean when you look at some of the opportunities that we're seeing in the marketplace and some of the requests we're getting from potential customers they're fairly large.
+I mean so when you look at it we're optimistic about our future based on our pipeline.
+So Chicago as I mentioned before we announced expansion in Northern Virginia.
+We're working on phases and rolling out more capacity.
+And that's I mean that's driven by demand.
+So we're seeing a lot of demand for our product in the marketplace and we're very optimistic about our future.
+Excellent.
+Thank you.
+The next question is from Matthew Heinz with Stifel.
+Nicolaus &amp; Co.
+Inc.</span></strong> Thanks good afternoon.
+Chief Executive Officer &amp; Director</span></strong> Hey Matt.
+Hey Matt.
+Nicolaus &amp; Co.
+Inc.</span></strong> So we've heard a lot of talk recently from your peers surrounding enterprise hybrid cloud and multi cloud adoption.
+And while I can appreciate that you're not involved in the carrier-dense space I'm just kind of wondering if you've seen any traditional enterprises in your pipeline that might be looking at using your suburban campuses or generally just wholesale buildings to tether in to a carrier hotel to kind of create that kind of deployment? Chief Executive Officer &amp; Director</span></strong> Well you do see people using our buildings and tethering into a carrier hotel for connectivity.
+I mean that's been happening for years.
+So that's not something that's just occurring.
+But when you talk about cloud I view us as one of the largest enablers of the cloud.
+When you look at those environments they're happening within our data centers.
+So when you look at large enterprise customers when you see the migration to cloud it's more for test and development type applications.
+You're not seeing them move their critical workloads to a public cloud right now at least we haven't seen that.
+I think most of you know that I've a background in cloud.
+So for us the critical applications are still happening in data centers.
+I think when you see that migration to cloud and you used the term hybrid it's for those smaller customers that have two or three tablets in a retail co-location provider's facility where it is actually more cost effective for them to be on a cloud environment.
+But the one thing that you have to take into consideration also with cloud if you're operating a workload 365 days a year seven days a week 24 hours a day cloud is going to be three times as much.
+So there is a lot of things that we're seeing in the space but we're continuing to see cloud grow within our facilities.
+And I have a slide which I'll roll out to you guys during our Investor Day that talks about cloud workloads and shows you the market opportunity for cloud workloads.
+And we believe we're the largest enabler of cloud out there right now.
+Nicolaus &amp; Co.
+Inc.</span></strong> Okay.
+Thanks.
+That's very helpful.
+And then my follow-up is specific to the Chicago market.
+You've certainly been aggressive there in terms of expanding the outgrow of campus.
+And from what we've heard there seems to be quite a bit of new supply coming on from competitors in the next 12 months to 18 months.
+I'm just wondering what you are seeing in terms of the demand funnel that gives you confidence to go ahead with the next phase of CH2 and plans for CH3 moving forward.
+Chief Executive Officer &amp; Director</span></strong> Hey Matt.
+I think the numbers speak for themselves.
+I mean we opened up CH2 and the first phase was sold out within four months.
+So I think the numbers speak for themselves.
+And we don't just do things without having a pipeline.
+We have a solid pipeline and we're seeing a tremendous amount of demand in that market for our product.
+Nicolaus &amp; Co.
+Inc.</span></strong> And is there any sort of I guess first mover or first mover advantage or race to finish inventory ahead of some of the bigger deployments? I think there's a 20 megawatt building coming on in the suburbs probably early 2017.
+Is there any – is that a consideration for you? Chief Executive Officer &amp; Director</span></strong> No I wouldn't say it's a consideration.
+I mean for us it's – we know that customers or potential customers like our product.
+They love our operations team and we know it's important for us to have inventory in those critical markets and we believe Chicago is a critical market for us to have inventory for those opportunities when a customer comes to us and says they want 5 megawatts and where do you support it.
+Nicolaus &amp; Co.
+Inc.</span></strong> Okay.
+Thanks guys.
+Look forward to Investor Day.
+Chief Executive Officer &amp; Director</span></strong> Thank you Matt.
+Thank you Matt.
+Chief Executive Officer &amp; Director</span></strong> Appreciate it.
+Your next question is from Rob Stevenson at Janney.
+Chief Executive Officer &amp; Director</span></strong> Hey Rob.
+Hi good afternoon guys.
+You talked a little bit about the development before and starting the next Chicago phase.
+Can you talk a little bit about when it looks like you'll start next Santa Clara building and phase IV of ACC7 and when do you need realistically go to your Chairman Vice Chairman and take down the next parcel in Northern Virginia for ACC9 or whatever it's going to wind up being? Chief Executive Officer &amp; Director</span></strong> Yeah.
+I'll address Santa Clara first I mean in order for us to start Santa Clara we're looking up for a prelease.
+So we've done a lot of the preliminary work on Santa Clara phase 3.
+It's a 6 megawatt – 16 megawatt facility on about five acres of land that we have out there.
+So the one thing that we're evaluating with some of the things that we have in our plan is we want to make sure that we get the highest adjusted risk return.
+So actually so we're looking for something that's really stable for us.
+And we want to make sure that – again I want to reiterate it's the highest adjusted risk return so or lowest risk return I mean for lack of a better word.
+It's definitely highest risk adjusted return.
+Yeah.
+Chief Executive Officer &amp; Director</span></strong> I'm sorry a little bit (39:51).
+So we're looking for the best returns simply because that's one thing that we are taking into consideration.
+The next thing is ACC9 as you mentioned.
+And we're already into contract for 34 acres in that market.
+We've done a lot of the pre-work on that.
+So based upon demand and what we're seeing in the market that's when we will announce ACC9.
+So we're not there yet.
+But we do have a contract that has not closed for 34 acres in that market.
+So we're close and we've done all the preliminary work for ACC9.
+So we can move very fast once that closes.
+We talked about ACC7 phase IV that's an additional 8 megawatt of capacity that we could bring online and again a lot of that's to be determined based on the demand we see in the market.
+We have a lot going on in our development pipeline right now with the 39 megawatts that we're going to be bringing to the market.
+So as we fill up our existing space that's when we will take a look at actually adding more capacity.
+So we're optimistic that we have enough capacity coming on line to help us through the next 12 months to 14 months.
+Okay.
+And then as a follow up Jeff what's the thought about the preferred you basically have one expire one redeemable and another redeemable next year where is pricing for you guys today you think relative to where those are and that are likely swapped or takeout in terms of common or debt? Yeah.
+The series A Rob we could take out at anytime right now at par.
+We're past the five-year no call period.
+And those rates are 7.875% and we'd really be looking for 7.25% or less to take that out so we can get at least a five-year payback if not shorter on the cost of taking that out and issuing new.
+We would reissue preferred via preferred for preferred swap.
+The series B or 7.625 so the rate needs to be even lower than that to move on that issuance.
+So right now the rates seem to be little bit higher than where we need to be.
+But we are monitoring them and have a couple of our preferred experts taking a look at the markets every day and we'll be notified as soon as there is an opportunity to go into the market and get the proper rates.
+Okay.
+Thanks guys.
+Next question is from Jonathan Schildkraut at Evercore ISI.
+Great.
+Thanks for taking the questions and congratulations on cleaning up a lot of noise from the story certainly sets the deck up for your Analyst Day.
+Just two questions if I may.
+First I'd like to come back to the customer concentration.
+Jeff maybe if you could just sort of walk us through where because you guys started to breakout top 10 customers.
+I think top your four customers are something like 60% of revenue.
+What are the top four customers are going to look like and I think that before that included Yahoo! so maybe we can talk about the top four and get a better sense what it looks like top three I guess excluding Yahoo!.
+And then secondly you guys broke out the returns on the capital that you're putting out there for some of the new facilities on a GAAP basis.
+I was wondering if we can get those numbers on a cash basis.
+Thanks.
+Sure Jonathan.
+So page 13 of our earnings release has our top 15 customers and at October 1st before the 26 megawatts leasing we just did Microsoft was first at 22.7% Facebook second at 19.9% Rackspace third at 10.3%.
+So when you add all that up you've got the top three around 52% 53%.
+Like I said earlier I'm not really looking for any change in that based on the leasing we signed in October.
+Yeah Yahoo! has dropped out at number four at 7.5% and what that's made up of is ACC4 which they've already sub-leased to one of our existing customers but there are still the tenant of record.
+And NJ1 they have a small 1 megawatt lease there.
+All right very helpful.
+Okay.
+And the second part of your question I'm sorry.
+The 13% return on a GAAP basis and I was wondering what that looked like on a cash basis? Yeah on a cash basis cash starts out lower than grows to be higher than the GAAP returns.
+At ACC7 there one of the customers there had a ramp that's burned off.
+So I would say cash is getting pretty close to GAAP and at Chicago they really weren't any ramps there.
+So cash will be very close to GAAP.
+Great and just as a follow-up in terms of not having real ramp periods around some of these larger customers.
+I assume that goes to improvements in net effective rents.
+Has this been a sort of trend that you are seeing broadly within your leasing volumes the ability to move away from those free ramps? Yeah that's really been happening since 2012 when we introduced the super wholesale rate.
+The super wholesale rate doesn't have a ramp.
+So for 50% or so of our leases since 2012 we haven't had ramps in there.
+And then we've been moving away from them as much as possible from our wholesale customers.
+All right.
+Great.
+Thank you for taking the question.
+Thank you Jon.
+Chief Executive Officer &amp; Director</span></strong> Thanks Jonathan.
+.
+Our next question is from Jon Petersen at Jefferies.
+Great thanks guys.
+Curious so the one new tenant that you had this quarter was that the six megawatts in Chicago? Chief Executive Officer &amp; Director</span></strong> No that was ANEXIO.
+ANEXIO the 4.13 megawatts.
+Oh that's your new customer.
+Chief Executive Officer &amp; Director</span></strong> Yes.
+Okay.
+Got it never mind then.
+And then on your – you mentioned the 9% roll down mark-to-market on your entire portfolio.
+I was just curious is that a cash basis or a GAAP basis just curious for modeling purposes? That's cash.
+GAAP is almost nonexistent.
+Do you mean like you're basically flat? Yeah.
+Almost flat.
+Okay that's all I had thanks.
+Thanks.
+Our next question is from Jonathan Atkin at RBC Capital Markets.
+Thanks.
+So a question about share repurchases and then I had a question about kind of supply in your four metros.
+And you did repurchase in first quarter in the low $30 range and the stock did go down to kind of mid-$20s back in September.
+I'm just wondering why you didn't repurchase stock at those levels? And then the other question I had is from a kind of operations standpoint if you could give us a sense of the competitive environment across each of New Jersey Virginia Chicago and Santa Clara in terms of where there was more versus less multi megawatt competitive supply out there in terms of inventory today? Thank you.
+Okay.
+Thanks Jonathan.
+On the stock repurchase we're going to talk more about this at Investor Day so I don't want to give away much.
+But by going into some new markets which we've talked about is our goal of our strategic plan we're preserving our capital to invest in development.
+And that's really the reason for not making any additional purchases under the repurchase plan.
+I'll turn it over to Chris on the market standpoint.
+Chief Executive Officer &amp; Director</span></strong> Hey Jonathan.
+I'm going take you through market by market and answer your questions the supply and demand and what we're seeing in those markets.
+So I'll start New Jersey first.
+I think everyone on this call knows that it's probably our underperforming market.
+Jersey is a market that there is a lot of competition and right now it is somewhat over supplied.
+So it's a trend that you're seeing.
+You don't see the large wholesale deals in New Jersey that you would see in Santa Clara Chicago and Northern Virginia.
+We'll take a look at the Northern Virginia market next.
+We do believe it's an undersupplied market and there's a lot of opportunity for us in the market.
+Pricing is stable.
+It is competitive but we feel we have a very strong product in the market and a leadership position.
+So we believe that supply and demand dynamics are in our favor.
+Chicago is an another market very similar.
+It's an undersupplied market.
+Again we believe the supply and demand dynamics are in our favor.
+Pricing is fairly stable as you can tell by the returns that we got that we talked about in our prepared remarks.
+And the last market is Santa Clara.
+I do believe that Santa Clara is still an undersupplied market.
+A couple years back it was grossly oversupplied.
+But we are seeing a trend right now that there is a real land grab in that market.
+And that's one of the reasons that we want to pre-lease for SC we call Santa Clara phase III.
+That's important for us because we want to make sure that we have a tenant before we actually go out and spend that CapEx.
+We're going to be very smart on how we spend our capital.
+But overall the supply and demand dynamics are in our favor and we're very optimistic about the future.
+Thank you.
+Chief Executive Officer &amp; Director</span></strong> Welcome.
+Our next question is from Young Ku at Wells Fargo.
+Chief Executive Officer &amp; Director</span></strong> Hey Young.
+Thank you.
+Hey Chris just a quick question that 9% portfolio mark-to-market is that based on super wholesale market rents or wholesale market rents? Chief Executive Officer &amp; Director</span></strong> It's a combination.
+For each customer we did it lease by lease and if they are a super wholesale customer we assume that they would convert to super wholesale rates at the end of lease.
+If they're a wholesale customer they would convert to wholesale lease rates.
+Okay.
+And are you guys seeing that difference between super wholesale and wholesale gap increasing or has that gap kind of tightened over the past couple quarters? It's remained quite steady since we introduced super wholesale in 2012.
+Chief Executive Officer &amp; Director</span></strong> Yeah even our leases this quarter.
+I mean subsequent to the quarter it's about a 50-50 split between super wholesale and wholesale.
+I see.
+That's helpful.
+And just one last question in terms of the expected yields the 13% GAAP yield if you were to go in Santa Clara and perhaps New Jersey how would the yields be in those markets? Chief Executive Officer &amp; Director</span></strong> Well Santa Clara for the phases one and two of that building we got 9.2%.
+New Jersey we haven't announced the number but it's safe to say it will be below our 12% target when we fill up that building.
+For Santa Clara phase 3 we'll be targeting above 9.2% but I don't want to give away where we're at right now.
+We'll talk about that at Investor Day.
+Okay.
+That's great.
+Thank you.
+Our next question is from Jordan Sadler at KeyBanc.
+Chief Executive Officer &amp; Director</span></strong> Hey Jordan.
+Inc.</span></strong> Hey just a follow-up on the balance sheet.
+I'm curious how you guys are looking at your capacity when you pro forma or account for the remaining development spend on of course ACC7 and CH2 phases that are underway but then maybe layer in what you've got poised to take down in terms of land in Northern Virginia and then the build in Santa Clara.
+What – as you sort of layer in sort of expected expenditures over the next 12 months how does leverage look on a debt-to-EBITDA basis and what your view is your capacity to stay within your leverage targets? That's a great question Jordan.
+Leverage today is in the low fours in our upper limit by the rating agencies when you just see net debt-to-EBITDA is around 5.0.
+So we do have some capacity today.
+Luckily for us with all these new leases we just signed EBITDA is looking it will be growing in to 2016.
+So that'll also create more capacity.
+So when you look at what we've committed to do so far today we still see leverage in the low fours next year.
+But we're going to talk more about that in context of our strategic plan at Investor Day to give you a more total picture once we announced everything we're thinking about.
+Inc.</span></strong> Okay.
+So based – I guess long story short based what you've got in front of you today what you've announced to-date you've got ample capacity to fund on your existing sort of revolver.
+Correct.
+Ample capacity on the other revolver and the ability to stay under 5.0.
+And we take that 5.0 very seriously just to give you a hint as to what we'll be talking about at Investor Day.
+Inc.</span></strong> And then just as a clarification point the – on the preferreds you've obviously got – that's a significant slug of your capital structure.
+How do you think about that piece.
+Do you like the current sizing today would you want it to be bigger or smaller and just any thoughts there? Yeah I like the current sizing and I'm not really looking to grow the total preferreds that are outstanding.
+I mean when we go to refinance those preferreds with other preferreds if there's an opportunity to grab a little bit more we might do it but I don't see any radical change in the mix there.
+Inc.</span></strong> Okay.
+Thank you.
+I'd now like to turn the conference back to Chris Eldredge for closing remarks.
+Chief Executive Officer &amp; Director</strong> Thanks everyone for joining us on the call today.
+I'm looking forward to seeing many of you in New York on November 10th.
+If you have any questions about the event please give Chris Warnke a call or drop him an email.
+Thanks everybody.
+The conference has now concluded.
+Thank you for attending today's presentation.
+You may now disconnect.

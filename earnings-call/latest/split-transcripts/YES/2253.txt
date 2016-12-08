@@ -1,0 +1,531 @@
+Ladies and gentlemen thank you for standing by and welcome to the Level 3 Fourth Quarter and Full Year 2015 Earnings Conference Call.
+During the presentation all participants will be in a listen-only mode.
+Afterwards we will conduct a question-and-answer session.
+As a reminder this conference is being recorded on Thursday February 4 2016.
+I would now like to turn the conference over to Ms.
+Valerie Finberg Vice President of Investor Relations.
+Please go ahead.
+Thank you Frank.
+Good morning everyone and thank you for joining us for the Level 3 Communications' fourth quarter and full year 2015 earnings call.
+With us on the call today are Jeff Storey President and Chief Executive Officer and Sunit Patel Executive Vice President and Chief Financial Officer.
+All of our earnings materials are available in the Investor Relations section of the Level 3 website.
+I'd like to direct your attention to the footnotes to the tables presented in the press release and the earnings presentation which provide important information regarding the deconsolidation of our Venezuelan operations subsidiary last quarter and other pro forma comparison.
+Comparisons to prior periods discussed today are presented on a pro forma basis assuming that the acquisition of tw telecom took place on January 1 2014.
+Revenue and sales comparisons to prior periods are provided on a year-over-year and constant currency basis unless otherwise noted.
+Revenue comparisons also exclude results from our Venezuela subsidiary from all periods.
+I need to call your attention to our Safe Harbor statement that begins on page two of our 4Q 2015 earnings presentation.
+The presentation and remarks contain forward-looking statements that are subject to risks and uncertainties.
+Results may vary significantly from those statements and additional information is available in the Investor Relations section of the Level 3 website and in our filings with the Securities and Exchange Commission.
+We will be referring to certain non-GAAP financial measures.
+Reconciliations of these non-GAAP measures to the most comparable GAAP measures are available in the earnings presentation.
+With that I'll turn the call over to Jeff.
+Chief Executive Officer &amp; Director</strong> Thank you Valerie.
+Good morning everyone and thank you for joining us.
+As you can see from our results 2015 marked a year of solid execution for Level 3.
+We made good progress on the three major initiatives I outlined for the year which were first and our number one priority the successful integration of Level 3 and tw telecom; second enabling EMEA to live up to its full potential and support the growth we believe we can achieve in that region; and third position Level 3 for growth well into the future.
+As a result of the work we did in 2015 we believe we are well positioned on each of these initiatives.
+Most importantly is our movement toward our vision of one one set of products that we take to an expanding market one network to deliver those products globally one set of operational support systems to enable a differentiated customer experience and one team with a singular goal of making Level 3 the premier provider of enterprise networking services.
+As we look to 2016 our strategy remains the same.
+We are focused on operational excellence throughout our business providing a superior experience to our customers and developing the products and capabilities to meet their complex and evolving networking needs.
+On today's call we'll follow our usual process.
+Sunit will provide an update on our detailed results for the quarter and for the full year.
+I'll provide a little more detail on our progress against our initiatives as well as our market opportunity and then we will open up the call for your questions.
+With that I'll turn the call over to Sunit.
+Thank you Jeff and good morning everyone.
+In 2015 we met or exceeded our key outlook measures for the year.
+Even with the integration global currency pressures driven by macroeconomic headwinds and the deconsolidation of a Venezuelan subsidiary last quarter we had good momentum which drove revenue adjusted EBITDA growth and profit performance for the year.
+We also delivered strong free cash flow and set the stage for continued strong growth in 2016.
+Looking forward we are building on this foundation investing in the business and continue to be disciplined in managing our costs as we maintain our focus on profitable growth.
+Turning to slide three for a summary of our performance in 2015.
+Our Core Network Services or CNS revenue for the full year 2015 grew 5.3% year-over-year on a constant currency basis.
+For the full year total Enterprise CNS grew 7.2% and North America Enterprise CNS grew 7.6%.
+Adjusted EBITDA grew 16% for the full year 2015 in line with our recent outlook of 15% to 17%.
+From a free cash flow perspective we finished above the range of our outlook of $600 million to $650 million for the year by generating $658 million in 2015.
+Free cash flow excludes $32 million of accelerated cash interest expense payments related to a refinancing that took place after reporting third quarter earnings.
+We refinanced $4.9 billion of debt during 2015 resulting in over $110 million of annualized cash interest expense savings.
+Additionally we continue to lower our net debt to adjusted EBITDA ratio which is now at 3.8 times.
+Finally from a synergy perspective as of the end of fourth quarter 2015 we achieved approximately $216 million of annualized run rate adjusted EBITDA synergies since the close of the tw telecom transaction.
+This exceeds our original synergy expectations to achieve $140 million by the end of the first quarter 2016 and $200 million in total.
+Turning to slide four.
+In the fourth quarter 2015 CNS revenue grew 4.4% on a constant currency basis and 2.4% on an as reported basis.
+As we saw throughout 2015 the continued strength of the U.S.
+dollar against other currencies affected our reported growth rates.
+For the full year CNS revenue grew 5.3% on a constant currency basis but 2.9% on an as reported basis.
+At the end of the fourth quarter the U.S.
+dollar represented 90% of total revenue the British pound represented 4% the euro 3% and the Brazilian real 2%.
+All other currencies are included in the remaining 1%.
+I'd like to move now to a discussion of revenue on a regional basis.
+North America CNS revenue grew 5.9% for the full year.
+For the fourth quarter 2015 from an enterprise perspective CNS revenue grew 6.1%.
+Enterprise CNS revenue grew 1.5% on a sequential basis following the particularly strong results in the third quarter of 2015 where our sequential growth was 2.7%.
+Adjusting for that our North America Enterprise business is at a 2% sequential growth base over the last two quarters.
+For the full year 2015 EMEA CNS revenue was relatively flat on a constant currency basis.
+For the fourth quarter EMEA CNS revenue increased 0.7% on a constant currency basis and declined 4.1% on an as reported basis.
+Enterprise CNS revenue excluding UK government grew 3.5% on a constant currency basis and remained flat on an as reported basis.
+While Enterprise revenue growth was little slower than the results we have seen in prior quarters it was primarily a result of the unusual strength in Enterprise CNS revenue from the fourth quarter 2014.
+Sequentially Enterprise CNS revenue excluding UK government grew 2.2%.
+Also CNS revenue declined 0.3% on a constant currency basis and 8% on an as reported basis.
+UK government CNS revenue decreased 7.9% on a constant currency basis and 10.7% on an as reported basis.
+In Latin America for the full year CNS revenue grew 7.2% on a constant currency basis.
+For the fourth quarter Latin America CNS revenue grew 8.4% on a constant currency basis and declined 6.4% on an as reported basis.
+Enterprise CNS in Latin America grew 9.5% on a constant currency basis and declined 6.7% on an as reported basis.
+Wholesale CNS revenue increased 4.1% on a constant currency basis and declined 5.4% on an as reported basis.
+Our revenue mix can be found on slide five with North America representing the bulk of our CNS revenue at 81% followed by EMEA at 11% and Latin America at 8%.
+Our enterprise customers represent 73% of CNS revenue while wholesale customers make up the remaining 27%.
+Turning to slide six and revenue results by product group.
+IP and data services grew 8.2% and continues to drive the company's growth led by growth in VPN and managed services.
+Within IP and data services CDN declined year-over-year but grew 7.9% on a sequential basis.
+Transport and fiber grew 1.8% driven by wavelengths and professional services.
+Within transport and fiber dark fiber grew 10% year-over-year Colocation and datacenter services grew 3.9% and voice services declined by 0.5%.
+Over the course of 2015 we saw little change in the overall pricing environment within our products or regions.
+For 2016 we remain focused on assessing the pricing landscape and will continue to take a market-by-market approach to pricing our solutions looking at particular geographies products verticals as well as other factors and maintaining our focus on profitable growth.
+One of the things we were very focused on in 2015 and will continue to be focused on this year is sales production or bookings and sales productivity.
+In 2015 total sales production improved over 2014 and sales productivity grew significantly.
+For the fourth quarter 2015 CNS sales production grew nicely compared to the fourth quarter 2014.
+Moving to slide eight.
+When we initially provided outlook for adjusted EBITDA one year ago we expected growth of 12% to 16%.
+In the third quarter we updated that outlook to 15% to 17%.
+We finished the full year 2015 growing adjusted EBITDA 16% to $2.638 billion.
+Keep this in – keep in mind this is after the deconsolidation of Venezuela and some significant currency headwinds all during an integration year.
+Adjusted EBITDA margin including integration-related expenses was 33.2% for the fourth quarter 2015.
+For the full year including integration-related expenses we increased our adjusted EBITDA margin by more than 400 basis points from 28% to 32.1%.
+We are confident in our ability to expand margins over time as we grow high-margin CNS revenue and optimize costs across the business.
+Moving to synergies on slide nine.
+As I mentioned earlier at the end of the fourth quarter we had achieved $216 million of annualized run rate savings exceeding our overall $200 million synergy target ahead of schedule.
+As we continue to streamline our cost structure we expect to continue to optimize network expense.
+As we've reached our $200 million target we will not be providing additional updates around future synergies.
+On slide 10 we delivered strong free cash flow for the full year 2015 of $658 million.
+This excludes the accelerated cash interest payments of $32 million related to capital markets activity in the fourth quarter 2015 and completed after third quarter earnings driving cash interest expense higher in the fourth quarter.
+Turning to slide 11.
+We exited the year with a net debt to adjusted EBITDA ratio at 3.8 times.
+This compares to 4.4 times at the end of 2014.
+Over the last decade our target leverage range has been 3 times to 5 times.
+We are now narrowing our target leverage range to 3.4 times and remain focused on getting to the low end of that range.
+Turning to slide 12.
+I'd like to outline our business outlook for 2016 which is also provided in this morning's press release.
+From a revenue growth perspective all of my remarks are on a constant currency and a year-over-year basis.
+In 2015 total revenue grew 3.7%.
+Excluding UK government total CNS revenue grew 5.5% and Enterprise CNS revenue grew 7.4%.
+For 2016 we expect total revenue growth to be higher.
+We also expect total CNS and Enterprise CNS revenue growth excluding UK government revenue to be stronger in 2016 compared to 2015.
+We expect total wholesale CNS revenue growth for the full year 2016 to be up slightly compared to the full year 2015.
+In North America we expect total CNS and Enterprise CNS revenue growth for the full year to be comparable to the 5.9% and 7.6% growth respectively we saw in 2015.
+To put that in perspective Enterprise CNS growth is expected to be quite a bit higher than the 6.1% growth we saw in the fourth quarter of 2015.
+Also keep in mind that the one-time install revenue in 2015 that won't recur in 2016 is about 0.5% of North America Enterprise CNS revenue in 2015.
+Adjusting for that our North America Enterprise revenue growth is expected to be higher in 2016 compared to 2015.
+As a reminder our goal is to grow overall Enterprise CNS 8% on a year-over-year basis.
+We also expect wholesale CNS revenue in North America to grow slightly in 2016.
+In EMEA we expect total CNS revenue excluding UK government to grow in 2016.
+For 2015 Enterprise CNS revenue excluding UK government increased 5.5% on a constant currency basis.
+We expect comparable performance in 2016.
+EMEA wholesale revenue declined 7% in 2015 on a constant currency basis and we expect a slight decline in 2016.
+From a UK government perspective we anticipate an approximate 30% decline as our contract with HMRC expired in January.
+Our LatAm CNS revenues grew 7.2% in 2015.
+We expect performance to be stronger in 2016.
+Additionally we think Enterprise CNS revenue performance will be firmly better than the 7.3% growth we saw for the full year 2015.
+Latin America wholesale revenue increased 6.9% in 2015 and we expect better performance in 2016.
+We also expect that wholesale voice and other revenue will decline approximately 10% in 2016.
+In addition to better revenue growth in 2016 we expect to generate strong growth in adjusted EBITDA and free cash flow.
+Specifically from the adjusted EBITDA starting point of $2.592 billion from 2015 which excludes the three quarters of 2015 EBITDA contribution from Venezuela we expect to grow adjusted EBITDA 9% to 12% for the full year 2016.
+We expect to generate free cash flow of $1 billion to $1.1 billion for the full year 2016.
+From a capital expenditure perspective we expect to spend about 15% of total revenue on CapEx in 2016 as we invest for future growth.
+Additionally for 2016 we expect our full year income tax rate to average about 30%.
+That rate can vary significantly in any quarter.
+In summary 2015 was a transitional year for the company as we successfully worked through integrating tw telecom.
+With our continued investment for organic growth coupled with our strong operating leverage we're well positioned to drive better top line performance and strong line – strong bottom line performance.
+With that I'll turn the call over to Jeff.
+Chief Executive Officer &amp; Director</strong> Thank you Sunit.
+As I walk you through our strategy and how we think about the market opportunities I also wanted to take a few minutes to provide more detail on our performance last year on the company's three key initiatives starting with the successful integration of tw telecom.
+As I noted early last year we expected 2015 to be a year of transition with all of the heavy lifting that usually occurs in the first year after a large acquisition.
+To highlight just a couple of examples of our progress here I'll start with the sales force and sales process maintaining an effective sales force with the initial focal point of our integration efforts because those employees are the closest connection to our customers and drive our growth.
+Early in the year we consolidated accounts and enabled a common comprehensive customer relationship management system.
+We then rolled out consistent compensation plans unified our general manager structure and developed and conducted cross-training on the combined companies' products.
+Even with all this change our 2015 CNS sales were higher than in 2014 for the combined companies.
+While we have additional work to make the process easier for our sales team we feel good about where we are and how the actions we've taken set us up for growth this year and in future years.
+We also combined networks streamlining our cost structure and capitalizing on our metro and long-haul assets.
+Again we have more opportunity and work to do here but we believe we have the best global network supported by a deep metro footprint across the United States and growing footprints in EMEA and Latin America.
+In addition we are able to hit our run rate synergy targets much sooner than expected.
+As the team focused on operational excellence we know that moving customers on net and eliminating operational inefficiencies are the best ways to drive a differentiated customer experience.
+Many of you have asked me about the potential revenue synergies associated with the combination of the two companies.
+As I stated before and as we've seen with prior acquisitions the pace and degree of change can be a lot for a sales force to process.
+However as we work through integration throughout the year we've seen benefits from a revenue perspective.
+While we have not specifically quantified the dollar impact of revenue synergies cross-selling and up-selling opportunities are a factor for us.
+I'll give you an example of a customer win from last quarter that demonstrates the power of the combined company.
+Heritage Home Group or HHG is a world leader in designing manufacturing sourcing and retailing home furnishings.
+They market their products through a wide range of channels including their own Thomasville retail stores to interior designers multi-line independent retailers and mass merchant stores.
+The Heritage Home Group portfolio includes some of the best known and most respected brands in the furniture industry.
+As a tw telecom customer since 2003 HHG historically used a large incumbent telco as their primary provider for their 50-or-so locations.
+tw telecom was limited in its ability to service many of HHG's domestic and international sites and complex voice needs.
+Additionally HHG had grown to the point where they required more bandwidth to meet the demands of their business and were looking for a provider who could help with more of their networking needs in all of their sites.
+In the fourth quarter of last year Level 3 was successful in winning HHG's global WAN and voice business.
+The selection of Level 3 was based on the larger network stronger service capabilities and the customer references we offered.
+Additionally Level 3's Voice Complete solution was much more robust and met their needs better than services available from tw telecom or the incumbents.
+Finally our Secure Access solution enabled HHG to incorporate international sites in a way that was not previously possible.
+As a combined company we went from supporting 5 sites to now supporting 50 sites and have added products such as global managed services – excuse me global Managed Security that were not available through stand-alone tw telecom.
+As a reminder we occasionally win large multi-site deals with brand-new customers.
+Our typical approach is to begin customer relationship exactly like we did with HHG.
+We generally start with a single product in a few locations.
+After we demonstrate our performance we can then grow substantially in a number of locations and services we provide to meet their complex networking needs.
+Moving to an update on EMEA.
+2015 was also a year of transition for that region.
+The telecommunications market in EMEA is sizable nearly as large as the U.S.
+market yet our market share in the region is much lower.
+While we have a nice business in the United Kingdom we did not have the right go-to-market strategy or sales structure to take advantage of the opportunity on the continent or drive even better penetration in the UK.
+Over the last year we built a very talented leadership team to ensure we aggressively attack the market.
+We have concentrated our focus on four primary markets: the UK Germany France and Benelux and have implemented a disciplined sales and investment process to enable profitable growth in that region.
+Additionally our global Ethernet and Voice Complete products will be fully available in the region by the end of the first quarter.
+We've made good progress in 2015.
+After several years of declining revenue in EMEA revenue was essentially flat last year.
+For 2016 excluding UK government we expect EMEA CNS revenue to grow on a constant currency basis.
+We do believe we can benefit from additional scale in the region and are actively investing to expand our growth opportunities.
+Turning to our initiatives position Level 3 for future growth.
+Our strategy to be the premier provider of global communications services focused on the enterprise networking market has two key components: to develop the capabilities our customers need and to do so over an efficient unified global platform.
+In the past customers thought of the network as a noun.
+It was a thing that they use to tie their internal systems together in a few locations.
+Today our customers know that network is actually a verb.
+It's not a thing.
+Network is an action.
+How well they network with their customers their suppliers their employees and even the equipment they use determines how effectively they can empower and drive their businesses forward.
+With the rapid deployment of cloud services and the growth of the Internet of Things customers know that how they network drives efficiencies new products and entire new business models.
+With respect to the Internet of Things it's important to note that many of the things are already there.
+It's the connectivity to those things and the ability to network those things that is rapidly evolving.
+Air handlers in a manufacturing facility or infusion pumps in a hospital room already exist.
+What would be different is the ability to efficiently network those devices and integrate them into the performance of the company.
+Networking is at the center of many of the technology transitions that are under way.
+Whether it is the need for heightened security capabilities increasing demand to connect globally the migration to the cloud or the delivery of over-the-top content customers know that the network is a physical asset they use to move their data around but it is really the action of networking that drives their success.
+As a result they turn to Level 3.
+With our focus on enterprise networking we are not distracted by wireless consumer services or other initiatives.
+We are solely focused on meeting our customers' ever-expanding demands for capacity and networking services.
+While just buzzwords for many software-defined networking and network function virtualization or SDN and NFV are actually built into the capabilities we deliver and help our customers with their networking requirements.
+Our Adaptive Network Control and Cloud Connect Solutions products allow enterprises to dynamically adjust bandwidth as they move computing resources from their own data center to an outsourced data center or to a cloud service provider.
+They are no longer limited in their operations by inflexible networks or the inherent insecurity of the public Internet.
+Let me give you some examples of how our customers are using our capabilities today.
+Big data analytics.
+Big data is driving the need for more bandwidth to the cloud.
+Our customers who are leveraging big data tools in the cloud need to create connections to enable their data analysis.
+These customers require temporary increase in bandwidth to move terabytes of data and then return to normal volumes for everyday use.
+We have recently enabled this type of application for our customers in genome sequencing biopharma higher ed research and oil and gas exploration to name a few.
+Project-oriented IT.
+Many organizations need to deploy application environments for a discrete period of time but they still want the security and performance delivered with private connectivity.
+Think of the upcoming presidential race or tax season.
+Using remote data centers or cloud service providers organizations can spin up the IT resources to support these applications needed for short periods of time.
+Our Adaptive Network Control capabilities can then be used to allow the network to match the agility of cloud resources scaling the network resources on demand to support their application.
+By continuing to build into more data centers and more cloud service providers across the globe Level 3 remains one of the best connected communications companies to leading cloud providers.
+Those connections coupled with Adaptive Network Control are creating networking environment that matches the flexibility of a cloud environment and allows customers to more effectively utilize cloud resources.
+We see this as a key opportunity and we'll continue to invest in both our capabilities and expanding our connectivity to those providers.
+From a net revenue perspective our goal is to drive 8% year-over-year CNS Enterprise growth.
+We have several levers to help us meet this goal including continuing to grow our sales force and sales support teams further developing our products and service offerings to meet the needs of the market and investing to expand our network.
+We're not quite there yet.
+But this remains our objective.
+And as a company and a management team we are working toward accelerating revenue growth through these and other initiatives.
+Before we open it up for your questions I'd like to take one minute and talk about how we think about capital allocation going forward.
+As Sunit noted we expect to generate between $1 billion and $1 point billion (sic) [$1.1 billion] of free cash flow in 2016.
+As a result of our performance we are certainly in a different position with regard to our degrees of freedom with cash than we have been at any other time in the history of the company.
+We firmly believe that putting excess cash to work is accretive to stockholder value.
+As we've indicated we're a growth company.
+And therefore our top priority is investing in the business.
+In 2016 we will continue to invest around 15% of total revenue in capital expenditures.
+Even with that level of investment we'll be generating more cash than we can use organically.
+That brings me to our second priority.
+As our market share is low in a consolidating industry we will continue to capitalize on acquisition opportunities whether to grow our market share or expand our capabilities.
+We believe we have demonstrated a strong track record over the past few years delivering value to stockholders though our disciplined acquisition strategy and integration execution.
+At some point and in the absence of the opportunities to put cash toward – to drive growth and fulfill our long-term strategy returning capital to stockholders is an appropriate consideration.
+Keeping in mind that 2015 was only the second year we generated substantial free cash flow we will continue to be very disciplined in our efforts to drive revenue growth adjusted EBITDA growth and consistent growth in free cash flow per share.
+All of our capital allocation decisions are evaluated through the lens of providing the best return for our stockholders.
+With that we will open it up for your questions.
+Operator would you explain the process? Thank you.
+Ladies and gentlemen Our first question comes from the line of Colby Synesael with Cowen &amp; Co.
+Please proceed.
+Great.
+Thank you.
+I guess Jeff just on that last point you made there how important is it to the management team to the board to have potentially a buyback plan simply in place this year so that if – as you go through the course of the year you haven't been successful in finding a deal that makes sense for you.
+And ultimately you have this cash building and you're not deploying it as aggressively through M&amp;A as you might have anticipated or wanted to.
+And then as part of that it does look like at least in our model that you could very well be at the low end if not below three turns of leverage whether it's at the end of 2016 or maybe early 2017 which if I'm not mistaken could actually make you possible – or give you an option to be investment grade.
+How important is it for Level 3 in your business model to be investment grade? Is that something that you guys aspire to or would actually look to go below three turns to achieve over the long term? Thank you.
+Yeah.
+Colby I'll take that.
+I think on the leverage ratio no we think three times is appropriate.
+We're not looking to go below that.
+So we think that's the right level for us.
+That's why we said the lower end of three times to four times.
+With respect to your question on when in 2016 I mean just to further expand on what Jeff said I mean if you look at our returns over the last five years over the last five years our compounded annual return on our stock price has been 30%.
+A big reason for that has been the two big M&amp;A deals we did Global Crossing and tw.
+And so we think that successful M&amp;A has been a key part of that and will continue to be a key part of that not to mention that expanding our market share is important.
+But also all of these acquisitions have really improved our competitive and strategic position and the durability of the growth and the returns we can provide over time.
+So I think just expanding on that with Jeff that will continue to be our focus.
+I think if we come to some point late in the year where we'll figure out we have not been successful and then as Jeff said our goal is to maximize or optimize free cash flow per share over the long term.
+So I think there is no specific timeline at this point but I just want to remind everyone that a big reason why the returns have been the way they have been in the last five years has been M&amp;A driven besides just organic growth.
+Chief Executive Officer &amp; Director</span></strong> And we'll continue to focus on those things organic growth and M&amp;A.
+And then your point is it's an appropriate consideration for us to think about in the event we still have excess cash after those things.
+And I also want to emphasize we're very disciplined about both of those areas.
+We're disciplined in driving profitable growth and we've been very disciplined in M&amp;A.
+So we'll stay focused on that but maintain the discipline that we've demonstrated in the past.
+Great.
+And just one quick housekeeping item.
+How much is dark fiber now as a percentage of total revenue? I know you gave the growth rate of 10%.
+But as a percent of revenue now what is dark fiber to the total business? It's about 6% of CNS revenue roughly.
+Thank you.
+Our next question comes from the line of Scott Goldman with Jefferies and Company.
+Please proceed.
+Great guys.
+Good morning.
+I guess a couple of questions.
+One maybe a little bit more housekeeping on the North America Enterprise guidance I just want to make sure I understand.
+It sounds like you still feel very comfortable with sort of the 8% target range on there but perhaps 2016 would be impacted by the fact that you had some one-time benefits that came in 2015 that might impact the growth.
+But I just want to see what your comfort level is with the ability to hit 8% in North America Enterprise for 2016.
+And then secondly on the synergies side obviously I mean I think that's really ramped up significantly in the last couple of quarters.
+Maybe you could walk us through a little bit where that's coming from why you've been able to exceed in what areas you've been able to exceed not only your near-term target but what was your total target.
+And if I'm not mistaken you're not at the network access target that you set out initially.
+Is there still more synergies to come particularly on the network access side? Thanks.
+Sure.
+So I'll start with the North America Enterprise.
+As we said the growth will be comparable to last year which was 7.4% 7.6%.
+So I think that if you were to look at the underlying run rate excluding the 0.5%-or-so benefit we got from one-time install revenue in 2015 that we don't expect to incur in 2016 from an underlying perspective we're close to sort of the 8% growth rate.
+Now obviously as we report over the course of a year because of that install revenue in 2015 that impacts the growth rate by 0.5%.
+That's why we said we'd be comparable to the performance we saw in 2015.
+Now as Jeff pointed out our goal is firmly to be at 8% so we're going to work hard over the course of the year to make the investments to do that but I think the guidance we provided is the best insight we have at this point in time.
+On the synergy side I think as you've seen from the schedule we provided all the favorability has come from the operating expense side.
+I think some of the key areas that drove that.
+One was on non-head count related expenses we work very hard with all our suppliers so whether it's equipment suppliers that charge us maintenance fees utility costs to drive efficiency initiatives.
+So it's a combination of synergies and efficiencies on the non-head count side.
+We also I think gained a fair bit of benefit from the head count side which was a tough and delicate balance to achieve while at the same time with a heavy integration load and we still have some integration to go.
+So I think – so it was a combination of non-head count and head count related expenses and we got a fair bit of benefit on the capital expenditure side that we haven't talked about here but we mentioned last year.
+We negotiated with our suppliers to put that in place – to have those savings in place right at the beginning of last year.
+So it actually had the effect of increasing our investment compared to what the stand-alone companies were investing in 2014 just because we have better pricing.
+Finally your questions on network excess – access expenses yeah we haven't – that hasn't worked out as well as we thought.
+We – but remember our ultimate target was about $110 million but we didn't expect to achieve until closer to the end of this year.
+So as we – as I said in my remarks we'll continue to optimize that.
+It gets tougher and tougher to report that separately as synergies but you'll see that in our network expense margins going forward.
+Great.
+Thank you.
+Our next question comes from the line of Simon Flannery with Morgan Stanley.
+Please proceed.
+Great.
+Thanks very much.
+So just coming back to the M&amp;A comment.
+I certainly understand the opportunities there but we haven't seen any transactions in sometime.
+So can you just talk a little bit about the landscape? And presumably you've had plenty of sort of operational flexibility to do another deal here in the last few quarters.
+So has it been price? Has it been opportunities? What are the kind of the things that you're looking for to be able to make another step forward here? Thanks.
+Chief Executive Officer &amp; Director</span></strong> Yeah.
+Well first of all we said at the end of last year – at the end of 2014 that our primary objective for 2015 was a successful integration of tw telecom.
+And so that has been our primary focus.
+We believe that that is the most important use of our time and resources.
+And so that is where we focused throughout 2015.
+There are lots of opportunities out there for M&amp;A from a variety of different perspectives.
+Some are to expand our footprint some are to expand our capabilities in new products and services some to expand our customer base.
+And we'll continue to look at those from a disciplined perspective.
+But up until now our focus has been integrating tw telecom and we think we're in a position now to continue looking forward.
+And given – Sunit given your new leverage target would you be willing to go above that target temporarily to do the right deal? No.
+I think we've been very disciplined on the target.
+We've never really kind of gone above the target.
+So I think like as we've done in the past we would look to be within that range pro forma for synergies for anything we would look at.
+So we're not really – and we're already within the target.
+We are 3.8 times.
+And with the EBITDA growth this year every quarter we'll see that number come down approaching 3 over the next year.
+So I think yeah I mean we'd stay within the range on any acquisition pro forma for synergies.
+Great.
+Thank you.
+Our next question comes from the line of Nick Del Deo with MoffettNathanson.
+Please proceed.
+Okay.
+Thanks for taking my question.
+First a follow-up regarding synergies.
+So I recognized that it gets harder to break these things out as time goes on and you're not going to disclose any specific stats going forward.
+But broadly speaking what's been embedded in your 2016 outlook from a synergy perspective? Yeah.
+So I think that it's been – it's a year and three months after.
+So the teams run based on what their targets are for the year from a budget perspective.
+There's no kind of distinction between synergies and non-synergies.
+And so it's embedded within the targets we set for various areas.
+So I think that – again I don't think – I mean in general I think from an operating expense perspective we have done a lot.
+There won't be as much from an operating expense perspective other than as we consolidate systems and platforms we will continue to get some savings on the margin.
+But as Jeff pointed out we're also looking to expand our sales force and associated support with that.
+On the network expense side I think it's mostly continued optimization that will benefit us.
+Over time we might see some benefit in operating expenses on the real estate side.
+But again it's within the guidance we have provided.
+Okay.
+Great.
+And then maybe one sort of macro question.
+Some folks are worried that we might be headed towards a weaker economic environment in the U.S.
+And I'd be interested in hearing your thoughts regarding how sensitive you think your business is to swings in the macro economy.
+And obviously during the last recession I think the business struggled a bit but your mix has changed a lot since then.
+And you might also argue that your important services (43:53) you provide to your customers has improved or increased.
+Chief Executive Officer &amp; Director</span></strong> I think you're exactly right Nick.
+And if you look at our mix we're 73% enterprise 23% wholesale.
+The last downturn – major downturn in the economy we had a very different mix at that point.
+And I also think you're right in the statement that the services we provide are absolutely critical to our customers.
+And as customers if they are going through difficulty it's not a change in their bandwidth demand.
+It's not a change in the complexity of the network environment the increased demand for security services.
+All of those things will drive customers to looking at new solutions and technology transitions as opposed to causing them to shy away from making those decisions.
+So we think we're in a very good position and that the ability of Level 3 to perform is up to our execution.
+And one final thing I would add to that is we have been gaining market share vis-à-vis our competitors and I think that opportunity continues to exist for us.
+Okay.
+Perfect.
+Thank you both.
+Chief Executive Officer &amp; Director</span></strong> Sure.
+Our next question comes from the line of Barry McCarver with Stephens.
+Please proceed.
+Inc.</span></strong> Hey good morning guys and thanks for taking my questions.
+So two questions.
+I guess first off you highlighted the strength in dark fiber.
+I know that's been a highlight for several quarters.
+Within the product lines do you expect that continue to be a strong driver for the business? And what other lines might also you point out as being a highlight? And then just secondly in regards to M&amp;A I certainly feel like there's a certain competitive advantage of continuing to move into new markets and look for new footprints.
+Do you view M&amp;A strategically that way? Or do you feel comfortable with your existing footprint being able to provide plenty of growth for the foreseeable future? Thanks a lot.
+Chief Executive Officer &amp; Director</span></strong> Sure.
+Let me – I'll let Sunit comment directly on dark fiber.
+But let me talk about one of the strength of Level 3 and that's our ability to match our services to a customer's networking needs.
+And so we have customers and applications for those customers where dark fiber is absolutely an appropriate solution.
+If you want to tie two locally located data centers together dark fiber is a good solution for that.
+If you want to tie two data centers across the country together our 100-gig wave (46:36) products are good solutions for that.
+If you want to tie a data center to a branch office our IP/VPN products are good for that.
+And so we looked at that overall comprehensive portfolio and recognized that our customers have very – a variety of different networking challenges that they're trying to solve.
+And so we match our technologies.
+We don't – we're not limited to just CDN.
+We're not limited to just Internet.
+We match our technologies and our solutions to their networking needs.
+And so we think that's a strong capability that we offer versus most of our competitors.
+With respect to M&amp;A we are very pleased with our footprint but we want to continue to expand our footprint both in depth and in geography.
+So if you look at EMEA for example I mentioned that we are focused on expanding in four key markets.
+That means growing richer and deeper in fiber in the UK but also richer and deeper in fiber in Germany France and Benelux.
+And so we'll continue to look at those both organically and inorganically of how do we put our cash to work to drive the growth for Level 3.
+Sunit? Yeah.
+So I think on your questions within product areas so dark fiber has been a good grower for us.
+But remember we have pretty diversified portfolio and a comprehensive portfolio of products and services that are more solution driven as Jeff mentioned based on what our customers' needs are.
+We continue to see dark fiber performing well over the next couple of years as some of our customers' scale needs are large and that solution works for them.
+Then the other area CDN we've talked about – we told – we said last year we made a significant investment there.
+We are beginning to see the benefits there.
+There are other areas that we've made investments that we'll talk about in the future like security services that Jeff has talked about.
+We continue to make reasonable sized investments in that area and that's something we'll be able to talk about more tangibly later in the year or next year.
+So these are some of the areas.
+But in general the basic message I think is the demand drivers for bandwidth continuing strength for all of the things that Jeff cited and that's what we are leveraged towards.
+Our next question comes from the line of Brett Feldman with Goldman Sachs.
+Please proceed.
+Thanks.
+Just a quick follow-up on the leverage questions you've been getting.
+The decision to lower the top end of the range I'm just wondering what drove that.
+For example did you get any maybe color or commentary out of the credit markets that your incremental funding costs could be a lot lower if you're willing to commit to a lower floor? And then you guys provided a really constructive view on what supports your revenue outlook for this year.
+And Jeff I was hoping you can maybe just provide a little more color in terms of what's behind that.
+Specifically how much of that outlook is based on the demand environment in general what you're seeing in sales funnels where you're seeing client spend? And to what extent – does it represent an improved ability to tackle those opportunities because of where you are in the integration of TWTC and some of the other initiatives you've been pursuing to make the company more efficient? Thanks.
+Brett I'll take the leverage question and Jeff can take the other one.
+But I think on the leverage thing keep in mind we've been now saying for a couple of years that we want to be at the low end of 3 to 5.
+So that says that we were kind of already saying 3 for the last two years.
+So taking the top end of that from 5 to 4 wasn't as big a deal other than just to establish a 4 marker (50:22) and we think a 3 to 4 range is good and being at the low end of that is good.
+So even though we've taken the top down from 5 to 4 we have been saying for the last two years we wanted to be at the low end of 3 to 5.
+It wasn't driven in any part by anything to do with the current markets.
+So I think we have always been pretty firm and steady in our guidance there.
+Chief Executive Officer &amp; Director</span></strong> Yeah.
+And I think that we're at an intersection in the market for Level 3.
+We have an exceptional network that is – it's global in nature it's diverse in its geography it has capabilities across that spectrum of products that we're able to layer on security services CDN services managed services professional services on top of that to help our customers do the migrations in technology and the transitions in technologies that they have to do.
+We've made great progress in the integration of tw telecom and we have an excellent workforce across the globe focused on making Level 3 the best provider.
+And then we have a market that's moving toward our capabilities not away from our capabilities.
+Customers need the types of services that Level 3 is offering.
+The need for that is continuing to grow.
+They are operating in very complicated environments with many external threats with technology changes that they have to implement within their businesses with new business opportunities and other things coming from things like Internet of Things and opportunities to increase the flexibility of their network with technologies like SDN and NFV.
+And so we think we're at a great intersection between where the network is where customers are going and our capabilities to deliver that based on the work that we've done over the last year.
+Thanks for that color.
+Our next question comes from the line of John Hodulik with UBS.
+Please proceed.
+Hi.
+This is Chris (52:33) for John.
+Going back to the install revenues that occurred in North American Enterprise in 2015 can you highlight what quarters those benefits were mainly realized in and how we should think about the quarterly comps over the course of 2016? Sure.
+I mean I think obviously we saw strength in the third quarter that we talked about and there was some in the first quarter but I would say the first three quarters more than the fourth quarter.
+Okay.
+And in regards to the CapEx I believe you have some integration CapEx that's actually going to fall off year-over-year which would give you some added room for growth investments.
+Can you talk about what the components of your budget for next year and what product areas or regions you're most focused on at this point? Sure.
+So I think the message is one we are spending more CapEx in dollars in 2016 compared to 2015 since the revenue – total revenue is growing.
+And you're right in that the – since we have less – much less in integration CapEx in 2016 compared to 2015 we do have more CapEx just from that perspective that we're putting to work.
+In terms of the component sales as we've stated in the past most of our capital expenditure is success-based driven by customer contracts.
+About $300 million to $350 million is what we had described as sort of maintenance upgrade-type CapEx.
+The rest is expansion CapEx.
+The thrust of the expansion capital this year will be some of the things that Jeff mentioned which is expanding our network footprint both deeper within existing geographies and in new geographies.
+I think that will be a big chunk.
+We are spending capital to – for data centers on a select basis in different – in some regions.
+We are spending capital for upgrading or putting in more capacity on our subsea systems.
+We are investing capital on long-haul dark fiber routes where needed.
+So these are several different areas that we're investing capital.
+The other area we're going to be investing more capital is an area we cited earlier the security business.
+We talked about we're going to continue to put more capital in that area but – and Jeff if you want to add to any of those areas key things.
+Great.
+Thank you.
+Our next question comes from the line of Michael Rollins with Citi.
+Please proceed.
+Inc.
+(Broker)</span></strong> Thanks for taking the question.
+I'm just curious with the fiber that you have in the series of acquisitions that you've done the number of buildings that you connect to is there a way to frame any advantage you may have in terms of the cost to expand the network to meet customer needs or what that might relate into a pricing advantage because of the cost structure that you may be able to achieve? Thanks.
+Sure.
+That's a great question.
+I think this is the – what we call the network advantage because the more network you have the more closer you are to building.
+So the advantage in winning new business is two-fold.
+One because you are connected to more buildings you get a higher margin or lower cost structure to or more degrees of freedom to win the business.
+But in addition to your point to tie in new buildings in any particular customer proposal we are going for our cost to get to that is generally lower than other providers just because of the depth and capillarity of our network.
+So – and the other key point there is because we operate in a number of geographies we do more often than not when a customer has a need we can get to more of their locations on that than our competitors do which is why one of the reasons we talked about acquisitions is that not only do they give you synergies and accretive free cash flow per share but actually improve your competitive and strategic position and the durability of the advantage that you have vis-à-vis your competition.
+Inc.
+(Broker)</span></strong> Thanks very much.
+Our next question comes from the line of Phil Cusick with JPMorgan.
+Please proceed.
+Hey guys.
+This is Eric in for Phil.
+Just maybe to follow up on M&amp;A.
+With the current macro headwinds outside the U.S.
+do you still view international expansion as more or less attractive at this time? And if so – if it is still more attractive are you more interested in lit or dark assets? And how do you feel about the current valuation of these assets? Chief Executive Officer &amp; Director</span></strong> Several questions in there I'll try and get to – get them all Eric.
+If I don't ask again.
+But if you look at our capabilities we have very rich long-haul and metro assets throughout the U.S.
+We don't have as rich in EMEA and LatAm.
+And so obviously those are areas that we want to continue to expand.
+Whether that's through organic or inorganic we want to make sure that we build an infrastructure that matches our opportunity in those markets.
+And so we believe that we have great opportunity to do that.
+With respect to pricing of those types of assets I don't really have any comment on that.
+We will be disciplined if we look at M&amp;A activities and make sure that we believe that the value that we're getting is appropriate for what we're paying and we'll continue to use that discipline that we've demonstrated in the past and making sure that we believe we can execute on the integration in the way that we've done in the past and we'll continue to focus on those things.
+Got it.
+And you mentioned that you're expecting stronger growth in LatAm this year.
+What are you seeing in terms of the macro headwinds there? And how do you expect that to impact you guys? Yeah.
+So in LatAm I think we did get impacted by the macro headwinds.
+Last year we talked about it.
+We adjusted our expectations middle of the year for LatAm.
+I think that our LatAm business finished quite strongly in the fourth quarter.
+And I think what's driving it is what Jeff and I have been talking about which is just a good demand backdrop for bandwidth as the bandwidth maturity level – adoption level in Latin America is lower than North America and they're just rising up that curve.
+So we are benefiting from all kinds of drivers.
+Whether it's from the enterprise side directly or content it's a big driver of our growth there.
+So it's just the demand backdrop for bandwidth is what's driving it.
+So we do expect better performance in at LatAm on a constant currency basis.
+Okay.
+Thank you.
+Chief Executive Officer &amp; Director</span></strong> Thank you.
+Operator I think we have time for one more question.
+Our next question comes from the line of Tim Horan with Oppenheimer.
+Please proceed.
+Inc.
+(Broker)</span></strong> Thanks guys.
+Jeff it seems like the Internet companies and their cloud strategies the top five or six guys are really changing the dynamics of the industry quite a bit.
+They're spending a huge amount on CapEx.
+Could you maybe just talk about how you're partnering with them or how it's going to (01:00:08) maybe what the customer relationships are changing and the network relationships are changing as you either compete with them or partner with them? Thank you.
+Chief Executive Officer &amp; Director</span></strong> Sure absolutely.
+And we do partner with them.
+All those companies that you could cite are customers of Level 3 or partners of Level 3.
+So we focus very much on partnering with them.
+We also recognize that they are pools of demand that our customers want to get to.
+And so we are connecting to them and building to them very consistently and are the – I'd argue are the best connected globally to many of those types of companies.
+And so we'll continue to partner we'll continue to build to them.
+The other thing that we are trying to do is change – and we are doing is changing the way networks operate so that the enterprise customers can take advantage of those resources more effectively.
+Historically networks have been very inflexible.
+You build up capacity.
+You nail that capacity up and it just stays there and that's all you have.
+We have changed – with our Adaptive Network Control capabilities and our Cloud Connect Solutions products we have changed that dynamic and are creating flexible networks that allow enterprise customers to more effectively utilize those cloud environments and those – and access those different pools of demand with very flexible network design.
+So we'll continue to partner with them and continue to focus on making sure that Level 3 is the most connected and the best equipped to take advantage of that for our customers.
+Inc.
+(Broker)</span></strong> Thank you.
+Chief Executive Officer &amp; Director</span></strong> Thank you.
+Chief Executive Officer &amp; Director</strong> With that I'd like to close the call with just a few thoughts.
+As evidenced by our continued growth in market share our strategy to position Level 3 as the premier provider of global communication services is working.
+We believe we are at the intersection of the best network the best people and the right market opportunity to continue to grow.
+The ability to generate significant free cash flow is evident in our performance last year and our expectation for 2016 and remains a focus for the business through continued profitable growth.
+We remain focused on our enterprise networking customers and on providing a differentiated customer experience.
+Lastly I'd like to thank our dedicated employees around the globe for their significant contributions in 2015.
+They are the engine that drives Level 3.
+As always thank you for joining today's call.
+Thank you for your questions and for your support of Level 3.
+Operator that concludes the call.
+Thank you Jeff.
+We would like to thank everyone for your participation and for using the Level 3 conferencing service today.
+This does conclude the conference call.
+We ask that you please disconnect your lines.
+Have a great day everyone.

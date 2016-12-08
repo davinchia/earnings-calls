@@ -1,0 +1,330 @@
+Ladies and gentlemen good morning.
+Thank you for standing by and welcome to the Thomson Reuters Second Quarter 2013 Earnings Call.
+[Operator Instructions] And as a reminder this conference is being recorded.
+I would now like to turn the conference over to our host Senior Vice President Investor Relations Mr.
+Frank Golden.
+Please go ahead.
+Good morning and thanks for joining us as we report our second quarter results this morning.
+We'll begin today with our CEO Jim Smith; followed by our CFO Stephane Bello.
+Following their presentations we'll open the call for questions.
+[Operator Instructions] Now throughout today's presentation keep in mind that when we compare performance period-on-period we look at revenue growth rates before currency as we believe this provides the best basis to measure the underlying performance of the business.
+Today's presentation contains forward-looking statements.
+Actual results may differ materially due to a number of risks and uncertainties discussed in reports and filings that we provide to regulatory agencies.
+You can access these documents on our website or by contacting our Investor Relations Department.
+Let me now turn it over to the CEO of Thomson Reuters Jim Smith.
+Thank you Frank and thanks to those of you on the call for joining us.
+Today we'll begin with a review of the second quarter results then I'll update you on the progress we continue to make and the overall market conditions we're seeing midway through the year.
+I'll then turn it over to Stephane who will review the results in more detail.
+Now to the results for the quarter.
+The second quarter's performance was again consistent with our full year expectations and I'm pleased with the progress we continue to make.
+We are tracking to our plans despite the fact that a few of our markets are still quite challenging.
+Total revenues were up 2% reflecting continued good growth from the resilient Legal Tax &amp; Accounting and IP &amp; Science businesses which were up 6% on a combined basis.
+But that was partly offset by a 1% revenue decline in our Financial business.
+As you've heard me say on prior earnings calls given the subscription nature of our business and its lag effect our progress will not translate into top line improvements in 2013.
+This year's performance in our Financial business reflects last year's negative sales.
+Now despite the top line pressure in F&amp;R we continue to make consistent tangible progress in rolling out new products while at the same time reducing our cost structure in a sustainable manner to grow margins and free cash flow.
+And you can see that reflected in today's results.
+At the consolidated level EBITDA was up 3% despite a 1% decline in organic revenues and underlying operating profit was up slightly despite the decline in organic revenues and a $20 million increase in depreciation and amortization.
+Stephane will share more details on that in a moment.
+And finally this morning we are reaffirming our full year 2013 outlook.
+Let's turn to the results by business segment for the quarter beginning with our Financial business.
+Revenues declined 1% as expected.
+Growth in Risk &amp; Compliance and Marketplaces was offset by a decline in our Trading and Investors businesses.
+Turning to net sales.
+We continue to see a marked improvement in net sales and we expect that trend to continue over the balance of the year as Eikon Elektron and other new products continue to ramp up.
+The second quarter was negative but was substantially better than both Q1 this year and Q2 of last year.
+Some additional color.
+This quarter marked the lowest negative net sales quarter since Q3 2011.
+And all global regions continued their positive trajectory with several encouraging developments.
+Asia was positive and Japan achieved positive net sales for the first time since Q2 2011.
+The Americas showed strong improvement.
+So the sales trends continue in the right direction.
+We have broken into positive sales territory in some regions in Q2 and expect to see continued improvement across-the-board over the balance of the year.
+Unfortunately the headwinds affecting the largest global banks particularly in Europe continue to dampen our progress.
+The continued cost cutting retrenchment and headcount reductions by the biggest European players shapes the playing field on which we compete.
+Therefore the task of posting positive net sales for the entirety of the second half looks challenging.
+Nevertheless we continue to see accelerating momentum and remain confident in the trajectory of the business and our ability to drive profitable growth.
+Our competitive position has never been stronger.
+Legal's revenues rose 5% driven by acquisitions.
+Organic revenue growth was 1% impacted by a 7% decline in print revenues.
+Tax &amp; Accounting had another good quarter with revenues up 7% 3% organic.
+IP &amp; Science revenues rose 9% due to acquisitions but organic revenue was down 1% due to the timing of several large contracts.
+We expect this will rebound in the second half of the year.
+And our Global Growth businesses continue to perform up 14% 7% organic.
+And they now comprise about $1 billion of our total annual revenues.
+Let me remind you that GGO results are included within each of the 4 business segments.
+So at the midpoint of the year despite an external environment that continues to be challenging we're tracking to our expectations and remain comfortable with the full year outlook.
+Our x Professional businesses continue to perform and with respect to our Financial business we continue to make real progress.
+We are far more disciplined and we are becoming a more execution-focused organization which is helping build confidence across the company.
+Our products are more innovative our customer service and administration continues to improve and our customers are taking note.
+Eikon is on course and is gaining momentum entering the second half of the year.
+We now have 61 000 Eikon customers.
+The upgrade program is on schedule and we remain pleased with the progress.
+We will continue to simplify our platforms systems and processes which we must do if we're to reach our cost savings and margin targets.
+So far this year we've closed the HTA and EMT platforms on time and upgraded 33 000 customers to Eikon.
+And I'm particularly pleased to report that our retention rates were 97% for the HTA and 98% for EMT a testament to the positive response to Eikon.
+The Bridge Data Network is up next.
+Now I've been in my current role as CEO for 18 months.
+It's a good time to assess where we are.
+I can confidently say that we have made profound progress on what has been our top priority turning around our Financial &amp; Risk business.
+And while a lot remains to be done and the pace of the turnaround will continue to be influenced by the external environment I am confident that the business has turned the corner and will maintain its positive momentum in the months to come under the leadership of David Craig and his team.
+I'm now turning my intention to ensuring that we focus more on organic revenue growth across the company through developing and delivering better products better service and better user experience.
+I am convinced there is a substantial opportunity for us to drive organic growth and to further reduce costs.
+But in order to accomplish this we must continue to drive integration simplification standardization.
+The good news is that's in our control and I am confident that this approach will enable us to achieve sustainable growth in free cash flow and earnings to the benefit of our customers shareholders and employees.
+With that I'd like to turn it over to Stephane.
+Thank you Jim.
+And it's a pleasure to speak with you today.
+Consistent with what we've done in the past I will speak to revenue growth before currency throughout today's presentation.
+And reported revenues are also highlighted on each slide.
+Second quarter revenues were up 2% due to acquisitions.
+Organic revenues declined 1% primarily due to the lag effect from negative sales in our Financial &amp; Risk segment last year and to the timing of revenues in our IP &amp; Science business.
+Overall our Professional businesses once again delivered a robust performance growing 6% during the quarter 1% organic while F&amp;R declined 1% and was down 3% organically.
+More on that in a moment.
+Adjusted EBITDA was up 3% and the related margin increased 40 basis points reflecting the continuing progress we are making to rightsize the business and bring down our cost structure in a sustainable way.
+Underlying operating profit was up slightly and the margin decreased 10 basis points to 18.3% reflecting higher depreciation and amortization expense from recent product launches and acquisitions.
+And finally foreign exchange only had a nominal impact both on EBITDA and underlying operating profit margins during the quarter.
+Now let me provide you with some additional color on the performance of our individual businesses starting with our Legal segment.
+The U.S.
+legal market remains challenging with little growth in demand from law firms.
+That said we are pleased with the progress our Legal business continues to make as it is benefiting from having invested in growth areas over the past few years.
+During the quarter Legal grew 5% and grew 1% organically.
+Now this 1% organic growth rate represents a sequential improvement over the flat organic growth we reported in Q1.
+And it is worth noting that this improvement also came on the back of a more pronounced decline in print revenues.
+U.S.
+print revenues continue to be a drag declining 7% during the quarter as law firms and governmental agencies continued to cut discretionary spend.
+For perspective U.S.
+print was down 2% in the first quarter and down 1% in the second quarter last year.
+So if you exclude U.S.
+print revenues rose 8% during the second quarter 2% organic.
+Now let me remind you that print revenues are often impacted by seasonal factors and publication schedules resulting from content availability from courts offers [ph] and so forth.
+For the third quarter we anticipate that print revenues will decline by about 10% versus the third quarter last year for these very reasons.
+We expect Q4 and full year print revenues to be down mid-single digits.
+Subscription revenues were up 8% 2% organic which is in line with prior quarters and which reflects the mix of a challenging core legal research market offset by expanding sales in our newer lines of business.
+As we discussed last quarter a 7% decline in transaction revenue led to slower growth in the first quarter which we expected to be temporary.
+And in fact transaction revenues did bounce back during the second quarter increasing 4%.
+Now looking at the performance of our 3 subsegments.
+U.S.
+Law Firm Solutions revenues increased 1%.
+This is our largest subsegment representing about half of Legal's revenues in the quarter.
+And within that subsegment Business of Law revenues increased 7% led by FindLaw while research-related revenues declined 1%.
+The second subsegment Corporate Government and Academic which is about 25% of our Legal business that segment declined 1% with Corporate up 6% and Government down 5% primarily relating to print cancellations at the federal state and local levels as they contend with cost pressures.
+And our third subsegment Global Legal which is also 25% of the total achieved revenue growth of 23% 4% organic driven by the acquisition of PLC and good growth in Latin America.
+EBITDA and operating profit both increased 2% and the corresponding margins were down 80 basis points primarily due to the decline in print and research-related revenues I mentioned earlier.
+Now turning to Tax &amp; Accounting.
+That segment posted another quarter of very solid performance.
+Revenue grew 7% of which 3% was organic.
+And that was driven by strong growth across the business except government.
+Subscription revenues which represent about 2/3 of Tax &amp; Accounting's revenue base grew 6% organically.
+This strong revenue growth reflected the continuing strength of our offering and the healthy conditions prevailing in the global tax and accounting market.
+Once again all our business segments excluding Government performed very strongly during the quarter.
+Managed Solutions grew 4% our Professional business grew 13% and the Corporate Tax business grew 20% 9% organic with strong growth in Latin America.
+Now we continue to experience challenging Government business.
+And as a reminder Government accounts for less than 5% of Tax &amp; Accounting's total revenue base.
+However we do believe that this can be an attractive market segment for us and that our business will turn around.
+In fact we believe that the worst of the Government segment's performance is behind us and that it should have much less of a negative impact on Tax &amp; Accounting's overall results going forward.
+From a profitability standpoint EBITDA grew 10% during the quarter and operating profit increased 12% with the related margins up 130 and 110 basis points respectively.
+Now turning to IP &amp; Science.
+Revenues grew 9% with organic growth down 1%.
+Total growth was driven by the MarkMonitor acquisition which closed in the third quarter of last year.
+Organic revenues were negatively impacted by a decline in transactional revenues related to the timing of onetime sales of our Web of Knowledge and Web of Science products.
+Transaction revenues which represent about 1/4 of the total were up 2% but the organic growth was down 1%.
+Subscription revenues which are about 3/4 of IP &amp; Science total revenue base were up 12% with organic revenues flat due to delayed renewals in our Life Sciences business which we expect will be realized in the second half of the year.
+And I'd like to remind you that the quarterly revenue growth for IP &amp; Science can be uneven and that growth is best viewed on an annual basis for that segment.
+As such the second quarter results of the business are not representative of what we expect for the full year performance.
+EBITDA increased 5% with the margin declining 90 basis points to 33.8% due mainly to the MarkMonitor acquisition.
+And operating profit was flat with the margin declining 210 basis points for the same reasons.
+Financial &amp; Risk revenues were down 1% with a 2% contribution from acquisitions.
+So organic revenue was down 3% reflecting the continued impact of our sales performance over the past 12 months.
+Recurring revenues which are about 3/4 of the total revenue base of F&amp;R declined 3%.
+Transaction revenues were up 22% 5% organic as a result of increased volumes for FXall and Tradeweb.
+And Recoveries revenues declined 4% due to a combination of desktop losses and the fact that some exchanges had moved to billing customers directly.
+As a reminder Recoveries are low-margin revenues which are passed through to the exchanges.
+The EBITDA margin for F&amp;R was up 40 basis points a strong performance given that organic revenues declined 3% during the quarter.
+F&amp;R is doing a very good job in gradually reducing its cost base by managing its headcount lowering contractor costs and shifting down platforms.
+Operating profit declined 5% and the margin declined 40 basis points due to the higher depreciation and amortization from new products and acquisitions.
+Now we'll briefly review the results for the individual segments within Financial &amp; Risk.
+Trading revenues declined 6% primarily due to declines in Equities and Fixed Income which resulted from the flow-through from our sales performance over the past 12 months.
+Investors revenues declined 1%.
+Enterprise Content rose 9% while Investment Management declined 4%.
+Banking &amp; Research and Wealth Management were essentially unchanged from the prior period.
+Marketplaces revenues grew 6% driven by 13% growth at FXall and 5% growth at Tradeweb.
+Organic revenues declined 1% due to desktop cancellations.
+And finally our Governance Risk &amp; Compliance business grew 13% nearly all organic.
+Let me now turn to review our consolidated results.
+Our second quarter adjusted EPS was $0.48 per share unchanged from 1 year ago.
+The impact of higher interest expense in the quarter was offset by a more favorable tax rate.
+Currency had a $0.01 negative impact on EPS during the quarter.
+And for the full year we remain comfortable with our guidance of $470 million to $490 million for interest expense as well as an effective tax rate for the year of 11% to 13%.
+Turning to free cash flow.
+Total free cash flow increased 11% during the quarter and 14% excluding disposals.
+For the first half of the year we posted a decline in our reported free cash flow of $152 million.
+This is not reflective of what we expect for the full year performance which to remind you is between $1.7 billion and $1.8 billion.
+There were 2 main factors impacting free cash flow negatively for the first 6 months.
+First the timing of our CapEx spend.
+As a reminder from our first quarter call we had a large multiyear software contract renewal which impacts the timing of our reported CapEx this year versus last year.
+And this impacted the year-to-date results by about $70 million.
+And second based on the timing of disposals we had far more cash from businesses outside of ongoing operations last year than we do this year.
+And this impacted results by $71 million.
+So for the full year we continue to expect disposals to have a negative impact on reported free cash flow of about $140 million.
+This brings us to our 2013 outlook which we reaffirm today as reflected on this slide.
+So let me simply conclude by saying that in the face of what is likely to remain a difficult external environment for the balance of the year we know that we must redouble our focus on what's in our control that is innovation-driven growth and scale initiatives so that we can continue to improve our free cash flow performance in the near term.
+With that let me turn it back over to Frank for questions.
+Terrific.
+Thanks very much Jim and Stephane.
+So that concludes our formal remarks and we would like to open the call for questions.
+So Tom if we can have the first question please? [Operator Instructions] Our first question today comes from the line of Drew McReynolds representing RBC Capital Markets.
+LLC Research Division</strong> I just want to kind of shift to the pricing environment.
+So kind of my question is in terms of large contracts that you need to renew looking into the back half of 2013 are there chunky contracts? And then maybe can you just talk to the pricing environment as you're clearly migrating legacy onto Eikon? Well yes there are some chunky contracts yet to be negotiated in the latter half of the year.
+It -- interestingly we're not seeing any increased pressure on pricing per se.
+The conversations are all around features and functionality that we deliver.
+And also it's more about total cost of ownership.
+And where we're facing pressures for downgrades have all to do where banks are retrenching getting out of lines of business and/or cutting heads.
+And those are the things that still have to work their way through the system.
+As far as pricing goes it has been pretty consistent over time and remains so today that the price increases that we're getting are sticking.
+And we're not seeing any significant change in the pricing pressure there.
+Our next question today comes from the line of Sara Gubins with the Bank of America.
+Research Division</strong> You talked about getting to 140 000 to 150 000 Eikon terminals by the end of the year.
+I wanted to check to see if you think you're still on track for that given the current pace.
+Or would you expect the pace to accelerate given some of those chunky contracts that you just mentioned? Yes Sara let me take that question.
+What I think we said at the time we had -- at the end of the first quarter when we had 45 000 Eikon installs[ph] that we would expect the full rate for the end of the year to be 2 to 3x that number and we are very much on track to achieving that.
+And that should represent essentially the conversion of a vast majority if not all of -- or 3 000 extra terminals.
+We -- we're very much on track to achieve that.
+Research Division</strong> Okay great.
+And then separately given the worsening print trends that you mentioned in Legal how should we think about Legal growth in the second half of the year? Well I think that the -- in the second half of the year and going forward if you look at '14 and '15 what we would anticipate is that this shift in revenue mix that we've been talking about for the last few quarters where -- will essentially continue.
+So what we would expect to see is a continuing I would say slightly negative growth rate in core Legal research offset by strong growth in all the other business.
+And as all these other businesses represent an increasingly large percentage of the total revenue base of Legal the organic growth rate of Legal should gradually improve over time.
+Now as I just said the third quarter will be a little bit of an exception because of the print factor I mentioned but that doesn't change the long-term trend at all that we've seen for the Legal business.
+Our next question comes from the line of Peter Appert with Piper Jaffray.
+Research Division</strong> So Jim I may have just missed this but I wasn't sure that you gave a specific net new sales number here for the second quarter other than saying it was substantially improved.
+Can you be more specific? No we've never given those numbers out specifically and we talked to the trends and whether they're positive or negative.
+Research Division</strong> Okay.
+And then your comment on positive net new sales for the second half looking more challenging sorry to try to be more specific on this.
+But is the message that we should just tone down our expectations for the year? Well I think that -- I just want to emphasize that we are incredibly confident in the trend lines and in the improvement that we see underlying.
+But as we look at the renewals that we're working through the system for the balance of the year it's apparent that the downgrades at a handful of big European banks are going to temper the success we're seeing across the rest of the business.
+It's important to note that even with these customers who are cutting back our competitive position has never been stronger and we're really optimistic about our long-term relationships.
+But as I've said before it's difficult to outrun gravity at least in the near term.
+So I just think that we should temper our expectations with the reality that we're experiencing in the market.
+Our next question today comes from William Bird with Lazard.
+Research Division</strong> It's actually Thomas Le in for William Bird.
+I just have one question on margins.
+What needs to happen to hit the higher end of the margin guidance range? And how do you think about your margin expansion profile just beyond 2013? What would be a reasonable annual expectation? Tom let me take that question.
+I would say directionally we would expect margins in the second half to be better than in the first half.
+And the reason is that in the first half we obviously had to take on these severance expenses that we referred to.
+I think they were -- year-to-date they are to the tune of about -- a little bit higher than $8 million and we're not expecting the same magnitude at this point in the second half.
+So margins should improve from the 26% I think that we achieved for the first half of the year which is at the low end of our margin.
+I'm not sure what needs to happen to get to the higher end but we've just reaffirmed the guidance.
+So we expect to be obviously within the range of the guidance that we gave of 26% to 27%.
+And then going forward we continue to provide guidance on an annual basis.
+I mean one thing we've stated just to remind you that was a bit more specific than that was what we said with regard to our Financial &amp; Risk business during Investor Day where at the time we mentioned that we absolutely saw a path to get our margins in that segment closer to 30% within like the next 3 years or so which is a pretty significant margins improvement.
+So that's really where we see the greatest margin potential for the business over the next 3 years.
+Next question today comes from Vince Valentini with TD Securities.
+A couple of questions.
+First just on that last point in terms of the 30% margin target given the tougher external environment you're seeing for net sales does that in any way impact the timing of achieving the 30% goal you're hoping for? Or is that just all cost driven and it doesn't matter about what revenues are doing? Well Vince I would say what we know we need to do is to the extent the environment is not as robust as we hoped we just need to redouble the effort on the cost side.
+And that's what we absolutely intend to do.
+Okay.
+Second I'm not sure I caught you but on the Legal side I think there were some big software installations that didn't fall into Q1.
+I think you were expecting a boost in Q2.
+Did you actually see that? Or have those-- completion of those installations been pushed into Q3? Yes you'll see the transaction business from the Legal business -- in our Legal segment being a little bit better in the same quarter and that's really what [indiscernible] that was what you're referring to.
+Okay great.
+And last just little one.
+You're still saying you'll do $100 million in restructuring costs for the year.
+And so that leaves another $13 million for the second half.
+Do you have any idea is that mostly going to fall in the third quarter or fourth quarter or evenly mixed? It's hard to say Vince.
+But I mean it's not going to have as big an impact as it had in the first quarter of course whether it's in the third or the fourth quarter.
+And we'll go to the line of Tim Casey representing BMO.
+I just wanted to come back to net sales which is a metric that a lot of investors are focusing on.
+And it's a bit of a challenge for us obviously because Jim as you mentioned you've never published any numbers on that.
+Can you just maybe help us with the definition of what you mean by that? Are we talking like-for-like when we talk about deletions and additions? Or is there anything you can help us out on that metric given there's nothing to -- no numbers to associate with it? Yes I think we're talking about the revenue value of the net of all the gross sales that we make minus the cancellations and/or downgrades that we take from existing customers and contracts.
+So it's an aggregate number.
+And I would agree with you that we could probably find a more helpful way to talk about it with you in the future and we'll take that away as an assignment.
+But it's just the aggregate of all the gross sales activities minus the cancellations and downgrades.
+Our next question comes from the line of Aravinda Galappatthige with Canaccord Genuity.
+Research Division</strong> In the past you've indicated that as Eikon is rolled out to the existing contracts there's not going to be any major changes to the pricing.
+However as -- I was wondering as these contracts going to come up for renewal and are resigned down the line is there potential for significant price growth for those contracts that are sort of being resigned to the higher end product Eikon in this case? Well I -- you're right.
+And our first intention has been to get the better product out in hand and because we believe that that would improve both our retention rates and our customer satisfaction rates.
+And we're very pleased that that is indeed what has happened.
+So one would hope certainly that with better retention rates with higher customer satisfaction with a much better product out there that we would be in a stronger position when it came time to negotiate renewals on the contracts.
+As to whether or not that will relate to specific price increases I think the answer is I think it will help our ability to improve our retention rates.
+And I think it will help our ability to sell additional content sets within the Eikon framework right? We see Eikon as a desktop platform that ties also with our Elektron enterprise platform.
+And we've done a lot of work on how we will be more disciplined in our approach to pricing and offer more tiered packages tiered pricing packages for content sets.
+So I think that having a world-class product out there gives us a much better platform from which to be smarter about how we productize all the content we have and to be smarter about how we price all that product.
+So I would hope we would get a price lift at the end of the day in ways other than just a simple pass-through of a price increase.
+We'll go to the line of Matthew Walker with Nomura.
+Research Division</strong> Just 2 questions please.
+One is on the Financial business which is can you give us any color on how the Data Feed business is doing versus last quarter? That's the first question.
+And the second question is just if you could explain the math behind the Legal results.
+So you've improved your organic growth rate overall.
+Hasn't been that much change in Business of Law.
+U.S.
+print is down much more significantly down 7% versus down 2% before.
+I think print -- as you've mentioned the past print is a $600 million business.
+How do you get to the actual improvement in Legal with print going down 7%? Stephane would you like me to take me the first one and you will do the second one? I think it's product pipeline.
+We've got the strongest new product pipeline in Legal that we've had in years and we've got new products out there like Concourse Firm Central My Business Intelligence of -- a suite of things around those litigation solutions.
+So I think that we're seeing those growth vectors that we have identified several years ago catching fire and adding to our kind of organic sales initiatives there and leading to an uptick in our revenues.
+On the organic side it's just on the new product.
+And Matthew on your second question I think on what's happening with regard to the dynamic in the revenue mix in the Legal segment in the second quarter in the first quarter we had a weak quarter from a transaction perspective and that turned around.
+As I said the transaction revenues were better.
+And the reverse happened on U.S.
+print essentially.
+U.S.
+print was down 2% in the first quarter and down 7% in the second quarter.
+So overall subscription revenues remained pretty steady I would say from one quarter to the other.
+Research Division</strong> And are you seeing any improvements in hiring or in your end markets in the U.S.
+in Law.
+And obviously Government revenue is under pressure and people don't like print very much when they are trying to save money.
+But is there any chance of the Legal business -- stripping out the international staff is there any chance of the domestic U.S.
+business accelerating from this year into next year i.e.
+higher growth in Legal in the U.S.
+segment next year? Look I think what's happening as you said like the new phenomenon this quarter was the fact that Government was weaker.
+And as you pointed out print is a big factor of that.
+About 40% of our print revenue is actually within our Government segment.
+And so that's why we saw both the Government segment going down and the overall print revenue going down.
+I'm not going to make any prediction regarding like the growth next year other than what I said earlier which as a whole I would absolutely expect the revenue growth rate for our Legal segment to gradually improve over time because of this change in the revenue mix that we're saying.
+And part of that is the increasing proportion or increasing exposure we have to global businesses and part of that is frankly the greater exposure we have on revenues other than core Legal research whether print or online.
+And that will affect positively both the U.S.
+and the international segment.
+Research Division</strong> And on the Data Feed businesses? Oh the Data Feed businesses these were about -- I mentioned that the Enterprise Content and Investor rose 9%.
+So that's a portion of our Data Feeds business.
+And in -- I think in the Trading segment they were about flat in the first quarter.
+We have a question from the line of Nick Dempsey with Barclays.
+Research Division</strong> I've got 3 questions left.
+The first one you talked about a stretched internal target for Financial &amp; Risk EBITDA margin i.e.
+being the same last year.
+You've achieved a good margin there in the second quarter.
+So does that target does -- look like less of a stretch now? So first question.
+Second one looking a those 61 000 Eikon customers can you just tell us how many of those are new customers? I think you shared something like that with us at the Investor Day.
+And lastly those weakening print trends in Legal do you expect at some point in the day a restructuring charge to help you wind down some of your cost base in print and Legal? Okay let me take the first and the third questions.
+Jim you -- if that's okay you'll take the middle one? Sure.
+Okay on the first one about the margin targets we have for F&amp;R as I said before this is a stretched target that we've put -- it's a stretched internal target.
+It's not a formal external guidance but a stretched target we have for F&amp;R to be flat margin.
+Now in the first half -- you're right the second half really showed what they can do from a margin perspective.
+That was a good performance given the negative organic growth of 3%.
+But if you look at the first half as a whole F&amp;R was down 140 basis points on the margin.
+And that was entirely due to the heavy severance charges that they took in the first quarter.
+So for them to get to like a flat margin overall means they really need to do -- perform very strongly in the second half.
+That's still very much the stretched target.
+It hasn't changed but I wouldn't call it a walk in the park by any stretch of the imagination.
+And the -- what was your other question if I may ask Matthew sorry? Research Division</strong> Yes.
+So the first one was out of the 61 000 Eikon customers how many are new customers? And the other one was about the restructuring charges in print to wind down the cost base? Okay okay.
+So on the restructuring charge look we've been able to manage our workforce in our print operation along [indiscernible] than we've seen in the print business.
+So we've been able to do that through natural attrition.
+And at this stage we very much expect to continue to be able to do that.
+So -- and thanks Stephane.
+And on the other one the -- it is about 10 000 of the total Eikon numbers at 61 000.
+10 000 are new.
+Our final question today then will come from the line of Jeff Volshteyn with JPMorgan.
+Research Division</strong> My questions have been answered.
+Okay.
+[indiscernible] We like those types of questions.
+All right.
+Well with that we will conclude our call and we'd like to thank you all for joining us for our second quarter earnings results.
+Take care.
+Ladies and gentlemen this conference will be available for replay after 10:30 a.m.
+this morning and running through August 6 at midnight.
+You may access the AT&amp;T Executive Playback Service at any time by dialing 1(800) 475-6701 and entering the access code of 297620.
+International participants may dial (320) 365-3844.
+And again the access code is 297620.
+And that does conclude our conference for today.
+We thank you for your participation and using the AT&amp;T Executive Teleconference.
+You may now disconnect.

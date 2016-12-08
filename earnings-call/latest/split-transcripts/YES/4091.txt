@@ -1,0 +1,385 @@
+Good day ladies and gentlemen and welcome to the Second Quarter 2011 Varian Medical Systems Earnings Conference Call.
+My name is Stacy and I'll be your conference moderator for today.
+[Operator Instructions] As a reminder this conference call is being recorded for replay purposes.
+I would now like to turn the call over to Mr.
+Spencer Sias Vice President of Investor Relations.
+Please proceed.
+Thank you.
+Good afternoon and welcome to Varian Medical Systems Conference Call for the Second Quarter of Fiscal Year 2011.
+With me are Tim Guertin President and CEO; Elisha Finney CFO; and Tai Chen our Corporate Controller.
+Tim and Elisha will summarize our results and we'll take your questions following the presentation.
+To simplify our discussion unless otherwise stated all references of the quarter or year are fiscal quarters or fiscal years quarterly comparisons are for the second quarter of fiscal 2011 versus the second quarter of fiscal 2010.
+Annual comparisons are for fiscal 2011 versus fiscal 2010.
+All results are for continuing operations which exclude the sale of the research instruments portion of ACCEL.
+Please be advised that this presentation and discussion contains forward-looking statements.
+Our use of words and phrases such as outlook could should believe opportunity can continue estimate and similar expressions are intended to identify those statements which represent our current judgment on future performance or other future matters but we believe them to be reasonable based on information currently available to us these said statements are subject to risks and uncertainties that could cause actual results to differ materially.
+Some of the important risks relating to our business are described in our second quarter earnings release and in our filings with the SEC.
+We assume no obligation to update or revise the forward-looking statements in this presentation and discussion because of new information future events or otherwise.
+Let me quickly remind you that Varian management will be holding a mid-year review for investors a week from today in New York lunch time meeting will take place from 11:30 to 2:00 p.m.
+Eastern Time at Sentry Centers at 730 Third Avenue in New York.
+Details are available on our Investor Relations website at www.varian.com/investors you'll find the details under Events and Webcasts.
+Before turning it over to Tim let me say that because we have more participants in this call I'm going to be asking questionnaires to limit their questions to one question.
+We will circle around again if we have the time to do it but I want to give everybody an opportunity to ask at least one question in this call.
+So thank you very much.
+And now here's Tim.
+Good afternoon and welcome.
+Today for the second quarter of fiscal 2011 we're reporting financial results that demonstrate that our companies long-term growth strategy is on track.
+Demand for our new TrueBeam system oncology services and X-ray tubes and panels as well as strong performance in our Security business led to healthy orders and revenue growth and improved margins during the quarter.
+In summary revenues grows by 11% our operating earnings increased by 12% topping 23% of revenues.
+Net earnings for the company increased by 13% and EPS rose by 18%.
+Our quarter ending backlog expanded by 11% to $2.2 billion.
+We ended the quarter with $584 million in cash and cash equivalents even after spending $238 million on a program for the accelerated repurchase of 3.5 million shares of our stock.
+As you all know that a quarter was marked by an unusual number of disruptions around the world including unrest in the Middle East an earthquake in New Zealand and the most recent earthquake and tsunami in Japan.
+Many of you have been concerned about the possible impact of these events on our businesses and I can now report that although many customers and employees were deeply affected the overall effect on our financial performance has been very limited so far.
+I'll provide more details on this in a few moments.
+I'll focus now on orders and operations in each of our businesses.
+Oncology Systems second quarter net orders totaled $520 million up 9% with 12% growth in North America and a 7% increase in the overall international markets.
+Oncology achieved double-digit order growth in North America with the help of some major wins involving our TrueBeam platform for radiotherapy and radiosurgery.
+For example we booked an order for six TrueBeam units with USMD a leading cancer care provider and Bayhealth in Maryland placed an order for three TrueBeam units.
+We also had a significant software win for our ARIA information management system at the University of South Alabama.
+We have replaced rival systems.
+We continue to do very well against the competition in this important software market during the quarter.
+Year-to-date orders are up 16% for our Oncology business in North America.
+In Europe net orders grew in double digits for the second consecutive quarter.
+This was driven by robust service gains coupled with strong system orders with notable gains in Egypt Spain Norway Poland Romania and Russia.
+For example despite the political turmoil in Egypt we received a multiunit order for a military hospital there.
+In the Netherlands we won a large order to replace multiple units from one of our competitors.
+We are seeing customer demand for our clinical solution that combines high throughput advanced clinical capability and cost effectiveness a combination at place to a strength that is unique to Varian.
+Despite continued orders growth in China Oncology Systems net orders for Asia again declined versus a strong year-ago quarter when Japan finished the large government stimulus spending program.
+At this point we're pleased with the strength of business in Japan where orders have grown for three consecutive quarters.
+To give you a little more color on the effects of the disaster there 12 Varian treatment centers were knocked out of operation by the earthquake and or tsunami.
+JASTRO Japan's radiation oncology professional group rushed to reroute patients undergoing treatment to working facilities while Varian service teams from throughout Japan worked with clinical personal to restore normal operations at the damaged centers as quickly as possible.
+These teams had eight clinics back in normal operation within 2 weeks.
+Despite this extensive disaster recovery effort our service teams were able to complete installations of our new machines in Japan as scheduled during the quarter.
+I think what makes this all the more remarkable is that this work was successfully completed in spite of gasoline and food shortages rolling blackouts telecommunications breakdowns and other logistical troubles that may affect this nation for many months to come.
+We're working with our customers and suppliers in Japan in an effort to minimize the long-term effect of this catastrophe.
+The people of Japan have shown tremendous courage and resiliency in the face of this disaster we're honored to be partnering with them on this recovery.
+Varian together with hundreds of our individual employees from Japan and around the world has donated nearly $200 000 to the relief effort.
+Turning now to the rest of the world.
+Oncology Systems net orders grew nicely driven by Brazil and Barbados and Latin America and by New Zealand where we won another international order for TrueBeam.
+Overall we had another very good quarter for our TrueBeam product.
+As of the end of the quarter we had more than 225 orders of this game-changing cancer treatment platform since its introduction in the second quarter of last year.
+Installations of TrueBeams are proceeding smoothly with more than 65 installations complete or in progress as of the end of the quarter.
+As you may have seen in our recent press release we have received SFDA clearance to market and sell our TrueBeam product in China.
+This opens up an important market where I believe firmly that this device can make a meaningful difference in the treatment of lung liver and other cancers.
+The clinical story continues to be the most exciting story about TrueBeam.
+To give you some reason examples doctors at the University of Alabama at Birmingham have taken advantage of TrueBeam's motion management technology including gated RapidArc to deliver conventional and hypofractionated treatments for liver and lung cancer as well as metastatic adrenal cancer.
+And clinicians using TrueBeam at UC San Diego are excited about the potential for sparing more healthy tissue and reducing complications for their Hodgkin’s lymphoma patients.
+At Stanford doctors have now delivered RapidArc hypofractionated treatments for both lung and pancreatic cancer using TrueBeam's unmatched high dose delivery rate and two arcs to complete each procedure in just three minutes.
+Our Trilogy and low-energy accelerators and RapidArc upgrades as well as our software for treatment planning and managing clinical data also contributed to the Oncology Systems' order growth for the quarter.
+Service orders and revenue including the second quarter have continued to average around 15% year-over-year growth.
+Growth in this business has been driven by an increased contract capture rate better pricing and a larger install base which now stands at around 6 200 machines.
+Turning to X-Ray Products.
+We continue to see record-breaking second quarter growth in net orders and revenues for this business.
+Net orders increased by 18% to $124 million revenues rose 15% to $118 million and this business achieved record second quarter operating income.
+Surprisingly two borders grew faster than panel orders and although both were in solid double-digits.
+Here again Japanese business came through despite its natural disaster with large orders for CT tubes from Toshiba and other Japanese manufacturers.
+Toshiba has continued to operate normally under our long-term purchasing agreement with them.
+Outside of Japan we also had good growth and orders of tubes for mammography and industrial applications including non-destructive testing material analysis for environmental compliance and airport baggage screening systems.
+I'm pleased to note that our tube operation was the prime driver of a 2-point gain in gross margin in our X-Ray Products business principally because of higher shipment volumes manufacturing efficiencies and lower cost of quality.
+Our biggest dynamic panels for fluoroscopic and CT imaging were the biggest contributors to the continued expansion in our Panel business during the quarter an apparent ongoing recovery in the market for dental and veterinary x-rays imaging systems also added to the growth of our Panel business.
+Looking at the strong performance in X-Ray Products over the last several quarters I believe we are witnessing an ongoing recovery in almost every segment of the X-ray imaging industry.
+Switching now to our other category including our SIP Security and Inspection Products business and our Particle Therapy business we generated combined net orders of $38 million from the quarter up by $25 million from the year-ago quarter.
+All of the order expansion in this category came from our SIP business as was mentioned in our last call we booked a $21 million order in January from U.S.
+Customs and border protection for five of our turnkey IntellX cargo screening systems that will be installed on the U.S.
+border over the next 12 to 18 months.
+We also received a large order during the quarter for cargo screening components that will be integrated into scanning systems for installation in the Middle East.
+SIP also booked a multimillion order for a 15 million volt Linatron that will be used for nondestructive testing applications in Europe.
+In the Varian Particle Therapy business we continue to see progress on construction the Scripps Proton Therapy Center in San Diego and we expect to book an $88 million order to equip that center when project financing is completed.
+And now here's Elisha.
+Thanks Tim and hello everyone.
+While Tim has already covered net orders I want to briefly talk about constant currency growth rates for the quarter.
+Our net orders and revenues were impacted by a stronger yen and aussie that were largely offset by a weaker euro.
+Oncology grew net orders by 9% in dollars or 8% in constant currency.
+Total international Oncology orders increased 7% in dollars and 6% on a constant-currency basis.
+Oncology's European net orders grew 14% or 16% in constant currency while the Asian orders declined by 13% or 19% in constant currency.
+Second quarter revenues increased 11% to $648 million with constant currency growth of 9%.
+Oncology Systems posted a 9% in revenues X-Ray Products a gain of 15% and revenues from businesses under the Other category increased by 20%.
+The second quarter growth margin for the company rose by more than a point to 44.6%.
+Oncology Systems gross margin's increased by nearly 40 basis points to 45.5% due primarily to improved installation and warranty costs a favorable geographic mix shift to North America and higher TrueBeam shipments.
+X-Ray Products gross margin rose by nearly two points to 40.4% due as Tim said to high shipment volumes manufacturing efficiency and improved cost of quality for our X-ray tubes.
+For the first half the total company gross margin is up more than a point to 45.3% with gains in all business segments.
+Second quarter SG&amp;A expenses were $94 million or 14% of revenues up as expected by about a point as a percentage of revenue due largely to higher compensation cost compared to the year-ago quarter when austerity measures including salary and hiring increases were in place.
+We have more recently been investing and expanding marketing and sales capacity to execute on our global growth strategy.
+Second quarter R&amp;D expenses were $44 million or 7% of revenue about even as a percentage of revenue with a year-ago quarter.
+For the first half total operating expenses were up half a point as a percentage of revenue from the year-ago period.
+Moving down the income statement.
+Second quarter operating earnings totaled $151 million up 12% to 23.3% of revenues.
+For the first half operating earnings are up 13% to $288 million or 23.5% of revenue.
+Depreciation and amortization totaled $13 million for the quarter.
+The effective tax rate was 31.8% for the quarter down almost 1 point from the year-ago quarter due largely to a net benefit of the free tax items.
+For fiscal year 2011 we continue to estimate that the tax rate will be in the range of 31% to 32% including a 30% to 31% rate for the third quarter.
+Fully diluted shares outstanding decreased significantly from the year-ago quarter to 120 million due largely to the accelerated share repurchase program that were executed in August of 2010 and this past February.
+Diluted earnings per share rose 18% to $0.86.
+Turning now to the balance sheet.
+We ended the quarter with cash and cash equivalents of $584 million total debt of $143 million and stockholders' equity of $1.3 billion.
+Subsequent to the close of the quarter we have continued to pay down short-term debt under our revolving line of credit which as of today is less than $40 million outstanding.
+DSO; Days Sales Outstanding increased by three days from the year-ago quarter to 79.
+Second quarter cash flow from operations was $68 million with net earnings partially offset by increased accounts receivable and inventory related to current and expected higher shipments.
+Another primary source of cash was $120 million in net borrowing mostly for the accelerated share repurchase during the quarter.
+Primary usage of cash was $238 million to repurchase 3.5 million shares of stock.
+At the end of the quarter we had approximately 13 million shares remaining under repurchase authorization.
+Now I'll turn it back over to Tim for the outlook.
+Well while our business has faced some uncertainty related to ongoing effects of the catastrophe in Japan our outlook for the balance of the fiscal year remains unchanged.
+For fiscal 2011 we continue to estimate that annual revenues could grow 10% to 11% over the fiscal 2010 total and net earnings per diluted share from continuing operations could be in the range of $3.39 to $3.45.
+For the third quarter of fiscal 2011 we estimate the total company revenues could increase by about 11% to 12% over the prior-year period and that net earnings per diluted share from continuing operations could be in the range of $0.80 to $0.83.
+We're now ready for your questions.
+[Operator Instructions] Your first question comes from the line of Amit Bhalla with Citigroup.
+My question relates to the North America Oncology order book typically we've seen in this fiscal second quarter in absolute dollars that North American Oncology order book grows.
+So I was wondering if you could talk a little bit about the dynamics in North America and then your view for the next two quarters as the comps start to get a little bit tougher in North America.
+The comps are -- will of course be tougher.
+But I mean the good news is we had 18% growth in the quarter North America for Oncology 22% in the first half.
+We had two points now that say that we're seeing some recovery in the North America market.
+That's very nice to see.
+TrueBeam is now a majority of our high-energy machine orders.
+That will help us in the North American marketplace.
+We've mentioned some big wins at certain sites like USMD you saw some conversion of impact sites to ARIA and we're not seeing major losses.
+So all of those things mean that I think we're doing well in North America.
+And I think our share is doing well in North America.
+SBRT is continuing to be important.
+Few years ago I think SRS stereotactic radiosurgery for intracranial was important and now more and more we're seeing people focused on stereotactic body radiation therapy.
+And that means a lot of the features that are in TrueBeam are really relevant.
+So all of those factors will weigh in our fortune.
+It's not my practice to prognosticate orders in any particular country because that's the way to get in trouble fast but all I can tell you is so far so good.
+And the signs in the marketplace are good.
+But as you mentioned we will have tougher comps because the market started to recover 12 months ago.
+And that will help.
+The nice thing about getting those orders is we did go through this trough in the North American orders and that affected our sales.
+That's made it tougher in 2011 to get all the sales we would have liked to have in North America.
+So seeing this business come back reassures me that going forward we'll have nice revenue prospects.
+And Elisha just on the fiscal third quarter earnings guidance given what you're guiding for the top line I would have expected I guess the earnings to be a little bit stronger.
+I guess also coupled with the tax rate you're talking about so could you just walk us through how you get to the $0.80 to $0.83 for earnings...
+Sure.
+And Amit let me do this at a very obviously top level without giving a lot of specific detail by line item.
+But clearly if you look at the year-ago third quarter the gross margin for the company was up about 1.5 points.
+So we are -- based on the guidance numbers that we just gave you what I am assuming is that we'll be able to hold that margin relatively flat at about 44%.
+R&amp;D will remain about flat as it has for the first half of this year.
+SG&amp;A we are still in a recovery and a building mode.
+And we're gearing up.
+We are doing some key hires and we are increasing travel and things of that nature really to go after the business when the market is expanding.
+So SG&amp;A will likely go up as a percentage of revenues by about 0.5 point which gets you to RoS being down by about 0.5 point.
+But the tax rate being helped somewhat by the accelerated share repurchase program.
+So that's kind of how we get to the guidance number for the third quarter.
+I will point out though if you come back to the fiscal year as we have been saying all year gross margin for total company should be up about 1 point SG&amp;A will take about 0.5 point away and total RoS should be at around 23% up about 0.5 point from last year.
+Your next question comes from the line of Jeff Johnson with Robert W.
+Baird.
+A couple of questions here.
+Tim I guess one of the ways we're trying to track things on the TrueBeam side is the take rate.
+You talked about a 30% I think a 30% or so worldwide take rate last quarter 55% 60% last quarter in North America.
+Any updates to those numbers this quarter? That take rates I think I just gave you the take rate for North America's is the majority.
+And I believe the number worldwide is that we're now greater than 40% of high-energy orders worldwide.
+So North America 51% 99.5% I guess majority can mean a lot of things there.
+Can you ballpark that maybe a little tighter for me? I would like to ballpark it for you but I really don't have it in front of me so I'm going to have to stick with majority.
+Okay no that's fair.
+And then Elisha just on the guidance again for the full year.
+Similar to I guess Amit's question on fiscal Q3 guidance you've got some foreign currency tailwinds here obviously significant share repurchase plans that have gone into the place since the last quarter.
+Has currency moved in those share repurchases plans came into effect subsequent to last quarter's end? It just felt like to us there were some upside for the year.
+And is Japan just some caution around there maybe offsetting? Or how should we think about what the puts and takes are going into how you hold the guidance for the year stable? Right.
+Of course Jeff in terms of the currency you are correct.
+I mean assuming that it holds at today's levels versus the year-ago level with the dollar today is about 12% weaker than in the year-ago third quarter it will give us some help on the top line.
+But remember we are naturally hedged.
+So what it does is it puts a lot more pressure on the SG&amp;A and the R&amp;D expenses because we have a lot of costs particularly with proton therapy now in Europe that are also euro-based.
+So it helps us on the top line it kind of shuffles some things in the margin.
+Bottom line it's fairly unaffected.
+I mean in the order rate clearly we benefit and look forward to competing with a weaker U.S.
+dollar.
+On the accelerated share repurchase program I mean as you know historically we have bought shares back throughout the year anywhere from 1.5 million to 2 million shares per quarter.
+So if all we're doing here with the accelerated program is getting upfront delusion by our deduction in basic shares by a couple of months.
+That would have all equaled out by the end of the year.
+So it's only a couple of pennies difference by doing this as an accelerated program versus if we had assumed we just continued our normal ongoing share repurchase.
+I mean yes of course Japan.
+We just feel like it's prudent at this point we're not aware of any particular -- we have some minor issues that we are aware of in terms of our supplier chain.
+We have mitigation plans in place.
+I'm very optimistic that we're going to be able to weather this.
+But I just think it's way early at this juncture not to have some caution for Japan given that it's anywhere from 10% to 15% of our total business.
+Your next question comes from the line of Josh Jennings with Jefferies &amp; Company.
+Inc.</strong> Just on the international order side it was better than we expected.
+Had a very difficult comp at a 33% growth last year and in the face of Japan headwind as well.
+Can you just let us in on whether there's a one-time bolus or system orders in any region that would interfere with sequential growth? And International Oncology within a dollar basis in fiscal Q3 we actually have a much weaker comp? I really can't say so no.
+I mean yes obviously like in any quarter we had some big deals which I mentioned during my comments.
+But truth be said no.
+The second quarter doesn't seem to have anything with it.
+Is that unusual beyond what we would usually see and so no.
+I'm not feeling like it's a special event.
+Inc.</strong> And then Elisha on the gross margins side I know I understand the comp year-over-year in terms of the growth margin expansion in fiscal Q3 last year but looking sequentially and looking at some of the gross margin tailwinds that you have in this quarter and moving into fiscal Q3 could you just give us some of the puts and takes on why you're going to have sequential contraction in gross margin? Sure.
+As I've said Josh for many quarters now product mix is the biggest driver and I'm simply just looking at what's in backlog and expected shipments and the product mix and the proportion of software hardware acceptance revenue et cetera.
+So very backlog delivery driven.
+Geographic mix will also play into this and in both Q1 and Q2 we had a very favorable mix into both North America and Japan which are two of our highest gross margin regions.
+So moving into Q3 there'll be more international shipments that just has a lower -- typically has a lower gross margin by a couple of points.
+Your next question comes from the line of Amit Hazan with Gleacher &amp; Company.
+Inc.</strong> I thought maybe I'll ask first about the share repurchase and maybe just in terms of kind of how you plan on going through your existing share repurchase with both of your cash right now overseas and that makes kind of full use of your share repurchase a little bit hard to get to unless you do a similar accelerated buybacks with borrowing as you've been doing.
+Is that how we should be thinking about that going forward? Or can you sort of talk to the U.S.
+component of your cash and how you might use of that? Yes well I mean I think we're in somewhat of an enviable position as lots of companies with strong cash flow and a very very conservative balance sheet.
+And so we spend a lot of time thinking about how we're going to return the best way to return this money to shareholders.
+So we plan to be opportunistic Amit.
+I think you should assume that we will continue on our share repurchase program to be determined whether it's just an ongoing program or whether it's an accelerated program.
+That requires us to have an understanding of where our interest rates are at that time and board discussion et cetera.
+We are in this accelerated program through August at which point we can then do a more repurchases either in the open market.
+And then obviously this program the $13 million runs through the entire next fiscal year.
+So I think we have a lot of flexibility in terms of how we execute under a program and how much money which it will depend on how much cash flow we generate in the next two quarters.
+This is Tim.
+Let me just comment here.
+When you look at our P&amp;L for the rest of the year I mean it is true that there are a lot of ins and outs and mix affects us especially we're seeing a mix effect in the third quarter that's affecting us and we have to deal with that.
+And below the line there are some artifacts.
+The fact that last year we were in austerity mode and this year we're coming out of austerity mode.
+And also I'm investing now more in our international markets.
+We're making a substantial number of investments abroad to strengthen ourselves there.
+And although those are going to cost me money in 2011 I think everybody will be happy we're making those investments in 2012 and 2013.
+It's just the right thing for us to do.
+In terms of uses of cash share buybacks will be part of our procedures but I also have to say going forward as I've looked at the three to five year plan for the company we're just going to have to step up M&amp;A.
+I think it is the right thing for us to do.
+And so Elisha and I are trying to figure out what's the best way to use our cash and we do that on a quarter-by-quarter basis based upon what's up ahead.
+I think that we can achieve the vast majority of our growth goals for the period of the next three to five years from our organic growth but I think we need to supplement that organic growth.
+And I believe the company throws off enough cash that we can easily accomplish that mission.
+Long-term long-term our goal is to increase our EPS growth rate by -- in the 10% to 15% range.
+I think I've been saying that for years we're going to go on doing that we have a plan for doing that.
+And big opportunities to do that organically our international in the Proton business in our Service businesses in new products like TrueBeam that can really step it up in our Software businesses.
+I think our Security business has huge potential and I believe that our Flat Panel business is a gigantic potential going forward.
+That being said we need to supplement that with a little M&amp;A activity.
+So a lot of the things that you're seeing in our P&amp;L reflect decisions that we're making inside the companies.
+Some of which we can talk about and some of which we can't to make all of these things come true.
+Inc.</strong> Just one quick follow-up if I may for Elisha.
+Just to be very clear then on the guidance in the share repurchase I think what you mentioned to an earlier question is that this is kind of what you expected in your guidance is for the share count to go down.
+But I can't recall your share count going down by 4 million to 5 million shares in any fiscal year that I've covered you.
+So are you saying that you were planning on the accelerated share repurchase or something like that or in the aggressive share repurchase when you gave that guidance and that's why it really hasn't changed because it's only a couple months difference from where it would have been? Or is there anything else in the P&amp;L that also accounts for the lack of change in EPS guidance? I would say that the tax rate coming in is kind of the higher end of the range and we did assume that we would have a share repurchase.
+I don't want to give you all the details as to the exact number that was assumed.
+But what we did is we made it an accelerated share repurchase as opposed to an ongoing just daily open market repurchase program.
+But yes we assumed in our guidance as we have more cash at this point than uses for with this virtually 0% interest rate with a very large share repurchase authorization that is granted to us by the board.
+But yes we were going to step up our share repurchase program.
+It was the form of repurchase that allowed us to get the full benefit of the reduction in basic shares outstanding by doing it on an accelerated basis.
+Your next question comes from the line of David Roman with Goldman Sachs.
+Tim I was hoping you could expand a little bit on some of the sites where you're seeing some of the strong uptake of TrueBeam? For example I think you said you had six at USMD three at Bayhealth.
+Are you seeing a lot of the sales of TrueBeams go into centers where you're placing multiple units? And at those centers are you seeing more like are there upgrade in TrueBeam or are they expanding the number of units they have? Or is it something like -- or are you just placing competitors? Anything you can help us just characterize some of these orders in a little more detail.
+Okay.
+When we talk about units like six orders from one side or three orders from another side that remains unusual but we of course we like to brag about unusual things which is why we brought it up.
+Now the majority of these deals are classic deals.
+It's if the customer wants to replace an older machine and they have a machine that they think is either too old or they have a competitors machine that they don't think is working very well and so they want to replace it.
+And they look at TrueBeam as an opportunity to upgrade their clinical and operational profile.
+Because they got a machine that can do things they can never do before and they get a machine that's faster than anything they’ve had before.
+Plus a lot of customers are moving towards stereotactic body radiation therapy.
+So they're seeing it happen and they're looking at their existing machines and they're saying can these machines do SBRT? And if the answer is no and they want to bring SBRT into their program then they look on TrueBeam as a godsend for them something that can really help their clinical programs.
+So it's an operational win and clinical win but otherwise know this is normal behavior normal buying behavior.
+I will say I think your TrueBeam is doing well against the competition especially in North America because North America is where the predominant -- where we're seeing their earliest uptick for TrueBeam.
+But I think TrueBeam does well against competitors all over the world.
+I've been in a lot of meetings with customers recently.
+Where they come in and talk about TrueBeam and they really don't see any other companies machines as being a match for what that machine can do.
+So nice to see.
+And in your prepared remarks you just talked about a very nice growth in X-ray and obviously came through in the reported numbers.
+And I think you referenced a general recovery in the X-Ray imaging market is that really the underlying dynamics that's driving the strength there? Or is there something more variant-specific that's allowing you to outperform those expectations? Well we think that there is a recovery.
+And that's the kind of thing that affects X-ray tubes.
+But we also think that Flat Panels continue on their march.
+This is -- we've been saying for years that Flat Panels are going to continue to grow and I think that's what we're seeing.
+The Radiographic Panel business has been growing a lot.
+But I have to say this last quarter we saw a lot of fluoroscopic dynamic panel growth.
+So that was very nice to see.
+And as a company we're in a kind of unique position.
+Because when customers come to us and they need an imaging machine we can offer them both tubes and panels.
+And so I think what you're seeing now maybe a little bit we've been kind of predicting this for a wide and hoping that it will come true.
+In this quarter it did come true where we see people wanting to get both tubes and panels from us.
+So that's another strategy that I think is working for us and should work more for us in the future.
+And lastly for Elisha could you give us some sense as to where you exited the quarter from a share count perspective? I'm assuming that the modest sequential reduction even though you repurchased just 3.5 million shares has to do with quite a bit of options being exercised given the movement in the stock.
+But how should we think about share counts for the balance of the year? Well as I mentioned we are effectively done with our share repurchase through August at this point.
+We can go back into the market around mid-August so you will just need to take your assumptions on option exercises.
+And the diluted share change depending on the stock price as well.
+So all of those things that we will at least cannot buy more shares until we come out of the accelerated program which ends in the middle of August.
+And how far below the 120.4 did you exit the quarter? I don't have that number in front of me and we're just not going to give the information out.
+This is the only kind of share data that we've ever given and which an average over the quarter.
+Your next question comes from the line of James Terwilliger with Duncan Williams.
+Inc.</strong> Couple of quick questions.
+First of all Tim could you talk a little bit about the developments in China over the last one to two months.
+I believe you had maybe a clinical conference or a trade show and then you also received some sort of regulatory approval there.
+Could you just update all of us on the developments in China in the last two months please? Yes.
+First of all  we've been making -- we got SFDA approval for TrueBeam in China very nice to have because it means we can sell that product there.
+Here we were in China a very important country for us and we were able to sell our high-end products so that's very nice to see.
+We did restructure our sales organization in quarter one and quarter two and that restructuring is mostly complete at this point.
+And so I think that the China sales team did well considering the fact that we had some significant organizational disruption over the course of the last six months.
+But we needed to make some changes and now we've done them.
+We did have a recent trade show and the response was really really excellent.
+And that maybe what you're hearing about.
+And so all of those things are good news for the future.
+We are manufacturing more and more equipment in China.
+The UNIQUE product is of course built there.
+And with our manufacturer facility we're conducting more courses than ever and we're meeting with more customers than ever.
+And so I'm feeling good about it.
+And going forward I think China will be a strong locus of business.
+Inc.</strong> Tim how should we think about China as a market? I mean in many different markets China has become number 2 behind the United States may past United States.
+Clearly the U.S.
+is your number 1 market you've got the EU and Japan.
+How should we think about the market opportunity for Varian medical with TrueBeam from today going forward in the Chinese market as a whole? Yes I wish I could tell you the China market is monolithic in its behavior but it is not.
+It is true that there is a substantial portion of the market that is interested in high-end machines like TrueBeam but there's a substantial portion of the market that can’t afford those machines and in these a lot less expensive machines.
+So over time we're going to continue to try to create machines that match up with all the segments of the market the low-end segments and the high-end segment.
+Our C-Series machine our standard bread-and-butter machine that we sell is doing very well in China.
+It matches the need I think of the middle of the market.
+Where I think we can do better over time is in getting to locations where there is less budget and that's where we're courting more and more [ph] to try and get at that.
+I think China -- with the entry of TrueBeam into China I think that we will be able to address the needs of high-end customers better than we ever have before.
+Inc.</strong> A couple of questions on TrueBeam.
+When I look at these 225-- approximately 225 orders for TrueBeam could you give me a ballpark percentage on where those orders are coming from? Is it 75% from the U.S.? Or is it less than that? We're going to do some math.
+Hold on.
+Yes okay.
+It's about more than 65% and less than 70%.
+And that's based upon unbelievably rapid arithmetic by people sitting in the room with me.
+Inc.</strong> So if I would look at the current installs completed in progress of about 65% would that be a fair percentage? Maybe 70% 75% of those installs would all be here in the United States? Yes it's probably even higher than that because TrueBeam really started in the U.S.
+the strongest.
+And then you'll see that number pick up abroad overtime.
+Inc.</strong> And then in terms of the average length and the trend in terms of TrueBeam is that coming down? And that will be my last question? Repeat the question.
+I'm sorry.
+Inc.</strong> The average length of time to install TrueBeam in the U.S.
+could you have a ballpark figure of what that would be including training? And then is that number trending up or trending down? It's coming down.
+Our installation costs are coming down for TrueBeam.
+I think it's probably a little more than five weeks at this point which is still more than C-Series but it's coming down all the time.
+Our service teams are just great.
+I mean they've been growing their business and they've been-- we have some folks I'd like to name them all but Spencer would kill me.
+But the fact is we have some people on our service team who've just done a fantastic job of driving down cycle times and costs.
+Your next question comes from the line of Tycho Peterson with JPMorgan.
+Jumping into the kind of the capital deployment comment and I think you've mentioned M&amp;A.
+Can you just talk to I guess your appetite within Oncology or to move outside of Oncology? And then Elisha can you just remind us how much of the cash is overseas right now? The lion share is overseas Tycho.
+It's still probably 90% overseas.
+Because we're still in a debt position in the U.S.
+So it's like obviously that makes international acquisitions cheaper for us than North America acquisition but it doesn't mean that we're not looking at North American acquisitions.
+We're talking to I would say we're talking probably-- we're looking at more things than we've ever looked at.
+But a lot of them are still small some of them will move the needle but they won't move it until 2014 or so.
+But I think they're very important when you look at our three to five year prospects.
+Some of them are new technologies things that you've never heard of before.
+Others are companies that you already know about in the marketplace.
+So it's a nice mix.
+Everyone of them has a strategic element to it.
+We're not looking at things that don't fit well with who we are as a company.
+Everything fits well but it's a lot of work.
+So in terms of how cash will look differently I don't think I can give you a quantifiable picture of that.
+I don't think I really want to give you a quantifiable picture as to how our uses of cash will change in the future except to tell you that you should expect that we'll spend more money on M&amp;A and that will probably result in a little less spending on stock buybacks over time.
+But in terms of any particular quarter or time period I just can't I can't tell you because these deals come to fruition at a pace of their own.
+Okay.
+And then on TrueBeam are you seeing meaningful change in terms of treatment application areas? So any new kind of clinical areas that are emerging more rapidly? And is anything coming out of the development mode that you...
+I would say lung and liver are two areas where -- and I think some interest in pancreas.
+Now pancreas is a relatively infrequent cancer so that's not probably going to make a big different in terms of numbers although it will make an unbelievable difference to cancer patients.
+But lung and liver it's very high incidents of disease to lung and deliver and there I think if we can make a difference it will count.
+We're also coming out with a new version of our software for TrueBeam in the next few months and that version enabled some of these techniques to be run in an even spiffier fashion than they currently can be done.
+So I think we're going to see customers who get this software are going to be experimenting with it.
+And I'm hoping that sometime in 2012 we'll see some nice papers about the clinical and technical results of using that capability.
+And then last one just can you talk on what you're hearing out of D.C.? Any potential changes to reimbursement would be helpful just given that it’s that time of year.
+I really haven't heard anything.
+There were some discussions in I think in D.C.
+about this issue of whether or not we should change Stark laws but that doesn't seem to be moving forward very fast with respect to radiation therapy.
+And we are-- but in terms of reimbursement no.
+I really can't say that I'm hearing anything.
+We'll probably hear something in the summer but I'm not -- I'm listening to the tom toms in the jungle and I'm really not hearing a lot.
+Your next question comes from the line of Dalton Chandler with Needham &amp; Company.
+LLC</strong> Could you just remind us on the-- Japan winding down their stimulus spending? When will that annualized? It just did.
+It ended at the end of the second quarter a year ago and this was-- we just graduated.
+LLC</strong> Okay.
+So that should help some with the comps going forward.
+It does help with the comps going forward.
+I think people are naturally concerned about North America but it does help in Japan.
+And at this time I'd like to turn the presentation back over to Mr.
+Sias for closing remarks.
+Thank you for participating.
+A replay of this call can be heard on the Varian investor website at www.varian.com/investor where it will be heard and archived for a year.
+If you hear a telephone replay please dial 1 (888) 286-8010 from inside of the U.S.
+Or 1 (617) 801-6888 from outside the U.S.
+and enter the confirmation code number 43268063.
+Telephone replay will be available through 5:00 p.m.
+on Friday this April 29.
+Thank you very much.
+We thank you for your participation in today's conference.
+This does conclude your presentation.
+You may now disconnect and have a great day.

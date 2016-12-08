@@ -1,0 +1,646 @@
+Good day ladies and gentlemen and welcome to the Q1 2015 VeriFone Systems Inc.
+Earnings Conference Call.
+My name is Steve and I'll be your operator for today.
+At this time all participants are in a listen-only mode.
+We will conduct a question-and-answer session towards the end of this conference.
+As a reminder this call is being recorded for replay purposes.
+I would now like to turn the call over to Mr.
+Doug Reed Senior Vice President of Treasury and Investor Relations at VeriFone.
+Please proceed.
+Thank you Steve and welcome everyone to the VeriFone financial results conference call for the first quarter of fiscal year 2015.
+With me today in our San Jose California headquarters is our CEO Paul Galant; and our CFO Marc Rothman.
+Recording of this call and the slides will be available on our Investor Relations website until March 17 2015.
+First for the legalities.
+VeriFone desires to take advantage of the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Certain forward-looking statements in this conference call including management's view of future events and financial performance are subject to various factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements.
+For a description of these factors I refer you to our filings with the Securities and Exchange Commission.
+Any forward-looking statements speak only as of today and VeriFone is under no obligation to update these statements to reflect future events or circumstances.
+In addition today's call will cover certain non-GAAP financial measures on both historical and forecast basis.
+Our management uses these measures to evaluate our operating performances to compare our results to those of prior periods as well as to those of peer companies.
+VeriFone expects to continue to incur certain items that are excluded from the non-GAAP results discussed today.
+These non-GAAP measures are not substitutes for disclosures made in accordance with GAAP.
+Reconciliations of these measures to the most comparable GAAP measures are presented in our earnings release which is available on our website.
+Please note that on today's call we will refer to the non-GAAP measures including revenues gross margins operating expenses net income free cash flow and earnings per share.
+Now I would like to turn the call over to Paul Galant CEO of VeriFone.
+Thank you Doug and thank you all for joining us today.
+I'm pleased with our business performance in Q1.
+The VeriFone team is delivering for our clients while executing a comprehensive transformation.
+Our core client business outperformed all of the targets that we set for Q1 FY 2015 enabling us to again exceed our financial guidance despite Q1's foreign exchange and macroeconomic related headwinds.
+As you know these headwinds have further strengthened since we last provided guidance in December.
+And Marc will update you shortly on how we calculate the incremental impact and adjustment to our guidance for the rest of FY 2015.
+And while we are working to mitigate the impact we are not compromising our mission to transform VeriFone and capture the market opportunities that we see ahead of us.
+Overall our performance in the quarter was strong across the board.
+We grew the top line by 11% over Q1 of FY 2014 and again improved our year-over-year profitability in the quarter.
+We further increased our operating profit margins to 14.4% an improvement of 50 basis points since last quarter and more than 200 basis points versus this prior year.
+This improvement comes despite consistent investment spend to fund our transformation and accelerate the delivery of new products.
+We achieved record revenues in North America driven by market share gains and continued momentum in EMV especially as VeriFone's growing list of clients such as Starbucks begin to implement consumer-facing payment terminals in the United States to the first time.
+We remain focused in the quarter on our working capital metrics improving our free cash flow year-over-year and further deleveraging our balance sheet.
+We continue to make progress in year two of our transformation.
+We're fixing our foundation delivering more consistently for our clients and reinvesting our efficiency savings to execute our next chapter of growth strategy.
+We have hallmarked 2015 as the Year of Product at VeriFone.
+In Q1 we made progress on our next-generation terminals planned for launch later this year and we launched several important new products and services in key areas such as mobility.
+Looking back on our accomplishments in Q1 we've made tangible progress and are better positioned to grow our client business in 2015 and beyond.
+Although we are not yet executing at the level we want our clients tell us that we are delivering better products and services and are significantly ahead of where we were a year ago.
+We plan to continue this trend.
+Today I will update you on progress we have made in the quarter on our transformation initiatives as well as on our 2015 Year of Product announcements and launches in our Terminal Solutions our Payment-as-a-Service and our Commerce Enablement businesses.
+Let me begin with an update on our transformation initiatives.
+As you know in year one we reengineered many business processes and generated meaningful run rate savings which we're consistently reinvesting to upgrade our infrastructure acquire new talent and build our global product businesses.
+In year two we are more externally focused with this work and are executing initiatives in transformation that are directly impactful to our clients.
+Starting with product portfolio management we are driving a global product management discipline to focus our product lines improve our delivery times enhance our software and accelerate our pace of innovation.
+Last year we eliminated nearly 60% of our product SKUs.
+In FY 2015 we're going to continue to focus our product portfolio on fewer more impactful products that delight our clients and provide VeriFone with a good return on investment.
+To this end a top priority this year is to further consolidate our active terminal platforms as we transitioned to our next-generation terminal architecture.
+We began FY 2014 with 13 platforms and we finished the year with 8 platforms.
+We expect to consolidate one additional platform by the end of FY 2015.
+In parallel the first device is based on our next-generation terminal platform will launch by the end of the fourth quarter and the majority of our products including our desktop our portable multi-lane and PIN pad devices will run on this new platform in the coming years enabling us to further reduce the number of platforms we operate.
+Now the impact of this transition cannot be overstated.
+A year ago our engineers were having to work and maintain 13 disparate operating platforms.
+As we continue to move toward a common architecture more of our resources will be focused on making the next-generation of VeriFone terminals truly distinct.
+And the migration to a common hardware and software platform drives meaningful scalability and cost efficiency which will really help to address the margin gap between us and our competitors.
+In our second transformation initiative which we called R&amp;D reengineering we continue to simplify our operations to apply more resources to our clients' most pressing needs and to our highest priority growth areas.
+This begins with driving a more disciplined execution process to better hit client commitment dates and improve software.
+Over the past year we've improved our processes and allocated more of our engineering resources to build our next-generation of products.
+Overall I could tell you that we're becoming significantly more data-driven and far more disciplined in how we run R&amp;D.
+This quarter we made further progress towards our goal of consolidating our R&amp;D footprint from 75 facilities to 34 facilities globally with 10 major centers of excellence.
+This consolidation delivers increased efficiency improved collaboration and drives a far greater yield of innovation from our product people and our engineers.
+We're implementing a common architecture for the development of our software applications globally which standardizes and dramatically improves the timelines and quality of our solutions.
+Today only 5% of our applications leverage our new architecture which means that it takes too many VeriFone engineers and too much time to develop to test and deliver applications to our clients.
+By the end of 2015 90% of our application work will leverage our new architecture which will deliver meaningful improvement in efficiency and time-to-market.
+Also in the first quarter we made progress standardizing our 12 gateways to a single global architecture to provide clients with a single entry point interface into our Payment-as-a-Service and omni-channel offerings.
+Doing so will also allow us to scale our commerce enablement products more quickly across the globe.
+We've already gone live with this new gateway architecture in the United States and expect to standardize three additional gateway installations through 2015.
+Our third transformation initiative is cost optimization where we are driving common global processes to generate savings to help improve margins and fund the execution of our transformation in our next chapter strategy.
+As you recall in FY 2014 we reduced our head count from 5 800 employees to 5 300 employees and upgraded approximately 650 positions to support our growth.
+In 2015 we continue to drive additional head count efficiency and upgrade talent to improve our execution.
+And we are driving a greater culture of accountability at VeriFone by expanding performance scorecards from 200 employees in 2014 to nearly every VeriFone employee by the end of this year.
+Also we're making substantial improvements to reduce costs in our supply chain area by consolidating our distribution our repair and our warehouse operations.
+Additionally we're driving ongoing supplier consolidation and achieving greater buying leverage through the simplification of our product portfolio.
+These supply chain activities generated really good savings in Q1 and we expect similar results throughout the remainder of the year.
+We're consolidating an additional 20% of our data centers by the end of 2015 further improving our operations in this critical infrastructure.
+As you know we've already achieved significant savings rationalizing our real estate footprint as we closed 19 facilities of our 130 facilities last year.
+In 2015 we're going to close an additional 11 facilities down to 100 facilities by the end of the year.
+Last year we liquidated 16 legal entities out of our 132 legal entities and we're going to liquidate another 13 entities this year.
+And finally we began implementing a shared services model for our back office functions last year.
+As of Q1 our shared service center covers 28% of our legal entities at VeriFone.
+We will reach approximately 60% by the end of this year.
+All in all we are proud of what we're able to achieve in year one of our transformation as well as our continued progress in the first quarter of year two.
+We're making VeriFone leaner more nimble and far more focused.
+And we're increasing our profitability while simultaneously becoming more aggressive in the pursuit of our next chapter strategy.
+Let me now turn to our product announcements and our launches during the first quarter of our 2015 Year of Product.
+As I outlined for you last quarter our goal this year is to leverage the improvements made to our transformation to deliver more commercially-attractive and innovative solutions for our clients than ever before.
+We're doing this through a combination of organic innovations investments to fill our portfolio gaps and strategic tuck-in acquisitions to more quickly deploy the capabilities our clients need.
+And we were excited to introduce several new strategic products and services in Q1 across Terminal Solutions Payment-as-a-Service and Commerce Enablement.
+These products and services were very well received by our clients and will begin to generate additional revenue in 2015 and lead to increased earnings growth in the years to come.
+Let me begin with new products in our Terminal Solutions business.
+There is important work underway to enhance our product suite deliver more certified terminals in markets where we do not yet have a full range of certified product and of course prepare for the launch of our next-generation devices at the end of this year.
+VeriFone's new generation of terminals will do much more than enable secure card payments.
+These powerful terminals will function as network endpoints that create consumer experiences that help merchants grow their businesses.
+They leapfrog today's terminals and deliver superior design industrial security increased processing capacity greater memory and better screen dynamics.
+They will be the ideal consumer-facing devices to engage with consumer smartphones and deliver targeted advertising digital loyalty coupons offers and more a really good pairing to all the devices that you see coming out of Apple and Samsung all driving new commerce.
+The rollout of these devices will be a tangible proof point that VeriFone has transformed into a true global product and services company.
+We are seriously excited about what this means for our clients and stakeholders.
+Also in Q1 we announced an important new suite of mobile products.
+Our clients told us that they want mobile terminals that are more flexible future-proof and operate at a lower total cost of ownership.
+As a result we demonstrated several new products at the National Retail Federation Trade Show in New York City in January including a new mobile terminal solution which we called the e355 which integrates seamlessly with any consumer tablet or smartphone.
+Our engineers successfully broke the mold by developing a sleek integrated terminal that is no longer married to the form factor or operating system of a particular device such as an iPhone an Android tablet or a Windows device.
+Next month we will take our mobile product suite further by launching an Android-based cloud point-of-sale solution for small- and medium-sized businesses and select enterprise clients.
+This is a complete upgrade to our existing mPOS software solution.
+And when paired with our traditional and new mobile terminals we can soon deliver a complete tablet point-of-sale solution to our clients and partners who serve the SMB market.
+Our goals in delivering this solution were really accelerated by tuck-in acquisition of GoPago a small but scalable product in this space.
+Our new mobile terminal and cloud mPOS offering are designed to meet the needs of acquirers and distributors seeking to provide packaged end-to-end mobile solutions including hardware software field services gateways and other assets to fully address the SMB markets.
+Q1 also saw progress in our effort to roll out a more value-priced terminal solution for China.
+And China is a really unique market and VeriFone had previously attempted to address the entire market with global solutions.
+Although our global solutions continued to be well received by certain segments of the China market they do not adapt well enough to the growing low-end of the China market.
+To address this gap in China we now have a senior management team and a dedicated R&amp;D team working to execute a strategy to address all the client segments in this important market for VeriFone.
+And I'm pleased to report that this new team has successfully brought the first of our ultra-value priced terminals out of pilot.
+Now to be sure China is a long-term commitment and we have a lot more work to do but we're pleased with our progress in the quarter.
+And there was really much more momentum in Q1 for our Terminal Solutions business.
+They launched a new 3G product device in several markets in Latin America made progress in the expansion of the Turkey ECR terminal line and they released a new version of our entry-level PIN pad.
+Also our incremental investments in EMV certifications have really paid dividends in our traditional North American SMB business by helping us to get more EMV capable product and pay-at-the-table solutions into the market in order to meet growing demand.
+Turning to our 2015 Year of Product work in Payment-as-a-Service.
+We are expanding this business globally to help our clients accept a growing field of payment form factors improved security lower their total cost of ownership reduce their compliance burden and increase visibility into their business performance.
+Today VeriFone provides Payment-as-a-Service in 15 countries and we will end the year with 17 countries.
+Our efforts in the quarter led to important new client engagements in the United States the U.K.
+and Turkey.
+And we expect additional growth in Australia in Mexico Poland and South Africa throughout the year.
+Geographic expansion takes time and investment but it does result in annuity revenues in the years to come.
+Security remains a major driver for our Payment-as-a-Service offering and we made good progress on this in Q1.
+In the U.S.
+and U.K.
+we saw continued client momentum for our end-to-end encryption solutions including commitments from one of the world's largest fast food restaurant operators and one of the Europe's largest home improvement retailers.
+We continue to invest in consolidating VeriFone's numerous estate management solutions to provide our clients with a single global offering called VHQ that improves security and lowers cost of ownership by providing enhanced global reporting content management and marketing capabilities over the installed fleets that our clients operate.
+And we released a new version of the solution in the quarter.
+And we continue to earn commitments in Q1 from U.S.
+merchants and acquirers for our next-generation Secure Commerce Architecture solution which improves payment data security while also accelerating EMV certifications and implementation.
+In Q1 alone we signed or announced new agreements with Vantiv and TransFirst.
+And now have merchant commitments to connect more than 150 000 new devices through SCA.
+Finally in Commerce Enablement we are operationalizing our connected terminals and digital media screens that help merchants grow their revenues.
+Last quarter I outlined our key areas of focus for Commerce Enablement.
+In Q1 our primary focus was on further building our media network and our value-added services.
+In our media business we launched new global media management solutions starting in Germany one of our largest markets.
+Soon our retail clients and advertising partners will be able to utilize the full multimedia capabilities of our existing terminals to deliver targeted content to consumers before during and after making transactions on VeriFone devices.
+Initial interest for this product from our retail partners has been strong and we plan to expand availability of this product initially throughout Europe in the coming quarters.
+Consistent with our next-generation application and services architecture we also grew our network of screens across our global verticals in Q1.
+We made progress in delivering a petro media payment and site solution fueled by new products as well as our partnership with Gilbarco Veeder-Root which will begin to scale in 2016 and merchant preparation for EMV.
+We began piloting our new taxi solution in Istanbul as we begin the rollout of a two-year ramp-up deployment of up to 18 000 taxies.
+And in the U.K.
+we introduced our first 50 digital taxi tops in London and plan to install an additional 150 digital taxi tops in Q2.
+In the area of triggers where we deploy beaconized terminals to create consumer commerce and omni-channel experience throughout the store we demonstrated a wonderful proof-of-concept where VeriFone MX 900 Series devices were fitted with beacons and successfully delivered targeted marketing contact to consumer smartphones.
+And finally we made progress in the quarter developing a new marketplace or app store for developers to distribute certified applications to our global network of devices and media screens.
+As you can see we're executing our transformation and we're accelerating new product launches for our 2015 Year of Product.
+We're excited about the work we've accomplished in Q1 and in the opportunity that lays ahead for the remainder of FY 2015 and beyond.
+With that I'll now turn the call over to my partner our CFO Marc Rothman.
+Marc? Okay thank you Paul.
+Consistent with the company's past practice we will be referring to certain financial statement information on a non-GAAP basis.
+For our first fiscal quarter we exceeded our overall financial expectations despite the foreign exchange and macroeconomic headwinds in Russia.
+We reported net revenues of $487 million compared to our guidance of $480 million to $485 million.
+Our revenues were up 11% from a year ago.
+And on a constant currency basis revenue was up 16.5%.
+Our non-GAAP earnings per share were $0.44 also exceeding our guidance of $0.40 per share.
+This compares to non-GAAP earnings per share of last quarter of $0.44 and $0.31 a year ago.
+Let me now discuss our results by region.
+In North America record revenues of $160 million were up 8% sequentially and 31% year-over-year.
+Our strong North America revenue performance reflects several factors.
+First significant momentum continues in our U.S.
+multi-lane retail business where we delivered 18% growth sequentially and 44% growth from last year.
+Large retailers continue to upgrade to EMV in the U.S.
+with our MX 900 Series terminals and new merchants are buying consumer-facing terminals for the first time to prepare for EMV card acceptance.
+For example in the hospitality sector we also have seven new major client wins this quarter.
+In our SMB vertical we delivered 15% sequential improvement and 49% growth on a year-over-year basis.
+We are growing our SMB business by delivering a broader base of certified products across U.S.
+acquirers and benefiting from market tailwinds in security and EMV-related upgrades.
+Our U.S.
+petro revenue was comparable to a strong Q4 and up 16% year-over-year.
+We continue to see good momentum resulting from our recently launched next-generation end-to-end in-store point-of-sale solutions.
+In addition EMV is creating momentum for convenience stores to upgrade and we are well positioned once again with our MX 900 Series product line.
+We expect a strong fiscal year 2015 for our petro business.
+And finally in North America net revenues on our taxi payment transaction and media business we're comparable both sequentially and year-over-year.
+Our increases in card payment transactions and digital media were offset by lower advertising revenues approximately $1 million on traditional static taxi tops.
+In Latin America revenue for the first quarter was $71 million down 13% sequentially but up 4% year-over-year.
+In the quarter Brazil revenues were lower sequentially reflecting normal quarterly competitive dynamics.
+Highlights elsewhere in Latin America include record shipments to Argentina a new win with Multicaja in Chile and initial deliveries of 3G counter top terminals to Bancomer in Mexico that we announced last quarter.
+In Europe Middle East and Africa revenues of $181 million were down 5% sequentially and down 3% year-over-year.
+This reflects FX headwinds as well as lower sales in Russia due to political and economic issues.
+Partially offsetting these challenges we enjoyed sequential increases in Germany Spain Portugal and Italy from higher product demand as well as stronger sales in Turkey including a significant award for integrated contact solutions from Yapi Kredi Bank one of the country's largest acquirers.
+We also won a regional tender with Ecobank to deliver devices throughout 26 African countries in the last three quarters of FY 2015.
+And as a result of this higher transaction volume revenues in EMEA on a constant currency basis actually grew 4% year-over-year.
+And finally in Asia Q1 revenues of $75 million were up 7% sequentially and 24% from the prior year.
+And on constant currency terms year-over-year growth was 28%.
+In China despite the fact that we are in the early days of rolling out a value-priced product portfolio we achieved good revenues attributable to successful tenders with major banks.
+In Australia and New Zealand we delivered 8% year-on-year growth reflecting our progress on delivering Payment-as-a-Service offerings.
+Now let's discuss our results by product line.
+Revenue for system solutions were $313 million in Q1 up 20% year-on-year.
+Service revenues were $174 million in Q1 that was down 1% year-over-year.
+However on a constant currency basis revenues were up 5% year-over-year as we continue to develop new service offerings expand our media and taxi footprint execute our gateway transformation work and accelerate a geographic expansion to grow our services franchise.
+Now turning to gross margin performance.
+Our consolidated gross margin was 42.4%.
+This is comparable on both sequential and year-over-year basis.
+For system solutions our hardware gross margin improved to 42.4% of revenue from 41.5% last quarter reflecting both strong U.S.
+growth and supply chain savings.
+Our services gross margin decreased to 42.4% from 43.6% in the prior quarter primarily due to lower traditional taxi top media revenues of $1 million.
+Consolidated operating expenses during the quarter were $136 million a $3 million decrease sequentially.
+The improvement reflects efficiency gains from our ongoing transformation initiatives some foreign exchange benefits and the timing of certain research and development expenditure.
+We will continue to focus intensely on cost optimization while investing thoughtfully on next-generation products and services and transforming our back office operations.
+On our capital structure we ended the quarter with a cash balance of $241 million gross debt of $863 million and net debt of $622 million.
+We continue our focus on deleveraging and again reduce gross debt this time by an additional $20 million during the quarter.
+Now I would like to discuss our balance sheet and working capital metrics.
+Our accounts receivable balance decreased to $287 million and our accounts receivable days sales outstanding improved by 3 days on a sequential basis to 53 days.
+This is the best DSO figure the company has had in over four years.
+Our inventory balance increased to $138 million and our inventory days outstanding increased by 4 days to 42 days.
+Accounts payable ended the quarter at $146 million a decrease of $15 million quarter-over-quarter representing a decrease in days payable of 4 days to 47 days.
+Overall our cash conversion cycle which was 48 days in Q1 has improved by 13 days compared to a year ago.
+Our focus on cash flow metrics and working capital continues to strengthen our balance sheet.
+And for Q1 working capital as a percentage of revenue was 14.3% significantly better than the 15.7% level a year ago.
+Now some highlights now on our cash flow results.
+In the first quarter of 2015 cash flow from operations was $41 million and our free cash flow was $22 million.
+Capital expenditures were $20 million in the quarter and approximately half of those expenditures included equipment for our Payment-as-a-Service taxi and media businesses where we invest and deploy systems that we expect to generate service revenues over many years to come.
+And lastly let me discuss our financial guidance.
+We are updating our FY 2015 guidance to reflect a significant increase in the strength of the U.S.
+dollar and additional economic pressure in Russia since the last time that we gave guidance back in mid-December.
+These macro headwinds are expected to be offset substantially by better-than-anticipated strength in our core client business and operations across our geographies particularly North America.
+The financial details of this update for the remainder of FY 2015 included in our revenue guidance are as follows: $60 million incremental reduction in revenue due to unfavorable foreign exchange translation that's $60 million; $25 million reduction due to Russian economic pressures and this is offset by $50 million in incremental revenue expected from the strength of our core client businesses.
+These three items in the aggregate resulted in reduction in revenues of approximately $35 million and an updated FY 2015 guidance of $1.990 billion to $2.0 billion.
+For the full fiscal year 2015 our EPS guidance is as follows and we now expect non-GAAP earnings per share of $1.78 to $1.82 which is a reduction of $0.08 from the high and $0.07 from the low-end of our previous guidance reflecting the net revenue impact that I just reviewed further offset by our Q1 over-achievement and ongoing cost optimization.
+For Q2 FY 2015 we are guiding our non-GAAP revenues in the range of $485 million to $489 million and non-GAAP earnings in the range of $0.41 per share to $0.42 per share.
+Additionally we expect fiscal year 2015's free cash flow generation to be approximately $140 million to $150 million.
+Please refer to our slide 17 in our earnings presentation for additional forward-looking financial information.
+Thank you very much.
+And with that let me now turn the call back to Paul before we open it up for questions.
+Thank you Marc.
+Before we move to Q&amp;A I would really like to reiterate how pleased I am with the team's performance in the quarter.
+As Marc has explained we believe that while our results exceeded our guidance once again for the quarter they were really muted by strong FX and macroeconomic headwinds something that may very well continue to impact us for the remainder of the year.
+More importantly however we believe that our continued business performance has and will offset a meaningful portion of this additional drag.
+The team is really executing well.
+Our plan is working and we're going to continue as planned with our transformation and on executing the Year of Product.
+So with that we now open the call to your questions.
+Steve? Thank you.
+And stand by for your first question which comes from the line of Jason Kupferberg from Jefferies.
+Please go ahead.
+Thanks.
+Good afternoon guys.
+So well good to see that I guess in constant currency terms your revenue guidance is actually going up based on this math correct? Correct.
+Okay okay so that's obviously encouraging.
+So now if we think about the flow-through down to EPS I guess the EPS cut is a little bit more in percentage terms than the revenue cut is that just because you don't have enough natural currency hedge on the expense side given how much your COGS are in dollars? First of all Jason thanks for the question.
+So in terms of the FX exposure I highlighted as the $60 million of additional exposure in our guidance and that is somewhat offset it's somewhat muted by the cost that we incur in like currencies there's a major basket of currencies that we operate in euro the pound the Australian dollar and a few others but about 60% of that is covering the revenue exposure.
+So the net 40% is what translates into the EPS impact.
+Okay understood.
+And then just to clarify I know this was a big discussion topic kind of intra-quarter but which of your non-U.S.
+countries have the most significant amount of pricing that are done in dollars and has there been any material amount of discounting or extra competitive activity in these countries just given how much other currencies have depreciated versus the dollar in recent months? Well if I understand your question Jason there is a number of other currencies that we – there are a number of foreign operations that are in...
+In U.S.
+dollars.
+...U.S.
+dollars.
+Yeah.
+We do price for example in Brazil in the real but we do like our competitors update pricing to reflect the movement in U.S.
+dollar currency as an example.
+I think China to some extent holds true there as well.
+So when I think about – to give you some more transparency when I think about the amount of revenue exposed to the U.S.
+dollar it's about half.
+So about 70% of our revenues come from the U.S.
+North America market but about – excuse me – about 30% come from the U.S.
+North American market 70% outside but about 50%.
+So if you look at our $2 billion of high-end guidance about half of that comes from currency other than U.S.
+dollars.
+Okay.
+And then just last one congrats on the progress you're making in the core business.
+Paul maybe one for you.
+I know last quarter you gave some really helpful statistics in terms of the estimated U.S.
+EMV penetration from merchants of various sizes and where you expect those to be by the time the liability shift goes into effect in October.
+Any update on those metrics? Yeah.
+Thanks Jason.
+I'll give you the sort of the big picture here right.
+So in the United States today there are roughly 10 million terminals.
+We've said that we think in addition to that 10 million there is 3 million greenfield opportunities where people are accepting cards but without a terminal right.
+They may be using a keyboard magnetic stripe reader or some other kind of thing.
+It's not a client-facing terminal.
+So that's how you get to 13 million.
+By the way I've seen greenfield estimates north of that but we're kind of comfortable at the 3 million.
+So in Tier 1 right which we call the top 200 retailers we know there is about 1.8 million terminals 70% of those were EMV capable in 2014 say October of 2014.
+By October of 2015 90% of them will be EMV capable.
+So if you think about today there is about 540 000 lanes or terminals that don't have working EMV those are going to get mostly covered.
+In mid-tier it's the 201st through the 1 000 largest retailer there is about 600 000 total lanes about 460 000 lanes of those have terminals.
+We think there's a greenfield opportunity of about 140 000 lanes.
+So if we're just looking at the total terminals that are in that mid-tier 460 000 total terminals 37% of them we think were capable – EMV capable in 2014.
+We think about close to 60% will be EMV capable by October of 2015.
+So again including greenfield if you think about 600 000 that's 460 000 total terminals plus 140 000 terminals additional you get about 430 000 terminals that are still not EMV.
+SMB is the big one.
+SMB has about 9.1 million lanes.
+We think about close to 7 million terminals call it 6.8 million terminals with a 2.3 million greenfield opportunity.
+If you look at where we were EMV capable in October of 2014 against the 6.8 million terminals about 22%.
+Looking out at this year we estimate close to 40%.
+So you're talking about quite a lot of opportunity.
+7.6 million lanes today in SMB in the United States we don't think have EMV that of course includes greenfield.
+And in that by the way is SMB hospitality.
+And then the only other one that's pretty big is the enterprise hospitality right.
+There's about 1 million lanes only about 240 000 of them have any terminals at all.
+And so you're talking about 760 000 greenfield.
+And against the 1 million total lanes only 12% were EMV in 2014.
+We think about a quarter of them will be EMV by 2015 right.
+So that's how we get – and then there's other stuff like outdoor petro which has virtually no EMV at all today and that's another 1 million or so lanes in opportunity.
+So that's kind of big picture.
+If you look at the U.S.
+you got 33% that were EMV in 2014 and 52% in 2015.
+If you include greenfield to get to the 13 million terminals you're at 24% in 2014 and you're going to be about 40% in 2015.
+Okay understood.
+Thanks for all the detail.
+Thank you Jason.
+And your next question comes from the line of Dan Perlin from RBC Capital Markets.
+Please go ahead.
+Thanks guys.
+That was great color.
+I was wondering if you could reconcile that a little bit with the commentary that you guys put in your filings and I know you don't have the Q out yet but when we look back at the K I think you've called out like $18.6 million attributable to EMV.
+I'm not sure if that's just all multi-lane retail or if that's encapsulating all the stuff that you're just kind of ran through Paul.
+So can you just help me with that? Yeah it would definitely be just Tier 1.
+It wouldn't be the total amount.
+But I got to be honest with you I don't recognize that number of the top of my head I'll have to look into it.
+Okay.
+Most of the growth that VeriFone has seen in EMV has come from Tier 1 and you are now just starting to see it in SMB.
+Okay.
+And is it fair to say that as we think about there's kind of like two different types of terminals when we think about rolling through those statistics.
+One is the consumer-facing terminal that you maybe mentioned is Starbucks which I suspect is going to be lower in price point not because it's Starbucks but because it's kind of an add-on to an integrated box.
+And the second I guess would be more of the ASP that we might get with SMB which will be higher.
+Is that a fair characterization or am I thinking about that inaccurately? You're thinking about that accurately.
+For a Starbucks type company who has got a pretty big investment already in their cash register system they got that nice little scanner.
+You're talking about a PIN pad that can accept EMV and it can allow a person to put in the code for their debit card that is a lower price point than a fully functioning terminal.
+And so that's really the major difference.
+And SMB by and large when they move from the keyboard magnetic stripe to a terminal they're buying a full functioning terminal.
+Got it.
+One last one real quick.
+Are you seeing when you think about the opportunity and this is probably getting more North American-centric really but are you seeing more opportunities as a result of unit sales or really wrapping all these incremental services around your existing kind of book of merchants? And then I just wanted to add on and then I'll hop off.
+The petro opportunity obviously is significant.
+I'm just wondering to what extent the kind of Commerce Enablement opportunity is dependent upon converting those petro stations really to EMV.
+Thanks.
+Okay great.
+So on the first one in North America we are clearly seeing more units.
+We're seeing more units as we start to really address EMV in earnest and then also we're seeing more services SCA as an example a lot more encryption work.
+I think you're seeing some of the people that traditionally were buying a terminal now looking at Payment-as-a-Service; in other words renting a terminal and having us manage the environment.
+In terms of petro petro is – EMV in petro has nothing to do with Commerce Enablement.
+EMV in petro is really a function of two things.
+Today our petro business by and large is inside of the convenience store attached to a gas station.
+Okay? We have virtually nothing in the gas pump.
+Our business is the terminal inside the convenience store.
+We also have the site controller that's that piece of hardware and software that controls what translates from somebody pumping gas to what they are being charged.
+I think what you're seeing us now do is move into actually the pump itself and it's the pump that is going to require EMV upgrade by 2017.
+We're well positioned there.
+You saw us do deals with Sunoco Tesoro CITGO you obviously saw the Gilbarco deal.
+And inside the convenience store right that's really not EMV capable today.
+So we have all those things to upgrade as well.
+If you want to think about it as revenue pools we are moving from about a revenue pool call it $250 million that we've been playing in to now a revenue pool that's closer to about $500 million that we're playing in.
+And we have about 50% of the first one right and we're going to certainly do our level best to get a big percentage of the second one.
+That makes sense? Yep that's great.
+Thank you very much.
+Sure.
+Thank you.
+And your next question is from the line of Tien-Tsin Huang from JPMorgan.
+Please go ahead.
+Hi great thanks for the update.
+I just wanted to ask on the systems versus services outlook.
+First of all how did services come in versus plan this quarter and any sort of new thoughts on how those two lines should shape up for the rest of the year given what we saw in the first quarter? Thanks Tien-Tsin.
+Thanks for the question.
+So as I mentioned services revenues were $174 million this quarter and it was down sequentially that's also down from last year and a lot of that had to do with FX.
+In fact if you normalize it to constant currency it actually would have been up 5% year-over-year but our services line is going to certainly feel the pressure for the next coming quarters as a result of the FX because the services business is disproportionately if you will in regions that are non-U.S.
+dollar denominated.
+So I think overall for the year comp to last year's absolute dollars we'll see a slight downtick in revenues on the services line.
+And of course with the momentum elsewhere particularly in North America there is an incredible strength on the system solutions side.
+So the guidance that roughly is mid-6% on the high and low a little bit higher than that 6.4% to 6.9% off of the last year's numbers it's heavily weighted growth on the system solutions side.
+Having said that if you were to normalize the services business for constant currency it would be showing significant growth.
+So the core is still strong.
+I highlighted a couple of small challenges they've been consistent but they're small in the traditional static taxi business.
+But we're continuing to invest and make progress in the Payment-as-a-Service business the petro space media.
+So we're optimistic we're just being punished pretty badly by the FX headwinds.
+Okay.
+Let me just add one more thing to that because I think it's important.
+Our services business – our services business now is significantly better than our services business a year ago.
+The sales cycle on services takes a lot longer.
+And so between the FX and the fact that even if we have take my word a better set of products and solutions to offer in our Payment-as-a-Service business it's going to take longer to get that sale and to get that revenue ramp-up than say selling a bunch of terminals.
+So I think you've got to read a little bit between the lines which is to say yeah we're getting clobbered on FX but the core client business is better and stronger and you just know that by the dialogue and where we are in the sales process with the new clients.
+And as I said we're in 15 markets we'll be in 17 markets.
+VeriFone sells its products in 150 markets.
+We've got a long way to go here and a lot of upside.
+We just have to stick with it.
+Thank you Tien-Tsin.
+Understood.
+So be patient with the backlog and the pipeline on services.
+One more if you don't mind just on Russia just to clarify is that a global unit growth issue with Russia or are we seeing some share leakage potentially in the region.
+Just wanted to clarify.
+That's all I had.
+Thanks.
+I don't believe that Russia is a share issue.
+I think it's a broader macro issue that's impacting many but of course us in our industry.
+Okay thank you.
+Thank you Tien-Tsin.
+And your next question comes from the line of Darrin Peller from Barclays.
+Please go ahead.
+Inc.</span></strong> Thanks guys.
+I just want to start off.
+I mean your overall constant currency revenue growth I think you said 16.5% was above our estimate and it wasn't just North America.
+I have two questions.
+Let me just start off with international first and then a follow up to other questions on North America.
+Just quickly on international.
+I mean we saw Latin America growth of 15% constant currency and APAC growth over 25% I think.
+Was there anything unusual in there or unsustainable in either of those regions that we should be aware of that may not be considered sustainable or we couldn't extrapolate of this revenue base just quarterly revenue run rate on a constant currency basis first of all? Well I'd like to there's a lot in that question but high-level the core business across the globe is very very strong.
+I don't have anything in particular to call out.
+So yeah I think that the numbers for Q1 speak for themselves across the board on a constant currency basis the underlying business is very very strong and I expect that to continue.
+I'd say areas that Paul and I highlighted in China we know that we're behind the market in that country and we've made some significant management changes and we're investing in research and development and product but these are long cycle events.
+And if there is probably one area that we're still underperforming the market it's probably in China.
+So we keep an eye on it and we're focused on fixing it.
+But I don't think we had any kind of – Darrin I don't think we had any major one-timers if that's what you're getting up.
+So the...
+Inc.</span></strong> Yeah that is.
+I was just trying to make sure we can extrapolate of the quarterly revenue like level on a constant – that's helpful.
+Just a quick follow up to all the questions on North America when we look at these growth rates 44% multi-lane and 50% almost in SMB I guess 32% overall I mean the real question I think we're getting from clients and is really around just what your sustainable growth rate is given the EMV how much of the EMV actually help the quarter how much is it going to help the year? And then I guess on top of that you are gaining market share or benefiting from what's a more sustainable bigger TAM as you mentioned the greenfield opportunities.
+Are you winning sort of an outsized market share of those new greenfield opportunities also? It sounds like you're doing pretty well with the – I think you mentioned seven wins in hospitality.
+So just a little color on that would be helpful.
+Sure.
+Couple of things.
+Again I don't see a cliff in North America business.
+I've heard it called the bubble I've heard it called a lot of things.
+As I said depending on how you count if you believe my greenfield 60% of the total number of terminals in the United States have yet to be upgraded.
+Okay? So – and that's assuming we get to October 15 and we're at 40%.
+The 60% still have a way to go.
+Whether those things get upgraded faster because merchants are concerned about liability shift or more because consumers show up with chip and PIN cards and say hey how come you're not accepting a chip and PIN card because they feel that there is security.
+I still think there is a long way to go.
+I also think there is a long way on the petroleum side as I said.
+There are zero EMV readers practically in pumps.
+There is a 2017 liability shift date and we positioned ourselves strategically to take advantage of it.
+So that's one.
+In terms of how we're doing against market share I think in the United States first of all our brand has always punched above its – above that of our competitors.
+I think U.S.
+clients trust the VeriFone brand.
+I think that in terms of competitive takeaways I know in Q1 there was at least – there were at least eight that I'm aware of and we took business away from Ingenico Infinite Peripherals and Equinox with big names.
+So I know we're winning I don't think we're losing much.
+I think in the Tier 1 we have something like a 97% or a 98% retention rate.
+So I feel like we're doing well.
+Inc.</span></strong> Great.
+Great I think that's it from me.
+Thanks guys.
+Appreciate it.
+And your next question comes from the line of Chris Brendler from Stifel.
+Please go ahead.
+Nicolaus &amp; Co.
+Inc.</span></strong> Hi thanks good afternoon.
+I actually had a follow up to Darrin's question on that same topic.
+I guess I'm trying to understand the strong performance in the U.S.
+I think you're talking about a little bit of market share potentially.
+But is the sequential acceleration we're seeing in both North America both multi-lane and SMB is that more of an acceleration in EMV adoption? And it seems like it's above your plan.
+So was there a noticeable pickup in the quarter of merchants both large and small making the upgrade? Yes Chris that's exactly what happened.
+I mean we were keying off of history.
+We then made adjustments because we knew obviously with a due date people will start to cut a press.
+We didn't quite expect as much as we've been seeing.
+We certainly knew that Tier 1 space in and out so that we could predict pretty well.
+I think we also predicted mid-tier.
+The SMB was really a wildcard and it outperformed and the enterprise hospitality outperformed.
+So those were the ones that we saw a pickup and we're glad.
+I think it will sustain for a while.
+And I just – I get sometimes lost a little bit in scale here.
+The U.S.
+market is a big big market and if it's got to turn over there's a lot of opportunity and that's what we're really focused on.
+No stone is left unturned.
+Nicolaus &amp; Co.
+Inc.</span></strong> That sounds great.
+I guess one more follow up on that topic is to the extent that some of the new product introductions you've had in SMB is that having a meaningful impact at this point or is it more that the SMB channel started to upgrade faster? And then an unrelated question can you just give us an update on the advertising market and the trends you're seeing there? Thanks.
+Sure.
+I think the biggest improvement – first of all whenever we launch a new product it takes a while for it to ramp up.
+So if we launch something in Q1 it probably didn't contribute meaningfully to revenues.
+It takes a while.
+The biggest driver of revenue growth for us in SMB market is really certifications.
+How many acquirers can we certify with our products and not just eight products but a full range of products which is what SMB typically buys they'll buy countertops and PIN pads and they'll buy portables and you got to have the full gamut.
+And we've been working so hard to improve our relationships with the acquirers and for the past year and a half it's really helped us to get an audience present our roadmap deliver on innovation and then they allow us to certify that's really the biggest driver.
+In terms of advertising advertising is not a standalone business for us.
+We don't think of it as standalone business.
+We think of it as a massive enabler to our ambition in Commerce Enablement.
+So that advertising knowhow the technology that we use that is going to help our merchants to do more with these terminals.
+I think about our next-generation of terminal solutions by the way as having as much on the broadcast side as they do on the receiving side.
+Traditionally terminals have all been about let me accept the card so it's a consumer pushing data in their card number.
+Going forward I view these things as having really a back and forth conversation give me your card number let me push something out to you.
+And so Commerce Enablement is about having that push out message be really robust and having advertising screens is essential to that whether in taxi cabs whether in the petrol stations or in the checkout lines right and we think there is an important play here.
+We're certainly investing in it and we'll see if it does what we think it will do.
+In terms of the only business that really doesn't obviously ship – connect to that in folks' minds is the static taxi top business but in reality that static top business is really really important real estate for us.
+When we wanted to have American Express pay with points in taxi cabs it was actually the static top that told consumers they can do it and that's why they started getting into the cabs.
+So we like the balance.
+We're going to continue investing in both.
+Nicolaus &amp; Co.
+Inc.</span></strong> Great.
+Thanks Paul.
+Appreciate it.
+Sure Chris.
+Your next question comes from the line of Smitti Srethapramote from Morgan Stanley.
+Please go ahead.
+Hi Paul and Marc.
+In China it seems like you've been making some progress with the ultra value product coming out of pilot.
+Can you share with us some of the feedback that you received from clients during the pilot stage? Yeah I'm happy to.
+I mean I got to tell you I had pretty good expectations that we were going to listen to clients carefully understand their needs understand what it is in our R&amp;D and supply chain and engineering and manufacturing that we need to change and then we were going to produce a product that was going to really hit the mark on the low-end of the China segment which I got to tell you had some pretty spectacularly low prices associated with it.
+And there's also some feature function tradeoff to be sure.
+So we produced our first payment terminal with that type of approach with that type of framework it hit the mark.
+It's not a today PCI-certified device so that's the next thing.
+Let's get that type of low-cost feature that spoke to that market device and let's now get PCI 4.0 certification.
+So I'll know whether this thing is a home run or not or sort of lives up to our expectations probably later in the year when the thing leads PCI certification.
+And regarding the feedback that you've gotten from clients I mean has it – have people been mainly happy due to the price of the product is there any other features of the product that stands out versus what's being sold by other competitors in the market at the moment? I think that they're just happy because we've actually woken up to the fact that we haven't been doing it right and we started to listen to them.
+I mean we brought a global product to China and there were clients in China that love it because they're somewhat global in their approach.
+The minute we went into really local Chinese and how they view what they need we just weren't listening carefully that's why Marc talked about the change in the team.
+We just needed a more focused folk.
+In terms of whether it hits the mark I really think it's early days.
+I don't know.
+I'm just happy with our – that we're on the right track but we – as I said we got a long way to go in China we are not getting a big share of that market that we should be.
+Thank you.
+Thank you Smitti.
+And your next question from the line of Dain Haukos from Piper Jaffray.
+Please go ahead.
+Hi guys.
+Thanks for taking my questions.
+I'm on for Mike Grondahl today.
+I'm curious it looks like you're focusing on using some of those free cash flow that continue to de-lever is there a targeted ratio that you're looking at or a certain level that you're looking to get to on the leverage front and then where do you think you will go from there once you reach that level or what were your thoughts behind uses of cash be at that point? Hi Dain.
+This is Marc.
+Thanks for the question on cash flow and leverage.
+We've been obviously in the mode of deleveraging.
+You know we have refinanced our term loan A B revolving credit facility back in Q3 of last year.
+So our intention is to continue to use excess cash flow to de-lever.
+Having said that we're not out of the M&amp;A space.
+We – Paul highlighted a transaction – a small transaction that we did actually in Q2.
+So we're looking to give ourselves some flexibility with the excess cash flow.
+So to the extent we're not doing M&amp;A the intent would be to use it to de-lever and to the extent we need resources we'll work off of our revolving credit facility and our excess cash.
+Okay that's great.
+And then where are you guys at in terms of run rate savings on – in the as you keep realigning the cost structure? I think you had originally thought about $35 million I think last call it was around $40 million is that still the level? Yeah.
+Last call I updated the overall savings to be around $40 million actually slightly in excess.
+You could see that we – in our slides we took the OpEx numbers down from high-$65 million a portion of that happens to be the benefit that we get from the foreign exchange.
+But we're continuing to invest in the back office.
+We're continuing to invest in getting our infrastructure and foundation real solid and of course in the new businesses.
+And I would expect that going into 2016 that we'll begin to realize some of those savings particularly around the R&amp;D reorganization the consolidation into a smaller footprint as one example.
+I'll be in a better position to give you an update on OpEx targets really in the coming couple of quarters but it's certainly trending in the right direction and we're continuing to look at efficiencies across the organization.
+Okay thank you.
+And then last one for me how are conversations with clients going as we approach the liability shift as far as the security platforms and management of that whole process because I know that last time it sounded unlike there is a lot of clients that are going to have issues with managing that transfer? There is certainly no less complexity today than there was the last time we spoke about it.
+Clients are anxious to hit their dates.
+We have been working with those clients especially Tier 1 and especially the large acquirers very very intensively.
+It is a – you can think of VeriFone right now in North America as a giant project plan right.
+There are war rooms everywhere to make dates and such.
+SCA as I mentioned we now have commitments to connect 150 000 terminals that's a lot of terminals going onto a platform and that is really to deliver on EMV certification faster.
+So we are absolutely in full execution mode across everything we do to hit as many dates as possible.
+You're not going to have a 100% of the merchants ready but you're going to have an awful lot of the Tier 1s ready.
+Thank you.
+Thank you Dain.
+And your next question comes from the line of Craig Maurer from Autonomous.
+Please go ahead.
+Hey Craig are you there? We can't hear you.
+Might be on mute.
+Yeah.
+Sorry about that.
+Regarding Starbucks is there an opportunity A to expand beyond just simple PIN pads or client-facing EMV type additions to more of the cash register plus is it an opportunity globally for VeriFone? Secondly if you could just size sort of the headline pricing what you might be deploying at Starbucks versus when you're deploying MX 900.
+Thanks.
+Well let's think a bit on the last part of the question and let me talk about the first part.
+Starbucks is a PIN pad implementation it is so that they can accept EMV cards and that is not uncommon I think you'll find in that type of setting.
+As I said they have a – they've invested an awful lot of money in their infrastructure for taking payments.
+As you know they have their own Wallet app it's extraordinarily successful.
+And we don't really view Starbucks as a North America client we view them as a global client but the first step is North America.
+In terms of what drives this adoption and could it go beyond a PIN pad you would really have to believe that this narrative that VeriFone continues to propagate on Commerce Enablement is real.
+We certainly think it is.
+If in fact we're able to show that these terminals are an important part of helping merchants to attract new consumers and grow their business then the way in which one might view the opportunity of getting the merchant to upgrade or to buy isn't so much on EMV and security as much as it is on you know what I want to create a great consumer experience against their digital wallet or even with their card.
+And so that type of opportunity I don't have baked into my Starbucks numbers but I can imagine if this team here at VeriFone does a great job that a company like Starbucks might certainly be open to it.
+Okay? So that's how you go from the PIN pad to something else.
+In terms of the range certainly you could go on the Internet you can find out what MX 900 Series are priced at what PIN pads are priced it's a big difference and the MX 900 device is a much much more powerful much larger much more – has greater capacity device than the PIN pads.
+It's going to be multiples.
+Okay thank you.
+Thank you Craig.
+And your next question comes from the line of Meghna Ladha from Susquehanna.
+Please go ahead.
+Hi.
+Thanks for taking my question.
+Marc the $60 million FX headwind that you called out is that – I just want to understand is that all translation risk related to the Payment-as-a-Service business in Northern Europe? The $60 million that I called that is broader than that.
+It's on the entire VeriFone footprint.
+So it goes through all currencies and all regions.
+So it would be $60 million of FX impact for the next three quarters including Q2 but no it's more – it's broader than Meghna the Payment-as-a-Service business in Northern Europe.
+So does that mean that in markets where you do have pricing flexibility you are seeing an impact from FX? There is.
+We're calculating FX broadly across those currencies that are denominated in non-U.S.
+dollars where those are – where we're impacted but in some places as you – maybe you're alluding to like in Latin America there are opportunities for us to price adjust but I think the $60 million is a good reflection of the impact that we have for the rest of the year.
+Okay.
+And then with Brazil are you seeing – I mean can you talk about the pricing environment in Brazil? One of your competitors Ingenico really last week talked about how they're seeing margin pressure from competition and local merchant acquirers? It's – we certainly enjoy our business in Brazil.
+There are as you know a few major acquirers that have some pricing power and that market in general tends to be more margin intensive.
+So I think we compete well but we compete with challenge.
+So generally speaking it is a tougher market and we do see pricing pressure.
+More importantly we see the currency issues as well you could see where the Brazilian real has moved over the last – gosh it could be the last week two weeks a month two months and that my point there was we will and we intend to adjust to make sure that we're getting adequate returns on the product that we sell.
+But let me just say we're not chasing revenue in Brazil by cutting margin.
+So that – we've just not done that.
+We look at opportunities to value price.
+We value price sometimes we win sometimes we don't but I for one do not see draconian price wars.
+I don't know where that is coming from but I don't see it.
+Thank you so much.
+Thank you Meghna.
+Steve we have time for one more question please.
+And that question comes from the line of Andrew Jeffrey from SunTrust.
+Please go ahead.
+Hey guys.
+Thanks for squeezing me in.
+I know it's a long call.
+Hey Paul you made a number of comments about technology investment and you gave us a ton of detail on initiatives.
+I'm wondering – and this may be a little bit of a tough question to answer but if you just qualitatively think about what proportion of your product reengineering is really aimed at streamlining operations and affects cost centers replatforming et cetera and what proportion is focused on greater functionality that can ultimately drive Commerce Enablement or service related revenue.
+Should we think about those as being roughly equal initiatives or is there a greater emphasis on one versus the other? And I've got a quick housekeeping follow up for Marc.
+There's definitely a greater question on the transformation work; that's just critical for us right now.
+Can't succeed with 13 or 8 operating platforms.
+It's – as you can imagine just it's a hell of an anchor around your neck.
+So we have to put ourselves into a place where we simplify our operations where we standardize things like gateways standardize things like our operating platform.
+We got to get to a single chassis design for most of our global product.
+A lot of that unfortunately isn't something I can show a client today right.
+It's not like I get to show the hey look at all these cool things bells and whistles.
+It's all on the back-end.
+And that is where we're spending more money today.
+That is where the bump in spend comes from.
+That is where the transformation costs are coming from.
+We try to self fund as much of that as possible.
+While we're doing that we are absolutely making progress on the things that make Commerce Enablement work.
+And those are things which are new new to VeriFone and whether it's an app store whether it is some of the card linked offer solutions.
+Those kinds of things we're investing money in more digital media screens.
+But if you said to me what percentage? I'd say that 75% is going to fixing the old 25% is on the new.
+Okay that's great.
+And so to the extent the investment continues next year those ratios might slide toward 50-50 and perhaps move more toward revenue generating innovation in future periods? That's exactly right.
+We're going to continue to invest.
+R&amp;D has to be a big portion of our identity.
+Innovation has to be a big portion of our culture.
+I can't tell you that all the stuff we're doing right now is innovation.
+It kind of feels like taking us out of 1998 in certain parts of our business but we will absolutely be a disciplined company and we will ride the innovation curve better in the coming years for sure.
+Okay great.
+And Marc could you just repeat the FX headwind in services please? What I mentioned in services is that the numbers were down year-on-year and sequentially.
+But on a constant currency basis they would have been up 5% year-on-year.
+And then I could tell you that they would have been comparable sequentially.
+Perfect.
+Thank you very much.
+You're very welcome.
+Thank you Andrew.
+So I guess this brings us to the end of our first quarter earnings call and Q&amp;A session.
+I want to thank everybody.
+I appreciate it.
+Perhaps I do go into a bit too much detail but if you saw what was going on here on a daily basis I could tell you that I greatly oversimplified in my comments.
+I just thought you guys deserve transparency.
+Look as Marc said really tough FX really tough macroeconomics.
+Okay? It is what it is.
+The next three quarters don't look very pretty when it comes to FX and macroeconomics that's why we demonstrated to you that we think it's an $85 million incremental headwind.
+We also said that we in the business are doing a lot better that's true.
+Our clients are giving us more business that's true.
+And I think the best is yet to come.
+Having said that that only allowed us to get comfortable for an incremental $50 million.
+So we could not overcome all the FX which was about $60 million and all the weakness in Russia which is about $25 million.
+So out of $85 million we covered $50 million and we're certainly not going to stop now but that's where we are today.
+So thanks everybody and I look forward to talking with you soon.
+Bye-bye.
+Thank you for your participation in today's conference.
+This concludes the presentation.
+You may now disconnect.
+Thank you very much and have a very good day.

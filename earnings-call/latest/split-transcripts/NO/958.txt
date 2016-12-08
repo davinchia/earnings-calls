@@ -1,0 +1,259 @@
+[Operator Instructions] The first question will come from Howard Chen with.
+Congratulations on the announcement of the MUFG conversion.
+I think one of the overhangs I've certainly heard is you've got a lot of capital but the quality of the capital was a bit challenged.
+So this certainly alleviates that.
+I think assuming you receive approval Ruth how does that change your capital management priorities in the context of both Basel I and Basel III? That' s a very good and fair question but a bit premature.
+We're delighted to be announcing this this morning.
+As you said it does meaningfully improve our Tier 1 common.
+Delighted to be up at 14.5% pro forma but we still need to go through final regulatory approval and shareholder vote.
+I think overall it puts us in a very strong position with added flexibility and we'll be back to you more on that in the future.
+Okay thanks.
+And then switching over to the results you noted the monoline-related losses again this quarter.
+Could you just update us on where exposures stand at the end of the quarter? And what we should be looking at in terms of thinking about future losses and/or gains? Certainly.
+So as we said before this is a legacy exposure that will take time to work out.
+It's unfortunately not as straightforward as it may appear because there are a number of factors in play and correlations are breaking down.
+So in addition to normal credit considerations there's regulatory and litigation overlay.
+We're continuing to evaluate the market in all positions.
+So you're going to see more disclosure in our Q.
+As you would expect we have adjusted some of our hedges and that will be detailed in the Q.
+Okay thanks.
+And finally you noted the RWAs were down during the quarter.
+Is that more environmental driven or is that a function of getting ready for Basel III? It's really our approach and focus on RWA mitigation and optimization.
+We've put more resources people and analytics behind our RWA management.
+And as a result it enabled us to identify opportunities to really optimize RWA.
+It's a combination of business mix change analytics and changes in collateral.
+And we're focusing on Basel I now but intend to use that same discipline focusing forward on 2.5 and III.
+Okay thanks.
+And just follow up to that Ruth I guess as you look to that RWA optimization I mean how do you think about the P&amp;L ROA type of impact from mitigating those RWAs? So what we talked about here the reduction from $330 billion down to $300 billion did not have a P&amp;L impact.
+Great thanks so much.
+Thank you.
+Ruth if we could just do quickly the pro forma tangible book and fully diluted share count post the conversion I mean the $25.63 range and 1.85 billion.
+Is that about right? So the tangible book is around $25.78 book value $29.36.
+And fully diluted I just add the shares nothing special there in the math? Right right.
+And then so what's interesting is your leverage is running 17.2x on common.
+This immediately takes it under 15.
+Just curious if you think about that as the right range you knew this was coming versus is there an ability or any thought process on letting the balance sheet drift up a little now that you have a lot more common underneath it? So this quarter our balance sheet obviously did drift up moved up from fourth quarter.
+It was lower at the end of the fourth quarter on basically client activity and we took it up as we saw client activity.
+I think the real point here is that we're very pleased with the ongoing success we have in equities and fixed income and that's really driven the demand for incremental balance sheet which we've used.
+Clearly this provides a very strong Tier 1 common base.
+But what was driving the balance sheet move fourth quarter over first quarter was client activity and executing on our strategy.
+Okay so let's talk about that.
+I think you do deserve the credit for the progress there.
+Could we inside of [indiscernible] talk about -- I know commodities is operating towards peak levels right now.
+I think that continues.
+But do you mind making a comment specifically on rates and FX where a lot of the build has been? And what kind of contributors that was to the good results this quarter? Certainly.
+So rates had very strong performance.
+It was up year-over-year and quarter-over-quarter in a choppy market.
+I think what you're really seeing is the results from the build that we've done the strong leadership we have there the additional talent added to our team globally.
+It really makes a difference.
+I think our point that we've talked about in the past is the need to build out the team to have greater presence with clients which in turn would drive greater opportunity for client facilitation and that was very much borne out this quarter.
+What you'll see in the 10-Q when you look at our trading histogram is that it has moved over to the right.
+And again another way of underscoring that with the addition of the team greater presence of clients greater client facilitation opportunities that we're productive.
+I would just add Glenn this is the first time that I have felt comfortable with the leadership across all of our fixed-income businesses.
+Moving Kenny deRegt who ran fixed income 10-plus years ago left the firm came back to run risk and is now back running the business his unique talent and mature very capable trading executive.
+And under Kenny the 4 or 5 players that he now has really a world-class team.
+So leadership starts at the top.
+You've got to have that ability at the top.
+And the investment we made in hiring people combined with the leadership at the top I think is what started to move the needle.
+Excellent.
+All right thanks both of you.
+I think it would be really helpful if maybe you could take us through a little bit more detail on how you achieved the reduction in the RWA even as the assets went up because this mitigation thing is so important I think for us to understand.
+It's really -- as I described we built up the team that focusing on RWA optimization.
+And so the combination of business mix as well as analytics as well as looking at changes in collateral has just yielded benefits which one can candidly say "It would have been nice to have had sooner " but we're pleased to have put the resources behind it to identify it.
+And these are Basel I improvements.
+I don't want to leave you with the notion that it necessarily rolls forward to Basel III.
+Some of them we give up again in Basel II.
+And that's why I made the point that we're using the same approach to make sure that we're capturing all opportunities now in Basel I but we're going to move this to 2.5 and III.
+So when I look to our Basel III guidance it stays very much the same.
+I wouldn't want to leave you with the suggestion you can build off of that.
+Got it.
+But it sounds like you are trying to identify opportunities to further this even on a Basel I basis and achieve more on a Basel III basis than maybe what you would have thought a few months ago you could do.
+Or is that not fair? Well no that's very fair.
+The Basel III numbers that we talked about previously kind of inflation passive mitigation net up 140 $140 billion.
+We still think it's an appropriate way to look at it.
+We don't have any change to our earlier guidance of $480 billion of risk-weighted assets under Basel III.
+However very much to your point we intend to take the same focus apply it to 2.5 and III.
+And in addition there are opportunities on active mitigation.
+But at this point there are 2 steps which is let's take this forward to 2.5 and III see what else it yields and then see what we want to do beyond that.
+Okay then that's very helpful.
+Thank you.
+I was also hoping that maybe you could give us a little bit more color on the other sales and trading loss which you refer to as being related to some of the economic hedges I guess one on the corporation's balance sheet.
+I'm not sure that I understand it.
+And obviously the losses are significant enough that it would be helpful to understand if those could -- if those are going to be mitigated ahead or how we should model that.
+Sure.
+So as we've discussed previously this line item is volatile.
+And it unfortunately is difficult to model because it includes a number of different items in it.
+So for example we have amortizing hedges from debt we bought back in 2008 and 2009 in there current long-term debt hedging program our U.S.
+bank liquidity portfolio leveraged loans and relationship lending.
+And so while we have negative in this line item there are often also positive offsets.
+And that's what we had last quarter we had some positive offsets.
+Unfortunately this quarter the items all went the wrong way.
+And that's the negative.
+That's the drag.
+Okay thanks for that.
+And then the final question that I have is on equity because obviously you've had a very very successful result in the quarter.
+And I guess the question that we have to ask ourselves is how much of this is really sort of permanent no permanent is never the right word but sustainable improvement from some of the footprint improvements that you've had and the like? And to what extent might you just have had a very favorable outcome from volatility-related equity derivatives trading? Can you help us with that at all just so we don't overestimate what you might be able to achieve in the quarters ahead? Yes absolutely.
+We are very pleased with the performance.
+And I think you've hit the 2 issues.
+First and foremost we have a terrific team around the globe.
+This is really -- the strength is broad based.
+It's across products.
+It's across geographies and it is about very strong team.
+Cash equities was very strong; derivatives as well; prime brokerage as I noted.
+So I think it starts with the team and the stronger presence in front of clients that they're executing extremely well.
+We certainly also benefited as you noted from a constructive market.
+So for example in derivatives we certainly benefited from the market but it was the team with the backdrop of constructive market they executed well against it.
+Okay thanks for that and thanks for taking my questions.
+Thank you.
+All my questions are on the MUFG conversion.
+I just wanted to clarify some maybe some simple things.
+So you eliminate $784 million in dividends.
+That's a $0.53 pickup once you do that.
+Is that correct? So that's kind of in the bag? I'm going to count on you doing the math right the $784 million of dividends.
+Preferred dividends to clarify.
+Right.
+So I'm just trying to understand how I would adjust my normalized estimates.
+So if my normalized number is $4 or $5 or $6 let's use $4 for the moment.
+So the increase in shares outstanding would be diluted by 1/4 which would take the $4 number down to $3.
+Then you'd add back that $0.53 and then normalized earnings power would be $3.53 not the $4.
+So it seems like normalized earnings would go down.
+And I want you to correct my logic.
+On the other hand you have a mid-teen to ROE target.
+If you maintained that ROE target on a higher capital base that would imply a higher normalized number.
+So if you could help me see my way through that.
+So you've got a number of components to it.
+I'm going to address some of them and then we'll just follow up on some of the math after the call.
+Because this conversion we've been focused on getting the conversion done and you're going into some of the numbers that I don't have in front of me.
+So you're right on the $784 million of preferred dividends.
+As I indicated we're paying a premium with the incremental 75 million shares so the total common shares up 385 million.
+As we look at it with respect to -- and so we'll come back to you on the earnings.
+What you're asking about ROE and really driving ROE on the strong capital base we remain very comfortable with our mid-teens target over the cycle and come at it a number of different ways.
+Starts with our revenue mix and the right revenue mix globally.
+We think we're very well positioned for a changing regulatory environment and we're executing across the businesses and geographies.
+And you see that I think quite clearly in the results here this quarter.
+So revenue upside in Institutional Securities driving equities further based on the strengths that we've just talked about.
+And on fixed income as we've talked about in the past we're very focused on the initial closing the gap of 2% market share points and the benefit that that actually drives to the bottom line.
+Investment Banking is at a cyclical low given the strength of our Investment Banking franchise.
+We view that as a real positive.
+And obviously there's a flow-through to other businesses from the new issue business that comes out of the Investment Banking franchise.
+There's the upside from GWM as we drive our PBT margin to the 20% target we've talked about in the past.
+The expense management program that we've talked about is incremental operating leverage.
+And then finally at some point back to one of the prior questions capital management's an added lift.
+So that's how we look to the ROE and we'll come back to you on some of the builds.
+And then maybe -- you get $7.8 billion of additional common equity if that's correct.
+So your tangible common would go up 19% but your shares outstanding would go up by 25%.
+Am I doing the math correct and if I am why is so much more in the shares than the increase in the common? We also have the incremental premium that we're paying which is a deduct.
+So that as I noted will be a charge of about $2 billion based on yesterday's closing price.
+And when you gave the pro forma tangible book value of $25.78 does that include that $2 billion charge? Yes that's fully loaded.
+All right thank you.
+Just a couple more on MUFG.
+I guess one can you help us think about -- and you talked about the larger sort of strategic benefit of the relationship and maybe just put into context some of the benefits that you've gotten out of that partnership so far? I'm just thinking of can we look at this in a some sort of cumulative context? And have there been any meaningful profits? Firstly on a pure financial basis the investment that MUFG made during the financial crisis was obviously critical to repositioning us.
+The contribution to the various equity raises has also been critical and we put in place a number of different business initiatives around the world.
+One of them was the formation of these double joint ventures in Japan.
+And while we have clearly had a stumble in the trading book on the fixed-income side of the business that they've been running the long-term opportunity the strategic opportunity in Japan giving us access to the retail market which is a very large portion of the market there for distribution of our institutional product and putting Morgan Stanley in a position to take Japanese corporates outside of Japan for their M&amp;A and capital raising needs is a very compelling sort of strategic objective.
+Secondly we have worked with MUFG and Bank of Tokyo subsidiary to bring them into a number of client relationships where we're leveraging the combined balance sheet of both institutions.
+And I think the number -- I forget the exact number but we're up over the 50 to 60 instances where we've done that.
+They did their first sub-investment grade deal with us.
+So there are number of opportunities for them to do that.
+Thirdly as we look at various smaller emerging markets around the world where they have a presence and capability we might want to build the infrastructure.
+We're looking at ways where we can leverage their infrastructure.
+And then finally in the United States they have operations here in both retail and commercial banking.
+So it's a very broad-based partnership.
+And again obviously it's stumbled but the evidence of the strength of the partnership this truly moving investment here that they've made and repositions us in lots of ways.
+Okay that's helpful.
+And then just thinking about the premium you're paying to convert to preferred early kind of paying the next couple of years of the preferred dividend.
+And is it just the certainty of having the common equity contribution today as opposed to not sure whether the stock price is at the conversion point 2 years from now and there might still be a cost then? Have you had to negotiate something? Yes I'm going to let Ruth she can take you through the mechanics.
+The bottom line here is what we have spent the last couple of years doing is clearing up a number of uncertainties that impact our future and this was frankly #1 on my list for this year.
+And we had a window of opportunity here to get this off the list and obviously we had to pay premium.
+We think it's a fair and balanced -- Ruth will take you through them.
+So to that point the security is not callable by its terms which is customary for this type of security.
+And so we and they value the security with all relevant factors share price discount rate volatility led to what we think is a fair outcome.
+And it really goes to James' point which is this creates certainty which we believe really drives additional benefits for clients and all of our stakeholders.
+And I just like to say not to overstate this.
+But getting this done in this timeframe with all the Japanese partners are dealing with in Tokyo now is a measure of the strength of the partnership that they were willing to focus on this that the CEO and board level and our board level to get this done.
+I appreciate that.
+Last question in terms of your positioning sort of post-Dodd-Frank Basel III sort of final clarity and how you might be thinking about any response to that from a resizing perspective.
+I think a lot of dealers have to kind of go through this process.
+My question for you is because you've been sort of in a rebuilding process is it fair to assume that you kind of had some aspect of this outcome in mind and that your restaffing has been focused in businesses that likely have sort of brighter futures than others and then ultimately there may be less of a headcount challenge for you than maybe some of your competitors? I think you framed it well.
+The focus is very much for us a client-centric flow business and that plays into much of the direction of much of the regulation.
+I think when you talk about some of the areas like derivatives clearly there's a lot still to be done with respect to derivatives legislation.
+And we do want to -- we are focused on the need to ensure that U.S.
+institutions broadly aren't disadvantaged relative to global for other firms or European firms.
+But when you think about Morgan Stanley I think there are ways that we are relatively advantaged versus peers.
+And we've talked about that in the past the ability for us to move derivatives into the bank the fact that the focus really is on client service and research support for our client then it's giving us an opportunity here with our technology and connectivity leveraging off we're doing in for example foreign exchange and PB to set ourselves up well for this new world.
+So we do feel that in many ways the market is going the direction that we're going.
+We still are somewhat smaller in fixed income on headcount and so that very much to your point is beneficial given where the market's going.
+Okay thanks for the color.
+Ruth last quarter you gave some details on the Wealth Management business.
+Just in terms of some of the factors that can push the margin up over time more environmental and then there was also a portion that's more what Morgan Stanley can do in terms of consolidating platforms realizing some of the additional synergies.
+So just wanted to focus on that portion.
+From a timing standpoint are we still looking at -- I think you guys are saying like the beginning of 2012 but I just wanted to make sure like any update on the synergy the consolidation on what you guys can control versus the environment? So the 3 pillars as I call it that drive margin expansion first as you just referenced completion of the integration and the synergies that come from having integrated the various platforms.
+We are moving the Morgan Stanley FAs onto this platform by the end of the third quarter where they'll be training up the Smith Barney FAs.
+They move on in the first half of 2012.
+So that's a very important part of this integration timeline.
+The second part and very important is building up the private banking business because that as we've talked about in the past is where we build our noncompensable revenues.
+And that we are systematically building.
+We had 160 bankers at the end of the year.
+We have 178 at the end of the first quarter which is ahead of our what was our major target of 180 and we're looking to add about 30 a year.
+So this is a slow steady build to make sure we're providing the right client experience the right risk management the right -- full infrastructure around it.
+But that's an important part and that will take time to build to the point where it really moves the needle.
+And then to your point the third part which we don't control but I did reference in the opening comments is the backdrop the 100 basis points movement in equity the point on our PBT margin.
+And fed funds we're focused on because they're down from 19 basis points in the fourth quarter to 10 basis points here as we're going into the second quarter second quarter to date.
+And every 50 basis points in fed funds is about 1 point on PBT margin.
+We look forward to that turning around.
+And then just to follow up on the ROE.
+You gave a few points I think on one of the last questions just in terms of getting the ROE up over time.
+So I think you mentioned like 5 areas so overall activity levels which we'll see anyone can predict.
+You guys have the target in the Global Wealth Management business in terms of the improvement in the margin so we can gauge that and size that opportunity.
+So I guess in terms of the 2 others or maybe 3 others like the size of a trading opportunity in terms of punching at your weight or getting it to a level that's a better run rate.
+And then just on the cost side I guess on those 2 areas when you look at the ROE and the impact of those businesses or those new initiatives have is there any way to size that up? And not like next quarter or the quarter after but over the next year or 2 in terms of how much that can contribute? Well I'll give you a couple of data points to use to size it up and then look forward to reading how you write it up.
+But within the fixed income side we're targeting an initial 2% wallet share growth and that's steady consistent.
+I think what you're seeing in the results this quarter give us confidence that you're seeing that borne out through the P&amp;L but that's a 2% upside.
+2% market share upside is an important first metric that we are looking at in managing too.
+And then with respect to the cost program I mentioned the office of reengineering under our COO that was announced early this year.
+He is targeting and identified a $1 billion of run rate expenses to come out of the business.
+That is a 3-year reengineering effort.
+He has identified a number of different areas but it does take time when you're doing substantive reengineering in that regard.
+Okay thanks a lot.
+Inc.</strong> Just to follow up on the JV.
+I understand that this was an unusual quarter but you were losing money in the JV over the prior 9 months and understandably it's got some strategic value.
+But how do we think about it -- how do you guys evaluate that longer term? Is there really value to be had there particularly when you're giving up risk management? Is it sort of worth the effort? Well firstly there are 2 businesses there.
+So the JV has 2 businesses and one of them certainly has been making money.
+But secondly it's in its early stages.
+It was only formed in May.
+We have a lot of things that are going on in discussions about restructuring that particular business which MUFG is going through and Ruth talked about.
+And we believe there are other potential synergies across both of those businesses for reducing the cost base in the infrastructure.
+So yes from a cost perspective we think it can be more efficient.
+From a risk management perspective they're putting in place a number of changes at the leadership and the process level.
+And from a cost strategic perspective to have access to the Japan retail market and have access to taking Japanese corporates globally is a major strategic move for us that we're frankly continue to be as excited as we were when we started.
+This is a stumble.
+We're disappointed with it.
+They're disappointed with it.
+They're putting in place the appropriate changes but it's not something that's going to knock us off sort of 10-year vision for our business in Japan.
+Inc.</strong> So you see a pretty reasonable path to profitability there is basically what you're saying.
+Yes in time.
+But as you know obviously the Japanese markets have been under pressure and it's going to take some time to align the cost bases of the these businesses where we have combined in that market.
+Inc.</strong> Okay great.
+And Ruth on the risk-weighted assets you still targeting $480 billion under Basel III.
+That's inclusive of the mitigation right of about $100 billion I think is the numbers.
+And then how do we think about -- you had mitigation on Basel I.
+Was I guess I'll ask it again was there any kind of mitigation related to Basel III yet? Or is that still to come and you still expect that to come? So on Basel III we're still guiding agents still for now look at $480 billion net of passive mitigation.
+So as I said we're not giving ourselves credit at this point for the Basel I RWA mitigation rolling through the Basel 2.5 and III but we do intend to use that same focus as we look at 2.5 and III.
+So if you just hold to where we were previously we'll continue to give you updates.
+That includes only passive mitigation.
+There are obviously other things that are quite logical like tariffs and potentially benefits from central clearing.
+But I think the other point is that in our prior guidance on Basel III we were talking about 8% to 10% Tier 1 common by the end of 2012 with consensus earnings and the various other things we've talked about.
+The 10% number was contingent on the conversion of the MUFG convertible preferred which we obviously now address today.
+So that's the only real update on that topic.
+Inc.</strong> But none of the passive mitigation has come through yet? No on behalf of III no.
+Inc.</strong> Okay thanks.
+And last itty-bitty question.
+Did you mention the dollar amount of the hedging loss for MBIA exposure or no? The overall P&amp;L impact was $318 million this quarter.
+Inc.</strong> Okay great.
+Thank you very much.
+Thank you very much.
+we view them as an important resource for bloggers and journalists THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION THERE MAY BE MATERIAL ERRORS OMISSIONS OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS.
+IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT.
+USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts please contact us at: <a href="mailto:transcripts@seekingalpha.com" rel="nofollow"><u>transcripts@seekingalpha.com</u></a>.
+Thank you!

@@ -1,0 +1,495 @@
+Good day everyone.
+And welcome to the Vonage Holdings Corporation First Quarter 2014 Earnings Conference Call.
+Just as a reminder today’s call is being recorded.
+At this time for opening remarks and introductions I would now like to turn the conference over to Ms.
+Leslie Arena Vice President of Investor Relations.
+Please go ahead Ms.
+Arena.
+Thank you.
+Good morning.
+And welcome to our first quarter 2014 earnings conference call.
+Speaking on our call this morning will be Marc Lefar Chief Executive Officer; and Dave Pearson CFO.
+Also joining us are Joe Redling President Consumer Services; and by phone in Atlanta Wain Kellum President Vonage Business Solutions.
+Marc will discuss the company’s strategy and progress and Dave will review our financial results.
+Slides are accompanied Dave’s discussion are available on the IR website.
+At the conclusion of our prepared remarks we will be happy to take your questions.
+As referenced on slide two I would like to remind everyone that statements made during this call may be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These and all forward-looking statements are based on management’s expectations and depend on assumptions that maybe incorrect or imprecise.
+Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially.
+More information about those risks and uncertainties is highlighted on the second page of the slide and contained in our SEC filings.
+We caution listeners not to rely unduly on these statements and disclaim any intent or obligation to update them.
+During this call we will be referring to non-GAAP financial measures.
+The reconciliation to GAAP is available on the IR website.
+And now I will turn the call over to Marc.
+Thank you Leslie.
+Good morning everyone and thank you for joining us on the call today.
+We reported a solid start to the year highlighted by continued excellent results at Vocalocity.
+Stable revenue and strong cash flow in our North American consumer business the launch of consumer services in Brazil and introduction of our ReachMe Roaming mobile feature.
+Vocalocity now rebranded as Vonage Business Solutions or VBS for short grew revenue 40% year-over-year and 12% sequentially on a pro forma basis.
+Led by these strong results consolidated gross line additions grew to 191 000 the highest level since the first quarter of 2009 churn increased by 10 basis points to 2.6% and net line additions grew to 13 000.
+This morning we announced the material increase in retail distribution.
+Through agreements signed with four new retail partners we are tripling the number of stores that will be offering BasicTalk.
+In addition we signed online distribution agreement with Amazon.
+Once completed we expect to expand the retail footprint and improved online presence will drive additional subscriber growth at low end of segment with minimal incremental marketing investment.
+Our financial results for the quarter was solid adjusted EBITDA was $29 million the highest level in four quarters.
+Revenue increased 5% sequentially and 6% year-over-year to $221 million reflecting the exhorting growth of VBS.
+This is our first quarter of year-over-year revenue growth since the third quarter of 2011.
+We continued executing on our balanced approach to capital allocation by investing for growth and returning capital to shareholders.
+During the first quarter we repurchased $10 million or 2.4 million shares of Vonage stock.
+Let me now spend a few minutes talking in more detail about Vonage Business Solutions.
+Results for VBS clearly demonstrate the power of a combination of Vonage and Vocalocity and our ability to accelerate VBS is already rapid growth.
+Revenue for VBS was $19 million.
+As I mentioned this is up 40% year-over-year and 12% sequentially on a pro forma basis.
+Net new accounts for the quarter were a record 4 600 up 249% versus prior year and up 72% sequentially.
+Due to the great collaboration of our teams immediately after closing we have already realized many of the synergies targeted at the time of acquisition including a dramatic reduction the cost of telephony services.
+Revenue synergies are also evidence.
+The completion of our rebranding efforts increased marketing investment expanded distribution and shifting of Vonage small business leads to Vonage Business Solutions all contributed to the accelerate revenue growth.
+On the cost front we have fully interconnected VBS to Vonage’s intelligent call routing platform reducing domestic termination rates by 67% and we're providing VBS customers with access with some of the lowest international long-distance rates in the market.
+We also reduced E911 cost by more than 50% and have plan to capitalize on cost synergies and other areas including mobile product development.
+Collectively these actions have contributed to a 4 percentage point improvement in VBS direct margins.
+We anticipate further cost reductions and productivity improvements as we implement the same customer care technology and workforce management tools that have delivered major savings and service improvement at Vonage over the past five years.
+On our last call I spoke about a number of initiatives underway to drive growth.
+Let me update you on our progress.
+First we said we are focused on improving our digital yield by redirecting business prospect web traffic from Vonage to VBS and by optimizing our search programs.
+These activities are well underway.
+As a result of page search optimization and increase investment with meaningfully increase bookings to this channel cost-efficient.
+Although page search currently represents less than 20% of VBS bookings the contribution from this channel is growing more than 50% faster than the growth of the overall business.
+Second I discussed the expansion of Vocalocity's referral program to include existing Vonage customers.
+Launched in January this expanded program shows promise as we have already signed up 1 000 existing Vonage customers to our referral network.
+While VBS customers still make up the vast majority of our referrals today.
+We expect the number of Vonage customers participating this program and the level of contribution to grow over time referrals are our lowest-cost channel and an important contributor to efficient growth.
+Third we continue to test the impact of a variety of device and service promotions.
+Many of these programs have been very successful in driving incremental sales.
+We will continue to refined and expand the most productive of these programs.
+Fourth as a result of our highly competitive cost structure we are now able to test offers to small and medium businesses which international calling is an important part of their business.
+And fifth we are building distribution for the expansion of our reseller and teller sales channels.
+Since closing the acquisition we have substantially increased our direct and outbound telesales staffing and the number of value-added resellers.
+We have expanded our direct and outbound teams by nearly 40% since the closing of the acquisition.
+These investments have been a key driver of the sales growth achieved during the quarter.
+In summary we are very pleased with our progress since closing of the acquisition.
+In most regards we are exceeding our original expectations.
+We will continue to invest accelerated growth through additional scaling of direct and channel distribution while adding resources in R&amp;D and we will strengthen our customer support and service capabilities.
+In the coming months we will turn more of our attention to new strategic opportunities including SoHo with full self service capability possible coaches to move up market white label partnerships and additional acquisitions.
+Let’s now move to a discussion of our North American consumer services business.
+Over the part several years we have gained substantial traction attracting international long-distance callers.
+We are the market share leader leader in [Asian and Indian] (ph) calling segment have a growing base of Hispanic international callers and we see further opportunities to grow this segment.
+Our extensions product which allows customers to extend their home international calling plan to their mobile phone has been extremely popular with Vonage world customers.
+We are finding that consumers are increasingly responsive to marketing efforts that highlight value-added features such as extensions and virtual numbers.
+In fact we recently featured extensions in our television advertising and immediately saw an increase in prospect flow reinforcing the strong appeal extending our calling plans to mobile.
+In addition in the coming weeks we will launch our physical calling card product renew retail distribution network they will put our product into thousands of targeted locations serving large segment of the international long-distance market that prefers to pay cash use prepaid calling cards and call from their mobile phone.
+We will be evaluating our early entry into this business over the next several months and we will provide updates as we progress.
+We made progress in certain segments in the core consumer business during the quarter.
+We did experience some challenges.
+Gross Line Additions or GLAs were up year-over-year due to the continued contributions of BasicTalk.
+On a sequential basis however we experienced a modest quarterly decline in GLAs.
+This decline was due to several factors.
+First the impact of inclement weather in January and February had a disproportionate negative impact in our retail channel.
+Second seasonality played a role as we saw stronger sales during our holiday period in Q4 to the retail channel then we did in the latter part of Q1.
+And third we no longer adding SoHo customers as these leads are now transferred to VBS.
+In addition to a sharp fall in GLAs we experienced a modest uptick in churn due to the historically higher churn rate of early life customer's acquired in retail channels which has increased as a percentage of the total customer base.
+As a result overall net line additions in the consumer business were slightly negative for the quarter.
+On the digital front work is progressing on the upgrading of our digital platforms and tools.
+We are in the midst of redesigning our online experience in e-commerce platform to increase prospect traffic enhance the learning and buying experience and improve conversion.
+We're also optimizing our platform to better support customers using smartphones and tablets.
+We expect to be in market with testing of the redesigned site late Q3.
+BasicTalk is our 999 per month low-end domestic calling product launched nationally nearly one year ago.
+The past year the product was sold exclusively through Wal-Mart stores nationwide and online.
+It has performed well and it’s a bestseller in its category on Walmart.com.
+In just 12 months we have created a compelling new brand which has help to attract new customers validate a retail-oriented distribution strategy and establish a strong foothold in the low-end domestic calling market.
+As I mentioned earlier we are now taking the next step in the evolution of BasicTalk by broadly expanding availability to new retailers and online with Amazon.
+These new partnerships triple our current footprint to 12 000 locations nationwide and will provide access to the 500 million unique visitors to Amazon.com every month.
+We expect that this expanded distribution combined with our existing strong relationship with Wal-Mart will enable us to attract a growing portion of the ultra-value segment represent a market of more than 40 million households.
+It should also lead to improvements in marketing efficiency and SLAC as we spread our fixed costs over more locations.
+We expect initial availability of BasicTalk in the first of these new locations beginning late this quarter with expansion throughout the third quarter.
+Now let us turn our attention to international and mobile.
+In the past several weeks we reached two important milestones against these growth priorities.
+The first is the launch of our consumer service in Brazil.
+Just over a year ago we announced our plans to enter this large and rapidly growing market.
+Applying a phased market entry approach we are now offering consumers in select markets a straightforward high-value calling solution delivering substantial savings over current rates.
+Our plans offer unlimited calling to landlines throughout the country for a low flat monthly rate.
+Customers can also make calls to mobiles within Brazil at low fixed per minute rates regardless of the network called or time of day offering savings of up to 50% compared to leading providers.
+In the market known for complex high pricing we are focused on meeting consumer demand that delivers transparent price and a positive customer service experience.
+The service leverages our cloud-based platform and is supportive of Vonage customer care.
+The core offering also includes a localized Vonage Mobile app allows customers to use their home calling plans to place calls from their smartphones at no additional costs.
+This is particularly valuable in this market recalling across cellular providers is very expensive.
+Our plans also leverage Vonage’s international long-distance rates which were among the most competitive available with calls to United States and other top destinations more than 80% lower than major competitors.
+As part of our phased rollout we are now marketing services in two cities Curitiba and Brasilia and expanding traditional markets over the next several months.
+Our television print and digital marketing all emphasize the key benefits of our service -- simplicity transparency and mobility at extremely competitive prices.
+We believe that Brazil can become a substantial contributor to revenue over time and we will update you on our progress in the coming quarters.
+Last week we introduced the patented new feature on our Vonage Mobile app ReachMe Roaming which allows U.S.
+travelers to receive free incoming calls when connected to Wi-Fi no matter where they are in the world.
+Combined with free outbound calling to all U.S.
+phone numbers in Vonage Mobile U.S.
+customers can enjoy seamless two-way communication in their existing phone numbers while traveling abroad at no cost.
+ReachMe Roaming is currently available in United States for Android users on GSM carriers.
+We expect to expand the service to additional carriers countries and iOS.
+Current app users can simply update their Vonage Mobile app with the latest version to utilize this feature.
+The feature is easy to turn on when traveling.
+Users simply select ReachMe Roaming from the app settings to activate the service.
+U.S.
+travelers can use the feature for free in any country where Wi-Fi connection is available.
+The feature can also be used over 3G and 4G though data charges may apply.
+And those adoptions enable us to learn about user behavior where we are providing ReachMe Roaming free for limited period.
+Throughout the past year quality improvements and new features including video calling and video voicemail have made us one of the most robust communication apps available.
+We also continue to make solid progress adding customers on mobile extensions with 850 000 customers signed up for this feature.
+Since launching the service in 2012 approximately 3 billion international long distance minutes of use have occurred over extensions.
+Today 40% of extensions app calls are made over Wi-Fi.
+Importantly many of our mobile capabilities are now being leveraged across geographies and business units including Brazil the U.K.
+and in the future Vonage Business Solutions.
+Future enhancements will bring new benefits to both businesses and consumers.
+Business customers will be able to make and receive calls from their desktop number maintaining both their work identity and their personal identity on a single handset.
+Our product roadmap include the next-generation of mobile services that create true alternatives to traditional wireless carriers and allow consumers to communicate seamlessly over any connected device at low cost virtually anywhere in the world.
+In summary it was a solid quarter led by very strong results of VBS.
+The strong performance reaffirms our belief in the large growth opportunity presented by the SMB market.
+We are pleased with the acquisition and the progress we've made as a combined company.
+Looking ahead we remain focused on investments to drive long-term revenue growth and we will continually reallocate resources based upon market response.
+We will also continue to return value to shareholders through a buyback.
+I’d like to close by commenting on my plans to retire from Vonage.
+During the past six years I’ve been privileged to work with an exceptional team and a highly engaged support of Board of Directors.
+Together we completed a comprehensive turnaround of the company.
+Vonage is financially stronger than it's ever been and we are making good progress against our growth initiatives.
+The acquisition of Vocalocity is complete and has positioned the company well in growing new market.
+As a result of our progress and after considering the long-term needs of the company as well as my personal goals it became clear that now is the right time to select a new leader for Vonage.
+I'm committed to leading our efforts as the Board searches for new Chief Executive and I will continue to serve as CEO during the orderly leadership transition which we expect to conclude by year end.
+With that I'll pass the call to Dave.
+Thanks Marc and good morning everyone.
+I'm pleased to review our first quarter financial results.
+For beginning I’d like to note that this is the first quarter for which the company is reporting consolidated results including Vonage Business Solutions for the entire quarter.
+As you may recall fourth quarter 2013 results included only a partial quarter of VBS’s results collecting the November 15th close of the acquisition.
+Similar to last quarter Table 2 of our earnings release shows VBS key operating statistics on a pro forma basis as a Vonage owned VBS for all periods presented.
+Beginning on slide four adjusted EBITDA was $29 million up from $25 million sequentially context through managing VBS in the area of EBITDA breakeven.
+Though there were a number of offsetting items regarding EBITDA primary operating drivers of the sequential increase or reduction in Vonage consumer marketing and selling and improved costs due to international termination rates.
+Adjusted EBITDA was down from $34 million in the year ago quarter due to lower Vonage consumer revenue and higher SG&amp;A.
+Moving to slide five revenue was $221 million up $10 million sequentially due to a full quarter of VBS and the acceleration of VBS revenue.
+On a pro forma basis revenue was flat sequentially.
+Revenue increased from $209 million year ago due to the addition of VBS revenue to more than offset the impact of lower ARPU in the consumer business as we added more customers on lower price plans.
+On a pro forma basis VBS grew -- VBS revenue grew 40% year-over-year and 12% sequentially to $19 million.
+ARPU was $28.86 up from $28.72 sequentially down from $29.61 in the prior year quarter.
+The ARPU declined from the prior year quarter reflects the growing proportion of BasicTalk lines in our base over the past year.
+This impact was lessened by the inclusion of VBS which accounted for the sequential increase.
+GAAP net income was $5 million or $0.02 per share up from $4 million or $0.02 per share sequentially.
+This increase is a result of higher EBITDA and lower acquisition-related costs offset by higher acquisition amortization of intangible of $3.8 million.
+GAAP net income was down from $13 million or $0.06 per share in the year ago quarter.
+This reflects the deal related amortization above and higher interest expense offset by lower income taxes.
+GAAP net income also includes an add back of net loss attributable to non-controlling interest reflecting the 30% of our Brazil venture owned by our partner in the quarter.
+For the first quarter this item was $383 000.
+As we discussed last quarter we implemented a change to the ownership structure of our joint venture reflecting Datora’s inability to meet certain of its JV funding obligations.
+As a result Vonage's ownership in the joint venture increased from 70% to approximately 90% at the end of the first quarter.
+Datora continues to be Vonage's operating partner and maintains an equity position in the Brazil venture.
+Adjusted net income was $13 million or $0.06 per share up sequentially from $10 million and $0.05 per share down from $21 million or $0.10 per share in the year ago quarter.
+These changes are primarily driven by the adjusted EBITDA trends I noted.
+The adjusted net income metric excludes the acquisition-related items of intangibles amortization and deal expenses and adjust for the fact that Vonage is not a material cash taxpayer due to our over $700 billion NOL.
+Moving to slide six we continue to execute on structural cost reduction opportunities and further reduced cost of telephony services or COTS.
+COTS increased to $53 million from $52 million sequentially due to the addition of VBS COTS.
+COTS decreased from $55 million a year ago despite the incremental volume from VBS which added several million dollars of termination costs in the first quarter.
+The overall decline is due to lower termination in network costs but by meaningful improvement in international long distance termination costs per line declined by 18%.
+Marc discussed we've already fully interconnected VBS to the Vonage intelligent call routing platform and lower VBS’s termination costs by 67%.
+Combined with the reduction in VBS’s E-911 costs and other cost savings I mentioned we've improved our consolidated direct margins to 72%.
+COTS per line was $6.88 down from $7.09 sequentially and from $7.82 in the first quarter of last year.
+Selling general and administrative expense for the first quarter was $78 million.
+This is up $5 million from the fourth quarter up in the inclusion of a full quarter of VBS.
+SG&amp;A increased from $63 million in the prior year due to the addition of VBS’s SG&amp;A higher assisted selling expense and an increase in compensation and employee related expense across Vonage.
+These factors were partially offset by an 11% improvement in customer care cost per line reflecting continued improvements in care metrics including Average Handle Time which declined 8% from a year ago and First Call Resolution which improved by 5%.
+Marketing expense was $57 million down from $58 million sequentially and up from $52 million a year ago due to the addition of VBS.
+Subscriber line acquisition cost or SLAC decreased $299 from $331 sequentially and from $349 year ago.
+SLAC decreased for its both period as a result of higher growth subscriber line addition driven by basic BasicTalk and Vonage Business Solutions.
+SLAC in consumer was down year-over-year and sequential.
+Turning to slide seven.
+Gross line additions or GLAs were 191 000 up from 175 000 sequentially and up from 148 000 in the prior year’s quarter aided by VBS to grow accounts to 13 000 up 18% sequentially and 53% from the prior year.
+Consolidated customer churn was 2.6% up from 2.5% sequentially primarily due to the higher churn rate of customers coming through retail channels which have increased as a percentage of the total customer base.
+VBS churn declined to 1.6% in the quarter from 1.8% sequentially and will tend to fluctuate given the relative size of its account base.
+Higher gross line additions more than offset the uptick in churn resulting in 13 000 net line additions in the quarter our fourth consecutive quarter of positive net line.
+It is important to understand that our strategy is to maximize the total number of lines in revenue for Vonage on a consolidated basis.
+As a result in the last quarter we directed thousands of Vonage consumer leads seeking to purchase small business product to VBS.
+This shift along with the other market factors that Marc referenced resulted in a net line loss in the consumer business.
+Although accounts from the Vonage leads have lower average lines per account in VBS’ historical number.
+All of these accounts are incremental at VBS’ organic growth.
+In addition the ARPU and average lines generated by VBS on these leads is better than the levels achieved by Vonage before the acquisition.
+Even without the effect of these leads VBS revenue grew materially faster than last quarter.
+I’ll now move to a discussion of CapEx cash flow and the balance sheet on slide eight.
+For the quarter CapEx including the acquisition and development of software assets is $4 million down from $6 million sequentially and flat compared to the year ago quarter.
+The adjusted EBITDA minus CapEx calculation is $25 million reflecting the substantial cash flow generation capacity of our business.
+Free cash flow in the seasonally low first quarter was $6 million down from $30 million sequentially due primarily to changes in working capital from the timing of payments and was up from $5 million in the year ago quarter.
+Cash and cash equivalents as of March 31 were $59 million including $4 million in restricted cash and net debt was $54 million.
+This takes into account the repayment of $20 million of our revolving credit facility debt to save interest expense.
+Revolver borrowings were therefore $55 million at the end of the quarter leaving $20 million of revolver capacity and term debt was amortized down to $41 million.
+We ended the quarter with a strong balance sheet reflected a net debt to adjusted EBITDA of 0.5 times.
+Strong balance sheet and cash flow generation capacity Vonage has significant strategic and financial flexibility.
+We continue to see interesting M&amp;A opportunities particularly in the SMB-hosted VoIP market.
+We believe our financial strength is a competitive advantage.
+We continued our balanced approach to capital allocation in the quarter repurchasing 2.4 million shares for $10 million.
+At the end of the first quarter we had $39 million left on our current $100 million share repurchase authorization which runs through the end of 2014.
+We intend to continue to execute on this authorization.
+Since beginning our buyback in August 2012 we’ve repurchased 34 million shares for $94 million at an accretive average of $2.78 per share.
+We’ve made strong progress integrating Vocalocity into our business and are pleased with the synergies we've already realized.
+Our confidence in the opportunity in SMB has only strengthened and we will continue to invest for growth in this critical component of our business.
+We look forward to providing an update on our progress in Brazil with expanded distribution of BasicTalk in retail and online.
+We remain focused on revenue growth and planned to continue the discipline of improving our cost structure and the return of capital shareholders.
+Thank you for your support to Vonage.
+I will now turn the call back over to Leslie to initiate Q&amp;A session.
+Thank you Dave.
+Operator please open the line for questions.
+(Operator Instructions) Our first question comes from the line of George Sutton of Craig-Hallum.
+Your line is open.
+Please go ahead.
+Thank you.
+Good morning and congratulations on the results.
+I wondered if you could talk about the 40% growth number on the SMB side.
+Obviously that’s a great result and I'm wondering what's causing that.
+Obviously the market is growing nicely but I'm curious if you could kind of break it down into the brand changes you made maybe some competitive changes that have occurred meaning others moving up market and what you've done uniquely on the marketing side? George good morning.
+Thanks.
+I have to flip this to Wain who is joining us from Atlanta and let him comment on the progress.
+Wain? Wain do we have you? Sorry about that.
+Thanks Marc.
+One of the thing that we were concerned about when we put the two companies together is that we just have a lot of work to do in the systems migrate compliance work and rebranding and we were able to get the rebranding work done incredibly quickly.
+And that rebranding work has had a really positive impact on taking our marketing dollars and making them work harder and do more.
+So we’ve been able to cast a wider net and increase our marketing spend to generate a lot more lead flow which generated a lot more customers and lot more booking as you noted from the numbers.
+But we've been able to do it in a way where our marketing egged efficiencies had actually improved as opposed to on the road at which would have happened before the merger.
+And so now what we’re doing is just trying to find new ways to put money to work to cast a wider net.
+Got you.
+There is also -- Wain you guys have invested a fair bit in increasing rapidly the scale of your direct sales teams both direct and outbound teams as well correct.
+You got increased size almost 40% just during the last couple of quarters alone I believe right? Yeah.
+That’s true.
+And it all starts with spending marketing dollars to generate leads and then happened in the past to be able to pursue with leads in flow and so everything from scaling exact like you would expect.
+Last question from me.
+Marc if we could think forward a bit this is clearly a forward-looking question.
+When we look at the movement of apps sort of how significant that ultimately I think will be to this business.
+How does it change the business model in your view? How does it look different in a few years than it does today? It's a great question.
+My view of this a few years from now is we won’t talk about home phone service or even mobile phone service.
+We’ll talk about communication accessible from any device based on who you are where you are the way you want to experience it.
+If you think about mobile today and people initially go to mobile phone I think that you’re going to see that expanded to tablets and all forms of computing devices having even some of the in-home broadband connected devices from television screens and then all different forms of notebook computers everything is good to be communications enabled.
+And I think you want to have those serve you whichever one you're engaged with for traditional voice messaging and video.
+So as we think about the business while we talk about our mobile initiatives we build those with a mindset to how can we leverage that across our business units and geographies.
+So for our launch in Brazil for example where we've built essentially what is the extensions product in the U.S.
+our initial pitch as people experience Vonage’s when you buy service at Vonage you can make calls from your mobile devices or from your home whatever you prefer.
+And the value proposition is actually competitive versus mobile carriers and home service providers simultaneously.
+So it’s a completely different land through which consumers will experience the value proposition.
+And I think that's how it's going to be in the future.
+I think people in this call -- we still even in our own business think about it as home phone service and we will add mobile or mobile becomes an afterthought.
+Going forward I think you’re going to see us truly integrated unified communications and the way people experience it will vary by customer segment whether its B2B or whether its in a consumer segment across all the devices.
+People won’t really consider how they buy by legacy type home versus mobile but just expect that it works on any of their devices.
+That’s very helpful perspective.
+Thank you.
+Next question Operator? Our next question comes from the line of Greg Burns of Sidoti &amp; Company.
+Please go ahead.
+Good morning.
+If you look at the -- could you just compare the Brazilian offerings with your domestic offerings in terms of may be ARPU and then also are the Brazilians subscribers included in the GLAs in the total subscriber numbers that you will be reporting on a go-forward basis? So let me take the first part of that.
+And I’ll ask Dave to comment on reporting structure because of the joint venture structure.
+So in terms of pricing keep in mind that the Brazil market is actually a bit more like the U.S.
+market was 10 or 12 years ago.
+To call from city-to-city or state-to-state in Brazil you are paying significant per minute charges.
+You pay differently on mobile phones based on time of day and whether you're on your own carrier mobile-to-mobile calling within the carrier network or to different carriers.
+Over the last decade in the U.S.
+we’ve all become accustomed to flat rate pricing.
+Business doesn’t matter inside the country.
+That simply doesn’t exist with any major carrier in Brazil.
+So our value proposition is anywhere in Brazil you’ve the ability to make calls regardless of distance at one flat rate.
+Calls to mobiles which have very high termination rates and are on a permanent basis we provide significant discounts roughly 50% to what other carriers are providing and that comes inside of existing package.
+If you want to upgrade that to include international calling to the U.S.
+our rates for international calling are about 80% lower and which you can get from anybody else.
+So our international value proposition is huge.
+But to be clear our primary market segment really is domestic calling regardless of device in Brazil.
+And as I mentioned earlier it is making calls from cordless phone in your home or from your mobile phone from the very start.
+So that’s all about the value proposition.
+And we’ve seen a very strong initial traffic into our website and telesales center it’s only in two small markets and it’s been less than two weeks.
+So we don’t have a lot of quantitative numbers to report at this point.
+We will obviously reporting our progress in future quarters ARPU because we don’t know the rate plan next in totality is difficult to project but it’s going to be roughly similar to Vonage World kinds of services depending on what attach rates we have in some of our enhanced features.
+You can think about that as roughly the $30 U.S.
+equivalent ARPU plus or minus 10% 15% so that gives you a ballpark kind of range.
+We are not entering with BasicTalk like sense of pricing it’s more like the traditional Vonage ARPU.
+So you shouldn’t expect to see any kind of dilutive impact the ARPU would have on a consolidated basis.
+And then I will talk -- I will forward to Dave to talk about the reporting.
+Sure.
+Greg going forward you will see GLAs from Brazil in our total GLAs reported.
+So we consolidate the joint venture.
+We have consolidated and we will continue to consolidate the joint venture.
+That didn’t change with the ownership change.
+And hence you will see GLAs and net lines appear in our reporting going forward.
+Okay.
+Thank you.
+Next question Operator? Next question comes from the line of Michael Latimore of Northland Capital.
+Your line is open please go ahead.
+Thanks.
+Thanks for the nice quarter.
+The COTS per line is that -- that’s very low that’s sustainable do you think? I would say that the main components of their termination costs and network costs and termination costs are the things that tend to fluctuate and have been driving the decline in COTS.
+A big part of that for us is international long distance termination costs and we’ve had a very good trend on those.
+They can fluctuate it depends on the country.
+We typically have a contract with a termination partner or termination partners in a country.
+And depending on what that contract looks like the rate can fluctuate into our favor over the last few quarters.
+And more over we’ve done a lot to try to control that.
+And in particular we have a contract with Tata in India which has been publicly filed which governs our termination there.
+That’s the biggest country in which we terminate traffic.
+Mike I will add to that just the -- as you think about the components of COTS if we’re thinking about VBS for example that COTS per line is obviously quite sustainable because it’s primarily domestic.
+So the savings we’ve got those are sustainable those are systematic and won’t change.
+But as Dave rightly pointed out the real variable portion and frankly the only one that could even be material is termination to India so we watch that carefully we try to manage that we have very good and highly competitive long-term contracts with India.
+I would also mention that if we’re to see any kind of increases we know that we’re at least as buffered as all the major competitors that are completing calls to India.
+We believe we’ve got a competitive advantage to that country which is the one that has the largest international COTS cost to us.
+Okay.
+And with regard VBS you mentioned the possibility of going up market there any new thoughts there that’s something is definitive or still looks? Nothing definitive at this point in time Mike.
+We have been focused primarily on accelerating what was already a very nice trajectory that Wain and his team had delivered.
+We are pleased with the branch transition which is complete.
+The team is doing a great job improving our search engine marketing.
+We are comfortable that we’re able to keep track of growth and keep up with the pace of growth and accelerate that by expanding our existing channels.
+And we’ve got additional folks that are spending a lot of time thinking about and actually working on a host of strategic opportunities which includes actually inking white label partnership with large third parties as well as going up market directly M&amp;A activities and actually this will leave a large solar opportunity that the Vonage brand can extend to.
+We would have to build out and improve self-service capability to deliver that.
+So we are still looking through the priority and sequencing of those but we are pretty pleased right now fishing in the existing pond but you can’t help but look at in this marketplace which is pretty greenfield how fast you want to move into some of these other segments.
+So I expect you will hear little bit more about our plans in the next three to six months.
+And just last question on VBS what kind of features or where is the R&amp;D focus the next -- the remainder of the year? Wain would you like to take that one? Sure.
+So mainly we’re working on building capacity out because we see an accelerated growth and so a decent amount of R&amp;D of just building out capacity.
+We are adding features that we need for.
+And as you know Mike larger clients are willing to use our cloud service when they need more analytics and more reporting.
+So we are adding analytics and more reporting.
+And we also are working really hard with the Vonage core mobile team to integrate combined mobile strategy where people can do more and more things and leverage a lot of the rich robust features that Vonage has been offering their consumers like video voicemail but you will see a lot more mobility things come up.
+Great.
+Good luck.
+Next question Operator? The next question comes from Dmitry Netis of William Blair &amp; Company.
+Your line is open please go ahead.
+Yes thank you very much.
+I have three questions guys.
+First I think just to sort of follow on on the India side.
+Did I hear you guys say that the current channel program includes the referral network only for VBS? And if so can we expect you guys to go into this maybe enablement mode where some of your VARs potentially kind of own the customer and your revenue share that which might kind of drive better sale momentum.
+Any thoughts there would be great.
+So let me just clarify my comment and then I will let Wain describe the enablement for VARs.
+No the referral network is not the only channel it is one subset.
+We have increased the number of VARs channel over the last couple of quarters.
+The nature of those agreements and how that’s progressing I will let Wain talk about that in bit more detail.
+Certainly and then just to be clear because of some ties back to Mike Latimore’s question as well as moving a market.
+The unique dynamic that we are seeing at VBS is that in our core market we serve and this is what market has a little bit more detail.
+And the core market we serve we are finding that for every dollar marketing dollars that we spend we can generate an increasingly larger number of lifetime value.
+So some of our competitors felt the need to move up market because they have started to see a market decline and marketing efficiency and what we are seeing is the exact opposite.
+Our lifetime value in our core market is doing well.
+And then when you take our cost advantage that’s significant and meaningful our lifetime profitability is compared very favorably to people we compete with.
+So a big part of our effort is just cutting more and more dollars to work to generate a kind of flow that we have been generating in the past.
+Marc mentioned paid for click that’s going very well.
+Our organic work on the website is doing very well.
+Our direct mail and our outbound is going very well.
+Our referrals continue to scale a long side.
+One of the new things that Marc mentioned is January that we launched an ability for Vonage residential customer to refer.
+And although we are early on we already have 1 000 people registered.
+We think that over time can be meaningful as well.
+So we see a tremendous amount of upside that we can continue to grow pretty rapidly in our core market.
+That’s helpful Wain.
+So there is nothing in store at the moment to pin out what market will have thought our channel partners really take something better? Resellers are an important part of business model and so that continues to grow as well.
+And in fact the number of resellers that we’ve added since we are very pleased with the number of resellers we’ve added since we closed the transaction.
+And the thing you are mentioning Dmitry is that there are certain kind of resellers that are interested in partnering with Vonage but either in a white label or a cobranded scenario.
+And so they are interested in using our software but they want to own the customer they want to own the terms of the service.
+And our software is enabled to be able to white label as well as cobranded.
+And Marc had mentioned in his formal statement that our expectations of that through the end of the year will be able to announce several white label or cobranded relationship that should be meaningful in 2015.
+Very good.
+Thank you.
+That helps answer that question.
+And then very quickly on the other side of the business Marc I think you said the Amazon is a project or one of the retail channel partners you are working on that is quite interesting.
+Can you elaborate on that and how material that contribution might possibly be for BasicTalk and is that just domestic or do you think they can also take you outside the U.S.? The only thing that I am really permitted to share at this point in time is we have signed a definitive distribution agreement will be distributed on Amazon.com.
+This is not a white label agreement.
+It will not be under Amazon brand.
+It will be the BasicTalk brand sold through the traditional Amazon retail store environment.
+Beyond that there is not additional perspective I can share with you at this time.
+Okay.
+And when is that launch again is at this quarter? It will be before the quarter is over yes.
+Got you.
+All right.
+Thank you.
+And then the last one sort of a high level thoughts on the new leader you guys are looking to hire to replace you Marc I mean obviously goes without saying there has been a tremendous progress on the turnaround and what you have done with this company.
+So what are some of the qualities you are looking -- you for in the new leader? What’s the focus going to be on? Is it revenue grow mostly is it something else? Can you give us a sense of that? Yeah.
+Thanks for that.
+I mean just we’ve started the search.
+We formed the search committee.
+We’re down with the final selection among the few top search firms we expect to be well underway in the search very very quickly.
+In terms of the range of experiences of the type of leader we’re looking for a lot of established and prudent leaders that will have understanding of technology and software.
+We’d love to see somebody who has the mix of business-to-business skill sets as well as those that might be traditionally expected within Vonage mobile certainly be a plus.
+But open to a lot of very experience and tenure potential executives.
+We’ve got a very strong executive team here so we have the ability to have a different range of profiles that could fit exceptionally well.
+I think the remix for that CEO is very much unchanged which is aggressive focus on revenue growth.
+As you can certainly feel from body language we’re pleased with the SMB market as presented to us thus far and under my tenure and I fully expect on going.
+We would expect to continue to invest heavily in that marketplace while there is a lot of room for significant growth.
+I think that you will also see a focus on proving the scalability of some of the international ventures and thinking about how mobile can serve all of our business units.
+I don’t think you are going to see a substantial change in the fundamental strategies the way those might be executed make certainly change overtime based upon the individual fingerprints that are the thinking of a new leader.
+Next question Operator? Okay.
+Next question comes from the line of Raghavan Sarathy of Dougherty &amp; Company.
+Your line is open.
+Please go ahead.
+Yeah.
+Hi.
+Good morning.
+Thanks for taking my questions.
+Just couple of questions from my end.
+Just on the VBS business revenues grow 40% year-on-year here in the quarter consistent with what we saw last quarter.
+But you we talked about more than 70% sequential increase than a net subscriber addition.
+So can you talk about whether your continuously momentum in the business is so whether we should expect acceleration revenue growth of the business? Yeah.
+So let me hit the topline hit the top of the ways and then see if Wain has additional comments.
+So just to clarify last quarter’s growth was 37% this quarter was 40%.
+So actually we’re accelerating growth on what is obviously a larger base.
+So particularly in light up of doing that on top of merger integration we are feeling pretty good about the early returns.
+In terms of the 72% sequential growth that was for net new accounts.
+So as you we report churn and net new accounts so that net new account includes both the gross new customers coming in netted for cancellations and that number versus year ago is up 250% that’s what was up 70% sequentially.
+Obviously that's new customers so that the forward-looking indicator of what future revenues would do.
+So you can think about that as that’s what you’ve added and that group of customers over the next 12 months will be what continues to ramp in revenues.
+You won't see much revenues in the quarter from folks who have just signed up is only getting a partial quarter revenues maybe only one bill maybe two at maximum.
+So hoping that provides perspective think about that is a measure of rate of growth for revenues not exactly the growth but a leading indicator of revenues going forward and the revenue number speaks for itself that’s was actually booked and pay for based upon the acquisition from prior quarters.
+Just a follow-up on that if I may.
+I think the last call you sort of talked about how the net subscriber additions actually I believe doubled in the month of December and January as the previous two months.
+I guess my question was do you continue to see that type of momentum continuing in your net sub adds? Yeah.
+I think we talked about was the number of bookings that we were seeing shortly after close that in the prior couple of months before closing to the two months after that we’ve seen a roughly doubling of new customer bookings.
+That was not net booking.
+So this net takes out the lead this is kind of more of what’s the real net revenue approach versus what are the bookings in sales.
+We’re not going to ongoing report existing percentages of gross numbers but suffice to say to achieve a 72% sequential increase in our net we continue to see very very strong acceleration versus pre-closing on our gross account sales.
+Okay.
+And then on the core business I know Marc you talked about some of the factors that impacted like weather and some increase churn coming from retail and also redirect leads to VBS.
+But then you have some new things happening out in a retail distribution.
+So you kind of look at all the different factors how should we think about the core business that will use or going to be stable from here now or should we expect some growth in the business or how should we think about given some of the puts and takes here? So I think you should be thinking about the core business is one that has and will continue to provide very stable strong cash flow.
+We do see opportunities for growth in certain sub-segments and we certainly BasicTalk being one of them.
+It’s ARPU dynamic.
+It’s quite different obviously than Vonage World.
+So there definitely some positives that we’re looking at but there's certainly some pressure that exists within the core business and we’re really focused on making sure we’re doing this cost effectively.
+So as you’ve seen we have actually invested some in selling and marketing in the consumer business and we’re trying to optimize.
+And we can redeploy dollars into other business units and get a better return for revenues that we’re going to be able to and we are going to make that decision.
+So we're not going to limit ourselves by unit.
+Our goal is to take the investment make in selling and marketing resources and optimize that for the full company.
+But generally I think you can think about the core business as stable and we will see fluctuations in different sub-segments positive and negative.
+The one thing that will be an ongoing hit is we’re getting much better yield by taking all of our small business leads that were coming in many thousand of them every quarter into the Vonage website and we are handing those directly to VBS whereas we’re seeing a higher increase a better number of average lines per lead as well as higher ARPU and we turn them over to VBS.
+It’s still a very small percentage of VBS’s growth but it is on a sequential basis something that is a long-term shift and where the consumer business is benefited from.
+So that one is not one that’s going to go away.
+Okay.
+Thank you.
+We have time for one more question Operator.
+Our final question comes from the line of Robert Routh of National Alliance.
+Your line is open please go ahead.
+Yeah.
+Good morning.
+Nice results.
+A couple of quick questions.
+You mentioned that you have four new retail change in addition to Walmart and Amazon for the BasicTalk product.
+I’m wondering if you could tell us who they are give us any sense obviously it’s a big endorsement to you product to get that many people moving and carry it in addition to Walmart but do you have any more insight as to who these partners maybe? Rob its Marc.
+I would love to share but unfortunately the partners won’t allow us to do that until we’re actually in distribution and frankly for some competitive reasons I probably wouldn't want to reveal that.
+But obviously tripling the size of distribution you could probably look at the number of mass merchant.
+These are not small players these are large mass merchandisers.
+You could probably come up with a shortlist if you think they would be not permitted to share at this point.
+Okay great.
+Fair enough.
+And one follow-up on the Amazon relationship.
+I know you can’t say much about it right now they’re just kind of reselling their product on the online environment.
+But is it safe to say that there is nothing prohibit that relationship from deepening and at some point if you wanted to it is potential for you and Amazon to enter into a larger scale kind of deal given the Amazon Prime doing video and all that the Facebook acquisition that was made recently.
+Is it safe to say that that could happen going forward or is that out of line to deepen the relationship? I think I’ve talked in the past about suggesting that you BasicTalk is a white label kind of product for any number of large consumer friendly brands that have a forward leaning technology bias would be a wonderful fit.
+So we would certainly love to see that relationship deepen over time.
+And if we see some success maybe there will be some interest in that believe me very much open to it.
+I should mention because I think I was not clear earlier the relationship with Amazon is not just for BasicTalk we’ll be selling Vonage in the online environment for Amazon as well.
+It was the doors with the mass merchant that I was referring to that was BasicTalk expansion only.
+Okay great.
+It makes sense.
+And just the last question is can you give us an update as to your patent portfolio obviously you’ve got a fewer during the quarter you have a big patent portfolio already a bunch of pending a bench of granted.
+Obviously you don’t get any value in the stock price for them but clearly they have value otherwise you wouldn’t go after and secure them.
+Could you give us an update as to that and what the outlook is for this year in terms of what you expect in term of patents granted? We continue to have a patent intellectual property extraction process that we run monthly and quarterly.
+You’ve seen the pace and we’ve talked about some of the very specific numbers.
+We can shoot those to you again if you don't have in terms of what's been issued recently.
+We can't project what that harvesting will be and what will actually get granted but we do have hundreds of applications pending in the U.S.
+and abroad.
+And we expect to continue the pace of innovation and to protect those inventions but you can expect that historical course and speed to largely continue.
+Of course we can’t guarantee you what the pattern office is going to do.
+Great.
+Thank you very much.
+Okay.
+With that we will conclude our call today.
+Thank you for joining us this morning.
+Ladies and gentlemen thank you for your participation in today’s conference.
+This does conclude the program and you may all disconnect.
+Have a great rest of your day.
